@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/newsrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-12T10:22:23.033Z</updated>
+    <updated>2022-05-12T10:23:39.973Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/newsrss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/newsrss/feed.atom"/>
@@ -74,6 +74,16 @@
         <summary type="html"><![CDATA[The president says in a formal statement that the United States must ‘remain vigilant’ against a virus that has ‘forever changed’ the country.]]></summary>
         <author>
             <name>Sheryl Gay Stolberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hard to see a way back for Putin, says UK PM]]></title>
+        <id>https://www.bbc.co.uk/news/uk-61421169</id>
+        <link href="https://www.bbc.co.uk/news/uk-61421169?at_medium=RSS&amp;at_campaign=KARANGA"/>
+        <updated>2022-05-12T10:14:25.000Z</updated>
+        <summary type="html"><![CDATA[Boris Johnson says he cannot see how relations with the Russian leader can be 'renormalised'.]]></summary>
+        <author>
+            <name>BBC News - World</name>
         </author>
     </entry>
     <entry>
@@ -189,6 +199,16 @@ British Prime Minister Boris Johnson apologised for receiving a fine in April fo
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Finland joining Nato 'definitely' threat to Russia: Kremlin]]></title>
+        <id>https://timesofindia.indiatimes.com/world/europe/finland-joining-nato-definitely-threat-to-russia-kremlin/articleshow/91515755.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/europe/finland-joining-nato-definitely-threat-to-russia-kremlin/articleshow/91515755.cms"/>
+        <updated>2022-05-12T10:02:14.000Z</updated>
+        <summary type="html"><![CDATA[Europe News: MOSCOW: The Kremlin said Thursday that neighbouring Finland joining Nato would "definitely" represent a threat to Russia, after the Finnish leadership.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Inflation Anger]]></title>
         <id>https://www.nytimes.com/2022/05/12/briefing/inflation-america-rising-prices.html</id>
         <link href="https://www.nytimes.com/2022/05/12/briefing/inflation-america-rising-prices.html"/>
@@ -196,6 +216,16 @@ British Prime Minister Boris Johnson apologised for receiving a fine in April fo
         <summary type="html"><![CDATA[Inflation is still high — and many Americans are upset.]]></summary>
         <author>
             <name>German Lopez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden marks 1m US Covid deaths, to co-host 2nd global summit]]></title>
+        <id>https://timesofindia.indiatimes.com/world/us/biden-marks-1-million-us-covid-deaths-to-co-host-2nd-global-summit/articleshow/91515743.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/us/biden-marks-1-million-us-covid-deaths-to-co-host-2nd-global-summit/articleshow/91515743.cms"/>
+        <updated>2022-05-12T10:01:47.000Z</updated>
+        <summary type="html"><![CDATA[President Joe Biden will appeal for a renewed international commitment to attacking Covid-19 as he convenes a second virtual summit on the pandemic and marks 1 million deaths in the United States. “As a nation, we must not grow numb to such sorrow," Biden said in a statement. "To heal, we must remember. We must remain vigilant against this pandemic and do everything we can to save as many lives as possible.”]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
         </author>
     </entry>
     <entry>
@@ -376,6 +406,16 @@ British Prime Minister Boris Johnson apologised for receiving a fine in April fo
         <summary type="html"><![CDATA[South Korea says North Korea has fired an unidentified missile toward the sea]]></summary>
         <author>
             <name>Associated Press</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Korea fires suspected ballistic missile toward sea]]></title>
+        <id>327a81d1281f2fadeb430e4c632458b7</id>
+        <link href="https://www.thestar.com/news/world/asia/2022/05/12/seoul-north-korea-fires-missile-toward-sea.html"/>
+        <updated>2022-05-12T09:46:17.000Z</updated>
+        <summary type="html"><![CDATA[SEOUL, South Korea (AP) — North Korea fired a suspected ballistic missile toward the sea on Thursday, South Korea and Japan said, in the latest of a s...]]></summary>
+        <author>
+            <name>The Associated Press</name>
         </author>
     </entry>
     <entry>
@@ -570,6 +610,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Afghans yearning to come to Canada are spending sad and fearful days in Albania, waiting on a plane or an email from our government]]></title>
+        <id>cea25367-9e45-42a3-a53d-7d2330c751bc</id>
+        <link href="https://www.thestar.com/news/world/2022/05/12/afghans-yearning-to-come-to-canada-are-spending-sad-and-fearful-days-in-albania-waiting-on-a-plane-or-an-email-from-our-government.html"/>
+        <updated>2022-05-12T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Stopover nation becomes a kind of purgatory for would-be refugees stymied by complexity of bureaucracy and sheer weight of their numbers.]]></summary>
+        <author>
+            <name>Riley Sparks - Special to the Star</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[‘Barbaric war on Ukraine’: EU’s von der Leyen denounces Russia]]></title>
         <id>https://www.aljazeera.com/?t=1652342614</id>
         <link href="https://www.aljazeera.com/news/2022/5/12/russia-most-direct-threat-to-world-order-eus-von-der-leyen"/>
@@ -667,6 +717,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Couple sue son demanding that he and his wife produce either a grandchild in a year or cough up money they spent on him.]]></summary>
         <author>
             <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qatari emir in Iran for talks amid tensions over nuke deal]]></title>
+        <id>034ef884ef771536262cd67445e2a32a</id>
+        <link href="https://www.thestar.com/news/world/middleeast/2022/05/12/qatari-emir-in-iran-for-talks-amid-tensions-over-nuke-deal.html"/>
+        <updated>2022-05-12T09:19:16.000Z</updated>
+        <summary type="html"><![CDATA[TEHRAN, Iran (AP) — Qatar’s emir arrived in Iran on Thursday for talks with the Iranian president, state media reported, as efforts to save Tehran’s t...]]></summary>
+        <author>
+            <name>The Associated Press</name>
         </author>
     </entry>
     <entry>
@@ -847,6 +907,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Ukraine War: Russian strike on a town in Ukraine's northern Chernigiv region, killing three people. The strike took place at night and hit critical infrastructure, including a school, Chernigiv...]]></summary>
         <author>
             <name>NDTV News - World-news</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Somalia set to elect new president amid growing insecurity]]></title>
+        <id>f1ff862072c6601e304a1b4f562b3af0</id>
+        <link href="https://www.thestar.com/news/world/africa/2022/05/12/somalia-set-to-elect-new-president-amid-growing-insecurity.html"/>
+        <updated>2022-05-12T09:04:16.000Z</updated>
+        <summary type="html"><![CDATA[MOGADISHU, Somalia (AP) — Somalia is set to hold its long-delayed presidential vote on Sunday, ending the convoluted electoral process that raised ten...]]></summary>
+        <author>
+            <name>Omar Faruk - The Associated Press</name>
         </author>
     </entry>
     <entry>
@@ -1290,6 +1360,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Palestinians reject probe with Israel of reporter’s killing]]></title>
+        <id>4a1a8ae8584be0aa46ace7973ffec72b</id>
+        <link href="https://www.thestar.com/news/world/middleeast/2022/05/12/palestinians-reject-probe-with-israel-of-reporters-killing.html"/>
+        <updated>2022-05-12T08:14:02.000Z</updated>
+        <summary type="html"><![CDATA[JERUSALEM (AP) — The Palestinian Authority on Thursday rejected an Israeli request to hold a joint investigation into the killing of Al Jazeera journa...]]></summary>
+        <author>
+            <name>The Associated Press</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Palestinians reject probe with Israel of reporter's killing]]></title>
         <id>https://www.washingtonpost.com/world/palestinians-reject-probe-with-israel-of-reporters-killing/2022/05/12/6af59bb4-d1cb-11ec-886b-df76183d233f_story.html?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world</id>
         <link href="https://www.washingtonpost.com/world/palestinians-reject-probe-with-israel-of-reporters-killing/2022/05/12/6af59bb4-d1cb-11ec-886b-df76183d233f_story.html?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world"/>
@@ -1422,6 +1502,16 @@ Sweden is also close to a decision on asking to join NATO after decades of follo
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Israel levels Palestinian homes ahead of settlement approval]]></title>
+        <id>b3ca07a132d5df29f9c7d8c78fc14804</id>
+        <link href="https://www.thestar.com/news/world/middleeast/2022/05/12/israel-levels-palestinian-homes-ahead-of-settlement-approval.html"/>
+        <updated>2022-05-12T07:53:48.000Z</updated>
+        <summary type="html"><![CDATA[JERUSALEM (AP) — Israel’s military has demolished at least 18 buildings and structures in the occupied West Bank following a Supreme Court decision th...]]></summary>
+        <author>
+            <name>The Associated Press</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ukraine goes on the counteroffensive as Russians fall back]]></title>
         <id>https://www.aljazeera.com/?t=1652288668</id>
         <link href="https://www.aljazeera.com/news/2022/5/12/ukraine-goes-on-the-counteroffensive-as-russians-falls-back"/>
@@ -1500,6 +1590,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Announcement by Finland’s president and prime minister paves the way for the Nato alliance to expand amid Russia’s war in Ukraine.]]></summary>
         <author>
             <name>Agence France-Presse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arrested Hong Kong cardinal a fiery critic of Beijing]]></title>
+        <id>9ab29153d47eee5b79b926d016eb597a</id>
+        <link href="https://www.thestar.com/news/world/asia/2022/05/12/arrested-hong-kong-cardinal-a-fiery-critic-of-beijing.html"/>
+        <updated>2022-05-12T07:27:14.000Z</updated>
+        <summary type="html"><![CDATA[HONG KONG (AP) — Cardinal Joseph Zen, the 90-year-old Catholic cleric arrested by Hong Kong police on national security charges, has long been a fiery...]]></summary>
+        <author>
+            <name>The Associated Press</name>
         </author>
     </entry>
     <entry>
@@ -1646,6 +1746,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Japan, EU agree to raise efforts on Russia, in Indo-Pacific]]></title>
+        <id>88fa4b1c481a406ee0355fe0701c6901</id>
+        <link href="https://www.thestar.com/news/world/asia/2022/05/12/japan-eu-agree-to-raise-efforts-on-russia-in-indo-pacific.html"/>
+        <updated>2022-05-12T07:01:24.000Z</updated>
+        <summary type="html"><![CDATA[TOKYO (AP) — Japan and the European Union on Thursday agreed to step up their sanctions against Russia as leaders from the two sides raised concerns a...]]></summary>
+        <author>
+            <name>Mari Yamaguchi - The Associated Press</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[U.K. Donor Said to Have Funneled Russian Money to Tories]]></title>
         <id>https://www.nytimes.com/2022/05/12/world/europe/russian-money-uk-tories.html</id>
         <link href="https://www.nytimes.com/2022/05/12/world/europe/russian-money-uk-tories.html"/>
@@ -1708,6 +1818,16 @@ The con]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NHL closing in on seeing its first female coach]]></title>
+        <id>2cdc60d23df19dce21974393f7a40491</id>
+        <link href="https://www.thestar.com/news/world/2022/05/12/nhl-closing-in-on-seeing-its-first-female-coach.html"/>
+        <updated>2022-05-12T06:53:21.000Z</updated>
+        <summary type="html"><![CDATA[Kori Cheverie reflects fondly on the conversations she had with her grandfather growing up in Nova Scotia, where he encouraged her to believe anything...]]></summary>
+        <author>
+            <name>John Wawrow - The Associated Press</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Capitol riot plea hearing for far-right livestreamer Baked Alaska falls apart as he claims innocence]]></title>
         <id>b2077163</id>
         <link href="https://www.independent.co.uk/news/world/americas/crime/jan-6-baked-alaska-hearing-b2077163.html"/>
@@ -1735,6 +1855,16 @@ The con]]></summary>
         <summary type="html"><![CDATA[Jun “Jimmy” Jin told a court he was knowingly breaking the law when he placed a tracking device under Elizabeth Zhong’s SUV. The former police officer was hired by Fang Sun, an estranged business partner of Zhong’s who is now on trial for her murder.]]></summary>
         <author>
             <name>The New Zealand Herald</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sherpa woman climbs Everest for 10th time, breaks own record]]></title>
+        <id>cf1211a8c0fec9ee0f67e99f7d7d9c1a</id>
+        <link href="https://www.thestar.com/news/world/asia/2022/05/12/sherpa-woman-climbs-everest-for-10th-time-breaks-own-record.html"/>
+        <updated>2022-05-12T06:44:49.000Z</updated>
+        <summary type="html"><![CDATA[KATHMANDU, Nepal (AP) — A Nepali Sherpa broke her own record as the most successful female climber of Mount Everest by reaching the summit of the worl...]]></summary>
+        <author>
+            <name>Binaj Gurubacharya - The Associated Press</name>
         </author>
     </entry>
     <entry>
@@ -1775,6 +1905,16 @@ The con]]></summary>
         <summary type="html"><![CDATA[The summit will demonstrate "enduring commitment" to ASEAN and commemorate 45 years of relations with the Southeast Asian grouping, the White House says]]></summary>
         <author>
             <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘This tears my soul apart’: A Ukrainian boy and a killing]]></title>
+        <id>b63f3ab89fc9a042be8e149f3459db22</id>
+        <link href="https://www.thestar.com/news/world/europe/2022/05/12/this-tears-my-soul-apart-a-ukrainian-boy-and-a-killing.html"/>
+        <updated>2022-05-12T06:36:05.000Z</updated>
+        <summary type="html"><![CDATA[BUCHA, Ukraine (AP) — As he listened to his father die, the boy lay still on the asphalt. His elbow burned where a bullet had pierced him. His thumb s...]]></summary>
+        <author>
+            <name>Cara Anna - The Associated Press</name>
         </author>
     </entry>
     <entry>
@@ -2008,6 +2148,16 @@ The con]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[EXPLAINER: Who’s the Swedish doctor facing execution in Iran]]></title>
+        <id>fca9667add4eb05dc1be767c01d31df6</id>
+        <link href="https://www.thestar.com/news/world/middleeast/2022/05/12/explainer-whos-the-swedish-doctor-facing-execution-in-iran.html"/>
+        <updated>2022-05-12T06:07:24.000Z</updated>
+        <summary type="html"><![CDATA[DUBAI, United Arab Emirates (AP) — Vida Mehrannia is trying to save her husband’s life. Iran is scheduled to put him to death within nine days — by Ma...]]></summary>
+        <author>
+            <name>Isabel Debre - The Associated Press</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[White diamond auctioned for over $20 million, falls short of record]]></title>
         <id>d73c1202-d1b8-11ec-9a0f-005056bf762b</id>
         <link href="https://www.france24.com/en/europe/20220512-white-diamond-auctioned-for-over-20-million-falls-short-of-record"/>
@@ -2015,6 +2165,16 @@ The con]]></summary>
         <summary type="html"><![CDATA[The Rock, the biggest white diamond ever auctioned, sold for 21.7 million Swiss francs ($21.9 million) on Wednesday, far short of the record for such a jewel.]]></summary>
         <author>
             <name>NEWS WIRES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EXPLAINER: Who’s the Swedish doctor facing execution in Iran]]></title>
+        <id>https://www.seattletimes.com/news/explainer-whos-the-swedish-doctor-facing-execution-in-iran/</id>
+        <link href="https://www.seattletimes.com/nation-world/world/explainer-whos-the-swedish-doctor-facing-execution-in-iran/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_world"/>
+        <updated>2022-05-12T06:05:39.000Z</updated>
+        <summary type="html"><![CDATA[Iran is scheduled to put to death a 50-year-old Swedish-Iranian physician within nine days.]]></summary>
+        <author>
+            <name>ISABEL DEBRE</name>
         </author>
     </entry>
     <entry>
@@ -2139,12 +2299,32 @@ The con]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chinese ambassador says Solomons pact no threat to Australia]]></title>
+        <id>79ae78cb455a961d2f55890d7df87d91</id>
+        <link href="https://www.thestar.com/news/world/australia/2022/05/12/chinese-ambassador-says-solomons-pact-no-threat-to-australia.html"/>
+        <updated>2022-05-12T05:23:47.000Z</updated>
+        <summary type="html"><![CDATA[CANBERRA, Australia (AP) — A Chinese ambassador says China’s engagement with South Pacific island countries poses no threat to Australia, responding t...]]></summary>
+        <author>
+            <name>Rod Mcguirk - The Associated Press</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese ambassador says Solomons pact no threat to Australia]]></title>
         <id>b2077162</id>
         <link href="https://www.independent.co.uk/news/world/americas/us-politics/australia-ap-scott-morrison-chinese-south-pacific-b2077162.html"/>
         <updated>2022-05-12T05:23:09.000Z</updated>
         <summary type="html"><![CDATA[A Chinese ambassador says China’s engagement with South Pacific island countries poses no threat to Australia, responding to fears that Beijing will establish a military foothold in the Solomon Islands]]></summary>
         <author>
             <name>Via AP news wire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Mexico wildfire grows; California fire destroys mansions]]></title>
+        <id>7af9a9204ccf2c8f0d7c98015f9eef8e</id>
+        <link href="https://www.thestar.com/news/world/2022/05/12/new-mexico-wildfire-grows-california-fire-destroys-mansions.html"/>
+        <updated>2022-05-12T05:22:41.000Z</updated>
+        <summary type="html"><![CDATA[The largest wildfire in the U.S. was spreading toward mountain resort towns in northern New Mexico, prompting officials to issue another set of warnin...]]></summary>
+        <author>
+            <name>Susan Montoya Bryan - The Associated Press</name>
         </author>
     </entry>
     <entry>
@@ -2198,6 +2378,16 @@ The con]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Amid drought, California desalination project at crossroads]]></title>
+        <id>ad4fd9176850fd1c69cb330ac8841b92</id>
+        <link href="https://www.thestar.com/news/world/us/2022/05/12/amid-drought-california-desalination-project-at-crossroads.html"/>
+        <updated>2022-05-12T05:13:32.000Z</updated>
+        <summary type="html"><![CDATA[HUNTINGTON BEACH, Calif. (AP) — For more than two decades, California’s Orange County has debated whether to build a seaside plant to convert the Paci...]]></summary>
+        <author>
+            <name>Amy Taxin - The Associated Press</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Philippines’s GDP growth blasts past forecasts]]></title>
         <id>https://www.aljazeera.com/?t=1652330542</id>
         <link href="https://www.aljazeera.com/economy/2022/5/12/philippines-gdp-growth-blasts-past-forecasts"/>
@@ -2205,6 +2395,16 @@ The con]]></summary>
         <summary type="html"><![CDATA[Southeast Asian country's gross domestic product expands 8.3 percent in first quarter.]]></summary>
         <author>
             <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Execution ends Arizona 8-year hiatus with the death penalty]]></title>
+        <id>638b43e2eca803429256cac47901dbb4</id>
+        <link href="https://www.thestar.com/news/world/us/2022/05/12/execution-ends-arizona-8-year-hiatus-with-the-death-penalty.html"/>
+        <updated>2022-05-12T05:07:24.000Z</updated>
+        <summary type="html"><![CDATA[PHOENIX (AP) — Arizona’s nearly eight-year hiatus in using the death penalty ended with the execution of Clarence Davis for killing a college student ...]]></summary>
+        <author>
+            <name>Paul Davenport And Jacques Billeaud - The Associated Press</name>
         </author>
     </entry>
     <entry>
@@ -2419,6 +2619,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Army poised to revamp Alaska forces to prep for Arctic fight]]></title>
+        <id>05c4bf5097a566a60b7f4c0ddb71150c</id>
+        <link href="https://www.thestar.com/news/world/us/2022/05/12/army-poised-to-revamp-alaska-forces-to-prep-for-arctic-fight.html"/>
+        <updated>2022-05-12T04:11:28.000Z</updated>
+        <summary type="html"><![CDATA[JOINT BASE ELMENDORF-RICHARDSON, Alaska (AP) — The U.S. Army is poised to revamp its forces in Alaska to better prepare for future cold-weather confli...]]></summary>
+        <author>
+            <name>Lolita C. Baldor - The Associated Press</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Can Biden weaponise the abortion debate to win the midterms?]]></title>
         <id>2ddb851e-3894-448e-b6fb-b697ecaddb2f</id>
         <link href="https://www.smh.com.au/world/north-america/can-biden-weaponise-the-abortion-debate-to-win-the-mid-terms-20220512-p5akmm.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_world"/>
@@ -2436,6 +2646,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Sri Lanka's main Opposition SJB has split over the choice of the next prime minister as its leader Sajith Premadasa is unwilling to be the prime minister in the interim government under embattled President Gotabaya Rajapaksa.]]></summary>
         <author>
             <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden hosts ASEAN as he looks to show Pacific commitment]]></title>
+        <id>58fb1071c04114c2f2371fed2b768fdc</id>
+        <link href="https://www.thestar.com/news/world/us/2022/05/12/biden-hosts-asean-as-he-looks-to-show-pacific-commitment.html"/>
+        <updated>2022-05-12T04:09:44.000Z</updated>
+        <summary type="html"><![CDATA[WASHINGTON (AP) — President Joe Biden is hosting leaders from the Association of Southeast Asian Nations as his administration makes an extended effor...]]></summary>
+        <author>
+            <name>Aamer Madhani - The Associated Press</name>
         </author>
     </entry>
     <entry>
@@ -2459,6 +2679,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Colorado elections race tests GOP embrace of conspiracies]]></title>
+        <id>04a5c5666e014802e63a8244d034c8f9</id>
+        <link href="https://www.thestar.com/news/world/us/2022/05/12/colorado-elections-race-tests-gop-embrace-of-conspiracies.html"/>
+        <updated>2022-05-12T04:07:56.000Z</updated>
+        <summary type="html"><![CDATA[LITTLETON, Colo. (AP) — A handful of curious voters mingled on a suburban Denver brewpub’s patio one recent evening as Pam Anderson told them she coul...]]></summary>
+        <author>
+            <name>Nicholas Riccardi - The Associated Press</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[France opens torture case against Interpol chief Ahmed Nasser al-Raisi]]></title>
         <id>https://www.scmp.com/news/world/europe/article/3177420/france-opens-torture-case-against-interpol-chief-ahmed-nasser-al?utm_source=rss_feed</id>
         <link href="https://www.scmp.com/news/world/europe/article/3177420/france-opens-torture-case-against-interpol-chief-ahmed-nasser-al?utm_source=rss_feed"/>
@@ -2476,6 +2706,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Colorado's Republican primary for its top elections official may be a contest against the past and future approaches the party has to administering elections]]></summary>
         <author>
             <name>Via AP news wire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden marks 1M US COVID deaths, to co-host 2nd global summit]]></title>
+        <id>8135c845f812f5047520ffc9b9df80ff</id>
+        <link href="https://www.thestar.com/news/world/us/2022/05/12/biden-co-hosting-2nd-covid-summit-as-worlds-resolve-falters.html"/>
+        <updated>2022-05-12T04:06:24.000Z</updated>
+        <summary type="html"><![CDATA[WASHINGTON (AP) — President Joe Biden will appeal for a renewed international commitment to attacking COVID-19 as he convenes a second virtual summit ...]]></summary>
+        <author>
+            <name>Zeke Miller And Maria Cheng - The Associated Press</name>
         </author>
     </entry>
     <entry>
@@ -2606,6 +2846,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Lufthansa has apologised after passengers were told they couldn't board a connecting flight because they were Jewish.]]></summary>
         <author>
             <name>Sydney Morning Herald - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Egg-sized diamond fetches over $21M with fees at Geneva sale]]></title>
+        <id>https://www.seattletimes.com/news/egg-sized-diamond-fetches-over-21m-with-fees-at-geneva-sale/</id>
+        <link href="https://www.seattletimes.com/nation-world/egg-sized-diamond-fetches-over-21m-with-fees-at-geneva-sale/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_world"/>
+        <updated>2022-05-12T03:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Christie’s says “The Rock,” an egg-sized white diamond billed as the largest of its kind to go up for auction, has sold for more than $21.75 million, including fees — though at the low end of the expected range.]]></summary>
+        <author>
+            <name>The Associated Press</name>
         </author>
     </entry>
     <entry>
@@ -2872,6 +3122,16 @@ The 1 million mark is a stark reminder of the staggering grief and lo]]></summar
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[North Korea confirms 1st COVID outbreak, Kim orders lockdown]]></title>
+        <id>https://www.seattletimes.com/news/north-korea-raises-alarm-after-confirming-1st-covid-19-case/</id>
+        <link href="https://www.seattletimes.com/seattle-news/health/north-korea-raises-alarm-after-confirming-1st-covid-19-case/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_world"/>
+        <updated>2022-05-12T01:36:00.000Z</updated>
+        <summary type="html"><![CDATA[North Korea has imposed a nationwide lockdown to control its first acknowledged COVID-19 outbreak of the pandemic.]]></summary>
+        <author>
+            <name>KIM TONG-HYUNG and HYUNG-JIN KIM</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[US sets intelligence ‘rules’ for Ukraine – media]]></title>
         <id>https://www.rt.com/news/555339-us-ukraine-intelligence-sharing-rules/</id>
         <link href="https://www.rt.com/news/555339-us-ukraine-intelligence-sharing-rules/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
@@ -3005,6 +3265,26 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ukraine war’s economic toll is testing the West’s unity against Russia]]></title>
+        <id>https://www.seattletimes.com/?p=14980076</id>
+        <link href="https://www.seattletimes.com/nation-world/ukraine-wars-economic-toll-is-testing-the-wests-unity-against-russia/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_world"/>
+        <updated>2022-05-12T00:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The West united against Russia’s war on Ukraine  swiftly, but as the war settles into a prolonged conflict, it is testing the resolve of Western countries.]]></summary>
+        <author>
+            <name>MARK LANDLER</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Korea confirms its 1st COVID-19 case over 2 years into pandemic]]></title>
+        <id>https://globalnews.ca/?p=8828744</id>
+        <link href="https://globalnews.ca/news/8828744/north-korea-1st-covid-case/"/>
+        <updated>2022-05-12T00:43:38.000Z</updated>
+        <summary type="html"><![CDATA[State media said tests from an unspecified number of people in the capital Pyongyang confirmed that they were infected with the Omicron variant.]]></summary>
+        <author>
+            <name>: World</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[US Democrats' bid for federal abortion law fails in the Senate]]></title>
         <id>https://www.bbc.co.uk/news/world-us-canada-61412373</id>
         <link href="https://www.bbc.co.uk/news/world-us-canada-61412373?at_medium=RSS&amp;at_campaign=KARANGA"/>
@@ -3015,6 +3295,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[U.S. schools bring back mask mandates amid rising COVID-19 cases]]></title>
+        <id>https://globalnews.ca/?p=8828664</id>
+        <link href="https://globalnews.ca/news/8828664/u-s-schools-covid-mask-mandates-return/"/>
+        <updated>2022-05-12T00:33:23.000Z</updated>
+        <summary type="html"><![CDATA[Districts in Maine, New Jersey and Pennsylvania have brought masks back, with a few in Massachusetts also recommending them even as the school year enters its final weeks.]]></summary>
+        <author>
+            <name>: World</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Biden calls Trump 'MAGA king,' vows to push GOP contrasts]]></title>
         <id>b2077095</id>
         <link href="https://www.independent.co.uk/news/world/americas/us-politics/joe-biden-ap-donald-trump-democratic-national-committee-gop-b2077095.html"/>
@@ -3022,6 +3312,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[President Joe Biden is calling his predecessor, Donald Trump, “the great MAGA king” and continuing sharp criticism against Republicans ahead of midterm elections that could be bruising for Democrats]]></summary>
         <author>
             <name>Via AP news wire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NATO will grant Sweden, Finland membership quickly after they apply: sources]]></title>
+        <id>https://globalnews.ca/?p=8828655</id>
+        <link href="https://globalnews.ca/news/8828655/nato-sweden-finland-membership-ukraine/"/>
+        <updated>2022-05-12T00:29:46.000Z</updated>
+        <summary type="html"><![CDATA[The two countries are set to announce their final decisions this week on whether they will join the military alliance, and are expected to apply in the coming days.]]></summary>
+        <author>
+            <name>: World</name>
         </author>
     </entry>
     <entry>
@@ -3072,6 +3372,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[The Hong Kong Monetary Authority stepped into the financial markets on Thursday for the first time in 18 months to support the local currency, as US interest rate rises has led to carry-trade activities and capital outflows that weakened the Hong Kong dollar to the bottom of its trading range against the US dollar.]]></summary>
         <author>
             <name>Enoch Yiu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slain Al Jazeera journalist was icon of Palestinian coverage]]></title>
+        <id>https://www.seattletimes.com/news/slain-al-jazeera-journalist-was-icon-of-palestinian-coverage/</id>
+        <link href="https://www.seattletimes.com/nation-world/world/slain-al-jazeera-journalist-was-icon-of-palestinian-coverage/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_world"/>
+        <updated>2022-05-12T00:11:00.000Z</updated>
+        <summary type="html"><![CDATA[A veteran Al Jazeera correspondent who was shot dead while reporting on an Israeli raid in the West Bank was a highly respected and familiar face in the Middle East.]]></summary>
+        <author>
+            <name>AYA BATRAWY</name>
         </author>
     </entry>
     <entry>
@@ -3247,6 +3557,16 @@ US Ambassador to the United Nations Linda Thomas-Greenfield]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tokyo to recognize same-sex unions but not as legal marriage]]></title>
+        <id>https://www.seattletimes.com/news/tokyo-to-recognize-same-sex-unions-but-not-as-legal-marriage/</id>
+        <link href="https://www.seattletimes.com/nation-world/tokyo-to-recognize-same-sex-unions-but-not-as-legal-marriage/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_world"/>
+        <updated>2022-05-11T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Japan’s capital has announced it will start recognizing same-sex partnerships to ease the burdens faced by residents in their daily lives.]]></summary>
+        <author>
+            <name>MARI YAMAGUCHI</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[WHO says omicron BA.4 and BA.5 subvariants have spread to over a dozen countries]]></title>
         <id>107059726</id>
         <link href="https://www.cnbc.com/2022/05/11/who-says-omicron-bapoint4-and-bapoint5-subvariants-have-spread-to-over-a-dozen-countries.html"/>
@@ -3356,6 +3676,16 @@ A two-day summit with the 10-nation Association of Southeast Asian Nations (ASEA
         <summary type="html"><![CDATA[Researchers say climate change is "the greatest threat to the Reef."]]></summary>
         <author>
             <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goop introduces ‘The Diapér’ and people can’t decide if the $120 nappies are real]]></title>
+        <id>https://globalnews.ca/?p=8828039</id>
+        <link href="https://globalnews.ca/news/8828039/goop-diapers-real-or-not/"/>
+        <updated>2022-05-11T22:24:20.000Z</updated>
+        <summary type="html"><![CDATA[Goop's latest announcement about a gemstone encrusted line of diapers might be its most confusing yet.]]></summary>
+        <author>
+            <name>Michelle Butterfield</name>
         </author>
     </entry>
     <entry>
@@ -3583,6 +3913,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Guatemala judge threatened after decision on civil war crime]]></title>
+        <id>https://www.seattletimes.com/news/guatemala-judge-threatened-after-decision-on-civil-war-crime/</id>
+        <link href="https://www.seattletimes.com/nation-world/world/guatemala-judge-threatened-after-decision-on-civil-war-crime/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_world"/>
+        <updated>2022-05-11T21:48:33.000Z</updated>
+        <summary type="html"><![CDATA[A Guatemala judge who last week ordered nine former police and military officers to stand trial for alleged crimes during that country’s civil war, says that death threats against him had increased since announcing his decision.]]></summary>
+        <author>
+            <name>SONIA PEREZ D.</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Battery-powered Greek island bets on green future]]></title>
         <id>https://www.washingtonpost.com/world/battery-powered-greek-island-bets-on-green-future/2022/05/11/997ad91e-d11b-11ec-886b-df76183d233f_story.html?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world</id>
         <link href="https://www.washingtonpost.com/world/battery-powered-greek-island-bets-on-green-future/2022/05/11/997ad91e-d11b-11ec-886b-df76183d233f_story.html?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world"/>
@@ -3747,6 +4087,16 @@ Retired cardinal Joseph Zen, 90, was seen in media footage waving t]]></summary>
         <summary type="html"><![CDATA[We asked experts from around the world: What would they like to see on the agenda for this virtual event. Their ideas include fair pay for all health workers — and a makeover for foreign aid.]]></summary>
         <author>
             <name>KAMALA THIAGARAJAN</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Florida condo collapse: Victims reach nearly US$1 billion settlement, reports say]]></title>
+        <id>https://globalnews.ca/?p=8827962</id>
+        <link href="https://globalnews.ca/news/8827962/florida-condo-collapse-victims-settlement/"/>
+        <updated>2022-05-11T21:18:07.000Z</updated>
+        <summary type="html"><![CDATA[Nearly 100 people were killed when the 12-story Champlain Towers South near Miami Beach in Florida abruptly collapsed in June 2021.]]></summary>
+        <author>
+            <name>: World</name>
         </author>
     </entry>
     <entry>
@@ -3982,6 +4332,16 @@ In a statement, Al Jazeera, the Qatar-based Arab news network, accused Israeli f
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Many Afghan women pushing back against Taliban face-covering orders]]></title>
+        <id>https://globalnews.ca/?p=8827703</id>
+        <link href="https://globalnews.ca/news/8827703/afghan-women-taliban-face-covering/"/>
+        <updated>2022-05-11T20:30:44.000Z</updated>
+        <summary type="html"><![CDATA[Many women in the Afghan capital are delaying a return to fully covering their faces in public in defiance of orders from Islamist Taliban rulers.]]></summary>
+        <author>
+            <name>: World</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Alabama fugitives Vicky White and Casey White paid homeless man to check them into motel]]></title>
         <id>b2076961</id>
         <link href="https://www.independent.co.uk/news/world/americas/crime/casey-white-vicky-motel-homeless-b2076961.html"/>
@@ -4009,6 +4369,16 @@ In a statement, Al Jazeera, the Qatar-based Arab news network, accused Israeli f
         <summary type="html"><![CDATA[A prominent Palestinian-American journalist was killed in the West Bank and her network blames Israeli forces. Israel says it's possible Palestinian gunmen shot her, but says it will investigate.]]></summary>
         <author>
             <name>Daniel Estrin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. Senate fails to pass abortion rights bill, leaving future of Roe v. Wade bleak]]></title>
+        <id>https://globalnews.ca/?p=8827500</id>
+        <link href="https://globalnews.ca/news/8827500/us-senate-abortion-roe-v-wade-vote/"/>
+        <updated>2022-05-11T20:27:31.000Z</updated>
+        <summary type="html"><![CDATA[Republicans were united against giving Democrats any support, while one Democratic senator said they would also not vote for the House-approved bill.]]></summary>
+        <author>
+            <name>Sean Boynton</name>
         </author>
     </entry>
     <entry>
@@ -4310,6 +4680,16 @@ Colonel Mamady Doumbouya, the head of the junta that took power in a coup last S
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Parents under investigation after letting 6-year-old son run full marathon]]></title>
+        <id>https://globalnews.ca/?p=8826929</id>
+        <link href="https://globalnews.ca/news/8826929/parents-six-year-old-marathon/"/>
+        <updated>2022-05-11T18:57:03.000Z</updated>
+        <summary type="html"><![CDATA[Ben and Kami Crawford revealed that child protective services made an unannounced visit to their home to question the young boy.]]></summary>
+        <author>
+            <name>Michelle Butterfield</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[‘Our Blue-Collar Tough Guy.’ John Fetterman Charts a New Path for Democrats]]></title>
         <id>https://time.com/?p=6175747</id>
         <link href="https://time.com/6175747/john-fetterman-pennsylvania-senate-primary/"/>
@@ -4417,6 +4797,16 @@ Colonel Mamady Doumbouya, the head of the junta that took power in a coup last S
         <summary type="html"><![CDATA[Jen Psaki is leaving as White House press secretary on Friday after having answered reporters’ questions nearly every weekday of the almost 500 days that President Joe Biden has been in office]]></summary>
         <author>
             <name>Via AP news wire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is the endgame in Ukraine? Concerns grow of ongoing European battlefield]]></title>
+        <id>https://globalnews.ca/?p=8827259</id>
+        <link href="https://globalnews.ca/news/8827259/ukraine-war-endgame-russia/"/>
+        <updated>2022-05-11T18:37:21.000Z</updated>
+        <summary type="html"><![CDATA[The possibility of a stalemate is fueling concerns that Ukraine may remain a deadly European battlefield and a source of instability for months, or even years, to come.]]></summary>
+        <author>
+            <name>: World</name>
         </author>
     </entry>
     <entry>
@@ -4552,6 +4942,16 @@ Most Senate Rep]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Study finds cleaner air leads to more Atlantic hurricanes]]></title>
+        <id>https://www.seattletimes.com/news/study-finds-cleaner-air-leads-to-more-atlantic-hurricanes/</id>
+        <link href="https://www.seattletimes.com/nation-world/world/study-finds-cleaner-air-leads-to-more-atlantic-hurricanes/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_world"/>
+        <updated>2022-05-11T18:00:52.000Z</updated>
+        <summary type="html"><![CDATA[A new study by NOAA found that a decrease in pollution is linked to a 33% increase in Atlantic storms, while in the Pacific, there is more pollution but fewer typhoons.]]></summary>
+        <author>
+            <name>SETH BORENSTEIN</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hong Kong team develops lightweight drone that can fly for longer – inspired by maple seeds]]></title>
         <id>https://www.scmp.com/news/china/science/article/3177361/hong-kong-team-develops-lightweight-drone-can-fly-longer?utm_source=rss_feed</id>
         <link href="https://www.scmp.com/news/china/science/article/3177361/hong-kong-team-develops-lightweight-drone-can-fly-longer?utm_source=rss_feed"/>
@@ -4569,6 +4969,16 @@ Most Senate Rep]]></summary>
         <summary type="html"><![CDATA[Democrats on the House Natural Resources Committee have asked the Justice Department to investigate whether a Trump administration Interior secretary engaged in possible criminal conduct while helping an Arizona developer get a crucial permit for a housing project]]></summary>
         <author>
             <name>Via AP news wire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7th Russian oligarch to die this year allegedly poisoned with toad venom]]></title>
+        <id>https://globalnews.ca/?p=8826712</id>
+        <link href="https://globalnews.ca/news/8826712/7th-russian-oligarch-dead-toad-poison/"/>
+        <updated>2022-05-11T17:53:17.000Z</updated>
+        <summary type="html"><![CDATA[Since the start of 2022, six Russian oligarchs have died in alleged suicides, raising concerns about whether the deaths have been staged.]]></summary>
+        <author>
+            <name>Kathryn Mannie</name>
         </author>
     </entry>
     <entry>
@@ -4805,6 +5215,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Polish diplomat hears Russia’s protest to Warsaw incident]]></title>
+        <id>https://www.seattletimes.com/news/polish-diplomat-hears-russias-protest-to-warsaw-incident/</id>
+        <link href="https://www.seattletimes.com/nation-world/world/polish-diplomat-hears-russias-protest-to-warsaw-incident/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_world"/>
+        <updated>2022-05-11T16:47:26.000Z</updated>
+        <summary type="html"><![CDATA[Poland’s ambassador in Moscow has been summoned to Russia’s Foreign Ministry two days after Russia’s ambassador to Poland was splattered with red paint thrown at him by protesters opposed to the war in Ukraine.]]></summary>
+        <author>
+            <name>The Associated Press</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Horrifying moment water slide COLLAPSES and falls 30ft to the ground injuring 16 people in front of shocked families]]></title>
         <id>Post 18536404 at The Sun</id>
         <link href="https://www.thesun.co.uk/news/18536404/horrifying-moment-water-slide-collapses-injuring-people/"/>
@@ -4985,6 +5405,16 @@ Read Full Article at RT.com]]></summary>
 Read Full Article at RT.com]]></summary>
         <author>
             <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thailand providing free cannabis plants for home cultivation]]></title>
+        <id>https://www.seattletimes.com/news/thailand-providing-free-cannabis-plants-for-home-cultivation/</id>
+        <link href="https://www.seattletimes.com/business/thailand-providing-free-cannabis-plants-for-home-cultivation/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_world"/>
+        <updated>2022-05-11T15:23:02.000Z</updated>
+        <summary type="html"><![CDATA[Thailand’s public health minister says the government will distribute 1 million cannabis plants free when most legal restrictions on the drug are lifted next month.]]></summary>
+        <author>
+            <name>The Associated Press</name>
         </author>
     </entry>
     <entry>
@@ -5209,6 +5639,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Wives of Mariupol defenders to pope: ‘You are our last hope’]]></title>
+        <id>https://www.seattletimes.com/news/wives-of-mariupol-defenders-to-pope-you-are-our-last-hope/</id>
+        <link href="https://www.seattletimes.com/nation-world/world/wives-of-mariupol-defenders-to-pope-you-are-our-last-hope/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_world"/>
+        <updated>2022-05-11T13:16:53.000Z</updated>
+        <summary type="html"><![CDATA[The wives of two Ukrainian soldiers defending the Mariupol steel mill have met with Pope Francis.]]></summary>
+        <author>
+            <name>NICOLE WINFIELD</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Doctors say these pandemic side effects are serious problems—and unlikely 'to go away anytime soon']]></title>
         <id>107055842</id>
         <link href="https://www.cnbc.com/2022/05/11/doctors-say-pandemic-side-effects-are-becoming-serious-health-problems.html"/>
@@ -5216,6 +5656,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Doctors across the country are reporting an uptick in health issues that don't involve contracting the Covid-19 virus — but are still caused by the pandemic.]]></summary>
         <author>
             <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU lifts mask recommendation for air travel as pandemic ebbs]]></title>
+        <id>https://www.seattletimes.com/?p=14977739</id>
+        <link href="https://www.seattletimes.com/nation-world/eu-lifts-covid-mask-requirement-for-air-travel-as-pandemic-ebbs/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_world"/>
+        <updated>2022-05-11T13:07:00.000Z</updated>
+        <summary type="html"><![CDATA[The European Union will no longer recommend medical masks be worn at airports and on planes starting next week amid the easing of coronavirus restrictions across the bloc.]]></summary>
+        <author>
+            <name>FRANK JORDANS</name>
         </author>
     </entry>
     <entry>
@@ -5301,6 +5751,16 @@ The post The National Security Implications of New Rules of the Road for Cyber a
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Germany shifts focus of military missions in West Africa]]></title>
+        <id>https://www.seattletimes.com/news/germany-shifts-focus-of-military-missions-in-west-africa/</id>
+        <link href="https://www.seattletimes.com/nation-world/world/germany-shifts-focus-of-military-missions-in-west-africa/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_world"/>
+        <updated>2022-05-11T11:52:35.000Z</updated>
+        <summary type="html"><![CDATA[The German government has backed a change to two of the country’s military deployments in West Africa.]]></summary>
+        <author>
+            <name>The Associated Press</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ukrainian army ‘westernized’ by US and allies to fight Russia – Pentagon]]></title>
         <id>https://www.rt.com/news/555298-us-training-arms-ukraine/</id>
         <link href="https://www.rt.com/news/555298-us-training-arms-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
@@ -5342,6 +5802,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Live updates |  Russia-Ukraine War]]></title>
+        <id>https://www.seattletimes.com/?p=14977280</id>
+        <link href="https://www.seattletimes.com/nation-world/live-updates-official-plans-for-kherson-annexation/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_world"/>
+        <updated>2022-05-11T11:40:00.000Z</updated>
+        <summary type="html"><![CDATA[An adviser to the Mariupol mayor says Russian forces have blocked all evacuation routes out of the city.]]></summary>
+        <author>
+            <name>The Associated Press</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Mystery as ‘sickly’ Putin MISSES beloved annual ice hockey match and sends video message with ‘blotchy face’]]></title>
         <id>Post 18532367 at The Sun</id>
         <link href="https://www.thesun.co.uk/news/18532367/putin-misses-ice-hockey-game-health/"/>
@@ -5380,6 +5850,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[A spectacular full moon is fast-approaching. Here's everything you need to know to see it.]]></summary>
         <author>
             <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU commission proposes plan to fight child pornography]]></title>
+        <id>https://www.seattletimes.com/news/eu-commission-proposes-plan-to-fight-child-pornography/</id>
+        <link href="https://www.seattletimes.com/nation-world/world/eu-commission-proposes-plan-to-fight-child-pornography/?utm_source=RSS&amp;utm_medium=Referral&amp;utm_campaign=RSS_world"/>
+        <updated>2022-05-11T11:08:14.000Z</updated>
+        <summary type="html"><![CDATA[The European Union’s executive arm has proposed requiring online platforms to detect and report the sharing of child sex abuse images on the internet.]]></summary>
+        <author>
+            <name>SAMUEL PETREQUIN</name>
         </author>
     </entry>
     <entry>

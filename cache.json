@@ -12,6 +12,16 @@
       "siteUrl": "https://www.bbc.co.uk/news/",
       "articles": [
         {
+          "id": "https://www.bbc.co.uk/news/uk-61421169",
+          "author": null,
+          "description": "Boris Johnson says he cannot see how relations with the Russian leader can be 'renormalised'.",
+          "link": "https://www.bbc.co.uk/news/uk-61421169?at_medium=RSS&at_campaign=KARANGA",
+          "publishedOn": "2022-05-12T10:14:25.000Z",
+          "wordCount": 1114,
+          "title": "Hard to see a way back for Putin, says UK PM",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4682/production/_124705081_2.66839375.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/world-asia-61413335",
           "author": null,
           "description": "Senior Catholic Cardinal Joseph Zen is a long-time critic of the Chinese government.",
@@ -1180,6 +1190,26 @@
       "feedUrl": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
       "siteUrl": "https://timesofindia.indiatimes.com/world",
       "articles": [
+        {
+          "id": "https://timesofindia.indiatimes.com/world/europe/finland-joining-nato-definitely-threat-to-russia-kremlin/articleshow/91515755.cms",
+          "author": null,
+          "description": "Europe News: MOSCOW: The Kremlin said Thursday that neighbouring Finland joining Nato would \"definitely\" represent a threat to Russia, after the Finnish leadership.",
+          "link": "https://timesofindia.indiatimes.com/world/europe/finland-joining-nato-definitely-threat-to-russia-kremlin/articleshow/91515755.cms",
+          "publishedOn": "2022-05-12T10:02:14.000Z",
+          "wordCount": 385,
+          "title": "Finland joining Nato 'definitely' threat to Russia: Kremlin",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-91515733,width-1070,height-580,imgsize-66988,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+          "id": "https://timesofindia.indiatimes.com/world/us/biden-marks-1-million-us-covid-deaths-to-co-host-2nd-global-summit/articleshow/91515743.cms",
+          "author": null,
+          "description": "President Joe Biden will appeal for a renewed international commitment to attacking Covid-19 as he convenes a second virtual summit on the pandemic and marks 1 million deaths in the United States. “As a nation, we must not grow numb to such sorrow,\" Biden said in a statement. \"To heal, we must remember. We must remain vigilant against this pandemic and do everything we can to save as many lives as possible.”",
+          "link": "https://timesofindia.indiatimes.com/world/us/biden-marks-1-million-us-covid-deaths-to-co-host-2nd-global-summit/articleshow/91515743.cms",
+          "publishedOn": "2022-05-12T10:01:47.000Z",
+          "wordCount": 1461,
+          "title": "Biden marks 1m US Covid deaths, to co-host 2nd global summit",
+          "imageUrl": "https://static.toiimg.com/thumb/msid-91515712,width-1070,height-580,imgsize-18234,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
         {
           "id": "https://timesofindia.indiatimes.com/world/rest-of-world/north-korea-fires-missile-toward-sea-south-korea/articleshow/91515485.cms",
           "author": null,
@@ -9389,6 +9419,527 @@
           "wordCount": 1181,
           "title": "US Senate Democrats push abortion-rights vote, expected to fail",
           "imageUrl": "https://onecms-res.cloudinary.com/image/upload/s--XGj4idQ---/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-05-11t132819z_2_lynxnpei4a0ff_rtroptp_3_usa-abortion-congress.jpg?itok=JFexbmmy"
+        }
+      ]
+    },
+    {
+      "title": ": World",
+      "feedUrl": "https://globalnews.ca/world/feed/",
+      "siteUrl": "https://globalnews.ca",
+      "articles": [
+        {
+          "id": "https://globalnews.ca/?p=8828744",
+          "author": null,
+          "description": "State media said tests from an unspecified number of people in the capital Pyongyang confirmed that they were infected with the Omicron variant.",
+          "link": "https://globalnews.ca/news/8828744/north-korea-1st-covid-case/",
+          "publishedOn": "2022-05-12T00:43:38.000Z",
+          "wordCount": 1848,
+          "title": "North Korea confirms its 1st COVID-19 case over 2 years into pandemic",
+          "enclosure": {
+            "url": "https://globalnews.ca/wp-content/uploads/2022/05/CP151174922-e1652316039383.jpg?quality=85&strip=all&w=720&h=480&crop=1",
+            "length": "28880000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://globalnews.ca/wp-content/uploads/2022/05/CP151174922-e1652316039383.jpg?quality=85&strip=all&w=720&h=480&crop=1"
+        },
+        {
+          "id": "https://globalnews.ca/?p=8828664",
+          "author": null,
+          "description": "Districts in Maine, New Jersey and Pennsylvania have brought masks back, with a few in Massachusetts also recommending them even as the school year enters its final weeks.",
+          "link": "https://globalnews.ca/news/8828664/u-s-schools-covid-mask-mandates-return/",
+          "publishedOn": "2022-05-12T00:33:23.000Z",
+          "wordCount": 1654,
+          "title": "U.S. schools bring back mask mandates amid rising COVID-19 cases",
+          "enclosure": {
+            "url": "https://globalnews.ca/wp-content/uploads/2021/02/CP111667032-e1612978496424.jpg?quality=85&strip=all&w=720&h=480&crop=1",
+            "length": "32298000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://globalnews.ca/wp-content/uploads/2021/02/CP111667032-e1612978496424.jpg?quality=85&strip=all&w=720&h=480&crop=1"
+        },
+        {
+          "id": "https://globalnews.ca/?p=8828655",
+          "author": null,
+          "description": "The two countries are set to announce their final decisions this week on whether they will join the military alliance, and are expected to apply in the coming days.",
+          "link": "https://globalnews.ca/news/8828655/nato-sweden-finland-membership-ukraine/",
+          "publishedOn": "2022-05-12T00:29:46.000Z",
+          "wordCount": 1537,
+          "title": "NATO will grant Sweden, Finland membership quickly after they apply: sources",
+          "enclosure": {
+            "url": "https://globalnews.ca/wp-content/uploads/2022/04/SwedenNatofile.jpg?quality=85&strip=all&w=720&h=480&crop=1",
+            "length": "75195000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://globalnews.ca/wp-content/uploads/2022/04/SwedenNatofile.jpg?quality=85&strip=all&w=720&h=480&crop=1"
+        },
+        {
+          "id": "https://globalnews.ca/?p=8828039",
+          "author": "Michelle Butterfield",
+          "description": "Goop's latest announcement about a gemstone encrusted line of diapers might be its most confusing yet.",
+          "link": "https://globalnews.ca/news/8828039/goop-diapers-real-or-not/",
+          "publishedOn": "2022-05-11T22:24:20.000Z",
+          "wordCount": 1495,
+          "title": "Goop introduces ‘The Diapér’ and people can’t decide if the $120 nappies are real",
+          "enclosure": {
+            "url": "https://globalnews.ca/wp-content/uploads/2022/05/diaper.jpg?quality=85&strip=all&w=720&h=480&crop=1",
+            "length": "28277000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://globalnews.ca/wp-content/uploads/2022/05/diaper.jpg?quality=85&strip=all&w=720&h=480&crop=1"
+        },
+        {
+          "id": "https://globalnews.ca/?p=8827962",
+          "author": null,
+          "description": "Nearly 100 people were killed when the 12-story Champlain Towers South near Miami Beach in Florida abruptly collapsed in June 2021.",
+          "link": "https://globalnews.ca/news/8827962/florida-condo-collapse-victims-settlement/",
+          "publishedOn": "2022-05-11T21:18:07.000Z",
+          "wordCount": 1016,
+          "title": "Florida condo collapse: Victims reach nearly US$1 billion settlement, reports say",
+          "enclosure": {
+            "url": "https://globalnews.ca/wp-content/uploads/2022/02/20220211160256-6206dbb8280a2a2236f9c294jpeg.jpg?quality=85&strip=all&w=720&h=480&crop=1",
+            "length": "44864000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://globalnews.ca/wp-content/uploads/2022/02/20220211160256-6206dbb8280a2a2236f9c294jpeg.jpg?quality=85&strip=all&w=720&h=480&crop=1"
+        },
+        {
+          "id": "https://globalnews.ca/?p=8827703",
+          "author": null,
+          "description": "Many women in the Afghan capital are delaying a return to fully covering their faces in public in defiance of orders from Islamist Taliban rulers.",
+          "link": "https://globalnews.ca/news/8827703/afghan-women-taliban-face-covering/",
+          "publishedOn": "2022-05-11T20:30:44.000Z",
+          "wordCount": 1331,
+          "title": "Many Afghan women pushing back against Taliban face-covering orders",
+          "enclosure": {
+            "url": "https://globalnews.ca/wp-content/uploads/2022/05/afghan-women-taliban-face-covering.png?w=720&h=480&crop=1",
+            "length": "27924000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://globalnews.ca/wp-content/uploads/2022/05/afghan-women-taliban-face-covering.png?w=720&h=480&crop=1"
+        },
+        {
+          "id": "https://globalnews.ca/?p=8827500",
+          "author": "Sean Boynton",
+          "description": "Republicans were united against giving Democrats any support, while one Democratic senator said they would also not vote for the House-approved bill.",
+          "link": "https://globalnews.ca/news/8827500/us-senate-abortion-roe-v-wade-vote/",
+          "publishedOn": "2022-05-11T20:27:31.000Z",
+          "wordCount": 1749,
+          "title": "U.S. Senate fails to pass abortion rights bill, leaving future of Roe v. Wade bleak",
+          "enclosure": {
+            "url": "https://globalnews.ca/wp-content/uploads/2022/05/CP156195372-e1652298031723.jpg?quality=85&strip=all&w=720&h=480&crop=1",
+            "length": "27754000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://globalnews.ca/wp-content/uploads/2022/05/CP156195372-e1652298031723.jpg?quality=85&strip=all&w=720&h=480&crop=1"
+        },
+        {
+          "id": "https://globalnews.ca/?p=8826929",
+          "author": "Michelle Butterfield",
+          "description": "Ben and Kami Crawford revealed that child protective services made an unannounced visit to their home to question the young boy.",
+          "link": "https://globalnews.ca/news/8826929/parents-six-year-old-marathon/",
+          "publishedOn": "2022-05-11T18:57:03.000Z",
+          "wordCount": 1828,
+          "title": "Parents under investigation after letting 6-year-old son run full marathon",
+          "enclosure": {
+            "url": "https://globalnews.ca/wp-content/uploads/2022/05/marathon-boy.jpg?quality=85&strip=all&w=720&h=480&crop=1",
+            "length": "27200000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://globalnews.ca/wp-content/uploads/2022/05/marathon-boy.jpg?quality=85&strip=all&w=720&h=480&crop=1"
+        },
+        {
+          "id": "https://globalnews.ca/?p=8827259",
+          "author": null,
+          "description": "The possibility of a stalemate is fueling concerns that Ukraine may remain a deadly European battlefield and a source of instability for months, or even years, to come.",
+          "link": "https://globalnews.ca/news/8827259/ukraine-war-endgame-russia/",
+          "publishedOn": "2022-05-11T18:37:21.000Z",
+          "wordCount": 1841,
+          "title": "What is the endgame in Ukraine? Concerns grow of ongoing European battlefield",
+          "enclosure": {
+            "url": "https://globalnews.ca/wp-content/uploads/2022/05/ukraine-endgame-russia-war.jpg?quality=85&strip=all&w=720&h=480&crop=1",
+            "length": "27469000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://globalnews.ca/wp-content/uploads/2022/05/ukraine-endgame-russia-war.jpg?quality=85&strip=all&w=720&h=480&crop=1"
+        },
+        {
+          "id": "https://globalnews.ca/?p=8826712",
+          "author": "Kathryn Mannie",
+          "description": "Since the start of 2022, six Russian oligarchs have died in alleged suicides, raising concerns about whether the deaths have been staged.",
+          "link": "https://globalnews.ca/news/8826712/7th-russian-oligarch-dead-toad-poison/",
+          "publishedOn": "2022-05-11T17:53:17.000Z",
+          "wordCount": 1414,
+          "title": "7th Russian oligarch to die this year allegedly poisoned with toad venom",
+          "enclosure": {
+            "url": "https://globalnews.ca/wp-content/uploads/2022/05/GettyImages-1240089138.jpg?quality=85&strip=all&w=720&h=480&crop=1",
+            "length": "27243000",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://globalnews.ca/wp-content/uploads/2022/05/GettyImages-1240089138.jpg?quality=85&strip=all&w=720&h=480&crop=1"
+        }
+      ]
+    },
+    {
+      "title": "The Seattle Times World – The Seattle Times",
+      "feedUrl": "https://www.seattletimes.com/nation-world/world/feed/",
+      "siteUrl": "https://www.seattletimes.com",
+      "articles": [
+        {
+          "id": "https://www.seattletimes.com/news/explainer-whos-the-swedish-doctor-facing-execution-in-iran/",
+          "author": "ISABEL DEBRE",
+          "description": "Iran is scheduled to put to death a 50-year-old Swedish-Iranian physician within nine days.",
+          "link": "https://www.seattletimes.com/nation-world/world/explainer-whos-the-swedish-doctor-facing-execution-in-iran/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_world",
+          "publishedOn": "2022-05-12T06:05:39.000Z",
+          "wordCount": 1649,
+          "title": "EXPLAINER: Who’s the Swedish doctor facing execution in Iran",
+          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2022/05/urn-publicid-ap-org-fca9667add4eb05dc1be767c01d31df6Iran-Sweden-Execution-EXPLAINER_89564.jpg?d=1200x630"
+        },
+        {
+          "id": "https://www.seattletimes.com/news/egg-sized-diamond-fetches-over-21m-with-fees-at-geneva-sale/",
+          "author": "The Associated Press",
+          "description": "Christie’s says “The Rock,” an egg-sized white diamond billed as the largest of its kind to go up for auction, has sold for more than $21.75 million, including fees — though at the low end of the expected range.",
+          "link": "https://www.seattletimes.com/nation-world/egg-sized-diamond-fetches-over-21m-with-fees-at-geneva-sale/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_world",
+          "publishedOn": "2022-05-12T03:29:00.000Z",
+          "wordCount": 806,
+          "title": "Egg-sized diamond fetches over $21M with fees at Geneva sale",
+          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2022/05/05112022_eggsizeddiamond-tzr_tzr_202720.jpg?d=1200x630"
+        },
+        {
+          "id": "https://www.seattletimes.com/news/north-korea-raises-alarm-after-confirming-1st-covid-19-case/",
+          "author": "KIM TONG-HYUNG and HYUNG-JIN KIM",
+          "description": "North Korea has imposed a nationwide lockdown to control its first acknowledged COVID-19 outbreak of the pandemic.",
+          "link": "https://www.seattletimes.com/seattle-news/health/north-korea-raises-alarm-after-confirming-1st-covid-19-case/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_world",
+          "publishedOn": "2022-05-12T01:36:00.000Z",
+          "wordCount": 1877,
+          "title": "North Korea confirms 1st COVID outbreak, Kim orders lockdown",
+          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2022/05/05112022_northkoreacovid-tzr_tzr_183500.jpg?d=1200x630"
+        },
+        {
+          "id": "https://www.seattletimes.com/?p=14980076",
+          "author": "MARK LANDLER",
+          "description": "The West united against Russia’s war on Ukraine  swiftly, but as the war settles into a prolonged conflict, it is testing the resolve of Western countries.",
+          "link": "https://www.seattletimes.com/nation-world/ukraine-wars-economic-toll-is-testing-the-wests-unity-against-russia/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_world",
+          "publishedOn": "2022-05-12T00:45:00.000Z",
+          "wordCount": 2132,
+          "title": "Ukraine war’s economic toll is testing the West’s unity against Russia",
+          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2022/05/05112022_russiantank-tzr_tzr_174446.jpg?d=1200x630"
+        },
+        {
+          "id": "https://www.seattletimes.com/news/slain-al-jazeera-journalist-was-icon-of-palestinian-coverage/",
+          "author": "AYA BATRAWY",
+          "description": "A veteran Al Jazeera correspondent who was shot dead while reporting on an Israeli raid in the West Bank was a highly respected and familiar face in the Middle East.",
+          "link": "https://www.seattletimes.com/nation-world/world/slain-al-jazeera-journalist-was-icon-of-palestinian-coverage/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_world",
+          "publishedOn": "2022-05-12T00:11:00.000Z",
+          "wordCount": 1484,
+          "title": "Slain Al Jazeera journalist was icon of Palestinian coverage",
+          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2022/05/05112022_journalistkilled-tzr_tzr_170651.jpg?d=1200x630"
+        },
+        {
+          "id": "https://www.seattletimes.com/news/tokyo-to-recognize-same-sex-unions-but-not-as-legal-marriage/",
+          "author": "MARI YAMAGUCHI",
+          "description": "Japan’s capital has announced it will start recognizing same-sex partnerships to ease the burdens faced by residents in their daily lives.",
+          "link": "https://www.seattletimes.com/nation-world/tokyo-to-recognize-same-sex-unions-but-not-as-legal-marriage/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_world",
+          "publishedOn": "2022-05-11T23:00:00.000Z",
+          "wordCount": 883,
+          "title": "Tokyo to recognize same-sex unions but not as legal marriage",
+          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2022/05/05112022_tokyomarriage-tzr_tzr_155856.jpg?d=1200x630"
+        },
+        {
+          "id": "https://www.seattletimes.com/news/guatemala-judge-threatened-after-decision-on-civil-war-crime/",
+          "author": "SONIA PEREZ D.",
+          "description": "A Guatemala judge who last week ordered nine former police and military officers to stand trial for alleged crimes during that country’s civil war, says that death threats against him had increased since announcing his decision.",
+          "link": "https://www.seattletimes.com/nation-world/world/guatemala-judge-threatened-after-decision-on-civil-war-crime/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_world",
+          "publishedOn": "2022-05-11T21:48:33.000Z",
+          "wordCount": 1082,
+          "title": "Guatemala judge threatened after decision on civil war crime",
+          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2022/05/urn-publicid-ap-org-0b83e9e5b31e81903f3b97bbebb79667Guatemala_War_Crimes_Judge_67335.jpg?d=1200x630"
+        },
+        {
+          "id": "https://www.seattletimes.com/news/study-finds-cleaner-air-leads-to-more-atlantic-hurricanes/",
+          "author": "SETH BORENSTEIN",
+          "description": "A new study by NOAA found that a decrease in pollution is linked to a 33% increase in Atlantic storms, while in the Pacific, there is more pollution but fewer typhoons.",
+          "link": "https://www.seattletimes.com/nation-world/world/study-finds-cleaner-air-leads-to-more-atlantic-hurricanes/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_world",
+          "publishedOn": "2022-05-11T18:00:52.000Z",
+          "wordCount": 1325,
+          "title": "Study finds cleaner air leads to more Atlantic hurricanes",
+          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2022/05/05112022_storms_tzr_112122.jpg?d=1200x630"
+        },
+        {
+          "id": "https://www.seattletimes.com/news/polish-diplomat-hears-russias-protest-to-warsaw-incident/",
+          "author": "The Associated Press",
+          "description": "Poland’s ambassador in Moscow has been summoned to Russia’s Foreign Ministry two days after Russia’s ambassador to Poland was splattered with red paint thrown at him by protesters opposed to the war in Ukraine.",
+          "link": "https://www.seattletimes.com/nation-world/world/polish-diplomat-hears-russias-protest-to-warsaw-incident/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_world",
+          "publishedOn": "2022-05-11T16:47:26.000Z",
+          "wordCount": 812,
+          "title": "Polish diplomat hears Russia’s protest to Warsaw incident",
+          "imageUrl": "https://www.seattletimes.com/wp-content/themes/st_refresh/img/st-meta-facebook.png"
+        },
+        {
+          "id": "https://www.seattletimes.com/news/thailand-providing-free-cannabis-plants-for-home-cultivation/",
+          "author": "The Associated Press",
+          "description": "Thailand’s public health minister says the government will distribute 1 million cannabis plants free when most legal restrictions on the drug are lifted next month.",
+          "link": "https://www.seattletimes.com/business/thailand-providing-free-cannabis-plants-for-home-cultivation/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_world",
+          "publishedOn": "2022-05-11T15:23:02.000Z",
+          "wordCount": 920,
+          "title": "Thailand providing free cannabis plants for home cultivation",
+          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2022/05/05112022_Thailand_tzr_084518.jpg?d=1200x630"
+        },
+        {
+          "id": "https://www.seattletimes.com/news/wives-of-mariupol-defenders-to-pope-you-are-our-last-hope/",
+          "author": "NICOLE WINFIELD",
+          "description": "The wives of two Ukrainian soldiers defending the Mariupol steel mill have met with Pope Francis.",
+          "link": "https://www.seattletimes.com/nation-world/world/wives-of-mariupol-defenders-to-pope-you-are-our-last-hope/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_world",
+          "publishedOn": "2022-05-11T13:16:53.000Z",
+          "wordCount": 1166,
+          "title": "Wives of Mariupol defenders to pope: ‘You are our last hope’",
+          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2022/05/urn-publicid-ap-org-91a83efd827e09ddc7e057655b033892Vatican_Pope_Ukraine_58674.jpg?d=1200x630"
+        },
+        {
+          "id": "https://www.seattletimes.com/?p=14977739",
+          "author": "FRANK JORDANS",
+          "description": "The European Union will no longer recommend medical masks be worn at airports and on planes starting next week amid the easing of coronavirus restrictions across the bloc.",
+          "link": "https://www.seattletimes.com/nation-world/eu-lifts-covid-mask-requirement-for-air-travel-as-pandemic-ebbs/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_world",
+          "publishedOn": "2022-05-11T13:07:00.000Z",
+          "wordCount": 1304,
+          "title": "EU lifts mask recommendation for air travel as pandemic ebbs",
+          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2022/05/05112022_eumasks51122-tzr_tzr_055825.jpg?d=1200x630"
+        },
+        {
+          "id": "https://www.seattletimes.com/news/germany-shifts-focus-of-military-missions-in-west-africa/",
+          "author": "The Associated Press",
+          "description": "The German government has backed a change to two of the country’s military deployments in West Africa.",
+          "link": "https://www.seattletimes.com/nation-world/world/germany-shifts-focus-of-military-missions-in-west-africa/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_world",
+          "publishedOn": "2022-05-11T11:52:35.000Z",
+          "wordCount": 729,
+          "title": "Germany shifts focus of military missions in West Africa",
+          "imageUrl": "https://www.seattletimes.com/wp-content/themes/st_refresh/img/st-meta-facebook.png"
+        },
+        {
+          "id": "https://www.seattletimes.com/?p=14977280",
+          "author": "The Associated Press",
+          "description": "An adviser to the Mariupol mayor says Russian forces have blocked all evacuation routes out of the city.",
+          "link": "https://www.seattletimes.com/nation-world/live-updates-official-plans-for-kherson-annexation/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_world",
+          "publishedOn": "2022-05-11T11:40:00.000Z",
+          "wordCount": 3655,
+          "title": "Live updates |  Russia-Ukraine War",
+          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2022/05/05112022_ukr51122-tzr_tzr_043232.jpg?d=1200x630"
+        },
+        {
+          "id": "https://www.seattletimes.com/news/eu-commission-proposes-plan-to-fight-child-pornography/",
+          "author": "SAMUEL PETREQUIN",
+          "description": "The European Union’s executive arm has proposed requiring online platforms to detect and report the sharing of child sex abuse images on the internet.",
+          "link": "https://www.seattletimes.com/nation-world/world/eu-commission-proposes-plan-to-fight-child-pornography/?utm_source=RSS&utm_medium=Referral&utm_campaign=RSS_world",
+          "publishedOn": "2022-05-11T11:08:14.000Z",
+          "wordCount": 1330,
+          "title": "EU commission proposes plan to fight child pornography",
+          "imageUrl": "https://images.seattletimes.com/wp-content/uploads/2022/05/urn-publicid-ap-org-3d2f368fdcaf7e4497834acbfb2d00faBelgium_EU_Commission_49432.jpg?d=1200x630"
+        }
+      ]
+    },
+    {
+      "title": "TORONTO STAR",
+      "feedUrl": "http://www.thestar.com/content/thestar/feed.RSSManagerServlet.articles.news.world.rss",
+      "siteUrl": "https://www.thestar.com/content/thestar/feed.RSSManagerServlet.articles.news.world.rss",
+      "articles": [
+        {
+          "id": "327a81d1281f2fadeb430e4c632458b7",
+          "author": "The Associated Press",
+          "description": "SEOUL, South Korea (AP) — North Korea fired a suspected ballistic missile toward the sea on Thursday, South Korea and Japan said, in the latest of a s...",
+          "link": "https://www.thestar.com/news/world/asia/2022/05/12/seoul-north-korea-fires-missile-toward-sea.html",
+          "publishedOn": "2022-05-12T09:46:17.000Z",
+          "wordCount": 533,
+          "title": "North Korea fires suspected ballistic missile toward sea",
+          "imageUrl": "https://images.thestar.com/FqTkO_yg7TMEP-nUUciI_1Pk9EY=/1280x1024/smart/filters:cb(1652350565045)/https://www.thestar.com/content/dam/thestar/news/world/asia/2022/05/12/north-korea-fires-suspected-ballistic-missile-toward-sea/2022050722054-6277259c3c9fbbc365a64d30jpeg.jpg"
+        },
+        {
+          "id": "cea25367-9e45-42a3-a53d-7d2330c751bc",
+          "author": "Riley Sparks - Special to the Star",
+          "description": "Stopover nation becomes a kind of purgatory for would-be refugees stymied by complexity of bureaucracy and sheer weight of their numbers.",
+          "link": "https://www.thestar.com/news/world/2022/05/12/afghans-yearning-to-come-to-canada-are-spending-sad-and-fearful-days-in-albania-waiting-on-a-plane-or-an-email-from-our-government.html",
+          "publishedOn": "2022-05-12T09:30:00.000Z",
+          "wordCount": 2108,
+          "title": "Afghans yearning to come to Canada are spending sad and fearful days in Albania, waiting on a plane or an email from our government",
+          "imageUrl": "https://images.thestar.com/8_cm1u9kDjsq_rBqYHGZF0eSlCs=/1200x799/smart/filters:cb(1652297475963)/https://www.thestar.com/content/dam/thestar/news/world/2022/05/12/afghans-yearning-to-come-to-canada-are-spending-sad-and-fearful-days-in-albania-waiting-on-a-plane-or-an-email-from-our-government/_main.jpg"
+        },
+        {
+          "id": "034ef884ef771536262cd67445e2a32a",
+          "author": "The Associated Press",
+          "description": "TEHRAN, Iran (AP) — Qatar’s emir arrived in Iran on Thursday for talks with the Iranian president, state media reported, as efforts to save Tehran’s t...",
+          "link": "https://www.thestar.com/news/world/middleeast/2022/05/12/qatari-emir-in-iran-for-talks-amid-tensions-over-nuke-deal.html",
+          "publishedOn": "2022-05-12T09:19:16.000Z",
+          "wordCount": 522,
+          "title": "Qatari emir in Iran for talks amid tensions over nuke deal",
+          "imageUrl": "https://www.thestar.com/assets/img/thestar-ribbon.png"
+        },
+        {
+          "id": "f1ff862072c6601e304a1b4f562b3af0",
+          "author": "Omar Faruk - The Associated Press",
+          "description": "MOGADISHU, Somalia (AP) — Somalia is set to hold its long-delayed presidential vote on Sunday, ending the convoluted electoral process that raised ten...",
+          "link": "https://www.thestar.com/news/world/africa/2022/05/12/somalia-set-to-elect-new-president-amid-growing-insecurity.html",
+          "publishedOn": "2022-05-12T09:04:16.000Z",
+          "wordCount": 1144,
+          "title": "Somalia set to elect new president amid growing insecurity",
+          "imageUrl": "https://images.thestar.com/Eni6GbNuISup2AlHp5kZvY5NdTY=/1280x1024/smart/filters:cb(1652347263563)/https://www.thestar.com/content/dam/thestar/news/world/africa/2022/05/12/somalia-set-to-elect-new-president-amid-growing-insecurity/20220512050516-627cd068c3ce0ba6f74c0505jpeg.jpg"
+        },
+        {
+          "id": "4a1a8ae8584be0aa46ace7973ffec72b",
+          "author": "The Associated Press",
+          "description": "JERUSALEM (AP) — The Palestinian Authority on Thursday rejected an Israeli request to hold a joint investigation into the killing of Al Jazeera journa...",
+          "link": "https://www.thestar.com/news/world/middleeast/2022/05/12/palestinians-reject-probe-with-israel-of-reporters-killing.html",
+          "publishedOn": "2022-05-12T08:14:02.000Z",
+          "wordCount": 794,
+          "title": "Palestinians reject probe with Israel of reporter’s killing",
+          "imageUrl": "https://images.thestar.com/chhdHxsINdN9JRiCGhUZto_0Egk=/1280x1024/smart/filters:cb(1652343664104)/https://www.thestar.com/content/dam/thestar/news/world/middleeast/2022/05/12/palestinians-reject-probe-with-israel-of-reporters-killing/20220511130524-627bf1543c9fbbc365a77485jpeg.jpg"
+        },
+        {
+          "id": "b3ca07a132d5df29f9c7d8c78fc14804",
+          "author": "The Associated Press",
+          "description": "JERUSALEM (AP) — Israel’s military has demolished at least 18 buildings and structures in the occupied West Bank following a Supreme Court decision th...",
+          "link": "https://www.thestar.com/news/world/middleeast/2022/05/12/israel-levels-palestinian-homes-ahead-of-settlement-approval.html",
+          "publishedOn": "2022-05-12T07:53:48.000Z",
+          "wordCount": 616,
+          "title": "Israel levels Palestinian homes ahead of settlement approval",
+          "imageUrl": "https://www.thestar.com/assets/img/thestar-ribbon.png"
+        },
+        {
+          "id": "9ab29153d47eee5b79b926d016eb597a",
+          "author": "The Associated Press",
+          "description": "HONG KONG (AP) — Cardinal Joseph Zen, the 90-year-old Catholic cleric arrested by Hong Kong police on national security charges, has long been a fiery...",
+          "link": "https://www.thestar.com/news/world/asia/2022/05/12/arrested-hong-kong-cardinal-a-fiery-critic-of-beijing.html",
+          "publishedOn": "2022-05-12T07:27:14.000Z",
+          "wordCount": 1341,
+          "title": "Arrested Hong Kong cardinal a fiery critic of Beijing",
+          "imageUrl": "https://images.thestar.com/R9o1WTn-0NKHBf64I3TD6XcsLac=/1280x1024/smart/filters:cb(1652344863929)/https://www.thestar.com/content/dam/thestar/news/world/asia/2022/05/12/arrested-hong-kong-cardinal-a-fiery-critic-of-beijing/20220512030524-627cb6c2c3ce0ba6f74bff13jpeg.jpg"
+        },
+        {
+          "id": "88fa4b1c481a406ee0355fe0701c6901",
+          "author": "Mari Yamaguchi - The Associated Press",
+          "description": "TOKYO (AP) — Japan and the European Union on Thursday agreed to step up their sanctions against Russia as leaders from the two sides raised concerns a...",
+          "link": "https://www.thestar.com/news/world/asia/2022/05/12/japan-eu-agree-to-raise-efforts-on-russia-in-indo-pacific.html",
+          "publishedOn": "2022-05-12T07:01:24.000Z",
+          "wordCount": 777,
+          "title": "Japan, EU agree to raise efforts on Russia, in Indo-Pacific",
+          "imageUrl": "https://images.thestar.com/voNnRBf3SFzifrp3fPZJuclDGH8=/1280x1024/smart/filters:cb(1652339165761)/https://www.thestar.com/content/dam/thestar/news/world/asia/2022/05/12/japan-eu-agree-to-raise-efforts-on-russia-in-indo-pacific/2022051203050-627cb0a5df5860ec4a104c79jpeg.jpg"
+        },
+        {
+          "id": "2cdc60d23df19dce21974393f7a40491",
+          "author": "John Wawrow - The Associated Press",
+          "description": "Kori Cheverie reflects fondly on the conversations she had with her grandfather growing up in Nova Scotia, where he encouraged her to believe anything...",
+          "link": "https://www.thestar.com/news/world/2022/05/12/nhl-closing-in-on-seeing-its-first-female-coach.html",
+          "publishedOn": "2022-05-12T06:53:21.000Z",
+          "wordCount": 1569,
+          "title": "NHL closing in on seeing its first female coach",
+          "imageUrl": "https://images.thestar.com/kNlrtRbcpCBmiiX_30kBhnPnw_8=/1280x1024/smart/filters:cb(1652339163436)/https://www.thestar.com/content/dam/thestar/news/world/2022/05/12/nhl-closing-in-on-seeing-its-first-female-coach/20220512020552-627caedbdf5860ec4a104c24jpeg.jpg"
+        },
+        {
+          "id": "cf1211a8c0fec9ee0f67e99f7d7d9c1a",
+          "author": "Binaj Gurubacharya - The Associated Press",
+          "description": "KATHMANDU, Nepal (AP) — A Nepali Sherpa broke her own record as the most successful female climber of Mount Everest by reaching the summit of the worl...",
+          "link": "https://www.thestar.com/news/world/asia/2022/05/12/sherpa-woman-climbs-everest-for-10th-time-breaks-own-record.html",
+          "publishedOn": "2022-05-12T06:44:49.000Z",
+          "wordCount": 547,
+          "title": "Sherpa woman climbs Everest for 10th time, breaks own record",
+          "imageUrl": "https://images.thestar.com/BLudBwufHYtQlTt-zZmbhE2C1Dc=/1280x1024/smart/filters:cb(1652338863203)/https://www.thestar.com/content/dam/thestar/news/world/asia/2022/05/12/sherpa-woman-climbs-everest-for-10th-time-breaks-own-record/20220512020544-627cacdcdf5860ec4a1049a0jpeg.jpg"
+        },
+        {
+          "id": "b63f3ab89fc9a042be8e149f3459db22",
+          "author": "Cara Anna - The Associated Press",
+          "description": "BUCHA, Ukraine (AP) — As he listened to his father die, the boy lay still on the asphalt. His elbow burned where a bullet had pierced him. His thumb s...",
+          "link": "https://www.thestar.com/news/world/europe/2022/05/12/this-tears-my-soul-apart-a-ukrainian-boy-and-a-killing.html",
+          "publishedOn": "2022-05-12T06:36:05.000Z",
+          "wordCount": 1941,
+          "title": "‘This tears my soul apart’: A Ukrainian boy and a killing",
+          "imageUrl": "https://images.thestar.com/TiBStCgY5z8ZGicbdWFi0wOYIiA=/1280x1024/smart/filters:cb(1652346663655)/https://www.thestar.com/content/dam/thestar/news/world/europe/2022/05/12/this-tears-my-soul-apart-a-ukrainian-boy-and-a-killing/20220512020532-627caac1df5860ec4a10491ajpeg.jpg"
+        },
+        {
+          "id": "fca9667add4eb05dc1be767c01d31df6",
+          "author": "Isabel Debre - The Associated Press",
+          "description": "DUBAI, United Arab Emirates (AP) — Vida Mehrannia is trying to save her husband’s life. Iran is scheduled to put him to death within nine days — by Ma...",
+          "link": "https://www.thestar.com/news/world/middleeast/2022/05/12/explainer-whos-the-swedish-doctor-facing-execution-in-iran.html",
+          "publishedOn": "2022-05-12T06:07:24.000Z",
+          "wordCount": 1469,
+          "title": "EXPLAINER: Who’s the Swedish doctor facing execution in Iran",
+          "imageUrl": "https://images.thestar.com/c5T8uNeKIB4DW98K7P65kr9y3bU=/1280x1024/smart/filters:cb(1652340663466)/https://www.thestar.com/content/dam/thestar/news/world/middleeast/2022/05/12/explainer-whos-the-swedish-doctor-facing-execution-in-iran/2022051202054-627ca41103f5539bff9faac1jpeg.jpg"
+        },
+        {
+          "id": "79ae78cb455a961d2f55890d7df87d91",
+          "author": "Rod Mcguirk - The Associated Press",
+          "description": "CANBERRA, Australia (AP) — A Chinese ambassador says China’s engagement with South Pacific island countries poses no threat to Australia, responding t...",
+          "link": "https://www.thestar.com/news/world/australia/2022/05/12/chinese-ambassador-says-solomons-pact-no-threat-to-australia.html",
+          "publishedOn": "2022-05-12T05:23:47.000Z",
+          "wordCount": 938,
+          "title": "Chinese ambassador says Solomons pact no threat to Australia",
+          "imageUrl": "https://images.thestar.com/olJu60CKK1Zr6mvCtbpzlcDTCq4=/1280x1024/smart/filters:cb(1652350863250)/https://www.thestar.com/content/dam/thestar/news/world/australia/2022/05/12/chinese-ambassador-says-solomons-pact-no-threat-to-australia/20220512010520-627c99dedf5860ec4a1046ffjpeg.jpg"
+        },
+        {
+          "id": "7af9a9204ccf2c8f0d7c98015f9eef8e",
+          "author": "Susan Montoya Bryan - The Associated Press",
+          "description": "The largest wildfire in the U.S. was spreading toward mountain resort towns in northern New Mexico, prompting officials to issue another set of warnin...",
+          "link": "https://www.thestar.com/news/world/2022/05/12/new-mexico-wildfire-grows-california-fire-destroys-mansions.html",
+          "publishedOn": "2022-05-12T05:22:41.000Z",
+          "wordCount": 1214,
+          "title": "New Mexico wildfire grows; California fire destroys mansions",
+          "imageUrl": "https://images.thestar.com/voK6DqdazOvzJ2_SBJ-3Pjt4pIY=/1280x1024/smart/filters:cb(1652333763758)/https://www.thestar.com/content/dam/thestar/news/world/2022/05/12/new-mexico-wildfire-grows-california-fire-destroys-mansions/20220512000532-627c8e4c3c9fbbc365a7b1c5jpeg.jpg"
+        },
+        {
+          "id": "ad4fd9176850fd1c69cb330ac8841b92",
+          "author": "Amy Taxin - The Associated Press",
+          "description": "HUNTINGTON BEACH, Calif. (AP) — For more than two decades, California’s Orange County has debated whether to build a seaside plant to convert the Paci...",
+          "link": "https://www.thestar.com/news/world/us/2022/05/12/amid-drought-california-desalination-project-at-crossroads.html",
+          "publishedOn": "2022-05-12T05:13:32.000Z",
+          "wordCount": 1303,
+          "title": "Amid drought, California desalination project at crossroads",
+          "imageUrl": "https://images.thestar.com/USakh9GgTaQjCW5lBoiy4snIxmE=/1280x1024/smart/filters:cb(1652332863528)/https://www.thestar.com/content/dam/thestar/news/world/us/2022/05/12/amid-drought-california-desalination-project-at-crossroads/20220512010512-627c976a3c9fbbc365a7b38ajpeg.jpg"
+        },
+        {
+          "id": "638b43e2eca803429256cac47901dbb4",
+          "author": "Paul Davenport And Jacques Billeaud - The Associated Press",
+          "description": "PHOENIX (AP) — Arizona’s nearly eight-year hiatus in using the death penalty ended with the execution of Clarence Davis for killing a college student ...",
+          "link": "https://www.thestar.com/news/world/us/2022/05/12/execution-ends-arizona-8-year-hiatus-with-the-death-penalty.html",
+          "publishedOn": "2022-05-12T05:07:24.000Z",
+          "wordCount": 1185,
+          "title": "Execution ends Arizona 8-year hiatus with the death penalty",
+          "imageUrl": "https://images.thestar.com/dx498PaToS6gCBhfyPixXgvlSbs=/1280x1024/smart/filters:cb(1652332263116)/https://www.thestar.com/content/dam/thestar/news/world/us/2022/05/12/execution-ends-arizona-8-year-hiatus-with-the-death-penalty/2022051201054-627c9604df5860ec4a104670jpeg.jpg"
+        },
+        {
+          "id": "05c4bf5097a566a60b7f4c0ddb71150c",
+          "author": "Lolita C. Baldor - The Associated Press",
+          "description": "JOINT BASE ELMENDORF-RICHARDSON, Alaska (AP) — The U.S. Army is poised to revamp its forces in Alaska to better prepare for future cold-weather confli...",
+          "link": "https://www.thestar.com/news/world/us/2022/05/12/army-poised-to-revamp-alaska-forces-to-prep-for-arctic-fight.html",
+          "publishedOn": "2022-05-12T04:11:28.000Z",
+          "wordCount": 1375,
+          "title": "Army poised to revamp Alaska forces to prep for Arctic fight",
+          "imageUrl": "https://images.thestar.com/lMrHNdTBoJrAQFfTaAO4QBaj2J0=/1280x1024/smart/filters:cb(1652350864646)/https://www.thestar.com/content/dam/thestar/news/world/us/2022/05/12/army-poised-to-revamp-alaska-forces-to-prep-for-arctic-fight/2022051200058-627c88ebdf5860ec4a104409jpeg.jpg"
+        },
+        {
+          "id": "58fb1071c04114c2f2371fed2b768fdc",
+          "author": "Aamer Madhani - The Associated Press",
+          "description": "WASHINGTON (AP) — President Joe Biden is hosting leaders from the Association of Southeast Asian Nations as his administration makes an extended effor...",
+          "link": "https://www.thestar.com/news/world/us/2022/05/12/biden-hosts-asean-as-he-looks-to-show-pacific-commitment.html",
+          "publishedOn": "2022-05-12T04:09:44.000Z",
+          "wordCount": 937,
+          "title": "Biden hosts ASEAN as he looks to show Pacific commitment",
+          "imageUrl": "https://images.thestar.com/mZjId1vC5iFJuWG10dcHiWpIFv0=/1280x1024/smart/filters:cb(1652328963361)/https://www.thestar.com/content/dam/thestar/news/world/us/2022/05/12/biden-hosts-asean-as-he-looks-to-show-pacific-commitment/2022051200058-627c887d3c9fbbc365a7af62jpeg.jpg"
+        },
+        {
+          "id": "04a5c5666e014802e63a8244d034c8f9",
+          "author": "Nicholas Riccardi - The Associated Press",
+          "description": "LITTLETON, Colo. (AP) — A handful of curious voters mingled on a suburban Denver brewpub’s patio one recent evening as Pam Anderson told them she coul...",
+          "link": "https://www.thestar.com/news/world/us/2022/05/12/colorado-elections-race-tests-gop-embrace-of-conspiracies.html",
+          "publishedOn": "2022-05-12T04:07:56.000Z",
+          "wordCount": 1551,
+          "title": "Colorado elections race tests GOP embrace of conspiracies",
+          "imageUrl": "https://images.thestar.com/14Inv7J1pfQWueOnFGUHO2DXCKA=/1280x1024/smart/filters:cb(1652328964935)/https://www.thestar.com/content/dam/thestar/news/world/us/2022/05/12/colorado-elections-race-tests-gop-embrace-of-conspiracies/2022051200054-627c8815df5860ec4a104316jpeg.jpg"
+        },
+        {
+          "id": "8135c845f812f5047520ffc9b9df80ff",
+          "author": "Zeke Miller And Maria Cheng - The Associated Press",
+          "description": "WASHINGTON (AP) — President Joe Biden will appeal for a renewed international commitment to attacking COVID-19 as he convenes a second virtual summit ...",
+          "link": "https://www.thestar.com/news/world/us/2022/05/12/biden-co-hosting-2nd-covid-summit-as-worlds-resolve-falters.html",
+          "publishedOn": "2022-05-12T04:06:24.000Z",
+          "wordCount": 1450,
+          "title": "Biden marks 1M US COVID deaths, to co-host 2nd global summit",
+          "imageUrl": "https://images.thestar.com/u2FajoP3NW57udKJFv3CjxjJdXs=/1280x1024/smart/filters:cb(1652350563377)/https://www.thestar.com/content/dam/thestar/news/world/us/2022/05/12/biden-marks-1m-us-covid-deaths-to-co-host-2nd-global-summit/20220511150516-627c0bfd3c9fbbc365a77fffjpeg.jpg"
         }
       ]
     }
