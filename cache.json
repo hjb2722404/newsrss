@@ -399,6 +399,16 @@
           "imageUrl": "https://static01.nyt.com/images/2022/05/15/arts/15ukrainian-dancers-1/15ukrainian-dancers-1-facebookJumbo.jpg"
         },
         {
+          "id": "https://www.nytimes.com/2022/05/11/world/europe/russia-ukraine-fighting-east.html",
+          "author": "Michael Schwirtz and Lynsey Addario",
+          "description": "In some villages along the front, Ukrainian and Russian soldiers face off at close quarters, sometimes within eyesight of one another.",
+          "link": "https://www.nytimes.com/2022/05/11/world/europe/russia-ukraine-fighting-east.html",
+          "publishedOn": "2022-05-12T07:58:09.000Z",
+          "wordCount": 1667,
+          "title": "Ukrainians Fight Russian Troops Up Close Along the Eastern Front",
+          "imageUrl": "https://static01.nyt.com/images/2022/05/11/multimedia/11ukraine-blog-schwirtz-front-PROMO/11ukraine-blog-promo-1145am-facebookJumbo.jpg"
+        },
+        {
           "id": "https://www.nytimes.com/2022/05/12/world/europe/russian-money-uk-tories.html",
           "author": "Jane Bradley",
           "description": "The cash was part of a fund-raising blitz that helped propel Prime Minister Boris Johnson’s party to victory in 2019. Records track $630,225 to a Russian bank account.",
@@ -427,6 +437,16 @@
           "wordCount": 548,
           "title": "Has the Milky Way’s Black Hole Come to Light?",
           "imageUrl": "https://static01.nyt.com/images/2022/12/05/science/12BLACKHOLE-image/12BLACKHOLE-image-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://www.nytimes.com/2022/05/11/us/covid-fears-us.html",
+          "author": "Jesus Jiménez",
+          "description": "The survey, from Gallup, was conducted between April 15 and April 23, at a time when new cases were increasing after plummeting from highs seen during the winter Omicron surge.",
+          "link": "https://www.nytimes.com/2022/05/11/us/covid-fears-us.html",
+          "publishedOn": "2022-05-12T02:19:12.000Z",
+          "wordCount": 806,
+          "title": "Only a Third of Americans Were Worried About Covid in April, Poll Finds",
+          "imageUrl": "https://static01.nyt.com/images/2022/05/11/multimedia/11virus-briefing-gallup-poll/11virus-briefing-gallup-poll-facebookJumbo.jpg"
         },
         {
           "id": "https://www.nytimes.com/video/world/middleeast/100000008344014/al-jazeera-journalist-killed.html",
@@ -522,6 +542,16 @@
       "feedUrl": "http://www.aljazeera.com/xml/rss/all.xml",
       "siteUrl": "https://www.aljazeera.com",
       "articles": [
+        {
+          "id": "https://www.aljazeera.com/?t=1652348833",
+          "author": null,
+          "description": "With the departure of Russia from the body over Ukraine, Kosovo's chances of being accepted into the organisation grew.",
+          "link": "https://www.aljazeera.com/news/2022/5/12/kosovo-to-apply-for-council-of-europe-membership",
+          "publishedOn": "2022-05-12T10:31:08.000Z",
+          "wordCount": 398,
+          "title": "Kosovo to apply for Council of Europe membership",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2022/05/2022-03-14T092030Z_2129383158_RC292T908CWE_RTRMADP_3_UKRAINE-CRISIS-COUNCIL-OF-EUROPE.jpg?resize=1200%2C630"
+        },
         {
           "id": "https://www.aljazeera.com/?t=1652323941",
           "author": null,
@@ -973,6 +1003,26 @@
       "feedUrl": "http://rss.cnn.com/rss/edition_world.rss",
       "siteUrl": "https://www.cnn.com/world/index.html",
       "articles": [
+        {
+          "id": "https://www.cnn.com/2022/05/11/entertainment/maria-alyokhina-pussy-riot-moscow-escape-cec/index.html",
+          "author": null,
+          "description": "Maria Alyokhina, a member of the punk group Pussy Riot, which has long protested Russian President Vladimir Putin's regime, said she escaped the country disguised as a food courier.",
+          "link": "https://www.cnn.com/2022/05/11/entertainment/maria-alyokhina-pussy-riot-moscow-escape-cec/index.html",
+          "publishedOn": "2022-05-12T08:33:19.000Z",
+          "wordCount": 619,
+          "title": "Pussy Riot's Maria Alyokhina says she escaped Russia dressed as a food courier",
+          "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/220511110519-maria-alyokhina-0505-restricted-super-tease.jpg"
+        },
+        {
+          "id": "https://www.cnn.com/2022/05/11/asia/marcos-philippines-president-explainer-intl-hnk/index.html",
+          "author": null,
+          "description": "Ferdinand \"Bongbong\" Marcos Jr. is the presumptive President of the Philippines after winning a landslide in elections on May 9, according to unofficial results.",
+          "link": "https://www.cnn.com/2022/05/11/asia/marcos-philippines-president-explainer-intl-hnk/index.html",
+          "publishedOn": "2022-05-12T07:21:09.000Z",
+          "wordCount": 1858,
+          "title": "Who is 'Bongbong' Marcos Jr and why are some Filipinos nervous about his return?",
+          "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/220511224812-02-marcos-philippines-explainer-super-tease.jpg"
+        },
         {
           "id": "https://www.cnn.com/2022/05/11/asia/north-korea-covid-omicron-coronavirus-intl-hnk/index.html",
           "author": null,
@@ -5166,6 +5216,36 @@
       "siteUrl": "https://www.independent.co.uk//news/world",
       "articles": [
         {
+          "id": "b2076668",
+          "author": "Clémence Michallon",
+          "description": "As Depp’s $50m defamation lawsuit plays out in court in Virginia, Clémence Michallon looks at the former couple’s legal history",
+          "link": "https://www.independent.co.uk/news/world/americas/johnny-depp-amber-heard-trial-relationship-timeline-b2076668.html",
+          "publishedOn": "2022-05-12T10:19:32.000Z",
+          "wordCount": 2600,
+          "title": "Johnny Depp and Amber Heard: A timeline of their relationship, allegations, and court battles",
+          "imageUrl": "https://static.independent.co.uk/2022/03/28/22/newFile.jpg?quality=75&width=1200&auto=webp"
+        },
+        {
+          "id": "b2077378",
+          "author": "Clémence Michallon",
+          "description": "As Depp’s $50m defamation lawsuit plays out in court in Virginia, Clémence Michallon looks at the former couple’s legal history",
+          "link": "https://www.independent.co.uk/news/world/americas/johnny-depp-amber-heard-dating-sexual-assault-testimony-b2077378.html",
+          "publishedOn": "2022-05-12T10:19:22.000Z",
+          "wordCount": 2600,
+          "title": "Johnny Depp and Amber Heard: A timeline of their relationship, allegations, and court battles",
+          "imageUrl": "https://static.independent.co.uk/2022/03/28/22/newFile.jpg?quality=75&width=1200&auto=webp"
+        },
+        {
+          "id": "b2073490",
+          "author": "Clémence Michallon",
+          "description": "As Depp’s $50m defamation lawsuit plays out in court in Virginia, Clémence Michallon looks at the former couple’s legal history",
+          "link": "https://www.independent.co.uk/news/world/americas/johnny-depp-amber-heard-timeline-b2073490.html",
+          "publishedOn": "2022-05-12T10:17:55.000Z",
+          "wordCount": 2600,
+          "title": "Johnny Depp and Amber Heard: A timeline of their relationship, allegations, and court battles",
+          "imageUrl": "https://static.independent.co.uk/2022/03/28/22/newFile.jpg?quality=75&width=1200&auto=webp"
+        },
+        {
           "id": "b2077377",
           "author": null,
           "description": "The latest breaking news, comment and features from The Independent.",
@@ -8149,6 +8229,21 @@
       "siteUrl": "https://www.news24.com/news24",
       "articles": [
         {
+          "id": "https://www.news24.com/news24/World/News/china-passenger-jet-catches-fire-dozens-lightly-injured-20220512",
+          "author": null,
+          "description": "Tibet Airlines says all 113 passengers and nine crew on board the plane that caught fire were safely evacuated.",
+          "link": "https://www.news24.com/news24/World/News/china-passenger-jet-catches-fire-dozens-lightly-injured-20220512",
+          "publishedOn": "2022-05-12T12:30:10.000Z",
+          "wordCount": 1178,
+          "title": "News24.com | China passenger jet catches fire, dozens 'lightly injured'",
+          "enclosure": {
+            "url": "https://scripts.24.co.za/img/sites/news24.png",
+            "length": "1",
+            "type": "image/png"
+          },
+          "imageUrl": "https://scripts.24.co.za/img/sites/news24.png"
+        },
+        {
           "id": "https://www.businessinsider.co.za/north-korea-claims-first-ever-case-covid-19-lockdown-2022-5",
           "author": null,
           "description": "North Korea closed all its land borders in 2020 after cases of Covid-19 began to spread fast across Asia. It only reopened them in January this year.",
@@ -9355,6 +9450,16 @@
       "feedUrl": "http://www.channelnewsasia.com/rssfeeds/8395884",
       "siteUrl": "https://www.channelnewsasia.com/",
       "articles": [
+        {
+          "id": "https://www.channelnewsasia.com/world/kremlin-says-finland-joining-nato-definite-threat-russia-2680951",
+          "author": null,
+          "description": "LONDON: The Kremlin said on Thursday (May 12) that Finland's move to join NATO was \"definitely\" a threat to Russia and that the expansion of the military bloc would not make Europe or the world more stable.\n\nSpeaking to reporters on a conference call, Kremlin spokesman Dmitry Peskov said the steps take",
+          "link": "https://www.channelnewsasia.com/world/kremlin-says-finland-joining-nato-definite-threat-russia-2680951",
+          "publishedOn": "2022-05-12T10:23:35.000Z",
+          "wordCount": 869,
+          "title": "Kremlin says Finland joining NATO is definite threat to Russia",
+          "imageUrl": "https://onecms-res.cloudinary.com/image/upload/s--53h8h5jO--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-05-12t095217z_1_lynxnpei4b0f3_rtroptp_3_ukraine-crisis-putin-lukashenko.jpg?itok=7jA6dO2R"
+        },
         {
           "id": "https://www.channelnewsasia.com/world/us-marks-1-million-covid-19-deaths-early-epicenter-new-york-seeks-move-2680996",
           "author": null,
@@ -10842,6 +10947,504 @@
             "type": "image/jpeg/"
           },
           "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2022/05/11/sweden_britain_99769_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+        }
+      ]
+    },
+    {
+      "title": "Latest World News Headlines | Daily Telegraph",
+      "feedUrl": "https://www.dailytelegraph.com.au/news/world/rss",
+      "siteUrl": "https://www.dailytelegraph.com.au",
+      "articles": [
+        {
+          "id": "https://www.dailytelegraph.com.au/news/world/how-can-i-leave-them-here-social-worker-stays-in-ukrainian-town-despite-dangers/video/72a94cc290d71e953b858939a4575f56",
+          "author": null,
+          "description": "Shelling thunders in several directions and black smoke drifts upward in the distance as Zhanna Protsenko pedals around town in war-battered Orikhiv.",
+          "link": "https://www.dailytelegraph.com.au/news/world/how-can-i-leave-them-here-social-worker-stays-in-ukrainian-town-despite-dangers/video/72a94cc290d71e953b858939a4575f56",
+          "publishedOn": "2022-05-12T10:32:54.296Z",
+          "wordCount": 682,
+          "title": "‘How can I leave them here?’: Social worker stays in Ukrainian town despite dangers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.dailytelegraph.com.au/news/world/new-philippines-president-to-focus-on-maintaining-traditional-security-alliances/video/e0c2da7107061333c84c19db8aa3f3bc",
+          "author": null,
+          "description": "There’s been some indication newly elected Philippines President Ferdinand Marcos Jr will be “more sceptical” in his approach to China and more “favourable” to the United States, says Perth USAsia Centre CEO Gordon Flake.\n\n“Remember the Philippines remains a treaty ally of the United States,” Mr Flake told Sky News Australia.  \n\n“My anticipation is that regardless of his political leanings, a new Marcos presidency will likely be much more focused on maintaining those more traditional security alliances like with the United States.”",
+          "link": "https://www.dailytelegraph.com.au/news/world/new-philippines-president-to-focus-on-maintaining-traditional-security-alliances/video/e0c2da7107061333c84c19db8aa3f3bc",
+          "publishedOn": "2022-05-12T10:32:54.249Z",
+          "wordCount": 682,
+          "title": "New Philippines president to focus on maintaining ‘traditional security alliances’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.dailytelegraph.com.au/news/world/video-coastal-fire-burns-at-least-20-structures-near-los-angeles-evacuations-ordered/video/d3fb2a2618a08339fc89c5b8972b6359",
+          "author": null,
+          "description": "A number of structures near Los Angeles were destroyed by a wildfire along the southern Californian coast. Fire officials on Wednesday said several residential areas were evacuated and no injuries had been reported. Photo: Etienne Laurent/Shutterstock",
+          "link": "https://www.dailytelegraph.com.au/news/world/video-coastal-fire-burns-at-least-20-structures-near-los-angeles-evacuations-ordered/video/d3fb2a2618a08339fc89c5b8972b6359",
+          "publishedOn": "2022-05-12T10:32:54.200Z",
+          "wordCount": 682,
+          "title": "Video: Coastal Fire Burns at Least 20 Structures Near Los Angeles, Evacuations Ordered",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.dailytelegraph.com.au/news/world/possible-new-successor-to-vladimir-putin-emerges/video/6b96f241ec5787e3b10b54fd23256593",
+          "author": null,
+          "description": "There is a new online rumour about who could be Russian President Vladimir Putin’s successor.\n\nThe 69-year-old Russian president was seen deep in conversation during the country's Victory Parade for an extended period of time with Dmitry Kovalev, a 36-year-old member of the Presidential Administration.\n\nWhile there is little factual evidence to back up the online rumours, it does indicate attention has turned to who will take over at the Kremlin once Putin is gone.",
+          "link": "https://www.dailytelegraph.com.au/news/world/possible-new-successor-to-vladimir-putin-emerges/video/6b96f241ec5787e3b10b54fd23256593",
+          "publishedOn": "2022-05-12T10:32:54.162Z",
+          "wordCount": 682,
+          "title": "Possible new successor to Vladimir Putin emerges",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.dailytelegraph.com.au/news/world/white-house-staff-reportedly-worried-about-hunter-bidens-sugar-brother/video/7ee4a64e39b2085c0040d32becbb5828",
+          "author": null,
+          "description": "White House staff are worried Hunter Biden’s “sugar brother” Kevin Morris could create more bad buzz for Democrats by pushing the president’s son back into incriminating headlines, according to The New York Times.",
+          "link": "https://www.dailytelegraph.com.au/news/world/white-house-staff-reportedly-worried-about-hunter-bidens-sugar-brother/video/7ee4a64e39b2085c0040d32becbb5828",
+          "publishedOn": "2022-05-12T10:32:54.121Z",
+          "wordCount": 682,
+          "title": "White House staff reportedly worried about Hunter Biden’s ‘sugar brother’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.dailytelegraph.com.au/news/world/significance-of-chinasolomons-deal-needlessly-blown-out-of-proportion/video/ebc7f42f868b44cfe2d8c15521266146",
+          "author": null,
+          "description": "The last thing Australia needs is for both government and opposition to be \"closing down options\" with China rather than keeping them open, says University of Melbourne’s Professor Michael Wesley.\n\n\"Both sides are now sort of burnishing their national security credentials, burnishing their toughness – and what that does is remove creative possibilities for taking the relationship forward pragmatically,\" Prof Wesley told Sky News Australia.\n\nHe said he was not optimistic about the trajectory of Australia's relationship with China.\n\n\"We've needlessly blown out of proportion the significance of the China-Solomon Islands agreement – it's very hard to walk back from that now.\n\n\"I do worry that if not locked into this level of antagonism, there will certainly be a sort of a cold relationship between Australia and its major trading partner for awhile yet.\"",
+          "link": "https://www.dailytelegraph.com.au/news/world/significance-of-chinasolomons-deal-needlessly-blown-out-of-proportion/video/ebc7f42f868b44cfe2d8c15521266146",
+          "publishedOn": "2022-05-12T10:32:54.076Z",
+          "wordCount": 682,
+          "title": "Significance of China-Solomons deal ‘needlessly blown out of proportion’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.dailytelegraph.com.au/news/world/justin-trudeau-is-sanctioning-medical-violence/video/e004c556749ee468f618a9f2699a8877",
+          "author": null,
+          "description": "Critics have argued Canada's euthanasia's laws are too broad, after a disabled woman who couldn't access affordable housing to ease her chronic health condition was allowed to end her life.\n\nThe case was first published by Canada's CTV News and has attracted condemnation from many Canadians. \n\nAuthor and ethicist Charlie Camosy told Fox News Justin Trudeau's government is endorsing \"medical violence.\"",
+          "link": "https://www.dailytelegraph.com.au/news/world/justin-trudeau-is-sanctioning-medical-violence/video/e004c556749ee468f618a9f2699a8877",
+          "publishedOn": "2022-05-12T10:32:54.038Z",
+          "wordCount": 682,
+          "title": "Justin Trudeau is sanctioning ‘medical violence’",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.dailytelegraph.com.au/news/world/vladimir-putins-possible-successor-is-half-his-age/video/258b96c26616af72449f1bca206b8dfc",
+          "author": null,
+          "description": "Rumours immediately began to swirl that Dmitry Kovalev could be Putin's hand-picked successor",
+          "link": "https://www.dailytelegraph.com.au/news/world/vladimir-putins-possible-successor-is-half-his-age/video/258b96c26616af72449f1bca206b8dfc",
+          "publishedOn": "2022-05-12T10:32:53.981Z",
+          "wordCount": 682,
+          "title": "Vladimir Putin’s possible successor is half his age",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.dailytelegraph.com.au/news/world/north-korea-declares-severe-national-emergency-after-recording-first-covid19-case/news-story/0cc030e7f2ab1249fa963e30bc1956f4",
+          "author": null,
+          "description": "North Korea confirmed its first-ever Covid cases on Thursday and declared a “serious emergency”, with leader Kim Jong-un ordering lockdowns across the country.",
+          "link": "https://www.dailytelegraph.com.au/news/world/north-korea-declares-severe-national-emergency-after-recording-first-covid19-case/news-story/0cc030e7f2ab1249fa963e30bc1956f4",
+          "publishedOn": "2022-05-12T10:32:53.655Z",
+          "wordCount": 682,
+          "title": "Nation scrambles as first Covid case recorded",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.dailytelegraph.com.au/news/world/putin-reportedly-bathes-in-blood-to-boost-health/video/62e08d8c9b7a599309a4624b6acf60a2",
+          "author": null,
+          "description": "Putin is one of many Russians who have consumed and bathed in blood from the severed antlers of Siberian red deers",
+          "link": "https://www.dailytelegraph.com.au/news/world/putin-reportedly-bathes-in-blood-to-boost-health/video/62e08d8c9b7a599309a4624b6acf60a2",
+          "publishedOn": "2022-05-12T10:32:53.601Z",
+          "wordCount": 682,
+          "title": "Putin reportedly ‘bathes in blood’ to boost health",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "RAND Research Topic: International Affairs",
+      "feedUrl": "https://www.rand.org/topics/international-affairs.xml/feed",
+      "siteUrl": "https://www.rand.org/topics/international-affairs.html",
+      "articles": [
+        {
+          "id": "https://www.rand.org/congress/newsletters/national_security/2022/04.html",
+          "author": null,
+          "description": "Gray zone tactics are widely recognized as playing an increasingly important role in China’s efforts to advance its domestic, economic, foreign policy, and security objectives. But there is little consensus on which tactics pose the greatest challenges to the United States and its allies and partners.",
+          "link": "https://www.rand.org/congress/newsletters/national_security/2022/04.html",
+          "publishedOn": "2022-04-29T05:00:00.000Z",
+          "wordCount": 1044,
+          "title": "Countering China's Gray Zone Coercion",
+          "imageUrl": "https://wwwassets.rand.org/content/rand/congress/newsletters/national_security/2022/04/jcr:content/par/teaser.aspectfit.0x1200.jpg/1651178897416.jpg"
+        },
+        {
+          "id": "https://www.rand.org/blog/rand-review/2022/04/tracking-migration-amid-war-and-disease.html",
+          "author": null,
+          "description": "Researchers from RAND and RAND Europe have been working on a way to better track migrant numbers, country by country and state by state, in almost real time. They do it by tapping into one of the largest information-gathering operations on the planet, Facebook.",
+          "link": "https://www.rand.org/blog/rand-review/2022/04/tracking-migration-amid-war-and-disease.html",
+          "publishedOn": "2022-04-28T12:15:00.000Z",
+          "wordCount": 1961,
+          "title": "Tracking Migration Amid War and Disease",
+          "imageUrl": "https://wwwassets.rand.org/content/rand/blog/rand-review/2022/04/tracking-migration-amid-war-and-disease/jcr:content/par/teaser.aspectfit.0x1200.jpg/1651496040058.jpg"
+        },
+        {
+          "id": "https://www.rand.org/pubs/research_reports/RRA393-3.html",
+          "author": null,
+          "description": "The United States has been hoping to develop and deploy ground-based intermediate-range missiles to the Indo-Pacific. But what is the likelihood of its treaty allies in the region&mdash;Australia, Japan, the Philippines, South Korea, and Thailand&mdash;hosting these systems? Are there alternatives to permanent basing?",
+          "link": "https://www.rand.org/pubs/research_reports/RRA393-3.html",
+          "publishedOn": "2022-04-28T10:00:00.000Z",
+          "wordCount": 1751,
+          "title": "Challenges of Deploying Ground-Based Intermediate-Range Missiles on Allied Lands",
+          "imageUrl": "https://wwwassets.rand.org/content/rand/pubs/research_reports/RRA393-3/jcr:content/par/teaser.aspectfit.0x1200.jpg/1651602724966.jpg"
+        },
+        {
+          "id": "https://www.rand.org/pubs/research_reports/RRA847-1.html",
+          "author": null,
+          "description": "<p>The authors assess the sufficiency of resources available to pursue U.S. national security objectives in the Western Hemisphere and describe the activities and investments of China, Russia, and Iran in the region.</p>",
+          "link": "https://www.rand.org/pubs/research_reports/RRA847-1.html",
+          "publishedOn": "2022-04-28T08:00:00.000Z",
+          "wordCount": 2040,
+          "title": "U.S. Resourcing to National Security Interests in Latin America and the Caribbean in the Context of Adversary Activities in the Region",
+          "imageUrl": "https://wwwassets.rand.org/content/rand/pubs/research_reports/RRA847-1/jcr:content/par/teaser.aspectfit.0x1200.jpg/1651606183710.jpg"
+        },
+        {
+          "id": "https://www.rand.org/about/nextgen/art-plus-data/juan-delcan-and-valentina-izaguirre/risks-of-geoengineering.html",
+          "author": null,
+          "description": "Geoengineering&mdash;the intentional manipulation of the climate&mdash;could help curb global warming, but it could also have world-altering consequences. In a new animated video, RAND artists-in-residence Juan Delcan and Valentina Izaguirre take a lighthearted look at this serious issue.",
+          "link": "https://www.rand.org/about/nextgen/art-plus-data/juan-delcan-and-valentina-izaguirre/risks-of-geoengineering.html",
+          "publishedOn": "2022-04-27T08:00:00.000Z",
+          "wordCount": 454,
+          "title": "The Risks of Geoengineering",
+          "imageUrl": "https://wwwassets.rand.org/content/rand/about/nextgen/art-plus-data/juan-delcan-and-valentina-izaguirre/risks-of-geoengineering/jcr:content/par/teaser.aspectfit.0x1200.jpg/1651004518041.jpg"
+        },
+        {
+          "id": "https://www.rand.org/blog/2022/04/geostrategic-consequences-of-russias-war-against-ukraine.html",
+          "author": null,
+          "description": "After two months of fighting in Ukraine, some longer-term geostrategic consequences are coming into focus. Russia may emerge as a massive loser. Perhaps not since the collapse of the USSR has European security been so challenged. But Ukraine and its Western partners are showing that aggression in Europe may not pay.",
+          "link": "https://www.rand.org/blog/2022/04/geostrategic-consequences-of-russias-war-against-ukraine.html",
+          "publishedOn": "2022-04-26T14:50:00.000Z",
+          "wordCount": 1761,
+          "title": "Geostrategic Consequences of Russia's War Against Ukraine",
+          "imageUrl": "https://wwwassets.rand.org/content/rand/blog/2022/04/geostrategic-consequences-of-russias-war-against-ukraine/jcr:content/par/teaser.aspectfit.0x1200.jpg/1650999118629.jpg"
+        }
+      ]
+    },
+    {
+      "title": "CBNNews.com",
+      "feedUrl": "http://www1.cbn.com/cbnnews/world/feed",
+      "siteUrl": "http://www.cbn.com/cbnnews/feed/",
+      "articles": [
+        {
+          "id": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/israel/2022/may/finlands-leaders-in-favor-of-applying-for-nato-membership",
+          "author": null,
+          "description": "Finland's president and prime minister said Thursday they’re in favor of applying for NATO membership, paving the way for the alliance to expand amid Russia’s war in Ukraine.",
+          "link": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/israel/2022/may/finlands-leaders-in-favor-of-applying-for-nato-membership",
+          "publishedOn": "2022-05-12T09:03:00.000Z",
+          "wordCount": 899,
+          "title": "Finland's Leaders in Favor of Applying for NATO Membership",
+          "imageUrl": "https://www1.cbn.com/sites/default/files/media/standard/images/ap22131614630221.jpg"
+        },
+        {
+          "id": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/cwn/2022/may/deconstructing-deconstruction-david-crowder-faith-leaders-share-experiences-to-help-christians-face-the-controversy",
+          "author": null,
+          "description": "As faith deconstruction grows among believers in the church, David Crowder and other faith leaders shared their experience and understanding of the movement, so the church can learn how to approach this controversial topic.",
+          "link": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/cwn/2022/may/deconstructing-deconstruction-david-crowder-faith-leaders-share-experiences-to-help-christians-face-the-controversy",
+          "publishedOn": "2022-05-11T20:32:39.000Z",
+          "wordCount": 1232,
+          "title": "Deconstructing Deconstruction: David Crowder, Faith Leaders Share Experiences to Help Christians Face the Controversy",
+          "imageUrl": "https://www1.cbn.com/sites/default/files/davidcrowder.jpg"
+        },
+        {
+          "id": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/cwn/2022/may/a-work-of-faith-hope-and-gratitude-construction-continues-on-brazils-143-foot-statue-of-christ-the-protector",
+          "author": null,
+          "description": "After two years of work, an enormous statue of Jesus Christ is standing tall in Brazil and is larger than the iconic Christ the Redeemer that overlooks Rio de Janeiro.",
+          "link": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/cwn/2022/may/a-work-of-faith-hope-and-gratitude-construction-continues-on-brazils-143-foot-statue-of-christ-the-protector",
+          "publishedOn": "2022-05-11T20:09:50.000Z",
+          "wordCount": 761,
+          "title": "A Work of Faith, Hope and Gratitude: Construction Continues on Brazil's 143-Foot Statue of 'Christ the Protector'",
+          "imageUrl": "https://www1.cbn.com/sites/default/files/media/slider/images/christtheprotector_hdv_1.jpg"
+        },
+        {
+          "id": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/cwn/2022/may/90-year-old-bishop-arrested-in-hong-kong-for-supporting-democracy",
+          "author": null,
+          "description": "Authorities in Hong Kong arrested a 90-year-old former Catholic bishop over his reported support for a pro-democracy group.",
+          "link": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/cwn/2022/may/90-year-old-bishop-arrested-in-hong-kong-for-supporting-democracy",
+          "publishedOn": "2022-05-11T19:55:14.000Z",
+          "wordCount": 1218,
+          "title": "90-Year-Old Bishop Arrested in Hong Kong for Supporting Democracy",
+          "imageUrl": "https://www1.cbn.com/sites/default/files/media/slider/images/cardinaljosephzen.jpg"
+        },
+        {
+          "id": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/world/2022/may/ns-in-the-heavens-blood-red-skies-in-china-and-super-flower-blood-moon-in-us-prompt-biblical-end-times-talk",
+          "author": null,
+          "description": "Unique weather conditions in China's port city of Zhoushan caused the sky to turn blood-red earlier this week, and left many of the city's residents wondering if the end of the world had come.",
+          "link": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/world/2022/may/ns-in-the-heavens-blood-red-skies-in-china-and-super-flower-blood-moon-in-us-prompt-biblical-end-times-talk",
+          "publishedOn": "2022-05-11T16:24:46.000Z",
+          "wordCount": 1564,
+          "title": "Signs in the Heavens: Blood Red Skies in China and 'Super Flower Blood Moon' in US Prompt Biblical End Times Talk",
+          "imageUrl": "https://www1.cbn.com/sites/default/files/media/slider/images/chinaredsky_hdv.jpg"
+        },
+        {
+          "id": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/cwn/2022/may/ukrainians-make-gains-in-east-stop-russian-gas-at-one-hub",
+          "author": null,
+          "description": "Ukraine's natural gas pipeline operator on Wednesday stopped Russian shipments through a key hub in the east of the country, while its president, Volodymyr Zelenskyy, said Kyiv's military had made small gains, pushing Russian forces out of four villages near Kharkiv.",
+          "link": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/cwn/2022/may/ukrainians-make-gains-in-east-stop-russian-gas-at-one-hub",
+          "publishedOn": "2022-05-11T09:18:59.000Z",
+          "wordCount": 1404,
+          "title": "Ukrainians Make Gains in East, Stop Russian Gas at One Hub",
+          "imageUrl": "https://www1.cbn.com/sites/default/files/media/standard/images/ap22130720702669.jpg"
+        },
+        {
+          "id": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/world/2022/may/marcos-jr-won-philippine-presidency-unofficial-count-shows",
+          "author": null,
+          "description": "The namesake son of late Philippine dictator Ferdinand Marcos appeared to have been elected Philippine president by a landslide in an astonishing reversal of the 1986 “People Power” pro-democracy revolt that ousted his father.",
+          "link": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/world/2022/may/marcos-jr-won-philippine-presidency-unofficial-count-shows",
+          "publishedOn": "2022-05-10T08:08:01.000Z",
+          "wordCount": 1350,
+          "title": "Marcos Jr. Won Philippine Presidency, Unofficial Count Shows",
+          "imageUrl": "https://www1.cbn.com/sites/default/files/media/standard/images/ap22130122426666.jpg"
+        },
+        {
+          "id": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/world/2022/may/russia-fires-hypersonic-missiles-at-odesa-after-holiday-pomp",
+          "author": null,
+          "description": "Ukraine's vital Black Sea port of Odesa came under repeated missile attack, including from some hypersonic missiles, after Russia marked its biggest patriotic holiday without giving new information about the war. Also, a Ukrainian official said the bodies of 44 civilians were found in the rubble of a building destroyed by Russia in March.",
+          "link": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/world/2022/may/russia-fires-hypersonic-missiles-at-odesa-after-holiday-pomp",
+          "publishedOn": "2022-05-10T07:57:25.000Z",
+          "wordCount": 1498,
+          "title": "Russia Fires Hypersonic Missiles at Odesa After Holiday Pomp",
+          "imageUrl": "https://www1.cbn.com/sites/default/files/media/standard/images/ap22088777786532.jpg"
+        },
+        {
+          "id": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/2022/may/iran-tells-9-year-old-girls-begin-planning-now-to-raise-terrorist-martyr-babies",
+          "author": null,
+          "description": "During a recent speech to schoolgirls in Tehran, a top Iranian leader told nine-year-old girls to \"begin planning\" now \"to start a family in order to raise (the next generation) to be like the martyr (Iranian military leader Qasem) Soleimani.\"",
+          "link": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/2022/may/iran-tells-9-year-old-girls-begin-planning-now-to-raise-terrorist-martyr-babies",
+          "publishedOn": "2022-05-09T19:35:03.000Z",
+          "wordCount": 1348,
+          "title": "Iran Tells 9-Year-Old Girls: 'Begin Planning' Now to Raise Terrorist 'Martyr' Babies",
+          "imageUrl": "https://www1.cbn.com/sites/default/files/media/slider/images/terrorbabies_hdv.jpg"
+        },
+        {
+          "id": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/world/2022/may/russia-marks-wwii-victory-shadowed-by-ukraine",
+          "author": null,
+          "description": "Russian forces pushed forward Monday in their assault on Ukraine, seeking to capture the crucial southern port city of Mariupol as Moscow celebrated its Victory Day holiday.",
+          "link": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/world/2022/may/russia-marks-wwii-victory-shadowed-by-ukraine",
+          "publishedOn": "2022-05-09T08:30:27.000Z",
+          "wordCount": 1676,
+          "title": "Russia Marks WWII Victory Shadowed by Ukraine",
+          "imageUrl": "https://www1.cbn.com/sites/default/files/media/slider/images/putinrussia02_hdv.jpg"
+        },
+        {
+          "id": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/world/2022/may/ousted-dictators-son-may-be-next-president-of-philippines-despite-tax-evasion-and-familys-plunder-of-billions",
+          "author": null,
+          "description": "Filipinos stood in long lines to choose a new president Monday, with the son of an ousted dictator and a champion of human rights the top contenders in a tenuous moment in a deeply divided Asian democracy.",
+          "link": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/world/2022/may/ousted-dictators-son-may-be-next-president-of-philippines-despite-tax-evasion-and-familys-plunder-of-billions",
+          "publishedOn": "2022-05-09T07:45:55.000Z",
+          "wordCount": 776,
+          "title": "Ousted Dictator's Son May Be Next President of Philippines Despite Tax Evasion and Family's Plunder of Billions",
+          "imageUrl": "https://www1.cbn.com/sites/default/files/media/standard/images/ap22129063001252_0.jpg"
+        },
+        {
+          "id": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/cwn/2022/may/museum-of-the-bible-welcomes-president-of-ghana-for-inaugural-africa-lecture-on-national-day-of-prayer",
+          "author": null,
+          "description": "Washington D.C.'s Museum of the Bible welcomed His Excellency President Akufo-Addo of Ghana as the guest of honor and a keynote speaker Thursday, coinciding with the observance of the National Day of Prayer (NDOP).",
+          "link": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/cwn/2022/may/museum-of-the-bible-welcomes-president-of-ghana-for-inaugural-africa-lecture-on-national-day-of-prayer",
+          "publishedOn": "2022-05-08T18:08:57.000Z",
+          "wordCount": 821,
+          "title": "Museum of the Bible Welcomes President of Ghana for Inaugural Africa Lecture on National Day of Prayer",
+          "imageUrl": "https://www1.cbn.com/sites/default/files/media/slider/images/museumofthebible.png"
+        },
+        {
+          "id": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/world/2022/may/jill-biden-pays-surprise-visit-to-ukraine-meets-first-lady",
+          "author": null,
+          "description": "Jill Biden made an unannounced visit to western Ukraine on Sunday, holding a surprise Mother’s Day meeting with first lady Olena Zelenska to show U.S. support for the embattled nation as Russia presses its punishing war in the eastern regions.",
+          "link": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/world/2022/may/jill-biden-pays-surprise-visit-to-ukraine-meets-first-lady",
+          "publishedOn": "2022-05-08T15:54:20.000Z",
+          "wordCount": 1515,
+          "title": "Jill Biden Pays Surprise Visit to Ukraine, Meets First Lady",
+          "imageUrl": "https://www1.cbn.com/sites/default/files/media/slider/images/jillbidenukraine.jpg"
+        },
+        {
+          "id": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/world/2022/may/crews-work-through-2nd-night-after-cuba-hotel-blast-kills-27",
+          "author": null,
+          "description": "Crews worked through a second night searching for victims of a hotel explosion that killed at least 27 people in Cuba’s capital and left more than a dozen missing amid the rubble.",
+          "link": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/world/2022/may/crews-work-through-2nd-night-after-cuba-hotel-blast-kills-27",
+          "publishedOn": "2022-05-08T12:43:14.000Z",
+          "wordCount": 924,
+          "title": "Crews Work Through 2nd Night After Cuba Hotel Blast Kills 27",
+          "imageUrl": "https://www1.cbn.com/sites/default/files/media/slider/images/cubarecovery.jpeg"
+        },
+        {
+          "id": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/world/2022/may/rescuers-look-for-victims-at-cuba-hotel-after-blast-kills-22",
+          "author": null,
+          "description": "Rescuers in Cuba’s capital were searching rubble through the night to find more victims of an explosion that killed at least 22 people and injured dozens at a luxury hotel that once hosted dignitaries and celebrities, including Beyoncé and Jay-Z.",
+          "link": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/world/2022/may/rescuers-look-for-victims-at-cuba-hotel-after-blast-kills-22",
+          "publishedOn": "2022-05-07T11:19:20.000Z",
+          "wordCount": 1212,
+          "title": "Rescuers Look for Victims at Cuba Hotel After Blast Kills 22",
+          "imageUrl": "https://www1.cbn.com/sites/default/files/media/slider/images/havanaexplosion.jpg"
+        },
+        {
+          "id": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/world/2022/may/ukrainians-take-a-last-stand-in-mariupol-ny-times-claims-us-behind-deaths-of-12-russian-generals",
+          "author": null,
+          "description": "Ukrainian fighters battling Russian forces in the tunnels beneath Mariupol’s immense steel plant refused to surrender in the face of relentless attacks, with the wife of one commander saying they had vowed to “stand till the end.”",
+          "link": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/world/2022/may/ukrainians-take-a-last-stand-in-mariupol-ny-times-claims-us-behind-deaths-of-12-russian-generals",
+          "publishedOn": "2022-05-06T08:08:22.000Z",
+          "wordCount": 813,
+          "title": "Ukrainians Take a Last Stand in Mariupol, NY Times Claims US Behind Deaths of 12 Russian Generals",
+          "imageUrl": "https://www1.cbn.com/sites/default/files/media/standard/images/ap22125701377041.jpg"
+        },
+        {
+          "id": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/world/2022/may/s-operation-blessing-ready-waiting-to-help-ukrainian-refugees-crossing-ukraine-poland-border",
+          "author": null,
+          "description": "Nearly six million people have now fled the fighting in Ukraine with more than half of them taking refuge in neighboring Poland.",
+          "link": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/world/2022/may/s-operation-blessing-ready-waiting-to-help-ukrainian-refugees-crossing-ukraine-poland-border",
+          "publishedOn": "2022-05-05T13:43:04.000Z",
+          "wordCount": 952,
+          "title": "CBN's Operation Blessing Ready, Waiting to Help Ukrainian Refugees Crossing Ukraine - Poland Border",
+          "imageUrl": "https://www1.cbn.com/sites/default/files/media/slider/images/obpolandsprings_hdv.jpg"
+        },
+        {
+          "id": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/world/2022/may/ukraine-repels-some-attacks-but-combat-rages-at-steel-mill",
+          "author": null,
+          "description": "Ukrainian forces said Thursday they repelled Russian attacks in the east and recaptured some territory, even as Moscow moved to obstruct the flow of Western weapons to Ukraine by bombarding rail stations and other supply-line targets across the country.",
+          "link": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/world/2022/may/ukraine-repels-some-attacks-but-combat-rages-at-steel-mill",
+          "publishedOn": "2022-05-05T07:15:04.000Z",
+          "wordCount": 1597,
+          "title": "Ukraine Repels Some Attacks but Combat Rages at Steel Mill",
+          "imageUrl": "https://www1.cbn.com/sites/default/files/media/standard/images/ap22123617427407_0.jpg"
+        },
+        {
+          "id": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/cwn/2022/may/russian-priests-publicly-condemn-war-in-ukraine-despite-threat-of-sanctions-and-imprisonment",
+          "author": null,
+          "description": "A pair of Russian priests are speaking out in opposition to Vladimir Putin's military campaign in Ukraine, despite the risk of imprisonment or angering Russian Orthodox Church officials.",
+          "link": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/cwn/2022/may/russian-priests-publicly-condemn-war-in-ukraine-despite-threat-of-sanctions-and-imprisonment",
+          "publishedOn": "2022-05-04T19:11:29.000Z",
+          "wordCount": 864,
+          "title": "Russian Priests Publicly Condemn War in Ukraine Despite Threat of Sanctions and Imprisonment",
+          "imageUrl": "https://www1.cbn.com/sites/default/files/media/slider/images/russianpriests_hdv.jpg"
+        },
+        {
+          "id": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/cwn/2022/may/opposition-to-our-religious-beliefs-uk-mayor-wants-franklin-grahams-god-loves-you-tour-ads-off-of-city-buses",
+          "author": null,
+          "description": "Franklin Graham is receiving pushback once again from an official in the United Kingdom who has taken issue with the evangelist's religious beliefs on marriage and sexuality.",
+          "link": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/cwn/2022/may/opposition-to-our-religious-beliefs-uk-mayor-wants-franklin-grahams-god-loves-you-tour-ads-off-of-city-buses",
+          "publishedOn": "2022-05-04T17:22:49.000Z",
+          "wordCount": 1252,
+          "title": "'Opposition to Our Religious Beliefs': UK Mayor Wants Franklin Graham's 'God Loves You' Tour Ads Off of City Buses",
+          "imageUrl": "https://www1.cbn.com/sites/default/files/media/slider/images/franklingrahambible_hdv.jpg"
+        },
+        {
+          "id": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/world/2022/may/war-in-ukraine-sparks-fears-of-global-wheat-shortage",
+          "author": null,
+          "description": "The war in Ukraine means much of Ukraine's winter wheat crop will never be harvested, and wheat stored in silos near Odesa can't make it to market becasue of Russia's blockade of ports on the Black Sea. That means countries that rely on Ukrainian wheat are already experiencing shortages.",
+          "link": "http://www.cbn.com/api/urlredirect.aspx?u=http://www1.cbn.com/cbnnews/world/2022/may/war-in-ukraine-sparks-fears-of-global-wheat-shortage",
+          "publishedOn": "2022-05-04T14:50:39.000Z",
+          "wordCount": 1009,
+          "title": "War in Ukraine Sparks Fears of Global Wheat Shortage",
+          "imageUrl": "https://www1.cbn.com/sites/default/files/media/slider/images/cho234wheatshortage_hdv.jpg"
+        }
+      ]
+    },
+    {
+      "title": "DKODING",
+      "feedUrl": "https://www.dkoding.in/feed/",
+      "siteUrl": "https://www.dkoding.in",
+      "articles": [
+        {
+          "id": "https://www.dkoding.in/press-release/award-winning-indian-hotelier-roop-partap-choudhary-to-judge-uks-prestigious-startup-awards-national-series/",
+          "author": "DKODING",
+          "description": "~ Roop is the Founder of London’s premium Indian restaurant Colonel Saab and Executive Director of Jewel Group of Hotels and Incredible Indian Palace Hotel Brand Noor Mahal~ NEW DELHI and LONDON, May 12, 2022 /PRNewswire/ — Adding another feather to his cap, award-winning Indian entrepreneur, hotelier, and restaurateur Roop Partap Choudhary has been selected as…\nThe post Award-winning Indian hotelier Roop Partap Choudhary to judge UK’s prestigious StartUp Awards National Series appeared first on DKODING.",
+          "link": "https://www.dkoding.in/press-release/award-winning-indian-hotelier-roop-partap-choudhary-to-judge-uks-prestigious-startup-awards-national-series/",
+          "publishedOn": "2022-05-12T10:30:07.000Z",
+          "wordCount": 2582,
+          "title": "Award-winning Indian hotelier Roop Partap Choudhary to judge UK’s prestigious StartUp Awards National Series",
+          "imageUrl": "https://rt.prnewswire.com/rt.gif?NewsItemId=EN55598&Transmission_Id=202205120520PR_NEWS_EURO_ND__EN55598&DateId=20220512"
+        },
+        {
+          "id": "https://www.dkoding.in/press-release/abhinav-immigration-president-ajay-sharma-bestowed-the-prestigious-business-leader-of-the-year-award-for-2022/",
+          "author": "DKODING",
+          "description": "Business Wire India Mr. Ajay Sharma, President, and Founder of Abhinav Immigration Services Private Limited, has been awarded the Business Leader of the Year award for 2022 at the 20th Global and 5th Edition India Business Leader of the Year Awards held in the city recently. The award is endorsed by reputed bodies like “World…\nThe post Abhinav Immigration President Ajay Sharma Bestowed the Prestigious Business Leader of the Year Award for 2022 appeared first on DKODING.",
+          "link": "https://www.dkoding.in/press-release/abhinav-immigration-president-ajay-sharma-bestowed-the-prestigious-business-leader-of-the-year-award-for-2022/",
+          "publishedOn": "2022-05-12T10:30:05.000Z",
+          "wordCount": 2286,
+          "title": "Abhinav Immigration President Ajay Sharma Bestowed the Prestigious Business Leader of the Year Award for 2022",
+          "imageUrl": "https://cms.businesswireindia.com/images/pixel.gif"
+        },
+        {
+          "id": "https://www.dkoding.in/press-release/big-data-exchange-bdx-expands-into-indonesia-through-us-300m-indosat-ooredoo-hutchison-and-lintasarta-joint-venture/",
+          "author": "DKODING",
+          "description": "Agreement Launches Development of World-Class Data Centers; The Joint Venture Company Set to Transform Indonesia’s Digital Landscape JAKARTA, Indonesia, May 12, 2022 /PRNewswire/ — Big Data Exchange (BDx), a leading data center solutions provider in Asia Pacific, announces today it has inked a conditional sale and purchase agreement of shares (CSPA) and joint venture agreement, together…\nThe post Big Data Exchange (BDx) Expands Into Indonesia Through US $300M Indosat Ooredoo Hutchison and Lintasarta Joint Venture appeared first on DKODING.",
+          "link": "https://www.dkoding.in/press-release/big-data-exchange-bdx-expands-into-indonesia-through-us-300m-indosat-ooredoo-hutchison-and-lintasarta-joint-venture/",
+          "publishedOn": "2022-05-12T10:30:04.000Z",
+          "wordCount": 2477,
+          "title": "Big Data Exchange (BDx) Expands Into Indonesia Through US $300M Indosat Ooredoo Hutchison and Lintasarta Joint Venture",
+          "imageUrl": "https://mma.prnewswire.com/media/1086297/BDx_Logo.jpg"
+        },
+        {
+          "id": "https://www.dkoding.in/press-release/synechron-further-expands-its-presence-in-india-launches-8th-office-and-13th-finlabs-across-the-globe/",
+          "author": "DKODING",
+          "description": "PUNE, India, May 12, 2022 /PRNewswire/ — Synechron Holdings Inc., a leading provider of digital transformation services to financial institutions, today announced the unveiling of their new office in Pune, India. This is their 8th office in the country and 3rd in the city of Pune after setting up offices across Bengaluru, Mumbai, Chennai, and Hyderabad.…\nThe post Synechron Further Expands Its Presence in India, Launches 8th Office and 13th FinLabs Across the Globe appeared first on DKODING.",
+          "link": "https://www.dkoding.in/press-release/synechron-further-expands-its-presence-in-india-launches-8th-office-and-13th-finlabs-across-the-globe/",
+          "publishedOn": "2022-05-12T09:30:10.000Z",
+          "wordCount": 2495,
+          "title": "Synechron Further Expands Its Presence in India, Launches 8th Office and 13th FinLabs Across the Globe",
+          "imageUrl": "https://mma.prnewswire.com/media/1816623/Synechron_Pune_Office_Inauguration.jpg"
+        },
+        {
+          "id": "https://www.dkoding.in/press-release/india-witnesses-its-first-largest-long-term-operator-deal-between-wework-india-and-bhutani-group-for-alphathum-noida/",
+          "author": "DKODING",
+          "description": "The deal signifies a watershed moment for the flex space industry and is WeWork’s largest, long-term expansion deal to date It is an Operator Deal, where the entire building P&L will be owned by Bhutani Group along with fitout investments Located in Noida, Alphathum is spread across 6,60,000+ square feet with over 8,500+ desks with…\nThe post India witnesses its first largest long-term Operator Deal between WeWork India and Bhutani Group for Alphathum, Noida appeared first on DKODING.",
+          "link": "https://www.dkoding.in/press-release/india-witnesses-its-first-largest-long-term-operator-deal-between-wework-india-and-bhutani-group-for-alphathum-noida/",
+          "publishedOn": "2022-05-12T09:30:07.000Z",
+          "wordCount": 2608,
+          "title": "India witnesses its first largest long-term Operator Deal between WeWork India and Bhutani Group for Alphathum, Noida",
+          "imageUrl": "https://rt.prnewswire.com/rt.gif?NewsItemId=EN55538&Transmission_Id=202205120500PR_NEWS_EURO_ND__EN55538&DateId=20220512"
+        },
+        {
+          "id": "https://www.dkoding.in/press-release/philips-expands-manufacturing-and-research-and-development-facility-in-pune-maharashtra/",
+          "author": "DKODING",
+          "description": "Business Wire India Royal Philips (NYSE: PHG, AEX: PHIA), a global leader in health technology today unveiled the conclusion of 7,200 sqm expansion in its factory in Chakan, Maharashtra. The state-of-the-art factory now houses a total floor space of 11,700 sqm. and supports the MR Radio Frequency Coil, Mobile Surgery Systems, and Ultrasound assembly businesses amongst other activities. The expanded facility was inaugurated by Bert van Meurs, Chief Business Leader, Philips…\nThe post Philips Expands Manufacturing and Research and Development Facility in Pune, Maharashtra appeared first on DKODING.",
+          "link": "https://www.dkoding.in/press-release/philips-expands-manufacturing-and-research-and-development-facility-in-pune-maharashtra/",
+          "publishedOn": "2022-05-12T09:30:07.000Z",
+          "wordCount": 2309,
+          "title": "Philips Expands Manufacturing and Research and Development Facility in Pune, Maharashtra",
+          "imageUrl": "https://cms.businesswireindia.com/images/pixel.gif"
+        },
+        {
+          "id": "https://www.dkoding.in/press-release/dbs-banks-grant-programme-to-help-smes-kickstart-sustainability-journey/",
+          "author": "DKODING",
+          "description": "Grant up to SGD 10,000 to SME awardees with innovative sustainable solutions in reducing energy consumption, reducing waste, sustainable supply chains  Also continues to deepen support for social enterprises, with its popular flagship Social Enterprise Grant Programme back for its eighth year  SE awardees will receive grants up to SGD 250,000 for ideas on social…\nThe post DBS Bank’s Grant Programme to help SMEs kickstart sustainability journey appeared first on DKODING.",
+          "link": "https://www.dkoding.in/press-release/dbs-banks-grant-programme-to-help-smes-kickstart-sustainability-journey/",
+          "publishedOn": "2022-05-12T09:30:04.000Z",
+          "wordCount": 3057,
+          "title": "DBS Bank’s Grant Programme to help SMEs kickstart sustainability journey",
+          "imageUrl": "https://mma.prnewswire.com/media/1815544/DBS_Logo.jpg"
+        },
+        {
+          "id": "https://www.dkoding.in/press-release/fresenius-medical-care-celebrates-diversity-and-unity-of-a-global-nurse-workforce/",
+          "author": "DKODING",
+          "description": "Business Wire India Fresenius Medical Care, the world’s leading provider of products and services for individuals with renal diseases, today announced its global ‘United in Care’ campaign that celebrates the diversity, unity and positive impact of its nurses and clinical teams across Asia Pacific, Europe, the Middle East and Africa, North America and Latin America.…\nThe post Fresenius Medical Care Celebrates Diversity and Unity of a Global Nurse Workforce appeared first on DKODING.",
+          "link": "https://www.dkoding.in/press-release/fresenius-medical-care-celebrates-diversity-and-unity-of-a-global-nurse-workforce/",
+          "publishedOn": "2022-05-12T09:30:03.000Z",
+          "wordCount": 2706,
+          "title": "Fresenius Medical Care Celebrates Diversity and Unity of a Global Nurse Workforce",
+          "imageUrl": "https://mms.businesswire.com/media/20220512005444/en/1453414/4/A_world_apart_-_United_in_Care.jpg"
+        },
+        {
+          "id": "https://www.dkoding.in/press-release/sahyadri-hospitals-launches-momstory-complete-care-dedicated-to-womens-health/",
+          "author": "DKODING",
+          "description": "Dedicated Centre for Women’s health and Pregnancy & Child Care PUNE, India, May 12, 2022 /PRNewswire/ — In a bid to increase thrust on women’s health and make the  journey of pregnancy more comfortable and cherished, Sahyadri Hospitals has launched ‘Mom Story’ bringing all the services and needs pertaining to women’s health under one roof. The…\nThe post Sahyadri Hospitals launches ‘Momstory’ – complete care dedicated to women’s health appeared first on DKODING.",
+          "link": "https://www.dkoding.in/press-release/sahyadri-hospitals-launches-momstory-complete-care-dedicated-to-womens-health/",
+          "publishedOn": "2022-05-12T08:30:09.000Z",
+          "wordCount": 2769,
+          "title": "Sahyadri Hospitals launches ‘Momstory’ – complete care dedicated to women’s health",
+          "imageUrl": "https://rt.prnewswire.com/rt.gif?NewsItemId=EN55412&Transmission_Id=202205120328PR_NEWS_EURO_ND__EN55412&DateId=20220512"
+        },
+        {
+          "id": "https://www.dkoding.in/press-release/htj-strengthens-infrastructure-sector-through-an-acquisition/",
+          "author": "DKODING",
+          "description": "Sievi Capital Plc Press release 12 May 2022 at 11:20 am EEST HTJ strengthens infrastructure sector through an acquisition Sievi Capital’s target company HTJ Holding Oy (“HTJ”) has today acquired the share capital of Infrap Oy through its subsidiary Rakennuttajatoimisto HTJ Oy. The acquisition expands HTJ’s expertise in infrastructure and industrial construction, both geographically and in…\nThe post HTJ strengthens infrastructure sector through an acquisition appeared first on DKODING.",
+          "link": "https://www.dkoding.in/press-release/htj-strengthens-infrastructure-sector-through-an-acquisition/",
+          "publishedOn": "2022-05-12T08:30:09.000Z",
+          "wordCount": 2192,
+          "title": "HTJ strengthens infrastructure sector through an acquisition",
+          "imageUrl": "https://ml-eu.globenewswire.com/media/MmRiM2NhOGUtZjNlMy00OTBmLWI3MzMtNmQ4ZTM1MDRlOTYxLTEwOTU1NjU=/tiny/Sievi-Capital-Oyj.png"
         }
       ]
     }
