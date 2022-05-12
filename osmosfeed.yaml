@@ -12,4 +12,7 @@ sources:
   - href: http://www.aljazeera.com/xml/rss/all.xml
   - href: https://www.globalissues.org/news/feed
   - href: https://www.thecipherbrief.com/feed
+  - href: http://rss.cnn.com/rss/edition_world.rss
+  - href: https://timesofindia.indiatimes.com/rssfeeds/296589292.cms
+  - href: https://feeds.washingtonpost.com/rss/world
   
