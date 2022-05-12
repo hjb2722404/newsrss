@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/newsrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-12T10:20:18.880Z</updated>
+    <updated>2022-05-12T10:22:23.033Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/newsrss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/newsrss/feed.atom"/>
@@ -67,6 +67,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Biden to order federal flags to fly at half-staff as the U.S. Covid toll nears one million.]]></title>
+        <id>https://www.nytimes.com/2022/05/12/us/biden-covid-deaths-flags-half-staff.html</id>
+        <link href="https://www.nytimes.com/2022/05/12/us/biden-covid-deaths-flags-half-staff.html"/>
+        <updated>2022-05-12T10:14:30.000Z</updated>
+        <summary type="html"><![CDATA[The president says in a formal statement that the United States must ‘remain vigilant’ against a virus that has ‘forever changed’ the country.]]></summary>
+        <author>
+            <name>Sheryl Gay Stolberg</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[British tourist, 34, killed falling from seventh floor of Magaluf hotel]]></title>
         <id>b2077377</id>
         <link href="https://www.independent.co.uk/news/world/europe/magaluf-death-british-tourist-hotel-b2077377.html"/>
@@ -124,6 +134,18 @@
         <summary type="html"><![CDATA[The segment, aired in Indonesia, enraged religious leaders and prompted a backlash that highlights the limits of tolerance for gay people in the Muslim-majority nation.]]></summary>
         <author>
             <name>Mike Ives and Muktita Suhartono</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK police recommend more than 100 fines for Downing Street lockdown breaches]]></title>
+        <id>https://www.channelnewsasia.com/world/uk-police-recommend-more-100-fines-downing-street-lockdown-breaches-2680946</id>
+        <link href="https://www.channelnewsasia.com/world/uk-police-recommend-more-100-fines-downing-street-lockdown-breaches-2680946"/>
+        <updated>2022-05-12T10:06:46.000Z</updated>
+        <summary type="html"><![CDATA[LONDON: British police said on Thursday (May 12) they had now made more than 100 referrals for fines as part of their investigation into lockdown rule-breaking at gatherings held in Downing Street during the COVID-19 pandemic.
+
+British Prime Minister Boris Johnson apologised for receiving a fine in April fo]]></summary>
+        <author>
+            <name>Latest News</name>
         </author>
     </entry>
     <entry>
@@ -578,6 +600,26 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Leading Palestinian-American journalist shot dead during Israeli military raid]]></title>
+        <id>c16b3ba3-fbff-4117-9a16-85d794e20799</id>
+        <link href="https://www.smh.com.au/world/leading-palestinian-american-journalist-shot-dead-during-israeli-military-raid-20220512-p5akwh.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_world"/>
+        <updated>2022-05-12T09:25:50.000Z</updated>
+        <summary type="html"><![CDATA[A leading Palestinian-American journalist has been shot dead while covering an Israeli military raid in the West Bank.]]></summary>
+        <author>
+            <name>Sydney Morning Herald - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[California fire destroys dozens of homes]]></title>
+        <id>57b1f51c-f40b-4e10-8e54-d5fb46f8f58d</id>
+        <link href="https://www.smh.com.au/world/california-fire-destroys-dozens-of-homes-20220512-p5akwi.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_world"/>
+        <updated>2022-05-12T09:25:38.000Z</updated>
+        <summary type="html"><![CDATA[A fast-moving fire in Orange County, California, has destroyed dozens of homes and ravaged 200 acres.]]></summary>
+        <author>
+            <name>Sydney Morning Herald - World</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pics show Russian ‘tank graveyard’ after 52 vehicles blown up in one battle as Putin forced into retreat from major city]]></title>
         <id>Post 18542403 at The Sun</id>
         <link href="https://www.thesun.co.uk/news/18542403/photos-show-russian-z-tank-graveyard-ukraine/"/>
@@ -725,6 +767,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Somalia is set to hold its long-delayed presidential vote on Sunday, ending the convoluted electoral process that raised tensions in the country when the president’s term expired last year without a successor in place]]></summary>
         <author>
             <name>Via AP news wire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explainer: What you need to know about Finland and Sweden's path to NATO membership]]></title>
+        <id>https://www.channelnewsasia.com/world/explainer-what-you-need-know-about-finland-and-swedens-path-nato-membership-2680821</id>
+        <link href="https://www.channelnewsasia.com/world/explainer-what-you-need-know-about-finland-and-swedens-path-nato-membership-2680821"/>
+        <updated>2022-05-12T09:15:05.000Z</updated>
+        <summary type="html"><![CDATA[HELSINKI: Since Russia's invasion of Ukraine, Finland and Sweden have been co]]></summary>
+        <author>
+            <name>Latest News</name>
         </author>
     </entry>
     <entry>
@@ -1038,6 +1090,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dehydrated birds fall from sky as Indian heatwave continues]]></title>
+        <id>https://news.sky.com/story/india-dehydrated-birds-fall-from-sky-as-countrys-heatwave-dries-up-water-sources-12611125</id>
+        <link href="https://news.sky.com/story/india-dehydrated-birds-fall-from-sky-as-countrys-heatwave-dries-up-water-sources-12611125"/>
+        <updated>2022-05-12T08:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Dozens of dehydrated birds are falling from the sky every day in India's western Gujarat state as the country's scorching heat wave dries up water sources.]]></summary>
+        <author>
+            <name>World News - Breaking international news and headlines | Sky News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Baby formula shortage leaves parents scrambling nationwide]]></title>
         <id>b2077246</id>
         <link href="https://www.independent.co.uk/news/world/americas/baby-formula-shortage-us-2022-b2077246.html"/>
@@ -1328,6 +1390,18 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Finland must apply for NATO membership 'without delay', Finnish leaders say]]></title>
+        <id>https://www.channelnewsasia.com/world/finland-must-apply-nato-membership-without-delay-finnish-leaders-say-2680596</id>
+        <link href="https://www.channelnewsasia.com/world/finland-must-apply-nato-membership-without-delay-finnish-leaders-say-2680596"/>
+        <updated>2022-05-12T07:57:00.000Z</updated>
+        <summary type="html"><![CDATA[HELSINKI: Finland's president and prime minister said on Thursday (May 12) their country must apply to join the NATO military alliance "without delay", a major policy shift triggered by Russia's invasion of Ukraine.
+
+Sweden is also close to a decision on asking to join NATO after decades of following a]]></summary>
+        <author>
+            <name>Latest News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dubai Airports passenger traffic may reach pre-Covid levels earlier than expected, CEO says]]></title>
         <id>107056341</id>
         <link href="https://www.cnbc.com/2022/05/12/dubai-airports-traffic-may-reach-pre-covid-levels-in-early-2024-ceo.html"/>
@@ -1439,6 +1513,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Slain Al Jazeera journalist was icon of Palestinian coverage]]></title>
+        <id>https://www.channelnewsasia.com/world/shireen-abu-akleh-slain-al-jazeera-journalist-was-icon-palestinian-coverage-2680316</id>
+        <link href="https://www.channelnewsasia.com/world/shireen-abu-akleh-slain-al-jazeera-journalist-was-icon-palestinian-coverage-2680316"/>
+        <updated>2022-05-12T07:25:08.000Z</updated>
+        <summary type="html"><![CDATA[An Al Jazeera correspondent who was shot dead on Wednesday (May 11) during an Israeli raid in the West Bank was a highly respected journalist in the Middle East whose unflinching]]></summary>
+        <author>
+            <name>Latest News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[EXPLAINER: Who's the Swedish doctor facing execution in Iran]]></title>
         <id>https://www.washingtonpost.com/world/explainer-whos-the-swedish-doctor-facing-execution-in-iran/2022/05/12/a4100a90-d1b9-11ec-886b-df76183d233f_story.html?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world</id>
         <link href="https://www.washingtonpost.com/world/explainer-whos-the-swedish-doctor-facing-execution-in-iran/2022/05/12/a4100a90-d1b9-11ec-886b-df76183d233f_story.html?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world"/>
@@ -1496,6 +1580,18 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Finland must apply to join the NATO military alliance "without delay", Finnish President Sauli Niinisto and Prime Minister Sanna Marin said on Thursday, signalling a major policy shift triggered by Russia's invasion of Ukraine.]]></summary>
         <author>
             <name>FRANCE 24</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia 'most direct threat to world order': EU's von der Leyen]]></title>
+        <id>https://www.channelnewsasia.com/world/russia-most-direct-threat-world-order-eus-von-der-leyen-2679976</id>
+        <link href="https://www.channelnewsasia.com/world/russia-most-direct-threat-world-order-eus-von-der-leyen-2679976"/>
+        <updated>2022-05-12T07:17:11.000Z</updated>
+        <summary type="html"><![CDATA[TOKYO: Russia is the "most direct threat" to the international order because of its invasion of Ukraine, European Commission President Ursula von der Leyen said Thursday in Tokyo.
+
+Russia "is today the most direct threat to the world order with the barbaric war against Ukraine, and its worrying pact with Ch]]></summary>
+        <author>
+            <name>Latest News</name>
         </author>
     </entry>
     <entry>
@@ -1590,6 +1686,18 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ukraine to hold first war crimes trial as Moscow says Kyiv shelled Russian city]]></title>
+        <id>https://www.channelnewsasia.com/world/ukraine-invasion-first-war-crimes-trial-moscow-says-kyiv-shelled-russian-city-2677536</id>
+        <link href="https://www.channelnewsasia.com/world/ukraine-invasion-first-war-crimes-trial-moscow-says-kyiv-shelled-russian-city-2677536"/>
+        <updated>2022-05-12T06:54:33.000Z</updated>
+        <summary type="html"><![CDATA[KYIV: Ukraine announced that it will hold its first war crimes trial over the Russian invasion, as Moscow accused Kyiv of shelling a Russian city in the war's latest flash point.
+
+The con]]></summary>
+        <author>
+            <name>Latest News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Shireen Abu Aqla: UN chief appalled at Al Jazeera reporter's killing]]></title>
         <id>https://www.bbc.co.uk/news/world-middle-east-61419699</id>
         <link href="https://www.bbc.co.uk/news/world-middle-east-61419699?at_medium=RSS&amp;at_campaign=KARANGA"/>
@@ -1647,6 +1755,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[As Russia’s invasion chokes off Ukrainian wheat exports, the global harvest faces an added test: extreme weather]]></summary>
         <author>
             <name>Megan Durisin, Kim Chipman, Jen Skerritt and James Poole / Bloomberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraine, probing over 10,700 suspected war crimes, to hold first trial of Russian soldier]]></title>
+        <id>a97312d4-d146-4324-8482-3c5f344d36ab</id>
+        <link href="https://www.smh.com.au/world/europe/ukraine-probing-over-10-700-suspected-russian-war-crimes-to-hold-first-trial-20220512-p5akl1.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_world"/>
+        <updated>2022-05-12T06:40:20.000Z</updated>
+        <summary type="html"><![CDATA[Sergeant Vadin Shyshimarin has been charged in the killing of an unarmed 62-year-old civilian who was gunned down while riding a bicycle in February, four days into the war.]]></summary>
+        <author>
+            <name>Sydney Morning Herald - World</name>
         </author>
     </entry>
     <entry>
@@ -1870,6 +1988,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sri Lanka’s president vows to give up powers to ‘stop country from falling into anarchy’]]></title>
+        <id>ea55d6d7-5b8c-4132-9262-b5a95ba3dc4f</id>
+        <link href="https://www.smh.com.au/world/asia/sri-lanka-s-president-vows-to-give-up-powers-to-stop-country-from-falling-into-anarchy-20220512-p5aktm.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_world"/>
+        <updated>2022-05-12T06:10:34.000Z</updated>
+        <summary type="html"><![CDATA[President Gotabaya Rajapaksa’s brother, the former prime minister, is in hiding, as the army tries to quell riots triggered by severe food and fuel shortages.]]></summary>
+        <author>
+            <name>Krishan Francis</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Findings Suggest Water Existed On Mars For Longer Than Previously Thought]]></title>
         <id>2968424</id>
         <link href="https://www.ndtv.com/world-news/findings-suggest-water-existed-for-longer-on-mars-surface-2968424"/>
@@ -2030,6 +2158,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Finland to apply to join NATO 'without delay' for the first time after Russian invasion of Ukraine]]></title>
+        <id>https://news.sky.com/story/ukraine-war-finland-to-apply-to-join-nato-for-the-first-time-amid-russias-ongoing-invasion-12611042</id>
+        <link href="https://news.sky.com/story/ukraine-war-finland-to-apply-to-join-nato-for-the-first-time-amid-russias-ongoing-invasion-12611042"/>
+        <updated>2022-05-12T05:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Finland's president has said the country needs to apply to NATO "without delay" as the Russian invasion of Ukraine continues.]]></summary>
+        <author>
+            <name>World News - Breaking international news and headlines | Sky News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[North Korea identifies its first case of Covid-19, state media reports]]></title>
         <id>https://www.cnn.com/2022/05/11/asia/north-korea-covid-omicron-coronavirus-intl-hnk/index.html</id>
         <link href="https://www.cnn.com/2022/05/11/asia/north-korea-covid-omicron-coronavirus-intl-hnk/index.html"/>
@@ -2067,6 +2205,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Southeast Asian country's gross domestic product expands 8.3 percent in first quarter.]]></summary>
         <author>
             <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unvaccinated North Korea reports first COVID outbreak, goes into lockdown]]></title>
+        <id>94975077-dd09-476c-9a6b-0db10ed8e02c</id>
+        <link href="https://www.smh.com.au/world/asia/unvaccinated-north-korea-reports-first-covid-outbreak-goes-into-lockdown-20220512-p5aks8.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_world"/>
+        <updated>2022-05-12T05:05:31.000Z</updated>
+        <summary type="html"><![CDATA[The North’s government has shunned vaccines offered by the UN-backed COVAX distribution program, possibly because those have monitoring requirements.]]></summary>
+        <author>
+            <name>Kim Tong-Hyung</name>
         </author>
     </entry>
     <entry>
@@ -2137,6 +2285,26 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Two years after getting infected with COVID-19, half of people hospitalised with the infection have at least one symptom, a follow-up study by the medical journal The Lancet has said.]]></summary>
         <author>
             <name>NDTV News - World-news</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia's war in Ukraine triggers seismic shift in Europe's security]]></title>
+        <id>https://news.sky.com/story/russias-war-in-ukraine-triggers-seismic-shift-in-europes-security-12611036</id>
+        <link href="https://news.sky.com/story/russias-war-in-ukraine-triggers-seismic-shift-in-europes-security-12611036"/>
+        <updated>2022-05-12T04:39:00.000Z</updated>
+        <summary type="html"><![CDATA[A new security chapter is opening in Europe - one that will require governments not just to say their top priority is the defence of their nation but to prove it with actions and investment.]]></summary>
+        <author>
+            <name>World News - Breaking international news and headlines | Sky News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kim Jong Un declares 'biggest emergency incident' as North Korea reports first COVID cases]]></title>
+        <id>https://news.sky.com/story/north-korea-confirms-first-official-covid-cases-as-leader-kim-jong-un-orders-strict-lockdown-12611034</id>
+        <link href="https://news.sky.com/story/north-korea-confirms-first-official-covid-cases-as-leader-kim-jong-un-orders-strict-lockdown-12611034"/>
+        <updated>2022-05-12T04:38:00.000Z</updated>
+        <summary type="html"><![CDATA[North Korea has announced its first official COVID infections, with its leader Kim Jong Un ordering a strict lockdown in response.]]></summary>
+        <author>
+            <name>World News - Breaking international news and headlines | Sky News</name>
         </author>
     </entry>
     <entry>
@@ -2221,6 +2389,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Passenger with ‘no idea how to fly’ lands plane after pilot collapses at controls]]></title>
+        <id>539df7cc-9189-4c1a-9792-11cac6637a23</id>
+        <link href="https://www.smh.com.au/world/north-america/passenger-with-no-idea-how-to-fly-lands-plane-after-pilot-collapses-at-controls-20220512-p5akku.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_world"/>
+        <updated>2022-05-12T04:19:51.000Z</updated>
+        <summary type="html"><![CDATA[The passenger, who didn’t know the plane’s location, had to fly along the coastline until he could be spotted by air traffic controllers.]]></summary>
+        <author>
+            <name>Sydney Morning Herald - World</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Elon Musk Gives Many Headlines In 40-Minute Interview]]></title>
         <id>2968162</id>
         <link href="https://www.ndtv.com/world-news/elon-musk-assures-tesla-worrywarts-he-isnt-going-anywhere-2968162"/>
@@ -2238,6 +2416,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[The world finds itself awash in Covid-19 vaccines, but governments can't get them into arms fast enough, as hesitancy and logistical hurdles threaten to indefinitely extend the pandemic.]]></summary>
         <author>
             <name>NDTV News - World-news</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Biden weaponise the abortion debate to win the midterms?]]></title>
+        <id>2ddb851e-3894-448e-b6fb-b697ecaddb2f</id>
+        <link href="https://www.smh.com.au/world/north-america/can-biden-weaponise-the-abortion-debate-to-win-the-mid-terms-20220512-p5akmm.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_world"/>
+        <updated>2022-05-12T04:10:41.000Z</updated>
+        <summary type="html"><![CDATA[A majority of Americans support abortion rights - but will this issue galvanise them to vote Democrat in November?]]></summary>
+        <author>
+            <name>Farrah Tomazin</name>
         </author>
     </entry>
     <entry>
@@ -2411,6 +2599,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Jewish passengers refused boarding of German flight]]></title>
+        <id>a334cb64-0a56-4b2e-acbc-f73315179048</id>
+        <link href="https://www.smh.com.au/world/jewish-passengers-refused-boarding-of-german-flight-20220512-p5akrq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_world"/>
+        <updated>2022-05-12T03:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Lufthansa has apologised after passengers were told they couldn't board a connecting flight because they were Jewish.]]></summary>
+        <author>
+            <name>Sydney Morning Herald - World</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[UK government’s harsh new plan to crack down on ‘guerilla’ protests]]></title>
         <id>https://www.scmp.com/news/world/europe/article/3177412/uk-governments-harsh-new-plan-crack-down-guerilla-protests?utm_source=rss_feed</id>
         <link href="https://www.scmp.com/news/world/europe/article/3177412/uk-governments-harsh-new-plan-crack-down-guerilla-protests?utm_source=rss_feed"/>
@@ -2451,6 +2649,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Gallery: Ukraine - Russia crisis, May 12th, 2022]]></title>
+        <id>42d8c462-652a-43f4-b84f-c990feb23424</id>
+        <link href="https://www.smh.com.au/world/gallery-ukraine--russia-crisis-may-12th-2022-20220512-h23p9z.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_world"/>
+        <updated>2022-05-12T03:14:30.000Z</updated>
+        <summary type="html"><![CDATA[Millions of displaced citizens are fleeing to western Ukraine to escape devastation around Kyiv.]]></summary>
+        <author>
+            <name>Sydney Morning Herald - World</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Girls’ lacrosse team from historically Black college ‘traumatised’ after Georgia deputies search their bags]]></title>
         <id>b2076257</id>
         <link href="https://www.independent.co.uk/news/world/americas/georgia-delaware-lacrosse-team-bus-search-b2076257.html"/>
@@ -2478,6 +2686,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Russia-Ukraine War: Serhiy Volyna, commander of the 36th Separate Marine Brigade, said he created a Twitter account for the sole purpose of reaching out to Musk, asking the world's richest man to...]]></summary>
         <author>
             <name>NDTV News - World-news</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Australia’s voting system is the envy of Americans]]></title>
+        <id>6f387731-db72-43b7-b3bc-94a45851fe16</id>
+        <link href="https://www.smh.com.au/world/north-america/us-eyes-australia-s-compulsory-voting-system-as-federal-election-looms-20220512-p5akkb.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_world"/>
+        <updated>2022-05-12T03:07:38.000Z</updated>
+        <summary type="html"><![CDATA[US election reform campaigners are arguing that voting should be compulsory, easy and served with a sausage, just like in Australia.]]></summary>
+        <author>
+            <name>Farrah Tomazin</name>
         </author>
     </entry>
     <entry>
@@ -2599,6 +2817,18 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[VLADIMIR PUTIN'S offensive in the Donbas region is reportedly failing and at risk of crumbling after suffering heavy losses from the Ukrainian resistance, according to war expert Justin Bronk.]]></summary>
         <author>
             <name>Daily Express :: World Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COVID-19 claims 1 million US lives]]></title>
+        <id>https://www.channelnewsasia.com/world/covid-19-claims-1-million-us-lives-2679591</id>
+        <link href="https://www.channelnewsasia.com/world/covid-19-claims-1-million-us-lives-2679591"/>
+        <updated>2022-05-12T02:09:19.000Z</updated>
+        <summary type="html"><![CDATA[NEW YORK: The United States has now recorded more than 1 million COVID-19 deaths, according to a Reuters tally, crossing a once-unthinkable milestone about two years after the first cases upended everyday life and quickly transformed it.
+
+The 1 million mark is a stark reminder of the staggering grief and lo]]></summary>
+        <author>
+            <name>Latest News</name>
         </author>
     </entry>
     <entry>
@@ -2765,6 +2995,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Passenger lands plane after pilot became too sick to fly]]></title>
+        <id>8397d97e-e005-4a3a-873e-fea2789f765a</id>
+        <link href="https://www.smh.com.au/world/passenger-lands-plane-after-pilot-became-too-sick-to-fly-20220512-p5akom.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_world"/>
+        <updated>2022-05-12T00:47:13.000Z</updated>
+        <summary type="html"><![CDATA[A plane passenger with no flying experience made a successful emergency landing in Florida.]]></summary>
+        <author>
+            <name>Sydney Morning Herald - World</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[US Democrats' bid for federal abortion law fails in the Senate]]></title>
         <id>https://www.bbc.co.uk/news/world-us-canada-61412373</id>
         <link href="https://www.bbc.co.uk/news/world-us-canada-61412373?at_medium=RSS&amp;at_campaign=KARANGA"/>
@@ -2902,6 +3142,18 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[The Senate has confirmed economist Phillip Jefferson to the Federal Reserve’s Board of Governors]]></summary>
         <author>
             <name>Via AP news wire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US calls out Russia, China opposition to UN action on North Korea]]></title>
+        <id>https://www.channelnewsasia.com/world/us-calls-out-russia-china-opposition-un-action-north-korea-2679431</id>
+        <link href="https://www.channelnewsasia.com/world/us-calls-out-russia-china-opposition-un-action-north-korea-2679431"/>
+        <updated>2022-05-11T23:32:00.000Z</updated>
+        <summary type="html"><![CDATA[The United States called out China and Russia on Wednesday (May 11) for opposing further United Nations action on North Korea, warning that the Security Council "cannot stay silent any longer" as Pyongyang prepares for a seventh nuclear test.
+
+US Ambassador to the United Nations Linda Thomas-Greenfield]]></summary>
+        <author>
+            <name>Latest News</name>
         </author>
     </entry>
     <entry>
@@ -3075,6 +3327,18 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Biden seeks to keep China in focus by welcoming ASEAN leaders]]></title>
+        <id>https://www.channelnewsasia.com/asia/biden-seeks-keep-china-focus-welcoming-asean-leaders-2678196</id>
+        <link href="https://www.channelnewsasia.com/asia/biden-seeks-keep-china-focus-welcoming-asean-leaders-2678196"/>
+        <updated>2022-05-11T22:34:00.000Z</updated>
+        <summary type="html"><![CDATA[WASHINGTON: President Joe Biden will host Southeast Asian leaders in Washington this week, seeking to show his administration remains focused on the Indo-Pacific and the long-term challenge of China despite the Ukraine crisis.
+
+A two-day summit with the 10-nation Association of Southeast Asian Nations (ASEA]]></summary>
+        <author>
+            <name>Latest News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Passersby in Florida rush to stop moving car with ill driver]]></title>
         <id>https://www.bbc.co.uk/news/world-us-canada-61415679</id>
         <link href="https://www.bbc.co.uk/news/world-us-canada-61415679?at_medium=RSS&amp;at_campaign=KARANGA"/>
@@ -3132,6 +3396,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[The Biden administration has drawn up guidance around intelligence-sharing with Ukraine that is calibrated to avoid heightening tensions between Washington and Moscow.]]></summary>
         <author>
             <name>Shane Harris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraine appeals over worsening conditions in 'medieval ghetto' Mariupol]]></title>
+        <id>https://www.channelnewsasia.com/world/ukraine-appeals-over-worsening-conditions-medieval-ghetto-mariupol-2678786</id>
+        <link href="https://www.channelnewsasia.com/world/ukraine-appeals-over-worsening-conditions-medieval-ghetto-mariupol-2678786"/>
+        <updated>2022-05-11T22:17:19.000Z</updated>
+        <summary type="html"><![CDATA[KYIV: Ukrainian officials issued dire warnings on Wednesday (May 11) about the fate of civilians and the last fighters in Mariupol after weeks of Russian bombardment which the city's mayor said h]]></summary>
+        <author>
+            <name>Latest News</name>
         </author>
     </entry>
     <entry>
@@ -3216,6 +3490,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[‘Big step forward’: EU lifts mask requirement for air travel]]></title>
+        <id>7ead9dff-f2ed-40db-9a82-396731c71eb8</id>
+        <link href="https://www.smh.com.au/world/europe/big-step-forward-eu-lifts-mask-requirement-for-air-travel-20220512-p5akle.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_world"/>
+        <updated>2022-05-11T22:04:13.000Z</updated>
+        <summary type="html"><![CDATA[While the new recommendations take effect on May 16, rules for masks may still vary by airline beyond that date if they fly to or from destinations where the rules are different.]]></summary>
+        <author>
+            <name>Frank Jordans</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[UN issues drought disaster warning]]></title>
         <id>https://www.rt.com/news/555334-un-droughts-climate-change/</id>
         <link href="https://www.rt.com/news/555334-un-droughts-climate-change/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
@@ -3277,6 +3561,18 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ukraine's Zelenskyy says he spoke to Scholz, discussed more Russia sanctions]]></title>
+        <id>https://www.channelnewsasia.com/world/ukraines-zelenskyy-says-he-spoke-scholz-discussed-more-russia-sanctions-2679281</id>
+        <link href="https://www.channelnewsasia.com/world/ukraines-zelenskyy-says-he-spoke-scholz-discussed-more-russia-sanctions-2679281"/>
+        <updated>2022-05-11T21:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Ukrainian President Volodymyr Zelenskyy on Wednesday (May 11) said he had spoken to German Chancellor Olaf Scholz and discussed defensive aid, energy sector cooperation and increasing sanctions on Russia.
+
+"We appreciate the high level of dialogue with Germany and support in our struggle!" he said in a twee]]></summary>
+        <author>
+            <name>Latest News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Shireen Abu Akleh: US activists slam ‘impunity’ for Israeli abuse]]></title>
         <id>https://www.aljazeera.com/?t=1652301497</id>
         <link href="https://www.aljazeera.com/news/2022/5/11/shireen-abu-akleh-us-activists-slam-impunity-for-israeli-abuse"/>
@@ -3294,6 +3590,30 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[The remote Greek island of Tilos has pioneered a recycling plant that could act as a blueprint for other islands — including popular holiday destinations — that struggle with waste disposal]]></summary>
         <author>
             <name>Derek Gatopoulos | AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finland joining NATO 'would not be against anyone': President]]></title>
+        <id>https://www.channelnewsasia.com/world/finland-joining-nato-would-not-be-against-anyone-president-2679276</id>
+        <link href="https://www.channelnewsasia.com/world/finland-joining-nato-would-not-be-against-anyone-president-2679276"/>
+        <updated>2022-05-11T21:47:00.000Z</updated>
+        <summary type="html"><![CDATA[HELSINKI: Finnish President Sauli Niinisto said on Wednesday (May 11)that it "would not be against anyone", if the Nordic country joined NATO, despite Russia warning against the membership.
+
+"Joining NATO would not be against anyone. It is not a zero-sum game", the president said at the signing of a po]]></summary>
+        <author>
+            <name>Latest News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK strikes new security agreement with Sweden and Finland]]></title>
+        <id>https://www.channelnewsasia.com/world/uk-strikes-new-security-agreement-sweden-and-finland-2678446</id>
+        <link href="https://www.channelnewsasia.com/world/uk-strikes-new-security-agreement-sweden-and-finland-2678446"/>
+        <updated>2022-05-11T21:43:43.000Z</updated>
+        <summary type="html"><![CDATA[HELSINKI: British Prime Minister Boris Johnson on Wednesday (May 11) said he had agreed new deals with Sweden and Finland to bolster European security, pledging to support both countries' armed forces should they come under attack.
+
+Johnson signed the new declarations, described by Britain as "a step-c]]></summary>
+        <author>
+            <name>Latest News</name>
         </author>
     </entry>
     <entry>
@@ -3315,6 +3635,18 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[‘What are you doing there?’ the congresswoman chastised, demanding that Dr Oz return from a trip he took 10 years ago]]></summary>
         <author>
             <name>Nathan Place</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cardinal Joseph Zen, pop star Denise Ho bailed in latest Hong Kong security arrests]]></title>
+        <id>https://www.channelnewsasia.com/asia/cardinal-pop-star-bailed-latest-hong-kong-security-arrests-2679141</id>
+        <link href="https://www.channelnewsasia.com/asia/cardinal-pop-star-bailed-latest-hong-kong-security-arrests-2679141"/>
+        <updated>2022-05-11T21:34:00.000Z</updated>
+        <summary type="html"><![CDATA[HONG KONG: A Catholic cardinal critical of Beijing was released on bail by Hong Kong authorities, local media reported late Wednesday (May 11), as his arrest under the city's national security law prompted US demands that he be freed.
+
+Retired cardinal Joseph Zen, 90, was seen in media footage waving t]]></summary>
+        <author>
+            <name>Latest News</name>
         </author>
     </entry>
     <entry>
@@ -3355,6 +3687,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[CBS News senior travel adviser Peter Greenberg joins "CBS Mornings" with the best way to protect your vacation from financial loss and how to navigate COVID rules.]]></summary>
         <author>
             <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia demands formal Polish apology for Warsaw anti-war protest]]></title>
+        <id>https://www.channelnewsasia.com/world/russia-demands-formal-polish-apology-warsaw-anti-war-protest-2678356</id>
+        <link href="https://www.channelnewsasia.com/world/russia-demands-formal-polish-apology-warsaw-anti-war-protest-2678356"/>
+        <updated>2022-05-11T21:28:25.000Z</updated>
+        <summary type="html"><![CDATA[WARSAW: Russia on Wednesday (May 11) demanded a formal apology from Poland and threatened possible future reprisals for a protest in which Moscow's ambassador to Warsaw was doused with red paint.]]></summary>
+        <author>
+            <name>Latest News</name>
         </author>
     </entry>
     <entry>
@@ -3488,6 +3830,26 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[In New York, lawmakers have introduced a bill to expand funding for abortion care. California legislators will soon vote on measures aimed at increasing the number of abortion providers. And Connecticut just enacted a law aimed at protecting providers from lawsuits in states where abortion is banned.]]></summary>
         <author>
             <name>News24 World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraine reports battlefield gains as Europe's energy worries grow]]></title>
+        <id>https://www.channelnewsasia.com/world/ukraine-reports-battlefield-gains-europe-energy-worries-grow-2677396</id>
+        <link href="https://www.channelnewsasia.com/world/ukraine-reports-battlefield-gains-europe-energy-worries-grow-2677396"/>
+        <updated>2022-05-11T20:59:00.000Z</updated>
+        <summary type="html"><![CDATA[KYIV: Ukraine on Wednesday (May 11) reported pushing back Moscow's forces in a counterattack that could signal a shift in the momentum of the war and shut gas flows on a route through Russian-held]]></summary>
+        <author>
+            <name>Latest News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surfside condo collapse victims reach nearly $US1 billion settlement: report]]></title>
+        <id>d9823f18-692c-4eed-bdf5-f923d470fb72</id>
+        <link href="https://www.smh.com.au/world/north-america/surfside-condo-collapse-victims-reach-nearly-us1-billion-settlement-report-20220512-p5akl7.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_world"/>
+        <updated>2022-05-11T20:58:04.000Z</updated>
+        <summary type="html"><![CDATA[Nearly 100 people were killed when the 12-story residential building near Miami Beach collapsed in 2021.]]></summary>
+        <author>
+            <name>Katharine Jackson and Dan Whitcomb</name>
         </author>
     </entry>
     <entry>
@@ -3680,6 +4042,16 @@ In a statement, Al Jazeera, the Qatar-based Arab news network, accused Israeli f
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ukraine and Russia in talks over prisoner swap as plans revealed for first war crimes trial]]></title>
+        <id>https://news.sky.com/story/ukraine-warfinland-expected-to-announce-nato-bid-as-both-sides-in-ukraine-conflict-are-accused-of-using-cluster-bombs-12610857</id>
+        <link href="https://news.sky.com/story/ukraine-warfinland-expected-to-announce-nato-bid-as-both-sides-in-ukraine-conflict-are-accused-of-using-cluster-bombs-12610857"/>
+        <updated>2022-05-11T20:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine has offered to release Russian prisoners of war in exchange for the safe evacuation of the badly injured fighters trapped inside a steel mill in the ruined city of Mariupol.]]></summary>
+        <author>
+            <name>World News - Breaking international news and headlines | Sky News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ukrainian refugees in Russia report interrogations, detention and other abuses]]></title>
         <id>https://www.washingtonpost.com/world/2022/05/11/ukraine-refugees-russia-filtration-camps/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world</id>
         <link href="https://www.washingtonpost.com/world/2022/05/11/ukraine-refugees-russia-filtration-camps/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world"/>
@@ -3822,6 +4194,18 @@ In a statement, Al Jazeera, the Qatar-based Arab news network, accused Israeli f
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Coups undermining Sahel anti-militant force: UN chief]]></title>
+        <id>https://www.channelnewsasia.com/world/coups-undermining-sahel-anti-militant-force-un-chief-2679146</id>
+        <link href="https://www.channelnewsasia.com/world/coups-undermining-sahel-anti-militant-force-un-chief-2679146"/>
+        <updated>2022-05-11T19:25:57.000Z</updated>
+        <summary type="html"><![CDATA[UNITED NATIONS: Military coups in Mali and Burkina Faso - two members of the G5-Sahel anti-militant force - are undermining the mission's operational capacity, UN Secretary-General Antonio Guterres said in a Wednesday report (May 11).
+
+"I am deeply concerned by the rapidly deteriorating security situat]]></summary>
+        <author>
+            <name>Latest News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Trump ordered to pay $110k in fines as judge lifts contempt order against him over financial documents]]></title>
         <id>b2076833</id>
         <link href="https://www.independent.co.uk/news/world/americas/crime/donald-trump-fined-contempt-order-b2076833.html"/>
@@ -3892,6 +4276,28 @@ In a statement, Al Jazeera, the Qatar-based Arab news network, accused Israeli f
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Guinea opposition parties reject junta's proposed 39-month transition timeline]]></title>
+        <id>https://www.channelnewsasia.com/world/guinea-opposition-parties-reject-juntas-proposed-39-month-transition-timeline-2679071</id>
+        <link href="https://www.channelnewsasia.com/world/guinea-opposition-parties-reject-juntas-proposed-39-month-transition-timeline-2679071"/>
+        <updated>2022-05-11T19:02:17.000Z</updated>
+        <summary type="html"><![CDATA[CONAKRY: Guinea's main opposition parties have rejected the ruling military junta's proposed 39-month democratic transition timeline, they said in a statement on Wednesday (May 11).
+
+Colonel Mamady Doumbouya, the head of the junta that took power in a coup last September, said this month that it would proba]]></summary>
+        <author>
+            <name>Latest News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Footy diplomacy v China’s Pacific expansion: why Australia must back PNG’s bid for an NRL team]]></title>
+        <id>cc667526-c072-41e2-82c3-faa43408b59e</id>
+        <link href="https://www.smh.com.au/world/oceania/footy-diplomacy-v-china-s-pacific-expansion-why-australia-must-back-png-s-bid-for-an-nrl-team-20220510-p5ak5d.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_world"/>
+        <updated>2022-05-11T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Australia may not be able to match China’s influence through infrastructure investment or granting loans, but we can build deep bonds with PNG through its shared passion for a game: rugby league.]]></summary>
+        <author>
+            <name>Stephen Brancatisano</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[UN officials call for probe into killing of Al Jazeera journalist Shireen Abu Akleh]]></title>
         <id>https://www.globalissues.org/news/2022/05/11/30823</id>
         <link href="https://www.globalissues.org/news/2022/05/11/30823"/>
@@ -3911,6 +4317,16 @@ In a statement, Al Jazeera, the Qatar-based Arab news network, accused Israeli f
         <summary type="html"><![CDATA[John Fetterman walks into a brewery in Easton, Pa., with his arms outstretched like a wrestler. The state’s lieutenant governor—6 ft. 8 in., bald and goateed, wearing his trademark Carhartt sweatshirt and athletic shorts—doesn’t bother with his stump speech right away. Instead, he starts working the crowd. He asks if they’re Eagles fans or Steelers…]]></summary>
         <author>
             <name>Charlotte Alter/Easton, Pa.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US finds 500 Native American boarding school deaths so far]]></title>
+        <id>c5e61f9b-8ff3-463c-b293-bb2cc3704deb</id>
+        <link href="https://www.smh.com.au/world/north-america/us-finds-500-native-american-boarding-school-deaths-so-far-20220512-p5akkf.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_world"/>
+        <updated>2022-05-11T18:55:03.000Z</updated>
+        <summary type="html"><![CDATA[Children were forced apart from their families, prohibited from speaking their native languages and often abused at the boarding schools.]]></summary>
+        <author>
+            <name>Sydney Morning Herald - World</name>
         </author>
     </entry>
     <entry>
@@ -3934,6 +4350,16 @@ In a statement, Al Jazeera, the Qatar-based Arab news network, accused Israeli f
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[US wants ASEAN leaders to play bigger role in Myanmar diplomacy: Official]]></title>
+        <id>https://www.channelnewsasia.com/world/us-wants-asean-leaders-play-bigger-role-myanmar-diplomacy-official-2679116</id>
+        <link href="https://www.channelnewsasia.com/world/us-wants-asean-leaders-play-bigger-role-myanmar-diplomacy-official-2679116"/>
+        <updated>2022-05-11T18:52:00.000Z</updated>
+        <summary type="html"><![CDATA[WASHINGTON: The United States wants Southeast Asian leaders to play a "more deeply engaged role" in efforts to put Myanmar back on a democratic track after a coup last year, the top US official for Asia said on Wednesday (May 11) ahead of]]></summary>
+        <author>
+            <name>Latest News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Newly revealed emails show how far Trump lawyer was willing to go to overturn 2020 election]]></title>
         <id>b2076823</id>
         <link href="https://www.independent.co.uk/news/world/americas/us-politics/trump-lawyer-emails-overturn-election-b2076823.html"/>
@@ -3954,6 +4380,16 @@ In a statement, Al Jazeera, the Qatar-based Arab news network, accused Israeli f
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sri Lanka facing 'worst crisis' ever as troops have orders to shoot]]></title>
+        <id>https://news.sky.com/story/sri-lanka-president-rajapaksa-promises-changes-amid-worst-crisis-ever-as-troops-have-orders-to-shoot-troublemakers-12610798</id>
+        <link href="https://news.sky.com/story/sri-lanka-president-rajapaksa-promises-changes-amid-worst-crisis-ever-as-troops-have-orders-to-shoot-troublemakers-12610798"/>
+        <updated>2022-05-11T18:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Sri Lanka's president has said the country is facing the "worst crisis in its history" as it deals with an economic emergency that's sparked a wave of violence.]]></summary>
+        <author>
+            <name>World News - Breaking international news and headlines | Sky News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ukraine regains territory, and crime scene investigators move in]]></title>
         <id>https://www.washingtonpost.com/world/2022/05/11/ukraine-police-homicide-investigators-build-war-crimes-cases/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world</id>
         <link href="https://www.washingtonpost.com/world/2022/05/11/ukraine-police-homicide-investigators-build-war-crimes-cases/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world"/>
@@ -3961,6 +4397,16 @@ In a statement, Al Jazeera, the Qatar-based Arab news network, accused Israeli f
         <summary type="html"><![CDATA[In towns near Kharkiv, police dodge mines and booby traps to document Russian war crimes.]]></summary>
         <author>
             <name>Isabelle Khurshudyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hong Kong police bail Catholic cardinal arrested on national security charge]]></title>
+        <id>299d98a8-fb3a-4a33-bbcb-4b950609a940</id>
+        <link href="https://www.smh.com.au/world/asia/hong-kong-police-bail-catholic-cardinal-arrested-on-national-security-charge-20220512-p5akke.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_world"/>
+        <updated>2022-05-11T18:38:54.000Z</updated>
+        <summary type="html"><![CDATA[Cardinal Joseph Zen and three others who helped run a now-disbanded Hong Kong fund for protesters were arrested on charges of “collusion with foreign forces”.]]></summary>
+        <author>
+            <name>James Pomfret and Jessie Pang</name>
         </author>
     </entry>
     <entry>
@@ -3984,6 +4430,28 @@ In a statement, Al Jazeera, the Qatar-based Arab news network, accused Israeli f
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[US Senate Democrats push abortion-rights vote, expected to fail]]></title>
+        <id>https://www.channelnewsasia.com/world/us-senate-democrats-push-abortion-rights-vote-expected-fail-2678736</id>
+        <link href="https://www.channelnewsasia.com/world/us-senate-democrats-push-abortion-rights-vote-expected-fail-2678736"/>
+        <updated>2022-05-11T18:30:46.000Z</updated>
+        <summary type="html"><![CDATA[WASHINGTON: Democrats in the US Senate plan were pushing ahead with plans to force a vote on Wednesday (May 11) on legislation codifying women's rights to abortion nationwide, a protest gesture almost certain to fail ahead of an expected Supreme Court decision to end those protections.
+
+Most Senate Rep]]></summary>
+        <author>
+            <name>Latest News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump must pay $144,000, meet conditions to end contempt finding, judge says]]></title>
+        <id>73baea1c-2bc4-498c-b6d9-0a51c9e38ecc</id>
+        <link href="https://www.smh.com.au/world/north-america/trump-must-pay-144-000-meet-conditions-to-end-contempt-judge-says-20220512-p5akkd.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_world"/>
+        <updated>2022-05-11T18:30:03.000Z</updated>
+        <summary type="html"><![CDATA[A New York judge said he’ll lift the former president’s contempt finding if Trump meets certain conditions, including paying $US144,000 in fines he’s racked up so far.]]></summary>
+        <author>
+            <name>Michael R. Sisak</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[New law in Iran limits screening tests during pregnancy]]></title>
         <id>2568a8de-d158-11ec-8cff-005056bf762b</id>
         <link href="https://observers.france24.com/en/middle-east/20220511-iran-birth-rate-law-limits-pregnancy-screening-tests-for-women"/>
@@ -4001,6 +4469,16 @@ In a statement, Al Jazeera, the Qatar-based Arab news network, accused Israeli f
         <summary type="html"><![CDATA[The Rock, the biggest white diamond ever auctioned, sold for a hammer price of 18.6 million Swiss francs on Wednesday, far short of the record for such a jewel.]]></summary>
         <author>
             <name>News24 World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Al-Jazeera reporter killed during Israeli raid in West Bank]]></title>
+        <id>b8fc81df-b605-4665-aee6-34aae463101a</id>
+        <link href="https://www.smh.com.au/world/middle-east/al-jazeera-reporter-killed-during-israeli-raid-in-west-bank-20220511-p5akg6.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_world"/>
+        <updated>2022-05-11T18:19:29.000Z</updated>
+        <summary type="html"><![CDATA[Veteran journalist Shireen Abu Akleh, 51, was wearing a press vest when she was shot dead during an Israeli raid in the West Bank.]]></summary>
+        <author>
+            <name>Sydney Morning Herald - World</name>
         </author>
     </entry>
     <entry>
@@ -4061,6 +4539,16 @@ In a statement, Al Jazeera, the Qatar-based Arab news network, accused Israeli f
         <summary type="html"><![CDATA[Christy Shelton’s family has always doubted the official ruling around her 2008 death]]></summary>
         <author>
             <name>Rachel Sharp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<a href='https://news.sky.com/story/shireen-abu-akleh-how-two-videos-represent-two-versions-of-a-journalists-death-12610635' target='_blank'>How two videos tell a different story of how journalist was killed near Palestinian refugee camp</a>]]></title>
+        <id>https://news.sky.com/story/shireen-abu-akleh-how-two-videos-represent-two-versions-of-a-journalists-death-12610773</id>
+        <link href="https://news.sky.com/story/shireen-abu-akleh-how-two-videos-represent-two-versions-of-a-journalists-death-12610773"/>
+        <updated>2022-05-11T18:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Shireen Abu Akleh: How two videos represent two versions of a journalist's death]]></summary>
+        <author>
+            <name>World News - Breaking international news and headlines | Sky News</name>
         </author>
     </entry>
     <entry>
@@ -4354,6 +4842,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Comes as Democrats plan a vote on the Women’s Health Protection Act]]></summary>
         <author>
             <name>Eric Garcia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia invasion 'opened a new chapter' in history, says PM as UK signs deals to protect Sweden and Finland]]></title>
+        <id>https://news.sky.com/story/ukraine-war-russia-invasion-opened-a-new-chapter-in-history-says-pm-as-uk-signs-deals-to-protect-sweden-and-finland-12610737</id>
+        <link href="https://news.sky.com/story/ukraine-war-russia-invasion-opened-a-new-chapter-in-history-says-pm-as-uk-signs-deals-to-protect-sweden-and-finland-12610737"/>
+        <updated>2022-05-11T16:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Russia's invasion of Ukraine "opened a new chapter" in post-Cold War history, said Boris Johnson as he agreed defence pacts with Sweden and Finland.]]></summary>
+        <author>
+            <name>World News - Breaking international news and headlines | Sky News</name>
         </author>
     </entry>
     <entry>
@@ -4986,6 +5484,26 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Queen misses parliament opening for first time in decades]]></title>
+        <id>1ec02e80-b7ee-4a95-b56d-3539fdd5c8cf</id>
+        <link href="https://www.smh.com.au/world/queen-misses-parliament-opening-for-first-time-in-decades-20220511-p5akjn.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_world"/>
+        <updated>2022-05-11T09:25:54.000Z</updated>
+        <summary type="html"><![CDATA[Queen Elizabeth has missed the opening of the British Parliament for the first time since 1963.]]></summary>
+        <author>
+            <name>Sydney Morning Herald - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US intelligence says Putin is in Ukraine war for the long haul]]></title>
+        <id>30e519d3-909a-4180-a15b-a11df7753379</id>
+        <link href="https://www.smh.com.au/world/us-intelligence-says-putin-is-in-ukraine-war-for-the-long-haul-20220511-p5akjl.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_world"/>
+        <updated>2022-05-11T09:22:49.000Z</updated>
+        <summary type="html"><![CDATA[US intelligence says Vladimir Putin is in the Ukraine war for the long haul, despite signs of a stalemate in the Donbas region.]]></summary>
+        <author>
+            <name>Sydney Morning Herald - World</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[I’m an ex-Nato commander and I know tyrant Putin is surrounded by gang of plotters on brink of toppling him]]></title>
         <id>Post 18511463 at The Sun</id>
         <link href="https://www.thesun.co.uk/news/18511463/putin-plotters-brink-toppling-him/"/>
@@ -5155,6 +5673,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[China's flagship zero-Covid strategy to defeat the pandemic is unsustainable, the World Health Organization said Tuesday, adding that it had told Beijing so and called for a policy shift.]]></summary>
         <author>
             <name>FRANCE 24</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Al Jazeera journalist shot and killed during Israeli raid in West Bank]]></title>
+        <id>https://news.sky.com/story/shireen-abu-akleh-al-jazeera-journalist-shot-and-killed-during-israeli-raid-in-west-bank-12610321</id>
+        <link href="https://news.sky.com/story/shireen-abu-akleh-al-jazeera-journalist-shot-and-killed-during-israeli-raid-in-west-bank-12610321"/>
+        <updated>2022-05-11T05:41:00.000Z</updated>
+        <summary type="html"><![CDATA[A journalist has been shot and killed and another injured while covering an Israeli raid in the occupied West Bank.]]></summary>
+        <author>
+            <name>World News - Breaking international news and headlines | Sky News</name>
         </author>
     </entry>
     <entry>
@@ -5329,6 +5857,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Ukrainian fans celebrated in Turin as the Kalush Orchestra cement their position as favourites to win.]]></summary>
         <author>
             <name>BBC News - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pictures reveal grim extent of suffering inside steel works under relentless bombardment]]></title>
+        <id>https://news.sky.com/story/ukraine-war-the-pounding-of-azovstal-pictures-that-tell-a-thousand-words-12610290</id>
+        <link href="https://news.sky.com/story/ukraine-war-the-pounding-of-azovstal-pictures-that-tell-a-thousand-words-12610290"/>
+        <updated>2022-05-11T00:10:00.000Z</updated>
+        <summary type="html"><![CDATA[As Russian troops continue their pounding of the Azovstal steel works in Mariupol, a photo-journalist has revealed the grim extent of the suffering inside.]]></summary>
+        <author>
+            <name>World News - Breaking international news and headlines | Sky News</name>
         </author>
     </entry>
     <entry>
