@@ -5006,6 +5006,26 @@
       "siteUrl": "https://www.independent.co.uk//news/world",
       "articles": [
         {
+          "id": "b2077377",
+          "author": null,
+          "description": "The latest breaking news, comment and features from The Independent.",
+          "link": "https://www.independent.co.uk/news/world/europe/magaluf-death-british-tourist-hotel-b2077377.html",
+          "publishedOn": "2022-05-12T10:14:25.000Z",
+          "wordCount": 725,
+          "title": "British tourist, 34, killed falling from seventh floor of Magaluf hotel",
+          "imageUrl": "https://static.independent.co.uk/2020/08/19/11/breaking-news.png?quality=75&width=1200&auto=webp"
+        },
+        {
+          "id": "b2077244",
+          "author": "Shweta Sharma",
+          "description": "British intelligence says Russian forces are likely to redeploy to eastern bank of Siverskyi Donets river",
+          "link": "https://www.independent.co.uk/news/world/europe/russia-putin-soldiers-siverskyi-donets-b2077244.html",
+          "publishedOn": "2022-05-12T10:12:23.000Z",
+          "wordCount": 1442,
+          "title": "Russian army ‘lose entire battalion’ trying to cross Ukraine bridge",
+          "imageUrl": "https://static.independent.co.uk/2022/05/12/08/2022-05-12T051032Z_1475807074_RC2G5U9OZOLH_RTRMADP_3_UKRAINE-CRISIS-EAST.JPG?quality=75&width=1200&auto=webp"
+        },
+        {
           "id": "b2077265",
           "author": "Thomas Kingsley",
           "description": "‘If not you, then who?’ fighter asks as survivors fear death in sprawling steel plant",
@@ -8359,6 +8379,435 @@
           "wordCount": 2002,
           "title": "The economic crisis in Sri Lanka, explained",
           "imageUrl": "https://cdn.vox-cdn.com/thumbor/5k72yudGUgPRF6-BYHZqEVfZ9po=/0x408:5699x3392/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23429121/1240346996.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Daily Express :: World Feed",
+      "feedUrl": "http://feeds.feedburner.com/daily-express-world-news",
+      "siteUrl": "https://www.express.co.uk",
+      "articles": [
+        {
+          "id": "https://www.express.co.uk/news/world/1609065/Ukraine-live-Russian-losses-Vladimir-Putin-Finland-NATO-Sweden-Zelensky-latest-updates",
+          "author": null,
+          "description": "BRITISH troops will defend other European nations in the face of Russian invasion, Prime Minister Boris Johnson has said as the Kremlin hide their combat losses.",
+          "link": "https://www.express.co.uk/news/world/1609065/Ukraine-live-Russian-losses-Vladimir-Putin-Finland-NATO-Sweden-Zelensky-latest-updates",
+          "publishedOn": "2022-05-12T09:35:00.000Z",
+          "wordCount": 1622,
+          "title": "Ukraine LIVE: Boris 'very seriously' considering nuclear weapons to protect against Russia",
+          "imageUrl": "https://cdn.images.express.co.uk/img/dynamic/78/1200x712/1609065_1.jpg"
+        },
+        {
+          "id": "https://www.express.co.uk/news/world/1609179/finland-nato-membership-russian-border-putin-troops-ukraine-war-spt",
+          "author": null,
+          "description": "FINLAND could see Russian troops near its border in the event of the country joining NATO, an expert has claimed, as the Nordic country is poised to make an official application within hours.",
+          "link": "https://www.express.co.uk/news/world/1609179/finland-nato-membership-russian-border-putin-troops-ukraine-war-spt",
+          "publishedOn": "2022-05-12T09:26:47.000Z",
+          "wordCount": 1614,
+          "title": "Finland under threat: Putin tipped to send troops to country's border after joining NATO",
+          "imageUrl": "https://cdn.images.express.co.uk/img/dynamic/78/1200x712/1609179_1.jpg"
+        },
+        {
+          "id": "https://www.express.co.uk/news/world/1609175/briton-dies-magaluf-balcony-plunge-holiday",
+          "author": null,
+          "description": "A BRITISH tourist has died in Spain after reportedly falling from the seventh floor of a Magaluf hotel.",
+          "link": "https://www.express.co.uk/news/world/1609175/briton-dies-magaluf-balcony-plunge-holiday",
+          "publishedOn": "2022-05-12T09:22:00.000Z",
+          "wordCount": 1186,
+          "title": "British tourist dies 'plunging from seventh-floor hotel balcony' in Magaluf",
+          "imageUrl": "https://cdn.images.express.co.uk/img/dynamic/78/1200x712/1609175_1.jpg"
+        },
+        {
+          "id": "https://www.express.co.uk/news/world/1609152/Vladimir-Putin-Russian-tank-explosion-Ukraine-missile-strike-conflict-vn",
+          "author": null,
+          "description": "A RUSSIAN tank has been filmed exploding, sending its turret flying in the air, as it is hit by a missile strike in eastern Ukraine.",
+          "link": "https://www.express.co.uk/news/world/1609152/Vladimir-Putin-Russian-tank-explosion-Ukraine-missile-strike-conflict-vn",
+          "publishedOn": "2022-05-12T09:22:00.000Z",
+          "wordCount": 1463,
+          "title": "Putin humiliated as Russian tank explodes into 250ft fireball after Ukraine missile strike",
+          "imageUrl": "https://cdn.images.express.co.uk/img/dynamic/78/1200x712/1609152_1.jpg"
+        },
+        {
+          "id": "https://www.express.co.uk/news/world/1609120/Ukraine-Russia-tank-explosion-drone-rockets-Vladimir-Putin-retreat-latest-news-vn",
+          "author": null,
+          "description": "UKRAINE has wiped out a £3million Russian T-90 tank using rockets that cost just £400 fired from a homemade drone, as Vladimir Putin's war continues to face humiliating setbacks.",
+          "link": "https://www.express.co.uk/news/world/1609120/Ukraine-Russia-tank-explosion-drone-rockets-Vladimir-Putin-retreat-latest-news-vn",
+          "publishedOn": "2022-05-12T08:11:00.000Z",
+          "wordCount": 1407,
+          "title": "Ukraine destroys £3m elite Russian tank with £400 rockets and homemade drone - WATCH",
+          "imageUrl": "https://cdn.images.express.co.uk/img/dynamic/78/1200x712/1609120_1.jpg"
+        },
+        {
+          "id": "https://www.express.co.uk/news/world/1609093/putin-humiliated-russian-jets-gps-taped-ben-wallace",
+          "author": null,
+          "description": "RUSSIA'S military has been humiliated again as GPS receivers were found taped to downed Russian jets to make up for their terrible equipment.",
+          "link": "https://www.express.co.uk/news/world/1609093/putin-humiliated-russian-jets-gps-taped-ben-wallace",
+          "publishedOn": "2022-05-12T07:38:00.000Z",
+          "wordCount": 1402,
+          "title": "Putin humiliated as downed Russian jets found with GPS taped to dashboard",
+          "imageUrl": "https://cdn.images.express.co.uk/img/dynamic/78/1200x712/1609093_1.jpg"
+        },
+        {
+          "id": "https://www.express.co.uk/news/world/1608434/ukraine-live-vladimir-putin-volodymyr-zelensky-russia-invasion-war-FSB-latest-update",
+          "author": null,
+          "description": "VLADIMIR PUTIN'S troops have been wiped out by Ukrainian forces in an attempt to cross the Seversky Donets river.",
+          "link": "https://www.express.co.uk/news/world/1608434/ukraine-live-vladimir-putin-volodymyr-zelensky-russia-invasion-war-FSB-latest-update",
+          "publishedOn": "2022-05-12T04:30:00.000Z",
+          "wordCount": 5445,
+          "title": "Ukraine: Putin humiliated as satellite pics show tanks wiped out in brutal massacre",
+          "imageUrl": "https://cdn.images.express.co.uk/img/dynamic/78/1200x712/1608434_1.jpg"
+        },
+        {
+          "id": "https://www.express.co.uk/news/world/1609027/Putin-humiliation-russia-ukraine-war-kazakhstan-cancels-victory-day-parade-ont",
+          "author": null,
+          "description": "RUSSIA has begun to lose support \"in its own backyard\" as its neighbour Kazakhstan cancels their Victory Day parade in protest to Putin's military action in Ukraine, a professor has stated.",
+          "link": "https://www.express.co.uk/news/world/1609027/Putin-humiliation-russia-ukraine-war-kazakhstan-cancels-victory-day-parade-ont",
+          "publishedOn": "2022-05-12T02:11:25.000Z",
+          "wordCount": 1396,
+          "title": "Putin humiliation: Losing allies 'in own backyard' as Kazakhstan cancels Victory Day",
+          "imageUrl": "https://cdn.images.express.co.uk/img/dynamic/78/1200x712/1609027_1.jpg"
+        },
+        {
+          "id": "https://www.express.co.uk/news/world/1609026/putin-latest-news-offensive-donbas-heavy-losses-Ukraine-war-ont",
+          "author": null,
+          "description": "VLADIMIR PUTIN'S offensive in the Donbas region is reportedly failing and at risk of crumbling after suffering heavy losses from the Ukrainian resistance, according to war expert Justin Bronk.",
+          "link": "https://www.express.co.uk/news/world/1609026/putin-latest-news-offensive-donbas-heavy-losses-Ukraine-war-ont",
+          "publishedOn": "2022-05-12T02:09:21.000Z",
+          "wordCount": 1570,
+          "title": "Putin’s bolstered offensive in Donbas 'failing' and risks crumbling after 'heavy losses'",
+          "imageUrl": "https://cdn.images.express.co.uk/img/dynamic/78/1200x712/1609026_1.jpg"
+        },
+        {
+          "id": "https://www.express.co.uk/news/world/1608909/Plane-news-passenger-lands-plane-zero-experience-bahamas-florida",
+          "author": null,
+          "description": "AN AIRCRAFT passenger with zero experience and \"no idea how to fly\" has landed a plane after the pilot became \"incoherent.\"",
+          "link": "https://www.express.co.uk/news/world/1608909/Plane-news-passenger-lands-plane-zero-experience-bahamas-florida",
+          "publishedOn": "2022-05-11T23:00:00.000Z",
+          "wordCount": 1479,
+          "title": "'No idea how to fly' Passenger with ZERO experience lands plane as pilot 'incoherent'",
+          "imageUrl": "https://cdn.images.express.co.uk/img/dynamic/78/1200x712/1608909_1.jpg"
+        }
+      ]
+    },
+    {
+      "title": null,
+      "feedUrl": "https://www.france24.com/en/rss",
+      "siteUrl": null,
+      "articles": [
+        {
+          "id": "845aabda-d1d0-11ec-9895-005056bf762b",
+          "author": "NEWS WIRES",
+          "description": "Palestinians planned a memorial service Thursday for journalist Shireen Abu Akleh who was killed while covering an Israeli raid in the West Bank, but have rejected US-led calls for a joint investigation into her death.",
+          "link": "https://www.france24.com/en/middle-east/20220512-palestinians-honour-slain-journalist-reject-joint-investigation-with-israel",
+          "publishedOn": "2022-05-12T09:08:45.000Z",
+          "wordCount": 989,
+          "title": "Palestinians honour slain journalist, reject joint investigation with Israel",
+          "enclosure": {
+            "url": "https://s.france24.com/media/display/c1794ab4-d1bf-11ec-b420-005056bfb2b6/w:1024/p:16x9/ShireenAbuAkleh-AlJazira.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://s.france24.com/media/display/c1794ab4-d1bf-11ec-b420-005056bfb2b6/w:1024/p:16x9/ShireenAbuAkleh-AlJazira.jpg"
+        },
+        {
+          "id": "93348cf0-d1c3-11ec-90a0-005056a97652",
+          "author": "FRANCE 24",
+          "description": "Finland must apply to join the NATO military alliance \"without delay\", Finnish President Sauli Niinisto and Prime Minister Sanna Marin said on Thursday, signalling a major policy shift triggered by Russia's invasion of Ukraine.",
+          "link": "https://www.france24.com/en/live-news/20220512-finland-s-leaders-back-nato-membership-in-major-policy-shift-triggered-by-ukraine-war",
+          "publishedOn": "2022-05-12T07:17:59.000Z",
+          "wordCount": 926,
+          "title": "Finland’s leaders back joining NATO in policy shift triggered by Ukraine war",
+          "enclosure": {
+            "url": "https://s.france24.com/media/display/912f55bc-d1c2-11ec-8bd0-005056bfb2b6/w:1024/p:16x9/000_323T8H9.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://s.france24.com/media/display/912f55bc-d1c2-11ec-8bd0-005056bfb2b6/w:1024/p:16x9/000_323T8H9.jpg"
+        },
+        {
+          "id": "d73c1202-d1b8-11ec-9a0f-005056bf762b",
+          "author": "NEWS WIRES",
+          "description": "The Rock, the biggest white diamond ever auctioned, sold for 21.7 million Swiss francs ($21.9 million) on Wednesday, far short of the record for such a jewel.",
+          "link": "https://www.france24.com/en/europe/20220512-white-diamond-auctioned-for-over-20-million-falls-short-of-record",
+          "publishedOn": "2022-05-12T06:07:18.000Z",
+          "wordCount": 1112,
+          "title": "White diamond auctioned for over $20 million, falls short of record",
+          "enclosure": {
+            "url": "https://s.france24.com/media/display/d8f96568-d1b3-11ec-87ef-005056bf30b7/w:1024/p:16x9/2022-05-06T094858Z_2033649175_RC2L1U9PVLMF_RTRMADP_3_ART-AUCTION-JEWELS-CHRISTIES.JPG",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://s.france24.com/media/display/d8f96568-d1b3-11ec-87ef-005056bf30b7/w:1024/p:16x9/2022-05-06T094858Z_2033649175_RC2L1U9PVLMF_RTRMADP_3_ART-AUCTION-JEWELS-CHRISTIES.JPG"
+        },
+        {
+          "id": "4f8450ce-d1a2-11ec-a115-005056bf762b",
+          "author": "FRANCE 24",
+          "description": "Ukraine’s top prosecutor disclosed plans Wednesday for the first war crimes trial of a captured Russian soldier as fighting raged in the east and south of the country. The move came as Finland's leaders backed applying for NATO membership in a major policy shift triggered by Russia's invasion of Ukraine. Follow FRANCE 24's live blog for all the latest developments. All times are Paris time (GMT+2).",
+          "link": "https://www.france24.com/en/europe/20220512-live-russia-most-direct-threat-to-world-order-says-eu-s-von-der-leyen",
+          "publishedOn": "2022-05-12T03:19:14.000Z",
+          "wordCount": 1349,
+          "title": "Live: Ukraine to hold first war crimes trial of captured Russian soldier",
+          "enclosure": {
+            "url": "https://s.france24.com/media/display/1866b67c-d1b6-11ec-b8ca-005056a97e36/w:1024/p:16x9/ukraine-warcrimes.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://s.france24.com/media/display/1866b67c-d1b6-11ec-b8ca-005056a97e36/w:1024/p:16x9/ukraine-warcrimes.jpg"
+        },
+        {
+          "id": "34356354-d197-11ec-9023-005056a97652",
+          "author": "NEWS WIRES",
+          "description": "North Korea has confirmed its first-ever case of Covid-19 and declared a \"severe national emergency\", with leader Kim Jong Un vowing to \"eliminate\" the virus, state media said Thursday.",
+          "link": "https://www.france24.com/en/asia-pacific/20220512-north-korea-reports-first-positive-covid-19-case-declares-emergency",
+          "publishedOn": "2022-05-12T01:59:47.000Z",
+          "wordCount": 1029,
+          "title": "North Korea reports first positive Covid-19 case, declares emergency",
+          "enclosure": {
+            "url": "https://s.france24.com/media/display/a8c0caa8-d195-11ec-9615-005056bf30b7/w:1024/p:16x9/2022-04-28T223530Z_1080592991_RC2LWT9Y32Z9_RTRMADP_3_NORTHKOREA-MISSILES-MILITARY.JPG",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://s.france24.com/media/display/a8c0caa8-d195-11ec-9615-005056bf30b7/w:1024/p:16x9/2022-04-28T223530Z_1080592991_RC2LWT9Y32Z9_RTRMADP_3_NORTHKOREA-MISSILES-MILITARY.JPG"
+        },
+        {
+          "id": "8301129c-d18a-11ec-9c9d-005056bf762b",
+          "author": "NEWS WIRES",
+          "description": "Survivors and families of people who died in last year's collapse of a beachfront condo building near Miami have reached a settlement of at least $997 million, a lawyer for the plaintiffs said Wednesday.",
+          "link": "https://www.france24.com/en/americas/20220512-victims-of-deadly-florida-condo-collapse-reach-997-million-settlement",
+          "publishedOn": "2022-05-12T00:28:56.000Z",
+          "wordCount": 712,
+          "title": "Victims of deadly Florida condo collapse reach nearly $1 billion settlement",
+          "enclosure": {
+            "url": "https://s.france24.com/media/display/e33fdb28-e123-11eb-87b1-005056bfb2b6/w:1024/p:16x9/MIAMI%205%20%282%29.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://s.france24.com/media/display/e33fdb28-e123-11eb-87b1-005056bfb2b6/w:1024/p:16x9/MIAMI%205%20%282%29.jpg"
+        },
+        {
+          "id": "aca07a36-d188-11ec-b7b7-005056bf762b",
+          "author": "NEWS WIRES",
+          "description": "A Democratic drive to make the right to abortion the law of the land failed in the US Senate on Wednesday after Republicans refused to allow a vote on the deeply polarising issue that threatens to upend the upcoming midterm election campaign.",
+          "link": "https://www.france24.com/en/americas/20220512-us-republicans-block-senate-bill-to-protect-access-to-abortion",
+          "publishedOn": "2022-05-12T00:15:44.000Z",
+          "wordCount": 1069,
+          "title": "US Republicans block Senate bill to protect access to abortion",
+          "enclosure": {
+            "url": "https://s.france24.com/media/display/f934b930-d182-11ec-b3a3-005056bf30b7/w:1024/p:16x9/2022-05-10T201353Z_77210072_RC2I4U9B52PX_RTRMADP_3_USA-ABORTION-CONGRESS.JPG",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://s.france24.com/media/display/f934b930-d182-11ec-b3a3-005056bf30b7/w:1024/p:16x9/2022-05-10T201353Z_77210072_RC2I4U9B52PX_RTRMADP_3_USA-ABORTION-CONGRESS.JPG"
+        },
+        {
+          "id": "f5f87a66-d17a-11ec-bb50-005056a97652",
+          "author": "NEWS WIRES",
+          "description": "Guinea's legislative body on Wednesday announced there would be a three-year transition period before civilian rule is restored, defying regional partners who have called for a swifter timetable following a coup.",
+          "link": "https://www.france24.com/en/africa/20220511-guinea-announces-three-year-transition-period-before-restoring-civilian-rule",
+          "publishedOn": "2022-05-11T22:37:36.000Z",
+          "wordCount": 795,
+          "title": "Guinea announces three-year transition period before restoring civilian rule",
+          "enclosure": {
+            "url": "https://s.france24.com/media/display/839db45e-c90f-11ec-9c1e-005056bf8594/w:1024/p:16x9/000_9NX39Q%20%281%29.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://s.france24.com/media/display/839db45e-c90f-11ec-9c1e-005056bf8594/w:1024/p:16x9/000_9NX39Q%20%281%29.jpg"
+        },
+        {
+          "id": "2568a8de-d158-11ec-8cff-005056bf762b",
+          "author": null,
+          "description": "The Iranian Health Ministry announced on April 16 that doctors and midwives in Iran would be banned from running screening tests in pregnancy – tests which can reveal abnormalities or certain conditions in the fetus, a move that sparked indignation from activists in the country. Pregnancy screenings, often used to detect genetic diseases, can now only be carried out by court order, rendering them largely inaccessible, particularly for the most disadvantaged families.",
+          "link": "https://observers.france24.com/en/middle-east/20220511-iran-birth-rate-law-limits-pregnancy-screening-tests-for-women",
+          "publishedOn": "2022-05-11T18:28:54.000Z",
+          "wordCount": 1605,
+          "title": "New law in Iran limits screening tests during pregnancy",
+          "enclosure": {
+            "url": "https://s.france24.com/media/display/e817649c-d13f-11ec-ae2d-005056a9a7b9/w:1024/p:16x9/Mainph.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://s.france24.com/media/display/e817649c-d13f-11ec-ae2d-005056a9a7b9/w:1024/p:16x9/Mainph.jpg"
+        },
+        {
+          "id": "5ad56ee6-d147-11ec-a426-005056a97652",
+          "author": "NEWS WIRES",
+          "description": "Paris will give the famed Champs-Élysées a makeover ahead of the 2024 Olympic Games by planting trees and increasing pedestrian areas, the French capital's officials said on Wednesday.",
+          "link": "https://www.france24.com/en/europe/20220511-paris-to-revamp-the-famed-champs-elysees-ahead-of-2024-olympics",
+          "publishedOn": "2022-05-11T16:44:10.000Z",
+          "wordCount": 842,
+          "title": "Paris to revamp the famed Champs-Élysées ahead of 2024 Olympics",
+          "enclosure": {
+            "url": "https://s.france24.com/media/display/3aec6f44-53f4-11ea-9a7a-005056bfd1d9/w:1024/p:16x9/Une.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://s.france24.com/media/display/3aec6f44-53f4-11ea-9a7a-005056bfd1d9/w:1024/p:16x9/Une.jpg"
+        },
+        {
+          "id": "23ffcd48-d148-11ec-8aec-005056a97652",
+          "author": "NEWS WIRES",
+          "description": "Britain pledged to defend Sweden if the country came under attack, with Prime Ministers Boris Johnson and Magdalena Andersson signing a security assurance deal outside Stockholm on Wednesday.",
+          "link": "https://www.france24.com/en/europe/20220511-britain-signs-security-deal-vowing-to-defend-sweden-in-case-of-attack",
+          "publishedOn": "2022-05-11T16:38:02.000Z",
+          "wordCount": 1023,
+          "title": "Britain signs security deal vowing to defend Sweden in case of attack",
+          "enclosure": {
+            "url": "https://s.france24.com/media/display/5c1a18e8-d146-11ec-b4f4-005056a97e36/w:1024/p:16x9/UK-Sweden-m.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://s.france24.com/media/display/5c1a18e8-d146-11ec-b4f4-005056a97e36/w:1024/p:16x9/UK-Sweden-m.jpg"
+        },
+        {
+          "id": "58012dbe-d137-11ec-b2fb-005056bf762b",
+          "author": "Aude MAZOUE",
+          "description": "As global warming accelerates, the spectre of drought haunts France’s once verdant farmland. Even now, before the start of summer, 15 administrative départements have had to restrict water use while farmers warn that the current situation will have an adverse impact on crop yields.",
+          "link": "https://www.france24.com/en/environment/20220511-france-s-unprecedented-drought-shows-climate-change-is-spiralling-out-of-control",
+          "publishedOn": "2022-05-11T15:17:35.000Z",
+          "wordCount": 1354,
+          "title": "France’s unprecedented drought shows climate change is ‘spiralling out of control’",
+          "enclosure": {
+            "url": "https://s.france24.com/media/display/9c945a7a-d077-11ec-a529-005056a9a7b9/w:1024/p:16x9/000_9LJ8UU.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://s.france24.com/media/display/9c945a7a-d077-11ec-a529-005056a9a7b9/w:1024/p:16x9/000_9LJ8UU.jpg"
+        },
+        {
+          "id": "7718ad3c-d135-11ec-82b5-005056bf762b",
+          "author": "FRANCE 24",
+          "description": "Face masks will no longer be required on trains, planes and metros in France starting on May 16, the health minister said Wednesday. Mask-wearing requirements are also set to be lifted in airports and on flights in Europe the same day, the EU Aviation Safety Agency said.",
+          "link": "https://www.france24.com/en/europe/20220511-covid-19-france-to-end-mask-requirement-on-transport",
+          "publishedOn": "2022-05-11T14:34:36.000Z",
+          "wordCount": 778,
+          "title": "Covid-19: Masking requirements to be lifted on French transport, European flights",
+          "enclosure": {
+            "url": "https://s.france24.com/media/display/42487476-d12f-11ec-b602-005056bf30b7/w:1024/p:16x9/transport.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://s.france24.com/media/display/42487476-d12f-11ec-b602-005056bf30b7/w:1024/p:16x9/transport.jpg"
+        },
+        {
+          "id": "822286ac-d118-11ec-b9d5-005056a97652",
+          "author": "Sébastian SEIBT",
+          "description": "Along with much of the globe, US consumers are reeling from a cost of living and supply-chain crisis. One example is a shortage of baby formula caused by a constellation of factors, from rampant inflation to a massive recall over safety concerns.",
+          "link": "https://www.france24.com/en/americas/20220511-hurt-angry-anxious-scared-converging-crises-spark-us-baby-formula-shortage",
+          "publishedOn": "2022-05-11T12:11:29.000Z",
+          "wordCount": 1335,
+          "title": "‘Hurt, angry, anxious, scared’: Converging crises lead to US baby formula shortage",
+          "enclosure": {
+            "url": "https://s.france24.com/media/display/4c32f1b2-d06e-11ec-979e-005056bfb2b6/w:1024/p:16x9/100522-lait-poudre-penurie-m.JPG",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://s.france24.com/media/display/4c32f1b2-d06e-11ec-979e-005056bfb2b6/w:1024/p:16x9/100522-lait-poudre-penurie-m.JPG"
+        },
+        {
+          "id": "5d1575a6-d0f8-11ec-b6ff-005056bf762b",
+          "author": "Erin OGUNKEYE",
+          "description": "Thousands of Senegalese soldiers fought for France against the Nazis in World War II. But on December 1, 1944, as many as 400 of them were murdered in cold blood: not by the Germans, but by the very French forces they fought alongside. The massacre was swept under the rug for decades, preventing victims and their relatives from any form of closure or recognition. Marie Thomas-Penette and François-Xavier Destors' new documentary \"Thiaroye 44\" is one of the first to explore this dark chapter of France's colonial past. The directors joined us for Perspective.",
+          "link": "https://www.france24.com/en/tv-shows/perspective/20220511-thiaroye-44-new-documentary-explores-1944-massacre-of-senegalese-soldiers",
+          "publishedOn": "2022-05-11T09:02:07.000Z",
+          "wordCount": 392,
+          "title": "'Thiaroye 44': New documentary explores 1944 massacre of Senegalese soldiers",
+          "enclosure": {
+            "url": "https://s.france24.com/media/display/2c20668c-d106-11ec-9c33-005056bf30b7/w:1024/p:16x9/capture-1017751945627b76c2176775.27058192.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://s.france24.com/media/display/2c20668c-d106-11ec-9c33-005056bf30b7/w:1024/p:16x9/capture-1017751945627b76c2176775.27058192.jpg"
+        },
+        {
+          "id": "93b06740-d0f5-11ec-8d07-005056bf762b",
+          "author": "NEWS WIRES",
+          "description": "Paraguayan anti-drug prosecutor Marcelo Pecci was shot dead execution-style Tuesday while honeymooning on a Colombian Caribbean island by attackers who fled by sea, police and his widow said.",
+          "link": "https://www.france24.com/en/americas/20220511-paraguay-anti-drug-prosecutor-shot-dead-on-honeymoon-in-colombia",
+          "publishedOn": "2022-05-11T06:48:19.000Z",
+          "wordCount": 1035,
+          "title": "Paraguay anti-drug prosecutor shot dead on honeymoon in Colombia",
+          "enclosure": {
+            "url": "https://s.france24.com/media/display/2fc257fc-d0f5-11ec-a8e9-005056bfb2b6/w:1024/p:16x9/2022-05-10T235100Z_93384371_RC2O4U90S6V0_RTRMADP_3_COLOMBIA-CRIME-PARAGUAY.JPG",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://s.france24.com/media/display/2fc257fc-d0f5-11ec-a8e9-005056bfb2b6/w:1024/p:16x9/2022-05-10T235100Z_93384371_RC2O4U90S6V0_RTRMADP_3_COLOMBIA-CRIME-PARAGUAY.JPG"
+        },
+        {
+          "id": "eb81d7d6-d0ed-11ec-8be5-005056bf762b",
+          "author": "FRANCE 24",
+          "description": "Veteran Al Jazeera journalist Shireen Abu Akleh, a Palestinian-American who was among the network's most prominent figures, was shot dead Wednesday as she covered an Israeli army raid in the occupied West Bank.",
+          "link": "https://www.france24.com/en/middle-east/20220511-al-jazeera-journalist-shot-dead-during-israeli-raid-in-west-bank",
+          "publishedOn": "2022-05-11T05:59:39.000Z",
+          "wordCount": 1275,
+          "title": "Al Jazeera journalist killed while covering Israeli raid in West Bank",
+          "enclosure": {
+            "url": "https://s.france24.com/media/display/a4ba1c52-d0fa-11ec-875a-005056bf30b7/w:1024/p:16x9/al-jazeera-reporter.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://s.france24.com/media/display/a4ba1c52-d0fa-11ec-875a-005056bf30b7/w:1024/p:16x9/al-jazeera-reporter.jpg"
+        },
+        {
+          "id": "eb9a871a-d0eb-11ec-9268-005056bf762b",
+          "author": "FRANCE 24",
+          "description": "China's flagship zero-Covid strategy to defeat the pandemic is unsustainable, the World Health Organization said Tuesday, adding that it had told Beijing so and called for a policy shift.",
+          "link": "https://www.france24.com/en/asia-pacific/20220511-who-chief-says-china-s-zero-covid-strategy-is-unsustainable",
+          "publishedOn": "2022-05-11T05:47:50.000Z",
+          "wordCount": 923,
+          "title": "WHO chief says China's zero-Covid strategy is 'unsustainable'",
+          "enclosure": {
+            "url": "https://s.france24.com/media/display/cc1859b8-d0ea-11ec-9a82-005056a97e36/w:1024/p:16x9/000_329V2QY.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://s.france24.com/media/display/cc1859b8-d0ea-11ec-9a82-005056a97e36/w:1024/p:16x9/000_329V2QY.jpg"
+        },
+        {
+          "id": "d8559db4-d0de-11ec-b1c3-005056a97652",
+          "author": "FRANCE 24",
+          "description": "UN chief Antonio Guterres said Wednesday he was \"deeply concerned\" about the prospect of global food shortages stemming from the war in Ukraine, calling the current food security situation \"dramatic\". Ukraine said its forces were gradually pushing Russian troops away from the city of Kharkiv, the country's second-largest, signalling a possible shift in the war's momentum. Thank you for joining us during this live coverage of Russia’s invasion of Ukraine.",
+          "link": "https://www.france24.com/en/europe/20220511-live-us-house-approves-40-billion-ukraine-aid",
+          "publishedOn": "2022-05-11T04:00:04.000Z",
+          "wordCount": 5909,
+          "title": "UN chief 'deeply concerned' about risks of global hunger due to war in Ukraine",
+          "enclosure": {
+            "url": "https://s.france24.com/media/display/b7fd1f9c-d138-11ec-91f1-005056bf30b7/w:1024/p:16x9/2022-05-10T120628Z_1781228996_RC2NGT9UJQVM_RTRMADP_3_UKRAINE-CRISIS-AGRICULTURE-UKRLANDFARMING.JPG",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://s.france24.com/media/display/b7fd1f9c-d138-11ec-91f1-005056bf30b7/w:1024/p:16x9/2022-05-10T120628Z_1781228996_RC2NGT9UJQVM_RTRMADP_3_UKRAINE-CRISIS-AGRICULTURE-UKRLANDFARMING.JPG"
+        },
+        {
+          "id": "dbbc59a4-d0a5-11ec-98f0-005056bf762b",
+          "author": "NEWS WIRES",
+          "description": "Elon Musk on Tuesday said that as owner of Twitter he would lift the ban on Donald Trump, contending that kicking the former US president off the platform \"alienated a large part of the country.\"",
+          "link": "https://www.france24.com/en/americas/20220510-elon-musk-says-he-would-reverse-trump-s-twitter-ban",
+          "publishedOn": "2022-05-10T21:12:10.000Z",
+          "wordCount": 1022,
+          "title": "Elon Musk says he would reverse Twitter's ban on Trump",
+          "enclosure": {
+            "url": "https://s.france24.com/media/display/a0dbe778-d0a5-11ec-b646-005056bf30b7/w:1024/p:16x9/2022-05-10T174641Z_2115791313_RC2G4U90V7T0_RTRMADP_3_TWITTER-M-A-MUSK-TRUMP.JPG",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://s.france24.com/media/display/a0dbe778-d0a5-11ec-b646-005056bf30b7/w:1024/p:16x9/2022-05-10T174641Z_2115791313_RC2G4U90V7T0_RTRMADP_3_TWITTER-M-A-MUSK-TRUMP.JPG"
+        },
+        {
+          "id": "2f5203ce-d08e-11ec-b34a-005056bf762b",
+          "author": "Leela JACINTO",
+          "description": "At the height of their power, four brothers from Sri Lanka’s Rajapaksa dynasty held the presidency and the prime minister’s office as well as the finance, interior and defence portfolios, among others. But just when the Rajapaksa clan seemed invincible, an economic crisis of their own making led to their undoing. But does that spell the end of South Asia’s most powerful political family?",
+          "link": "https://www.france24.com/en/asia-pacific/20220510-the-rise-and-fall-of-a-political-dynasty-that-brought-sri-lanka-to-its-knees",
+          "publishedOn": "2022-05-10T20:16:14.000Z",
+          "wordCount": 2028,
+          "title": "The rise and fall of a political dynasty that brought Sri Lanka to its knees",
+          "enclosure": {
+            "url": "https://s.france24.com/media/display/85bc520a-d08e-11ec-ba6b-005056a9a7b9/w:1024/p:16x9/Rajapaksa-bros.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://s.france24.com/media/display/85bc520a-d08e-11ec-ba6b-005056a9a7b9/w:1024/p:16x9/Rajapaksa-bros.jpg"
         }
       ]
     }

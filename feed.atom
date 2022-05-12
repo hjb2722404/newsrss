@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/newsrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-12T10:14:05.936Z</updated>
+    <updated>2022-05-12T10:20:18.880Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/newsrss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/newsrss/feed.atom"/>
@@ -64,6 +64,26 @@
         <summary type="html"><![CDATA[The video, uploaded by the Cape Hatteras National Seashore's official Twitter account, currently has over 10 million views.]]></summary>
         <author>
             <name>News24 World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[British tourist, 34, killed falling from seventh floor of Magaluf hotel]]></title>
+        <id>b2077377</id>
+        <link href="https://www.independent.co.uk/news/world/europe/magaluf-death-british-tourist-hotel-b2077377.html"/>
+        <updated>2022-05-12T10:14:25.000Z</updated>
+        <summary type="html"><![CDATA[The latest breaking news, comment and features from The Independent.]]></summary>
+        <author>
+            <name>The Independent World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russian army ‘lose entire battalion’ trying to cross Ukraine bridge]]></title>
+        <id>b2077244</id>
+        <link href="https://www.independent.co.uk/news/world/europe/russia-putin-soldiers-siverskyi-donets-b2077244.html"/>
+        <updated>2022-05-12T10:12:23.000Z</updated>
+        <summary type="html"><![CDATA[British intelligence says Russian forces are likely to redeploy to eastern bank of Siverskyi Donets river]]></summary>
+        <author>
+            <name>Shweta Sharma</name>
         </author>
     </entry>
     <entry>
@@ -438,6 +458,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ukraine LIVE: Boris 'very seriously' considering nuclear weapons to protect against Russia]]></title>
+        <id>https://www.express.co.uk/news/world/1609065/Ukraine-live-Russian-losses-Vladimir-Putin-Finland-NATO-Sweden-Zelensky-latest-updates</id>
+        <link href="https://www.express.co.uk/news/world/1609065/Ukraine-live-Russian-losses-Vladimir-Putin-Finland-NATO-Sweden-Zelensky-latest-updates"/>
+        <updated>2022-05-12T09:35:00.000Z</updated>
+        <summary type="html"><![CDATA[BRITISH troops will defend other European nations in the face of Russian invasion, Prime Minister Boris Johnson has said as the Kremlin hide their combat losses.]]></summary>
+        <author>
+            <name>Daily Express :: World Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Biden to order federal flags to fly at half-staff as the U.S. Covid toll nears one million.]]></title>
         <id>https://www.nytimes.com/2022/05/12/world/biden-covid-deaths-flags-half-staff.html</id>
         <link href="https://www.nytimes.com/2022/05/12/world/biden-covid-deaths-flags-half-staff.html"/>
@@ -528,6 +558,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Finland under threat: Putin tipped to send troops to country's border after joining NATO]]></title>
+        <id>https://www.express.co.uk/news/world/1609179/finland-nato-membership-russian-border-putin-troops-ukraine-war-spt</id>
+        <link href="https://www.express.co.uk/news/world/1609179/finland-nato-membership-russian-border-putin-troops-ukraine-war-spt"/>
+        <updated>2022-05-12T09:26:47.000Z</updated>
+        <summary type="html"><![CDATA[FINLAND could see Russian troops near its border in the event of the country joining NATO, an expert has claimed, as the Nordic country is poised to make an official application within hours.]]></summary>
+        <author>
+            <name>Daily Express :: World Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[In Sri Lanka's Giant Economic Mess, The Big China Link]]></title>
         <id>2969011</id>
         <link href="https://www.ndtv.com/world-news/in-sri-lankas-giant-economic-mess-the-big-china-link-2969011"/>
@@ -555,6 +595,26 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[‘It would mean we cut the VA budget by about 300 billion’]]></summary>
         <author>
             <name>Maroosha Muzaffar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[British tourist dies 'plunging from seventh-floor hotel balcony' in Magaluf]]></title>
+        <id>https://www.express.co.uk/news/world/1609175/briton-dies-magaluf-balcony-plunge-holiday</id>
+        <link href="https://www.express.co.uk/news/world/1609175/briton-dies-magaluf-balcony-plunge-holiday"/>
+        <updated>2022-05-12T09:22:00.000Z</updated>
+        <summary type="html"><![CDATA[A BRITISH tourist has died in Spain after reportedly falling from the seventh floor of a Magaluf hotel.]]></summary>
+        <author>
+            <name>Daily Express :: World Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Putin humiliated as Russian tank explodes into 250ft fireball after Ukraine missile strike]]></title>
+        <id>https://www.express.co.uk/news/world/1609152/Vladimir-Putin-Russian-tank-explosion-Ukraine-missile-strike-conflict-vn</id>
+        <link href="https://www.express.co.uk/news/world/1609152/Vladimir-Putin-Russian-tank-explosion-Ukraine-missile-strike-conflict-vn"/>
+        <updated>2022-05-12T09:22:00.000Z</updated>
+        <summary type="html"><![CDATA[A RUSSIAN tank has been filmed exploding, sending its turret flying in the air, as it is hit by a missile strike in eastern Ukraine.]]></summary>
+        <author>
+            <name>Daily Express :: World Feed</name>
         </author>
     </entry>
     <entry>
@@ -705,6 +765,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[It's the highest total in the world - but the WHO thinks the true death toll may be higher elsewhere.]]></summary>
         <author>
             <name>BBC News - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palestinians honour slain journalist, reject joint investigation with Israel]]></title>
+        <id>845aabda-d1d0-11ec-9895-005056bf762b</id>
+        <link href="https://www.france24.com/en/middle-east/20220512-palestinians-honour-slain-journalist-reject-joint-investigation-with-israel"/>
+        <updated>2022-05-12T09:08:45.000Z</updated>
+        <summary type="html"><![CDATA[Palestinians planned a memorial service Thursday for journalist Shireen Abu Akleh who was killed while covering an Israeli raid in the West Bank, but have rejected US-led calls for a joint investigation into her death.]]></summary>
+        <author>
+            <name>NEWS WIRES</name>
         </author>
     </entry>
     <entry>
@@ -1198,6 +1268,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ukraine destroys £3m elite Russian tank with £400 rockets and homemade drone - WATCH]]></title>
+        <id>https://www.express.co.uk/news/world/1609120/Ukraine-Russia-tank-explosion-drone-rockets-Vladimir-Putin-retreat-latest-news-vn</id>
+        <link href="https://www.express.co.uk/news/world/1609120/Ukraine-Russia-tank-explosion-drone-rockets-Vladimir-Putin-retreat-latest-news-vn"/>
+        <updated>2022-05-12T08:11:00.000Z</updated>
+        <summary type="html"><![CDATA[UKRAINE has wiped out a £3million Russian T-90 tank using rockets that cost just £400 fired from a homemade drone, as Vladimir Putin's war continues to face humiliating setbacks.]]></summary>
+        <author>
+            <name>Daily Express :: World Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Trump news - live: Biden mocks former president as ‘the great MAGA king’]]></title>
         <id>b2077118</id>
         <link href="https://www.independent.co.uk/news/world/americas/us-politics/trump-news-today-twitter-jan-6-kathy-barnette-b2077118.html"/>
@@ -1329,6 +1409,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Putin humiliated as downed Russian jets found with GPS taped to dashboard]]></title>
+        <id>https://www.express.co.uk/news/world/1609093/putin-humiliated-russian-jets-gps-taped-ben-wallace</id>
+        <link href="https://www.express.co.uk/news/world/1609093/putin-humiliated-russian-jets-gps-taped-ben-wallace"/>
+        <updated>2022-05-12T07:38:00.000Z</updated>
+        <summary type="html"><![CDATA[RUSSIA'S military has been humiliated again as GPS receivers were found taped to downed Russian jets to make up for their terrible equipment.]]></summary>
+        <author>
+            <name>Daily Express :: World Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ukraine war: Finland’s leaders back joining Nato ‘without delay’]]></title>
         <id>https://www.scmp.com/news/world/europe/article/3177461/ukraine-war-finlands-leaders-back-joining-nato-without-delay?utm_source=rss_feed</id>
         <link href="https://www.scmp.com/news/world/europe/article/3177461/ukraine-war-finlands-leaders-back-joining-nato-without-delay?utm_source=rss_feed"/>
@@ -1396,6 +1486,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[A beach house in North Carolina's Outer Banks recently collapsed from high water levels. A video shows the demise of the home as ocean waves caused the stilts supporting the house to teeter and fall.]]></summary>
         <author>
             <name>NDTV News - World-news</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finland’s leaders back joining NATO in policy shift triggered by Ukraine war]]></title>
+        <id>93348cf0-d1c3-11ec-90a0-005056a97652</id>
+        <link href="https://www.france24.com/en/live-news/20220512-finland-s-leaders-back-nato-membership-in-major-policy-shift-triggered-by-ukraine-war"/>
+        <updated>2022-05-12T07:17:59.000Z</updated>
+        <summary type="html"><![CDATA[Finland must apply to join the NATO military alliance "without delay", Finnish President Sauli Niinisto and Prime Minister Sanna Marin said on Thursday, signalling a major policy shift triggered by Russia's invasion of Ukraine.]]></summary>
+        <author>
+            <name>FRANCE 24</name>
         </author>
     </entry>
     <entry>
@@ -1780,6 +1880,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[White diamond auctioned for over $20 million, falls short of record]]></title>
+        <id>d73c1202-d1b8-11ec-9a0f-005056bf762b</id>
+        <link href="https://www.france24.com/en/europe/20220512-white-diamond-auctioned-for-over-20-million-falls-short-of-record"/>
+        <updated>2022-05-12T06:07:18.000Z</updated>
+        <summary type="html"><![CDATA[The Rock, the biggest white diamond ever auctioned, sold for 21.7 million Swiss francs ($21.9 million) on Wednesday, far short of the record for such a jewel.]]></summary>
+        <author>
+            <name>NEWS WIRES</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[China passenger jet catches fire, dozens ‘lightly injured’]]></title>
         <id>https://www.aljazeera.com/?t=1652332721</id>
         <link href="https://www.aljazeera.com/news/2022/5/12/china-passenger-jet-catches-fire-dozens-lightly-injured"/>
@@ -2081,6 +2191,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ukraine: Putin humiliated as satellite pics show tanks wiped out in brutal massacre]]></title>
+        <id>https://www.express.co.uk/news/world/1608434/ukraine-live-vladimir-putin-volodymyr-zelensky-russia-invasion-war-FSB-latest-update</id>
+        <link href="https://www.express.co.uk/news/world/1608434/ukraine-live-vladimir-putin-volodymyr-zelensky-russia-invasion-war-FSB-latest-update"/>
+        <updated>2022-05-12T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[VLADIMIR PUTIN'S troops have been wiped out by Ukrainian forces in an attempt to cross the Seversky Donets river.]]></summary>
+        <author>
+            <name>Daily Express :: World Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Coronavirus: Shanghai posts falling Covid-19 infections, symptomatic cases and death toll as city takes another tentative step towards recovery]]></title>
         <id>https://www.scmp.com/business/china-business/article/3177426/coronavirus-shanghai-posts-falling-covid-19-infections?utm_source=rss_feed</id>
         <link href="https://www.scmp.com/business/china-business/article/3177426/coronavirus-shanghai-posts-falling-covid-19-infections?utm_source=rss_feed"/>
@@ -2321,6 +2441,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Live: Ukraine to hold first war crimes trial of captured Russian soldier]]></title>
+        <id>4f8450ce-d1a2-11ec-a115-005056bf762b</id>
+        <link href="https://www.france24.com/en/europe/20220512-live-russia-most-direct-threat-to-world-order-says-eu-s-von-der-leyen"/>
+        <updated>2022-05-12T03:19:14.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine’s top prosecutor disclosed plans Wednesday for the first war crimes trial of a captured Russian soldier as fighting raged in the east and south of the country. The move came as Finland's leaders backed applying for NATO membership in a major policy shift triggered by Russia's invasion of Ukraine. Follow FRANCE 24's live blog for all the latest developments. All times are Paris time (GMT+2).]]></summary>
+        <author>
+            <name>FRANCE 24</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Girls’ lacrosse team from historically Black college ‘traumatised’ after Georgia deputies search their bags]]></title>
         <id>b2076257</id>
         <link href="https://www.independent.co.uk/news/world/americas/georgia-delaware-lacrosse-team-bus-search-b2076257.html"/>
@@ -2449,6 +2579,36 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Analysts say move does little to promote social cohesion, but decision also appears to be political rather than related to religion.]]></summary>
         <author>
             <name>Mimi Lau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Putin humiliation: Losing allies 'in own backyard' as Kazakhstan cancels Victory Day]]></title>
+        <id>https://www.express.co.uk/news/world/1609027/Putin-humiliation-russia-ukraine-war-kazakhstan-cancels-victory-day-parade-ont</id>
+        <link href="https://www.express.co.uk/news/world/1609027/Putin-humiliation-russia-ukraine-war-kazakhstan-cancels-victory-day-parade-ont"/>
+        <updated>2022-05-12T02:11:25.000Z</updated>
+        <summary type="html"><![CDATA[RUSSIA has begun to lose support "in its own backyard" as its neighbour Kazakhstan cancels their Victory Day parade in protest to Putin's military action in Ukraine, a professor has stated.]]></summary>
+        <author>
+            <name>Daily Express :: World Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Putin’s bolstered offensive in Donbas 'failing' and risks crumbling after 'heavy losses']]></title>
+        <id>https://www.express.co.uk/news/world/1609026/putin-latest-news-offensive-donbas-heavy-losses-Ukraine-war-ont</id>
+        <link href="https://www.express.co.uk/news/world/1609026/putin-latest-news-offensive-donbas-heavy-losses-Ukraine-war-ont"/>
+        <updated>2022-05-12T02:09:21.000Z</updated>
+        <summary type="html"><![CDATA[VLADIMIR PUTIN'S offensive in the Donbas region is reportedly failing and at risk of crumbling after suffering heavy losses from the Ukrainian resistance, according to war expert Justin Bronk.]]></summary>
+        <author>
+            <name>Daily Express :: World Feed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Korea reports first positive Covid-19 case, declares emergency]]></title>
+        <id>34356354-d197-11ec-9023-005056a97652</id>
+        <link href="https://www.france24.com/en/asia-pacific/20220512-north-korea-reports-first-positive-covid-19-case-declares-emergency"/>
+        <updated>2022-05-12T01:59:47.000Z</updated>
+        <summary type="html"><![CDATA[North Korea has confirmed its first-ever case of Covid-19 and declared a "severe national emergency", with leader Kim Jong Un vowing to "eliminate" the virus, state media said Thursday.]]></summary>
+        <author>
+            <name>NEWS WIRES</name>
         </author>
     </entry>
     <entry>
@@ -2625,6 +2785,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Victims of deadly Florida condo collapse reach nearly $1 billion settlement]]></title>
+        <id>8301129c-d18a-11ec-9c9d-005056bf762b</id>
+        <link href="https://www.france24.com/en/americas/20220512-victims-of-deadly-florida-condo-collapse-reach-997-million-settlement"/>
+        <updated>2022-05-12T00:28:56.000Z</updated>
+        <summary type="html"><![CDATA[Survivors and families of people who died in last year's collapse of a beachfront condo building near Miami have reached a settlement of at least $997 million, a lawyer for the plaintiffs said Wednesday.]]></summary>
+        <author>
+            <name>NEWS WIRES</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Britain strikes new security deals with Sweden & Finland]]></title>
         <id>https://timesofindia.indiatimes.com/world/europe/britain-strikes-new-security-deals-with-sweden-finland/articleshow/91504386.cms</id>
         <link href="https://timesofindia.indiatimes.com/world/europe/britain-strikes-new-security-deals-with-sweden-finland/articleshow/91504386.cms"/>
@@ -2642,6 +2812,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[The top international official in Bosnia is warning that Bosnian Serbs are trying to “secede” and undermine the country’s sovereignty]]></summary>
         <author>
             <name>Edith M. Lederer | AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US Republicans block Senate bill to protect access to abortion]]></title>
+        <id>aca07a36-d188-11ec-b7b7-005056bf762b</id>
+        <link href="https://www.france24.com/en/americas/20220512-us-republicans-block-senate-bill-to-protect-access-to-abortion"/>
+        <updated>2022-05-12T00:15:44.000Z</updated>
+        <summary type="html"><![CDATA[A Democratic drive to make the right to abortion the law of the land failed in the US Senate on Wednesday after Republicans refused to allow a vote on the deeply polarising issue that threatens to upend the upcoming midterm election campaign.]]></summary>
+        <author>
+            <name>NEWS WIRES</name>
         </author>
     </entry>
     <entry>
@@ -2805,6 +2985,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA['No idea how to fly' Passenger with ZERO experience lands plane as pilot 'incoherent']]></title>
+        <id>https://www.express.co.uk/news/world/1608909/Plane-news-passenger-lands-plane-zero-experience-bahamas-florida</id>
+        <link href="https://www.express.co.uk/news/world/1608909/Plane-news-passenger-lands-plane-zero-experience-bahamas-florida"/>
+        <updated>2022-05-11T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AN AIRCRAFT passenger with zero experience and "no idea how to fly" has landed a plane after the pilot became "incoherent."]]></summary>
+        <author>
+            <name>Daily Express :: World Feed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[WHO says omicron BA.4 and BA.5 subvariants have spread to over a dozen countries]]></title>
         <id>107059726</id>
         <link href="https://www.cnbc.com/2022/05/11/who-says-omicron-bapoint4-and-bapoint5-subvariants-have-spread-to-over-a-dozen-countries.html"/>
@@ -2862,6 +3052,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Shireen Abu Akleh was fatally shot while covering an Israeli army raid on the Jenin refugee camp in the West Bank.]]></summary>
         <author>
             <name>Sarah Kerr and Christina Kelso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guinea announces three-year transition period before restoring civilian rule]]></title>
+        <id>f5f87a66-d17a-11ec-bb50-005056a97652</id>
+        <link href="https://www.france24.com/en/africa/20220511-guinea-announces-three-year-transition-period-before-restoring-civilian-rule"/>
+        <updated>2022-05-11T22:37:36.000Z</updated>
+        <summary type="html"><![CDATA[Guinea's legislative body on Wednesday announced there would be a three-year transition period before civilian rule is restored, defying regional partners who have called for a swifter timetable following a coup.]]></summary>
+        <author>
+            <name>NEWS WIRES</name>
         </author>
     </entry>
     <entry>
@@ -3784,6 +3984,16 @@ In a statement, Al Jazeera, the Qatar-based Arab news network, accused Israeli f
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[New law in Iran limits screening tests during pregnancy]]></title>
+        <id>2568a8de-d158-11ec-8cff-005056bf762b</id>
+        <link href="https://observers.france24.com/en/middle-east/20220511-iran-birth-rate-law-limits-pregnancy-screening-tests-for-women"/>
+        <updated>2022-05-11T18:28:54.000Z</updated>
+        <summary type="html"><![CDATA[The Iranian Health Ministry announced on April 16 that doctors and midwives in Iran would be banned from running screening tests in pregnancy – tests which can reveal abnormalities or certain conditions in the fetus, a move that sparked indignation from activists in the country. Pregnancy screenings, often used to detect genetic diseases, can now only be carried out by court order, rendering them largely inaccessible, particularly for the most disadvantaged families.]]></summary>
+        <author>
+            <name>observers.france24.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[News24.com | SEE | A white diamond found in SA has become the largest ever to be sold at an auction]]></title>
         <id>https://www.news24.com/news24/World/News/see-a-white-diamond-found-in-sa-has-become-the-largest-ever-to-be-auctioned-off-20220511</id>
         <link href="https://www.news24.com/news24/World/News/see-a-white-diamond-found-in-sa-has-become-the-largest-ever-to-be-auctioned-off-20220511"/>
@@ -4127,6 +4337,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Paris to revamp the famed Champs-Élysées ahead of 2024 Olympics]]></title>
+        <id>5ad56ee6-d147-11ec-a426-005056a97652</id>
+        <link href="https://www.france24.com/en/europe/20220511-paris-to-revamp-the-famed-champs-elysees-ahead-of-2024-olympics"/>
+        <updated>2022-05-11T16:44:10.000Z</updated>
+        <summary type="html"><![CDATA[Paris will give the famed Champs-Élysées a makeover ahead of the 2024 Olympic Games by planting trees and increasing pedestrian areas, the French capital's officials said on Wednesday.]]></summary>
+        <author>
+            <name>NEWS WIRES</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sen Joe Manchin will vote against Democrats’ abortion legislation but ‘would vote for Roe v Wade codification’]]></title>
         <id>b2076757</id>
         <link href="https://www.independent.co.uk/news/world/americas/us-politics/joe-manchin-roe-v-wade-abortion-b2076757.html"/>
@@ -4144,6 +4364,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Ukrainian folk-rap group Kalush Orchestra will compete in the final round of the competition on Saturday. Their song "Stefania" is about the singer's mom, but has taken on new meaning during the war.]]></summary>
         <author>
             <name>Rachel Treisman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Britain signs security deal vowing to defend Sweden in case of attack]]></title>
+        <id>23ffcd48-d148-11ec-8aec-005056a97652</id>
+        <link href="https://www.france24.com/en/europe/20220511-britain-signs-security-deal-vowing-to-defend-sweden-in-case-of-attack"/>
+        <updated>2022-05-11T16:38:02.000Z</updated>
+        <summary type="html"><![CDATA[Britain pledged to defend Sweden if the country came under attack, with Prime Ministers Boris Johnson and Magdalena Andersson signing a security assurance deal outside Stockholm on Wednesday.]]></summary>
+        <author>
+            <name>NEWS WIRES</name>
         </author>
     </entry>
     <entry>
@@ -4260,6 +4490,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[France’s unprecedented drought shows climate change is ‘spiralling out of control’]]></title>
+        <id>58012dbe-d137-11ec-b2fb-005056bf762b</id>
+        <link href="https://www.france24.com/en/environment/20220511-france-s-unprecedented-drought-shows-climate-change-is-spiralling-out-of-control"/>
+        <updated>2022-05-11T15:17:35.000Z</updated>
+        <summary type="html"><![CDATA[As global warming accelerates, the spectre of drought haunts France’s once verdant farmland. Even now, before the start of summer, 15 administrative départements have had to restrict water use while farmers warn that the current situation will have an adverse impact on crop yields.]]></summary>
+        <author>
+            <name>Aude MAZOUE</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dramatic moment Russian artillery gun explodes in Ukraine missile strike sending shockwaves across the landscape]]></title>
         <id>Post 18535011 at The Sun</id>
         <link href="https://www.thesun.co.uk/news/18535011/moment-russian-artillery-gun-explodes-ukraine-missile-strike/"/>
@@ -4318,6 +4558,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[The prices of clothing and used cars fell, but inflation remains at a 40-year high.]]></summary>
         <author>
             <name>BBC News - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Covid-19: Masking requirements to be lifted on French transport, European flights]]></title>
+        <id>7718ad3c-d135-11ec-82b5-005056bf762b</id>
+        <link href="https://www.france24.com/en/europe/20220511-covid-19-france-to-end-mask-requirement-on-transport"/>
+        <updated>2022-05-11T14:34:36.000Z</updated>
+        <summary type="html"><![CDATA[Face masks will no longer be required on trains, planes and metros in France starting on May 16, the health minister said Wednesday. Mask-wearing requirements are also set to be lifted in airports and on flights in Europe the same day, the EU Aviation Safety Agency said.]]></summary>
+        <author>
+            <name>FRANCE 24</name>
         </author>
     </entry>
     <entry>
@@ -4520,6 +4770,16 @@ Read Full Article at RT.com]]></summary>
 The post The National Security Implications of New Rules of the Road for Cyber appeared first on The Cipher Brief.]]></summary>
         <author>
             <name>Suzanne Kelly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Hurt, angry, anxious, scared’: Converging crises lead to US baby formula shortage]]></title>
+        <id>822286ac-d118-11ec-b9d5-005056a97652</id>
+        <link href="https://www.france24.com/en/americas/20220511-hurt-angry-anxious-scared-converging-crises-spark-us-baby-formula-shortage"/>
+        <updated>2022-05-11T12:11:29.000Z</updated>
+        <summary type="html"><![CDATA[Along with much of the globe, US consumers are reeling from a cost of living and supply-chain crisis. One example is a shortage of baby formula caused by a constellation of factors, from rampant inflation to a massive recall over safety concerns.]]></summary>
+        <author>
+            <name>Sébastian SEIBT</name>
         </author>
     </entry>
     <entry>
@@ -4736,6 +4996,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA['Thiaroye 44': New documentary explores 1944 massacre of Senegalese soldiers]]></title>
+        <id>5d1575a6-d0f8-11ec-b6ff-005056bf762b</id>
+        <link href="https://www.france24.com/en/tv-shows/perspective/20220511-thiaroye-44-new-documentary-explores-1944-massacre-of-senegalese-soldiers"/>
+        <updated>2022-05-11T09:02:07.000Z</updated>
+        <summary type="html"><![CDATA[Thousands of Senegalese soldiers fought for France against the Nazis in World War II. But on December 1, 1944, as many as 400 of them were murdered in cold blood: not by the Germans, but by the very French forces they fought alongside. The massacre was swept under the rug for decades, preventing victims and their relatives from any form of closure or recognition. Marie Thomas-Penette and François-Xavier Destors' new documentary "Thiaroye 44" is one of the first to explore this dark chapter of France's colonial past. The directors joined us for Perspective.]]></summary>
+        <author>
+            <name>Erin OGUNKEYE</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Solar projects are on hold as U.S. investigates whether China is skirting trade rules]]></title>
         <id>https://www.npr.org/2022/05/11/1097644931/solar-panels-solar-power-u-s-investigates-china-trade-rules</id>
         <link href="https://www.npr.org/2022/05/11/1097644931/solar-panels-solar-power-u-s-investigates-china-trade-rules"/>
@@ -4828,6 +5098,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Paraguay anti-drug prosecutor shot dead on honeymoon in Colombia]]></title>
+        <id>93b06740-d0f5-11ec-8d07-005056bf762b</id>
+        <link href="https://www.france24.com/en/americas/20220511-paraguay-anti-drug-prosecutor-shot-dead-on-honeymoon-in-colombia"/>
+        <updated>2022-05-11T06:48:19.000Z</updated>
+        <summary type="html"><![CDATA[Paraguayan anti-drug prosecutor Marcelo Pecci was shot dead execution-style Tuesday while honeymooning on a Colombian Caribbean island by attackers who fled by sea, police and his widow said.]]></summary>
+        <author>
+            <name>NEWS WIRES</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Talks on to end political impasse after PM's resignation]]></title>
         <id>https://timesofindia.indiatimes.com/world/south-asia/sri-lanka-crisis-talks-on-to-end-political-impasse-after-pms-resignation/articleshow/91486155.cms</id>
         <link href="https://timesofindia.indiatimes.com/world/south-asia/sri-lanka-crisis-talks-on-to-end-political-impasse-after-pms-resignation/articleshow/91486155.cms"/>
@@ -4848,6 +5128,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Al Jazeera journalist killed while covering Israeli raid in West Bank]]></title>
+        <id>eb81d7d6-d0ed-11ec-8be5-005056bf762b</id>
+        <link href="https://www.france24.com/en/middle-east/20220511-al-jazeera-journalist-shot-dead-during-israeli-raid-in-west-bank"/>
+        <updated>2022-05-11T05:59:39.000Z</updated>
+        <summary type="html"><![CDATA[Veteran Al Jazeera journalist Shireen Abu Akleh, a Palestinian-American who was among the network's most prominent figures, was shot dead Wednesday as she covered an Israeli army raid in the occupied West Bank.]]></summary>
+        <author>
+            <name>FRANCE 24</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Al Jazeera reporter killed during Israeli raid in West Bank]]></title>
         <id>1.6448903</id>
         <link href="https://www.cbc.ca/news/world/al-jazeera-journalist-shot-israel-1.6448903?cmp=rss"/>
@@ -4855,6 +5145,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[A journalist for Al Jazeera was shot and killed while covering an Israeli raid in the occupied West Bank town of Jenin early Wednesday. The broadcaster blamed Israeli forces, while Israel initially said there was evidence she was hit by Palestinian gunfire, but later the military stepped back from that assertion.]]></summary>
         <author>
             <name>The Associated Press</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO chief says China's zero-Covid strategy is 'unsustainable']]></title>
+        <id>eb9a871a-d0eb-11ec-9268-005056bf762b</id>
+        <link href="https://www.france24.com/en/asia-pacific/20220511-who-chief-says-china-s-zero-covid-strategy-is-unsustainable"/>
+        <updated>2022-05-11T05:47:50.000Z</updated>
+        <summary type="html"><![CDATA[China's flagship zero-Covid strategy to defeat the pandemic is unsustainable, the World Health Organization said Tuesday, adding that it had told Beijing so and called for a policy shift.]]></summary>
+        <author>
+            <name>FRANCE 24</name>
         </author>
     </entry>
     <entry>
@@ -4896,6 +5196,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[The Indian High Commission in Sri Lanka on Tuesday refuted as "fake and blatantly false" local social media speculation that former prime minister Mahinda Rajapaksa and his family members have fled to India, a day after the patriarch of the powerful Rajapaksa family quit as premier amidst the unprecedented anti-government protests.]]></summary>
         <author>
             <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UN chief 'deeply concerned' about risks of global hunger due to war in Ukraine]]></title>
+        <id>d8559db4-d0de-11ec-b1c3-005056a97652</id>
+        <link href="https://www.france24.com/en/europe/20220511-live-us-house-approves-40-billion-ukraine-aid"/>
+        <updated>2022-05-11T04:00:04.000Z</updated>
+        <summary type="html"><![CDATA[UN chief Antonio Guterres said Wednesday he was "deeply concerned" about the prospect of global food shortages stemming from the war in Ukraine, calling the current food security situation "dramatic". Ukraine said its forces were gradually pushing Russian troops away from the city of Kharkiv, the country's second-largest, signalling a possible shift in the war's momentum. Thank you for joining us during this live coverage of Russia’s invasion of Ukraine.]]></summary>
+        <author>
+            <name>FRANCE 24</name>
         </author>
     </entry>
     <entry>
@@ -5155,6 +5465,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Elon Musk says he would reverse Twitter's ban on Trump]]></title>
+        <id>dbbc59a4-d0a5-11ec-98f0-005056bf762b</id>
+        <link href="https://www.france24.com/en/americas/20220510-elon-musk-says-he-would-reverse-trump-s-twitter-ban"/>
+        <updated>2022-05-10T21:12:10.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk on Tuesday said that as owner of Twitter he would lift the ban on Donald Trump, contending that kicking the former US president off the platform "alienated a large part of the country."]]></summary>
+        <author>
+            <name>NEWS WIRES</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sri Lanka's prime minister resigns as protests turn deadly]]></title>
         <id>01a00f93-4d22-4229-80c6-60d97046a954</id>
         <link href="https://www.cbsnews.com/news/sri-lankas-prime-minister-mahinda-rajapaksa-resigns-protests-economy-turn-deadly/"/>
@@ -5182,6 +5502,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Investigators will examine whether prison official Vicky White's fatal gunshot wound was self-inflicted, as prisoner Casey White claimed, after the pair were finally tracked down after 11 days on the run.]]></summary>
         <author>
             <name>The Associated Press</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The rise and fall of a political dynasty that brought Sri Lanka to its knees]]></title>
+        <id>2f5203ce-d08e-11ec-b34a-005056bf762b</id>
+        <link href="https://www.france24.com/en/asia-pacific/20220510-the-rise-and-fall-of-a-political-dynasty-that-brought-sri-lanka-to-its-knees"/>
+        <updated>2022-05-10T20:16:14.000Z</updated>
+        <summary type="html"><![CDATA[At the height of their power, four brothers from Sri Lanka’s Rajapaksa dynasty held the presidency and the prime minister’s office as well as the finance, interior and defence portfolios, among others. But just when the Rajapaksa clan seemed invincible, an economic crisis of their own making led to their undoing. But does that spell the end of South Asia’s most powerful political family?]]></summary>
+        <author>
+            <name>Leela JACINTO</name>
         </author>
     </entry>
     <entry>
