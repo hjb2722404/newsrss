@@ -9,4 +9,7 @@ sources:
   - href: http://feeds.bbci.co.uk/news/world/rss.xml
   - href: https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml
   - href: https://www.buzzfeed.com/world.xml
+  - href: http://www.aljazeera.com/xml/rss/all.xml
+  - href: https://www.globalissues.org/news/feed
+  - href: https://www.thecipherbrief.com/feed
   
