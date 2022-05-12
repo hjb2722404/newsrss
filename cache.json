@@ -399,6 +399,63 @@
           "imageUrl": "https://static01.nyt.com/images/2022/05/11/world/12ambriefing-asia-01-promo/12ambriefing-asia-01-facebookJumbo-v2.jpg"
         }
       ]
+    },
+    {
+      "title": "BuzzFeed News",
+      "feedUrl": "https://www.buzzfeed.com/world.xml",
+      "siteUrl": "https://www.buzzfeednews.com",
+      "articles": [
+        {
+          "id": "https://www.buzzfeednews.com/article/davidmack/jill-biden-ukraine-first-lady",
+          "author": "David Mack",
+          "description": "Olena Zelenska had not been seen in public since Russia's invasion of Ukraine began in February.\n\n\nView Entire Post ›",
+          "link": "https://www.buzzfeednews.com/article/davidmack/jill-biden-ukraine-first-lady",
+          "publishedOn": "2022-05-09T22:54:59.000Z",
+          "wordCount": 857,
+          "title": "Jill Biden Made A Surprise Visit To Ukraine To Meet With Their First Lady",
+          "imageUrl": "https://img.buzzfeed.com/buzzfeed-static/static/2022-05/9/18/campaign_images/020c0602f06d/jill-biden-made-a-surprise-visit-to-ukraine-to-me-2-7123-1652122494-3_dblbig.jpg"
+        },
+        {
+          "id": "https://www.buzzfeednews.com/article/peteraldhous/who-covid-death-count-15-million",
+          "author": "Peter Aldhous",
+          "description": "The UN’s health agency has embraced statistical methods that put the true toll of the pandemic at around 15 million. Will it shock nations that are denying the severity of COVID-19 into action?\n\n\nView Entire Post ›",
+          "link": "https://www.buzzfeednews.com/article/peteraldhous/who-covid-death-count-15-million",
+          "publishedOn": "2022-05-06T15:25:05.000Z",
+          "wordCount": 1622,
+          "title": "The WHO Has Nearly Tripled Its Estimate Of The Pandemic’s Death Toll",
+          "imageUrl": "https://img.buzzfeed.com/buzzfeed-static/static/2022-05/5/14/campaign_images/32b42d921348/the-who-has-nearly-tripled-its-estimate-of-the-pa-2-517-1651761061-0_dblbig.jpg"
+        },
+        {
+          "id": "https://www.buzzfeednews.com/article/davidmack/brittney-griner-trevor-reed-paul-whelan-russia",
+          "author": "David Mack",
+          "description": "Trevor Reed's release from Russia highlighted concerns over the continued detention of WNBA star Brittney Griner and another former Marine, Paul Whelan.\n\n\nView Entire Post ›",
+          "link": "https://www.buzzfeednews.com/article/davidmack/brittney-griner-trevor-reed-paul-whelan-russia",
+          "publishedOn": "2022-04-28T21:25:10.000Z",
+          "wordCount": 1161,
+          "title": "A Former Marine Was Freed From “Wrongful Detention” In Russia, But Concerns Remain For Brittney Griner And Others",
+          "imageUrl": "https://img.buzzfeed.com/buzzfeed-static/static/2022-04/27/14/enhanced/befd9e605309/original-2140-1651069484-2.jpg?crop=1244:651;0,89%26downsize=1250:*"
+        },
+        {
+          "id": "https://www.buzzfeednews.com/article/richardnieva/worldcoin-crypto-eyeball-scanning-orb-problems",
+          "author": "Richard Nieva",
+          "description": "The Sam Altman–founded company Worldcoin says it aims to alleviate global poverty, but so far it has angered the very people it claims to be helping.\n\n\nView Entire Post ›",
+          "link": "https://www.buzzfeednews.com/article/richardnieva/worldcoin-crypto-eyeball-scanning-orb-problems",
+          "publishedOn": "2022-04-26T21:44:33.000Z",
+          "wordCount": 4850,
+          "title": "Worldcoin Promised Free Crypto If They Scanned Their Eyeballs With “The Orb.” Now They Feel Robbed.",
+          "imageUrl": "https://img.buzzfeed.com/buzzfeed-static/static/2022-04/5/23/asset/f42ad988273f/sub-buzz-1650-1649200106-11.jpg?crop=2571:1714;0,0%26downsize=1250:*"
+        },
+        {
+          "id": "https://www.buzzfeednews.com/article/richholmes/uk-manchester-bombing-counterterrorism-failures",
+          "author": "Richard Holmes",
+          "description": "Revealed: the inside story of how the British government rolled out a dangerously flawed intelligence-sharing system right as the UK suffered one of its deadliest years from terrorism.\n\n\nView Entire Post ›",
+          "link": "https://www.buzzfeednews.com/article/richholmes/uk-manchester-bombing-counterterrorism-failures",
+          "publishedOn": "2022-04-13T17:49:26.000Z",
+          "wordCount": 4551,
+          "title": "The UK Was Warned This Counterterrorism Program Was A Disaster — But Rolled It Out Anyway",
+          "imageUrl": "https://img.buzzfeed.com/buzzfeed-static/static/2022-04/13/13/campaign_images/b96d474ef097/the-uk-was-warned-this-counterterrorism-program-w-2-2044-1649857762-6_dblbig.jpg"
+        }
+      ]
     }
   ],
   "cliVersion": "1.14.4"
