@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/newsrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-12T09:52:05.350Z</updated>
+    <updated>2022-05-12T10:01:50.851Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/newsrss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/newsrss/feed.atom"/>
@@ -27,6 +27,46 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bitcoin plunges below $27,000, erases 2021 gains as crypto sell-off intensifies]]></title>
+        <id>107059974</id>
+        <link href="https://www.cnbc.com/2022/05/12/bitcoin-btc-price-falls-below-27000-as-crypto-sell-off-intensifies.html"/>
+        <updated>2022-05-12T09:50:48.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin slumped below $27,000 Thursday for the first time in over 16 months as cryptocurrency markets extended their losses.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seoul: North Korea fires missile toward sea]]></title>
+        <id>https://www.washingtonpost.com/world/seoul-north-korea-fires-missile-toward-sea/2022/05/12/641c38ea-d1d8-11ec-886b-df76183d233f_story.html?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world</id>
+        <link href="https://www.washingtonpost.com/world/seoul-north-korea-fires-missile-toward-sea/2022/05/12/641c38ea-d1d8-11ec-886b-df76183d233f_story.html?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world"/>
+        <updated>2022-05-12T09:46:27.000Z</updated>
+        <summary type="html"><![CDATA[South Korea says North Korea has fired an unidentified missile toward the sea]]></summary>
+        <author>
+            <name>Associated Press</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK economy 'only going to get worse' as growth slowdown begins]]></title>
+        <id>107059978</id>
+        <link href="https://www.cnbc.com/2022/05/12/uk-economy-only-going-to-get-worse-as-growth-slowdown-begins.html"/>
+        <updated>2022-05-12T09:43:35.000Z</updated>
+        <summary type="html"><![CDATA[Sterling hit a two-year low versus the U.S. dollar following the GDP data as traders digested growing uncertainty about the U.K.'s economic outlook.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stock futures decline as Wall Street struggles for rebound after hot inflation report]]></title>
+        <id>107059764</id>
+        <link href="https://www.cnbc.com/2022/05/11/stock-market-futures-open-to-close-news.html"/>
+        <updated>2022-05-12T09:43:09.000Z</updated>
+        <summary type="html"><![CDATA[Stock futures traded lower early Thursday morning after the latest CPI data showed inflation is still running hot.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Russia-Ukraine war live updates: Finland’s leaders back NATO bid; Ukraine makes gains near Kharkiv]]></title>
         <id>https://www.washingtonpost.com/world/2022/05/12/russia-ukraine-war-news-live-updates/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world</id>
         <link href="https://www.washingtonpost.com/world/2022/05/12/russia-ukraine-war-news-live-updates/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world"/>
@@ -44,6 +84,17 @@
         <summary type="html"><![CDATA[Finnish President Sauli Niinisto and Prime Minister Sanna Marin took the first step toward a formal NATO application.]]></summary>
         <author>
             <name>Amy Cheng</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poland claims Russia spreading ideological ‘cancer’]]></title>
+        <id>https://www.rt.com/news/555351-morawiecki-russian-nationalism-cancer/</id>
+        <link href="https://www.rt.com/news/555351-morawiecki-russian-nationalism-cancer/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-12T09:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Polish Prime Minister Mateusz Morawiecki signals that Western nations should take over Russia to demolish Russian nationalism 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
         </author>
     </entry>
     <entry>
@@ -94,6 +145,16 @@
         <summary type="html"><![CDATA[European Commission president calls Russia the 'most direct threat' to international order during annual meeting.]]></summary>
         <author>
             <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Sri Lanka's Giant Economic Mess, The Big China Link]]></title>
+        <id>2969011</id>
+        <link href="https://www.ndtv.com/world-news/in-sri-lankas-giant-economic-mess-the-big-china-link-2969011"/>
+        <updated>2022-05-12T09:26:07.000Z</updated>
+        <summary type="html"><![CDATA[Months of lengthy blackouts and acute shortages of food, fuel and medicines in Sri Lanka have infuriated the public, with huge protests demanding the government's resignation turning violent this...]]></summary>
+        <author>
+            <name>NDTV News - World-news</name>
         </author>
     </entry>
     <entry>
@@ -164,6 +225,16 @@
         <summary type="html"><![CDATA[It's the highest total in the world - but the WHO thinks the true death toll may be higher elsewhere.]]></summary>
         <author>
             <name>BBC News - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russian Strike In Northeast Ukraine Town Kills 3, Injures 12]]></title>
+        <id>2968940</id>
+        <link href="https://www.ndtv.com/world-news/russia-ukraine-conflict-russian-strike-in-northest-ukraine-town-kills-3-injures-12-2968940"/>
+        <updated>2022-05-12T09:04:37.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine War: Russian strike on a town in Ukraine's northern Chernigiv region, killing three people. The strike took place at night and hit critical infrastructure, including a school, Chernigiv...]]></summary>
+        <author>
+            <name>NDTV News - World-news</name>
         </author>
     </entry>
     <entry>
@@ -247,6 +318,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[New "Diverse" Barbie Lineup Includes First-Ever Doll With Hearing Aids]]></title>
+        <id>2968862</id>
+        <link href="https://www.ndtv.com/world-news/new-barbie-lineup-includes-first-ever-doll-with-hearing-aids-vitiligo-and-prosthetic-leg-2968862"/>
+        <updated>2022-05-12T08:48:52.000Z</updated>
+        <summary type="html"><![CDATA[Barbie is releasing a new collection of dolls in June. The new lineup will include the first Barbie with behind-the-ear hearing aids, a doll with a prosthetic leg and a Ken doll with skin condition...]]></summary>
+        <author>
+            <name>NDTV News - World-news</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[South Korea drafts $46bn budget to help COVID-hit businesses]]></title>
         <id>https://www.aljazeera.com/?t=1652342073</id>
         <link href="https://www.aljazeera.com/economy/2022/5/12/south-korea-drafts-46bn-budget-to-help-covid-hit-businesses"/>
@@ -277,6 +358,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[China won't have a 'normal' economy without tackling Covid first, senior Chinese official says]]></title>
+        <id>107059962</id>
+        <link href="https://www.cnbc.com/2022/05/12/chinese-official-on-chinas-economy-amid-covid-pandemic.html"/>
+        <updated>2022-05-12T08:41:16.000Z</updated>
+        <summary type="html"><![CDATA[Beijing has emphasized its "dynamic zero-Covid" policy, even as economists have cut forecasts for China's GDP growth given the impact of lockdowns.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sri Lanka Court Bans Ex-PM Mahinda Rajapaksa, Allies From Leaving Country]]></title>
+        <id>2968794</id>
+        <link href="https://www.ndtv.com/world-news/sri-lanka-court-bans-ex-pm-mahinda-rajapaksa-allies-from-leaving-country-news-agency-afp-2968794"/>
+        <updated>2022-05-12T08:32:42.000Z</updated>
+        <summary type="html"><![CDATA[A Sri Lankan court on Thursday banned former prime minister Mahinda Rajapaksa, his politician son Namal and 15 allies from leaving the country over acts of violence against anti-government...]]></summary>
+        <author>
+            <name>NDTV News - World-news</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Many Sri Lankans flee Colombo as leaders meet to discuss crisis]]></title>
         <id>https://www.aljazeera.com/?t=1652338946</id>
         <link href="https://www.aljazeera.com/news/2022/5/12/many-sri-lankans-flee-colombo-as-leaders-meet-to-discuss-crisis"/>
@@ -284,6 +385,36 @@
         <summary type="html"><![CDATA[Hundreds of people thronged main bus station in the commercial capital after authorities lifted an indefinite curfew.]]></summary>
         <author>
             <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wildfire Engulfs Upscale Locality In California, Evacuation Underway]]></title>
+        <id>2968793</id>
+        <link href="https://www.ndtv.com/world-news/california-wildfire-engulfs-several-homes-in-upscale-locality-evacuation-underway-2968793"/>
+        <updated>2022-05-12T08:32:04.000Z</updated>
+        <summary type="html"><![CDATA[A wildfire that erupted in Orange County, Southern California, on Wednesday burned at least 20 upscale houses leading to a mass evacuation in the Laguna Beach area. The local administration has also...]]></summary>
+        <author>
+            <name>NDTV News - World-news</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China Defends Arrest Of Hong Kong Catholic Cleric As Western Alarm Grows]]></title>
+        <id>2968790</id>
+        <link href="https://www.ndtv.com/world-news/china-defends-arrest-of-hong-kong-catholic-cleric-as-western-alarm-grows-2968790"/>
+        <updated>2022-05-12T08:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Retired cardinal Joseph Zen, one of the most senior Catholic clerics in Asia, was among a group of veteran democracy advocates arrested yesterday for "colluding with foreign forces".]]></summary>
+        <author>
+            <name>NDTV News - World-news</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Markets in Hong Kong and Taiwan fall more than 2% as Asia tech stocks slide]]></title>
+        <id>107059810</id>
+        <link href="https://www.cnbc.com/2022/05/12/asia-markets-us-inflation-data-wall-street-declines-currencies-oil.html"/>
+        <updated>2022-05-12T08:29:16.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. consumer price index surged 8.3% in April as compared with a year ago, near the highest level in more than 40 years.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
         </author>
     </entry>
     <entry>
@@ -357,6 +488,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Finland's leaders say country should apply for NATO membership 'without delay']]></title>
+        <id>107059965</id>
+        <link href="https://www.cnbc.com/2022/05/12/finland-announces-bid-to-join-nato-in-historic-move.html"/>
+        <updated>2022-05-12T07:59:41.000Z</updated>
+        <summary type="html"><![CDATA[Finland has had a decades-long policy of military neutrality that would come to an end if it becomes a full member of the military alliance.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dubai Airports passenger traffic may reach pre-Covid levels earlier than expected, CEO says]]></title>
+        <id>107056341</id>
+        <link href="https://www.cnbc.com/2022/05/12/dubai-airports-traffic-may-reach-pre-covid-levels-in-early-2024-ceo.html"/>
+        <updated>2022-05-12T07:56:36.000Z</updated>
+        <summary type="html"><![CDATA[Air passenger traffic in Dubai may reach pre-pandemic levels in 2024, a year earlier than previously expected, Dubai Airports CEO Paul Griffiths said.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ukraine goes on the counteroffensive as Russians fall back]]></title>
         <id>https://www.aljazeera.com/?t=1652288668</id>
         <link href="https://www.aljazeera.com/news/2022/5/12/ukraine-goes-on-the-counteroffensive-as-russians-falls-back"/>
@@ -367,6 +518,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Czechs allow citizens to fight for Ukraine]]></title>
+        <id>https://www.rt.com/news/555344-czech-republic-volunteers-ukraine/</id>
+        <link href="https://www.rt.com/news/555344-czech-republic-volunteers-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-12T07:48:08.000Z</updated>
+        <summary type="html"><![CDATA[The Czech president has allowed 103 citizens to join the Ukrainian military at their request 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ukraine to hold first war crimes trial of Russian soldier]]></title>
         <id>https://www.aljazeera.com/?t=1652337353</id>
         <link href="https://www.aljazeera.com/news/2022/5/12/ukraine-to-hold-first-war-crimes-trial-of-russian-soldier"/>
@@ -374,6 +536,26 @@
         <summary type="html"><![CDATA[Prosecutors say 21-year-old Vadim Shyshimarin is accused of killing an unarmed 62-year-old civilian.]]></summary>
         <author>
             <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global Tourism Roaring Back To Life, But Yet To Touch Pre-Pandemic Levels]]></title>
+        <id>2968637</id>
+        <link href="https://www.ndtv.com/world-news/global-tourism-back-to-life-yet-to-return-to-pre-pandemic-levels-2968637"/>
+        <updated>2022-05-12T07:41:03.000Z</updated>
+        <summary type="html"><![CDATA[In 2019, global tourism revenues reached $1.48 trillion. The figure dropped by almost two thirds due to the pandemic the following year. International tourist arrivals worldwide have more than...]]></summary>
+        <author>
+            <name>NDTV News - World-news</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Very Important For Us:" Ukraine Wants Spot "Reserved" In European Union]]></title>
+        <id>2968636</id>
+        <link href="https://www.ndtv.com/world-news/very-important-for-us-ukraine-wants-spot-reserved-in-european-union-2968636"/>
+        <updated>2022-05-12T07:39:11.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine wants a spot reserved for it in the European Union, even if obtaining full membership could take time, Foreign Minister Dmytro Kuleba said Thursday in Berlin.]]></summary>
+        <author>
+            <name>NDTV News - World-news</name>
         </author>
     </entry>
     <entry>
@@ -394,6 +576,27 @@
         <summary type="html"><![CDATA[Iran is scheduled to put to death a 50-year-old Swedish-Iranian physician within nine days]]></summary>
         <author>
             <name>Isabel Debre | AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Camera, Beach House In US Collapses Into Ocean As Sea Levels Rise]]></title>
+        <id>2968579</id>
+        <link href="https://www.ndtv.com/world-news/on-camera-beach-house-in-us-collapses-and-floats-in-water-as-sea-level-rises-2968579"/>
+        <updated>2022-05-12T07:20:01.000Z</updated>
+        <summary type="html"><![CDATA[A beach house in North Carolina's Outer Banks recently collapsed from high water levels. A video shows the demise of the home as ocean waves caused the stilts supporting the house to teeter and fall.]]></summary>
+        <author>
+            <name>NDTV News - World-news</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finnish leaders make statement on NATO]]></title>
+        <id>https://www.rt.com/news/555342-finland-nato-membership-bid/</id>
+        <link href="https://www.rt.com/news/555342-finland-nato-membership-bid/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-12T07:04:49.000Z</updated>
+        <summary type="html"><![CDATA[The leaders of Finland on Thursday said their nation should join NATO, in a long-expected move 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
         </author>
     </entry>
     <entry>
@@ -437,6 +640,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Biden hosts Southeast Asian leaders at the White House today. Here's what to expect]]></title>
+        <id>107058631</id>
+        <link href="https://www.cnbc.com/2022/05/12/biden-will-host-asean-summit-at-the-white-house-.html"/>
+        <updated>2022-05-12T06:36:46.000Z</updated>
+        <summary type="html"><![CDATA[The summit will demonstrate "enduring commitment" to ASEAN and commemorate 45 years of relations with the Southeast Asian grouping, the White House says]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[International Nurses Day: Wishes, Messages, Facebook And WhatsApp Status]]></title>
+        <id>2962739</id>
+        <link href="https://www.ndtv.com/world-news/international-nurses-day-2022-images-quotes-wishes-messages-facebook-and-whatsapp-status-2962739"/>
+        <updated>2022-05-12T06:24:40.000Z</updated>
+        <summary type="html"><![CDATA[Every year, May 12 is celebrated as International Nurses Day. It's the birth anniversary of Florence Nightingale.]]></summary>
+        <author>
+            <name>NDTV News - World-news</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NATO to welcome Nordic members as Ukraine pushes back Russian forces]]></title>
         <id>https://timesofindia.indiatimes.com/world/europe/nato-to-welcome-nordic-members-as-ukraine-pushes-back-russian-forces/articleshow/91510105.cms</id>
         <link href="https://timesofindia.indiatimes.com/world/europe/nato-to-welcome-nordic-members-as-ukraine-pushes-back-russian-forces/articleshow/91510105.cms"/>
@@ -444,6 +667,16 @@
         <summary type="html"><![CDATA[Europe News: KYIV/ BRUSSELS: Finland is expected to announce on Thursday its intention to join NATO with Sweden likely to follow soon after, diplomats and official.]]></summary>
         <author>
             <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Findings Suggest Water Existed On Mars For Longer Than Previously Thought]]></title>
+        <id>2968424</id>
+        <link href="https://www.ndtv.com/world-news/findings-suggest-water-existed-for-longer-on-mars-surface-2968424"/>
+        <updated>2022-05-12T06:10:24.000Z</updated>
+        <summary type="html"><![CDATA[According to an analysis of data sent back by the rover, Zhurong, signs of water were detected in sampled minerals from just 700 million years ago. It suggests that water was present on Mars' surface...]]></summary>
+        <author>
+            <name>NDTV News - World-news</name>
         </author>
     </entry>
     <entry>
@@ -464,6 +697,16 @@
         <summary type="html"><![CDATA[The biggest expansion in decades promises to transform the city for commuters and visitors.]]></summary>
         <author>
             <name>William Booth</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Big Day For Sri Lanka After President Warns Of Anarchy]]></title>
+        <id>2968369</id>
+        <link href="https://www.ndtv.com/world-news/a-big-day-for-sri-lanka-after-president-warns-of-anarchy-2968369"/>
+        <updated>2022-05-12T05:51:02.000Z</updated>
+        <summary type="html"><![CDATA[Days of violent reprisals against government figures aligned to the powerful Rajapaksa clan followed. In total, 9 people were killed and more than 300 injured during the clashes, police said.]]></summary>
+        <author>
+            <name>NDTV News - World-news</name>
         </author>
     </entry>
     <entry>
@@ -497,6 +740,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[China may chalk up more debt as lockdowns hit the economy]]></title>
+        <id>107057065</id>
+        <link href="https://www.cnbc.com/2022/05/12/china-may-chalk-up-more-debt-as-lockdowns-hit-the-economy.html"/>
+        <updated>2022-05-12T05:21:08.000Z</updated>
+        <summary type="html"><![CDATA[China may have to issue more debt as it tries to keep growing in the face of Covid lockdowns that are stunting its economy.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[North Korea identifies its first case of Covid-19, state media reports]]></title>
         <id>https://www.cnn.com/2022/05/11/asia/north-korea-covid-omicron-coronavirus-intl-hnk/index.html</id>
         <link href="https://www.cnn.com/2022/05/11/asia/north-korea-covid-omicron-coronavirus-intl-hnk/index.html"/>
@@ -507,6 +760,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Will new Philippine president Marcos Jr. pivot toward China? Analysts are divided]]></title>
+        <id>107058493</id>
+        <link href="https://www.cnbc.com/2022/05/12/philippines-election-what-marcos-presidency-means-for-us-china-ties.html"/>
+        <updated>2022-05-12T05:13:37.000Z</updated>
+        <summary type="html"><![CDATA[Rodrigo Duterte was a mayor of a small town who became president, Marcos Jr. has a better understanding of the world, says an analyst.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Philippines’s GDP growth blasts past forecasts]]></title>
         <id>https://www.aljazeera.com/?t=1652330542</id>
         <link href="https://www.aljazeera.com/economy/2022/5/12/philippines-gdp-growth-blasts-past-forecasts"/>
@@ -514,6 +777,16 @@
         <summary type="html"><![CDATA[Southeast Asian country's gross domestic product expands 8.3 percent in first quarter.]]></summary>
         <author>
             <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japan is set to open its doors in June, but some locals aren't happy about it]]></title>
+        <id>107057071</id>
+        <link href="https://www.cnbc.com/2022/05/11/is-japan-open-to-travelers-some-locals-not-ready-to-reopen-borders.html"/>
+        <updated>2022-05-12T05:02:53.000Z</updated>
+        <summary type="html"><![CDATA[Japan is preparing to reopen. But not everyone is happy about it, including some local tourists, who have enjoyed exploring a quieter version of their country.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
         </author>
     </entry>
     <entry>
@@ -547,6 +820,37 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Half Of Covid Survivors Show 1 Symptom Even 2 Years After: Lancet Journal]]></title>
+        <id>2968213</id>
+        <link href="https://www.ndtv.com/world-news/half-of-covid-survivors-have-1-symptom-2-years-after-infection-lancet-2968213"/>
+        <updated>2022-05-12T04:40:51.000Z</updated>
+        <summary type="html"><![CDATA[Two years after getting infected with COVID-19, half of people hospitalised with the infection have at least one symptom, a follow-up study by the medical journal The Lancet has said.]]></summary>
+        <author>
+            <name>NDTV News - World-news</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Airliner bursts into flames during takeoff (VIDEOS)]]></title>
+        <id>https://www.rt.com/news/555341-china-plane-fire-evacuation/</id>
+        <link href="https://www.rt.com/news/555341-china-plane-fire-evacuation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-12T04:37:31.000Z</updated>
+        <summary type="html"><![CDATA[A Chinese passenger plane caught fire due to a technical malfunction just before taking off 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[President Is Impeached, Flees Or Military Coup: What Could Happen In Lanka]]></title>
+        <id>2968201</id>
+        <link href="https://www.ndtv.com/world-news/sri-lanka-crisis-where-sri-lankas-inflation-driven-crisis-could-head-next-2968201"/>
+        <updated>2022-05-12T04:36:20.000Z</updated>
+        <summary type="html"><![CDATA[Gotabaya Rajapaksa earlier extended a nationwide curfew until Thursday morning, after government supporters on Monday initiated attacks on protesters who had camped out for weeks in downtown Colombo...]]></summary>
+        <author>
+            <name>NDTV News - World-news</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Biden co-hosting 2nd Covid summit as world's resolve falters]]></title>
         <id>https://timesofindia.indiatimes.com/world/us/biden-co-hosting-2nd-covid-summit-as-worlds-resolve-falters/articleshow/91507456.cms</id>
         <link href="https://timesofindia.indiatimes.com/world/us/biden-co-hosting-2nd-covid-summit-as-worlds-resolve-falters/articleshow/91507456.cms"/>
@@ -557,6 +861,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Apple is no longer the world's most valuable company]]></title>
+        <id>107058557</id>
+        <link href="https://www.cnbc.com/2022/05/11/saudi-aramco-surpasses-apple-as-the-worlds-most-valuable-company.html"/>
+        <updated>2022-05-12T04:32:44.000Z</updated>
+        <summary type="html"><![CDATA[Energy prices and stocks have been rising as investors sell off equities in several industries, including technology.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Biden, Xi congratulate Marcos Jr on Philippine presidential win]]></title>
         <id>https://www.aljazeera.com/?t=1652321237</id>
         <link href="https://www.aljazeera.com/news/2022/5/12/us-china-congratulate-marcos-jr-on-philippine-presidential-win"/>
@@ -564,6 +878,26 @@
         <summary type="html"><![CDATA[Ferdinand Marcos Jr declares victory in Philippine presidential election, pledges to be a leader 'for all Filipinos'.]]></summary>
         <author>
             <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk Gives Many Headlines In 40-Minute Interview]]></title>
+        <id>2968162</id>
+        <link href="https://www.ndtv.com/world-news/elon-musk-assures-tesla-worrywarts-he-isnt-going-anywhere-2968162"/>
+        <updated>2022-05-12T04:16:35.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk said he'll stay at Tesla "as long as I can be useful," assuaging concern that a foray into social media will compromise the amount of attention the world's richest man devotes to his...]]></summary>
+        <author>
+            <name>NDTV News - World-news</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Risks Of New Covid Variants - Why Experts Are Flagging This]]></title>
+        <id>2968151</id>
+        <link href="https://www.ndtv.com/world-news/expiring-untapped-global-vaccine-stash-adds-risks-of-new-covid-variants-2968151"/>
+        <updated>2022-05-12T04:12:37.000Z</updated>
+        <summary type="html"><![CDATA[The world finds itself awash in Covid-19 vaccines, but governments can't get them into arms fast enough, as hesitancy and logistical hurdles threaten to indefinitely extend the pandemic.]]></summary>
+        <author>
+            <name>NDTV News - World-news</name>
         </author>
     </entry>
     <entry>
@@ -584,6 +918,16 @@
         <summary type="html"><![CDATA[Tokyo earlier this week announced it would phase out imports of Russian oil.]]></summary>
         <author>
             <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Feels Amazing To Be Here": Top YouTube Star PewDiePie Moves To Japan]]></title>
+        <id>2968126</id>
+        <link href="https://www.ndtv.com/world-news/feels-amazing-to-be-here-worlds-top-youtube-star-pewdiepie-moves-to-japan-2968126"/>
+        <updated>2022-05-12T04:02:28.000Z</updated>
+        <summary type="html"><![CDATA["Just feels amazing to be here...", top YouTube star PewDiePie, moved to Japan after the country relaxed its Covid-19 entry rules for some visa-holders. Japan has allowed foreign business visitors,...]]></summary>
+        <author>
+            <name>NDTV News - World-news</name>
         </author>
     </entry>
     <entry>
@@ -617,6 +961,37 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA["It Has Been Very Difficult": Frustration Grows Over Shanghai Lockdown]]></title>
+        <id>2968096</id>
+        <link href="https://www.ndtv.com/world-news/shanghai-lockdown-limiting-freedom-residents-vent-frustration-2968096"/>
+        <updated>2022-05-12T03:44:18.000Z</updated>
+        <summary type="html"><![CDATA[Shanghai guidelines say residents can leave their "area" if it is classified as "precautionary". Rules also say residents should only go out for "appropriate activity" but precisely what they are...]]></summary>
+        <author>
+            <name>NDTV News - World-news</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["You Come From Another Planet": Ukraine Commander Asks Elon Musk For Help]]></title>
+        <id>2968047</id>
+        <link href="https://www.ndtv.com/world-news/russia-ukraine-war-you-come-from-another-planet-ukraine-commander-asks-elon-musk-for-help-2968047"/>
+        <updated>2022-05-12T03:09:08.000Z</updated>
+        <summary type="html"><![CDATA[Russia-Ukraine War: Serhiy Volyna, commander of the 36th Separate Marine Brigade, said he created a Twitter account for the sole purpose of reaching out to Musk, asking the world's richest man to...]]></summary>
+        <author>
+            <name>NDTV News - World-news</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Korea declares health emergency]]></title>
+        <id>https://www.rt.com/news/555340-north-korea-covid-emergency/</id>
+        <link href="https://www.rt.com/news/555340-north-korea-covid-emergency/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-12T03:01:22.000Z</updated>
+        <summary type="html"><![CDATA[North Korea has declared a national emergency after confirming Covid-19 Omicron infections within its borders for the first time 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Chinese airliner aborts takeoff, catches fire, causing minor injuries]]></title>
         <id>https://timesofindia.indiatimes.com/world/china/chinese-jet-aborts-takeoff-catches-fire-causing-minor-injuries-from-evacuation/articleshow/91505893.cms</id>
         <link href="https://timesofindia.indiatimes.com/world/china/chinese-jet-aborts-takeoff-catches-fire-causing-minor-injuries-from-evacuation/articleshow/91505893.cms"/>
@@ -627,6 +1002,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Video: China Passenger Plane Veers Off Runway, Catches Fire]]></title>
+        <id>2968022</id>
+        <link href="https://www.ndtv.com/world-news/tibet-airlines-jet-overruns-runway-catches-fire-in-china-news-agency-afp-2968022"/>
+        <updated>2022-05-12T02:38:28.000Z</updated>
+        <summary type="html"><![CDATA[A Tibet Airlines plane caught fire on Thursday at a Chinese airport after veering off the runway, but all passengers and crew were "safely evacuated", the airline said.]]></summary>
+        <author>
+            <name>NDTV News - World-news</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sri Lanka crisis: Gotabaya Rajapaksa speech fails to reassure as crisis grows]]></title>
         <id>https://www.bbc.co.uk/news/world-asia-61417972</id>
         <link href="https://www.bbc.co.uk/news/world-asia-61417972?at_medium=RSS&amp;at_campaign=KARANGA"/>
@@ -634,6 +1019,27 @@
         <summary type="html"><![CDATA[President Gotabaya Rajapaksa again ignored calls to resign amid protests over an economic crisis.]]></summary>
         <author>
             <name>BBC News - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US sets intelligence ‘rules’ for Ukraine – media]]></title>
+        <id>https://www.rt.com/news/555339-us-ukraine-intelligence-sharing-rules/</id>
+        <link href="https://www.rt.com/news/555339-us-ukraine-intelligence-sharing-rules/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-12T01:34:52.000Z</updated>
+        <summary type="html"><![CDATA[The US has set up rules for sharing intelligence with Ukraine in order to keep its hands clean, anonymous officials tell the Washington Post 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Retail investors are continuing to buy the dip in tech despite recent turmoil, says TD Ameritrade]]></title>
+        <id>107059171</id>
+        <link href="https://www.cnbc.com/2022/05/12/retail-investors-continue-to-buy-dip-despite-turmoil-td-ameritrade.html"/>
+        <updated>2022-05-12T01:31:40.000Z</updated>
+        <summary type="html"><![CDATA[Retail investors have continued to buy the dip in the recent market turmoil, liking tech despite the sector rout, according to TD Ameritrade's AJ Kahling.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
         </author>
     </entry>
     <entry>
@@ -657,6 +1063,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Youth gun ban ruled unconstitutional]]></title>
+        <id>https://www.rt.com/news/555338-california-gun-ban-unconstitutional/</id>
+        <link href="https://www.rt.com/news/555338-california-gun-ban-unconstitutional/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-12T01:19:41.000Z</updated>
+        <summary type="html"><![CDATA[A US appeals court has ruled that California’s ban on the sale of semiautomatic firearms to adults under 21 is unconstitutional 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[North Korea reports first COVID outbreak, orders lockdown]]></title>
         <id>https://www.aljazeera.com/?t=1652314846</id>
         <link href="https://www.aljazeera.com/news/2022/5/12/north-korea-reports-first-covid-outbreak-since-pandemic"/>
@@ -674,6 +1091,17 @@
         <summary type="html"><![CDATA[The Ukraine men's national soccer team is scheduled to play in a World Cup qualifying playoff match in June.]]></summary>
         <author>
             <name>Rick Noack</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US Republicans bicker over Ukraine ‘proxy war’ cash]]></title>
+        <id>https://www.rt.com/news/555337-republicans-ukraine-proxy-war/</id>
+        <link href="https://www.rt.com/news/555337-republicans-ukraine-proxy-war/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-12T00:54:53.000Z</updated>
+        <summary type="html"><![CDATA[Republicans in Congress are increasingly divided over aid to Ukraine after the House passed a $40 billion package for Kiev 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
         </author>
     </entry>
     <entry>
@@ -777,6 +1205,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[WHO says omicron BA.4 and BA.5 subvariants have spread to over a dozen countries]]></title>
+        <id>107059726</id>
+        <link href="https://www.cnbc.com/2022/05/11/who-says-omicron-bapoint4-and-bapoint5-subvariants-have-spread-to-over-a-dozen-countries.html"/>
+        <updated>2022-05-11T22:59:35.000Z</updated>
+        <summary type="html"><![CDATA[Another omicron subvariant called BA.2.12.1 has been detected in 23 countries, including the U.S., according to WHO.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['No idea' passenger lands Florida plane as pilot falls ill]]></title>
         <id>https://www.bbc.co.uk/news/world-us-canada-61416384</id>
         <link href="https://www.bbc.co.uk/news/world-us-canada-61416384?at_medium=RSS&amp;at_campaign=KARANGA"/>
@@ -827,6 +1265,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Disney shares slip after earnings report, as Covid closures take a toll on parks in Asia]]></title>
+        <id>107059532</id>
+        <link href="https://www.cnbc.com/2022/05/11/disney-dis-fiscal-q2-2022-earnings.html"/>
+        <updated>2022-05-11T22:22:46.000Z</updated>
+        <summary type="html"><![CDATA[Disney reported stronger-than-expected growth in streaming subscribers across all of its media platforms, but its shares fell after hours.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Intelligence-sharing with Ukraine designed to prevent wider war]]></title>
         <id>https://www.washingtonpost.com/national-security/2022/05/11/ukraine-us-intelligence-sharing-war/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world</id>
         <link href="https://www.washingtonpost.com/national-security/2022/05/11/ukraine-us-intelligence-sharing-war/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world"/>
@@ -857,6 +1305,28 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[US drug overdoses break record]]></title>
+        <id>https://www.rt.com/news/555335-overdoses-record-setting-opioids-us/</id>
+        <link href="https://www.rt.com/news/555335-overdoses-record-setting-opioids-us/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-11T22:13:07.000Z</updated>
+        <summary type="html"><![CDATA[Over 107,600 Americans died from drug overdoses last year, an all-time record largely attributable to fentanyl and other synthetics 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UN issues drought disaster warning]]></title>
+        <id>https://www.rt.com/news/555334-un-droughts-climate-change/</id>
+        <link href="https://www.rt.com/news/555334-un-droughts-climate-change/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-11T22:01:37.000Z</updated>
+        <summary type="html"><![CDATA[The UN has found a 29% rise in the number and duration of droughts worldwide since 2000, causing billions in economic losses 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Shireen Abu Akleh: US activists slam ‘impunity’ for Israeli abuse]]></title>
         <id>https://www.aljazeera.com/?t=1652301497</id>
         <link href="https://www.aljazeera.com/news/2022/5/11/shireen-abu-akleh-us-activists-slam-impunity-for-israeli-abuse"/>
@@ -874,6 +1344,17 @@
         <summary type="html"><![CDATA[The remote Greek island of Tilos has pioneered a recycling plant that could act as a blueprint for other islands — including popular holiday destinations — that struggle with waste disposal]]></summary>
         <author>
             <name>Derek Gatopoulos | AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese outperform work-shy Americans – Musk]]></title>
+        <id>https://www.rt.com/news/555332-musk-says-americans-avoid-work/</id>
+        <link href="https://www.rt.com/news/555332-musk-says-americans-avoid-work/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-11T21:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Tesla CEO Musk says he expects big things from Chinese companies because of the nation’s work ethic, adds Americans try to avoid labor 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
         </author>
     </entry>
     <entry>
@@ -909,6 +1390,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Biden's 'minister for truth' wants to edit tweets]]></title>
+        <id>https://www.rt.com/news/555331-disinfo-chief-calls-for-editing-tweets/</id>
+        <link href="https://www.rt.com/news/555331-disinfo-chief-calls-for-editing-tweets/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-11T21:12:13.000Z</updated>
+        <summary type="html"><![CDATA[The director of Biden’s new Disinformation Governance Board suggests enabling verified Twitter users to edit tweets that they deem false 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Biden-hosted Americas summit facing boycott over invitation list]]></title>
         <id>https://www.washingtonpost.com/national-security/2022/05/11/us-americas-summit-boycott/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world</id>
         <link href="https://www.washingtonpost.com/national-security/2022/05/11/us-americas-summit-boycott/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world"/>
@@ -941,6 +1433,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[10-year Treasury yield dips back below 3% after hotter-than-expected inflation data]]></title>
+        <id>107059223</id>
+        <link href="https://www.cnbc.com/2022/05/11/us-bonds-treasury-yields-fall-ahead-of-key-inflation-data.html"/>
+        <updated>2022-05-11T20:20:40.000Z</updated>
+        <summary type="html"><![CDATA[The 10-year U.S. Treasury yield fell on Wednesday following the release of key inflation data.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ukrainian refugees in Russia report interrogations, detention and other abuses]]></title>
         <id>https://www.washingtonpost.com/world/2022/05/11/ukraine-refugees-russia-filtration-camps/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world</id>
         <link href="https://www.washingtonpost.com/world/2022/05/11/ukraine-refugees-russia-filtration-camps/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world"/>
@@ -948,6 +1450,16 @@
         <summary type="html"><![CDATA[They’re forced into “filtration camps” to face strip searches and harsh questioning.]]></summary>
         <author>
             <name>Michael Birnbaum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[McDonald's franchisees are worried the company's new grading system will alienate workers]]></title>
+        <id>107059013</id>
+        <link href="https://www.cnbc.com/2022/05/11/mcdonalds-franchisees-worry-new-grading-system-will-alienate-workers.html"/>
+        <updated>2022-05-11T19:56:13.000Z</updated>
+        <summary type="html"><![CDATA[McDonald's is rolling out a new grading system for its restaurants and tensions are boiling over for some owner-operators.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
         </author>
     </entry>
     <entry>
@@ -973,6 +1485,36 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Google teases smart glasses prototype that translates languages in real time]]></title>
+        <id>107059678</id>
+        <link href="https://www.cnbc.com/2022/05/11/google-smart-glasses-prototype-translates-languages-in-real-time.html"/>
+        <updated>2022-05-11T19:35:11.000Z</updated>
+        <summary type="html"><![CDATA[Essentially, it looks as if the glasses will transcribe speech in real time and display them as subtitles.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dallas Federal Reserve names Lorie Logan new president to succeed Robert Kaplan]]></title>
+        <id>107059530</id>
+        <link href="https://www.cnbc.com/2022/05/11/dallas-federal-reserve-names-lorrie-logan-new-president-to-succeed-robert-kaplan.html"/>
+        <updated>2022-05-11T19:20:31.000Z</updated>
+        <summary type="html"><![CDATA[Lorie K. Logan will serve as the new Dallas Fed president, according to an announcement Wednesday.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google announces its first smartwatch, a new budget phone and more]]></title>
+        <id>107058327</id>
+        <link href="https://www.cnbc.com/2022/05/11/google-pixel-watch-pixel-7-pixel-6a-announced.html"/>
+        <updated>2022-05-11T19:16:15.000Z</updated>
+        <summary type="html"><![CDATA[It will be released this fall along with the Pixel 7.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ukraine war: Don’t underestimate Russia cyber-threat, warns US]]></title>
         <id>https://www.bbc.co.uk/news/technology-61416320</id>
         <link href="https://www.bbc.co.uk/news/technology-61416320?at_medium=RSS&amp;at_campaign=KARANGA"/>
@@ -990,6 +1532,16 @@
         <summary type="html"><![CDATA[Ukraine’s prosecutor general said 21-year-old Vadim Shishimarin would stand trial in the killing of an unarmed resident in the Sumy region.]]></summary>
         <author>
             <name>Ellen Francis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Europe has a plan to fight online child abuse. Critics fear it may erode privacy]]></title>
+        <id>107059253</id>
+        <link href="https://www.cnbc.com/2022/05/11/eu-plan-to-fight-online-child-sexual-abuse-raises-privacy-concerns.html"/>
+        <updated>2022-05-11T19:03:08.000Z</updated>
+        <summary type="html"><![CDATA[Proposed EU legislation will require tech companies to screen their platforms for child sexual abuse material.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
         </author>
     </entry>
     <entry>
@@ -1012,6 +1564,17 @@
         <summary type="html"><![CDATA[In towns near Kharkiv, police dodge mines and booby traps to document Russian war crimes.]]></summary>
         <author>
             <name>Isabelle Khurshudyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Banning abortion bad for economy – US Treasury chief]]></title>
+        <id>https://www.rt.com/news/555329-yellen-says-abortion-ban-bad-for-economy/</id>
+        <link href="https://www.rt.com/news/555329-yellen-says-abortion-ban-bad-for-economy/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-11T17:48:03.000Z</updated>
+        <summary type="html"><![CDATA[Treasury Secretary Janet Yellen has argued that banning abortion would be ‘very damaging’ to the US economy 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
         </author>
     </entry>
     <entry>
@@ -1079,6 +1642,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[European markets close higher despite hot U.S. inflation data; Stoxx 600 up 1.6%]]></title>
+        <id>107059002</id>
+        <link href="https://www.cnbc.com/2022/05/11/european-market-investors-look-ahead-to-us-inflation-data-for-april.html"/>
+        <updated>2022-05-11T15:43:53.000Z</updated>
+        <summary type="html"><![CDATA[The gains in Europe come after some choppy trading sessions in the region, and in markets further afield.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Most Maternal Deaths Are Preventable: How To Improve Outcomes in South Africa]]></title>
         <id>https://www.globalissues.org/news/2022/05/11/30818</id>
         <link href="https://www.globalissues.org/news/2022/05/11/30818"/>
@@ -1099,6 +1672,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Government will give away one million cannabis plants – media]]></title>
+        <id>https://www.rt.com/news/555322-thailand-cannabis-free-distribute/</id>
+        <link href="https://www.rt.com/news/555322-thailand-cannabis-free-distribute/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-11T15:27:35.000Z</updated>
+        <summary type="html"><![CDATA[Thailand’s health minister has promised to distribute free cannabis across the nation to motivate people to grow the plant at home 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ukraine war: Snake Island and battle for control in Black Sea]]></title>
         <id>https://www.bbc.co.uk/news/world-europe-61406808</id>
         <link href="https://www.bbc.co.uk/news/world-europe-61406808?at_medium=RSS&amp;at_campaign=KARANGA"/>
@@ -1109,6 +1693,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[UK signs new 'pre-NATO' security deals]]></title>
+        <id>https://www.rt.com/russia/555319-uk-sweden-finland-security/</id>
+        <link href="https://www.rt.com/russia/555319-uk-sweden-finland-security/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-11T14:53:12.000Z</updated>
+        <summary type="html"><![CDATA[British Prime Minister Boris Johnson agreed “mutual security assurances” with Sweden and Finland 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[US price rises ease for the first time in months]]></title>
         <id>https://www.bbc.co.uk/news/business-61411474</id>
         <link href="https://www.bbc.co.uk/news/business-61411474?at_medium=RSS&amp;at_campaign=KARANGA"/>
@@ -1116,6 +1711,80 @@
         <summary type="html"><![CDATA[The prices of clothing and used cars fell, but inflation remains at a 40-year high.]]></summary>
         <author>
             <name>BBC News - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China accuses West of encouraging ‘arms race’]]></title>
+        <id>https://www.rt.com/news/555310-china-australia-pact-concerns/</id>
+        <link href="https://www.rt.com/news/555310-china-australia-pact-concerns/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-11T14:07:19.000Z</updated>
+        <summary type="html"><![CDATA[Beijing has defended its pact with the Solomons while criticizing Australia and its allies for encouraging “arms race” 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Musk brags about resisting Russia]]></title>
+        <id>https://www.rt.com/news/555307-musk-russian-jamming-starlink/</id>
+        <link href="https://www.rt.com/news/555307-musk-russian-jamming-starlink/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-11T13:53:26.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk bragged about defeating Russian cyberattacks on the Starlink internet system, which Moscow denied staging 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Ford's F-150 Lightning stacks up against Rivian and Hummer electric pickups]]></title>
+        <id>107058050</id>
+        <link href="https://www.cnbc.com/2022/05/11/f-150-rivian-hummer-how-electric-pickups-stack-up.html"/>
+        <updated>2022-05-11T13:46:09.000Z</updated>
+        <summary type="html"><![CDATA[CNBC's Michael Wayland has driven the Ford F-150, Rivian R1T and GMC Hummer electric pickups. Here's how they stack up.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US is having trouble finding Asian countries willing to shoot missiles at China]]></title>
+        <id>https://www.rt.com/news/555308-us-asian-countries-missiles-china/</id>
+        <link href="https://www.rt.com/news/555308-us-asian-countries-missiles-china/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-11T13:41:59.000Z</updated>
+        <summary type="html"><![CDATA[A recent report by an American think tank laments Washington’s inability to persuade Asian allies to threaten China. 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The maker of Marlboro cigarettes is betting big on nicotine pouches placed under your upper lip]]></title>
+        <id>107059245</id>
+        <link href="https://www.cnbc.com/2022/05/11/philip-morris-international-bids-16-billion-for-swedish-match-.html"/>
+        <updated>2022-05-11T13:29:35.000Z</updated>
+        <summary type="html"><![CDATA[Marlboro-maker Philip Morris International confirmed Wednesday a $16 billion bid to buy rival Swedish Match as part of its accelerated push into smoke-free tobacco alternatives.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doctors say these pandemic side effects are serious problems—and unlikely 'to go away anytime soon']]></title>
+        <id>107055842</id>
+        <link href="https://www.cnbc.com/2022/05/11/doctors-say-pandemic-side-effects-are-becoming-serious-health-problems.html"/>
+        <updated>2022-05-11T13:13:19.000Z</updated>
+        <summary type="html"><![CDATA[Doctors across the country are reporting an uptick in health issues that don't involve contracting the Covid-19 virus — but are still caused by the pandemic.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Baby formula shortage hits Canada]]></title>
+        <id>https://www.rt.com/news/555304-baby-formula-shortage-canada/</id>
+        <link href="https://www.rt.com/news/555304-baby-formula-shortage-canada/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-11T12:43:49.000Z</updated>
+        <summary type="html"><![CDATA[A baby formula shortage crisis is hitting Canada and the US after supply chain issues and a major recall lead to empty shelves 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
         </author>
     </entry>
     <entry>
@@ -1140,6 +1809,38 @@ The post The National Security Implications of New Rules of the Road for Cyber a
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ukrainian army ‘westernized’ by US and allies to fight Russia – Pentagon]]></title>
+        <id>https://www.rt.com/news/555298-us-training-arms-ukraine/</id>
+        <link href="https://www.rt.com/news/555298-us-training-arms-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-11T11:50:12.000Z</updated>
+        <summary type="html"><![CDATA[Pentagon spokesman John Kirby praised the US effort to train and arm Ukrainian troops during a Fox News interview 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU has ‘no solution’ to fix damage from Russian oil ban – Hungary]]></title>
+        <id>https://www.rt.com/news/555297-hungary-eu-no-solution/</id>
+        <link href="https://www.rt.com/news/555297-hungary-eu-no-solution/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-11T11:17:45.000Z</updated>
+        <summary type="html"><![CDATA[Hungarian Foreign Minister Peter Szijjarto said that the EU could not offer a way to mitigate the damage from an embargo on Russian oil 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VW is looking to bring back the Scout brand as an electric vehicle]]></title>
+        <id>107059238</id>
+        <link href="https://www.cnbc.com/2022/05/11/vw-is-looking-to-bring-back-the-scout-brand-as-an-electric-vehicle.html"/>
+        <updated>2022-05-11T11:17:43.000Z</updated>
+        <summary type="html"><![CDATA[Volkswagen confirmed to CNBC that its supervisory board would vote on the proposals on Wednesday.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sri Lanka protesters burn politicians' homes as country plunges further into chaos]]></title>
         <id>https://www.cnn.com/2022/05/10/asia/sri-lanka-protests-police-shoot-intl-hnk/index.html</id>
         <link href="https://www.cnn.com/2022/05/10/asia/sri-lanka-protests-police-shoot-intl-hnk/index.html"/>
@@ -1160,6 +1861,37 @@ The post The National Security Implications of New Rules of the Road for Cyber a
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Natural gas prices in Europe jump after Ukraine blocks Russian flows]]></title>
+        <id>107059231</id>
+        <link href="https://www.cnbc.com/2022/05/11/natural-gas-prices-in-europe-jump-after-ukraine-blocks-russian-flows.html"/>
+        <updated>2022-05-11T10:19:14.000Z</updated>
+        <summary type="html"><![CDATA[TTF European natural gas prices were up more than 6.4% by around 9:15 a.m. London time on Wednesday, according to Refinitiv data.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big Oil braces for shareholder revolt over climate plans in proxy voting season]]></title>
+        <id>107057880</id>
+        <link href="https://www.cnbc.com/2022/05/11/climate-big-oil-braces-for-shareholder-revolt-in-proxy-voting-season.html"/>
+        <updated>2022-05-11T09:30:37.000Z</updated>
+        <summary type="html"><![CDATA[Oil and gas majors on both sides of the Atlantic are scheduled to hold their annual general meetings in the coming weeks.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US angers China with Taiwan mission]]></title>
+        <id>https://www.rt.com/news/555291-taiwan-strait-american-warship/</id>
+        <link href="https://www.rt.com/news/555291-taiwan-strait-american-warship/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-11T09:29:23.000Z</updated>
+        <summary type="html"><![CDATA[China criticized the US for a routine naval mission in the Taiwan Strait 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[New Zealand fully reopens to the world in August: Ardern]]></title>
         <id>https://timesofindia.indiatimes.com/world/rest-of-world/new-zealand-fully-reopens-to-the-world-in-august-ardern/articleshow/91489071.cms</id>
         <link href="https://timesofindia.indiatimes.com/world/rest-of-world/new-zealand-fully-reopens-to-the-world-in-august-ardern/articleshow/91489071.cms"/>
@@ -1170,6 +1902,27 @@ The post The National Security Implications of New Rules of the Road for Cyber a
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Veteran journalist killed in West Bank]]></title>
+        <id>https://www.rt.com/news/555281-journalist-killed-west-bank/</id>
+        <link href="https://www.rt.com/news/555281-journalist-killed-west-bank/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-11T08:47:09.000Z</updated>
+        <summary type="html"><![CDATA[Veteran Al Jazeera reporter Shireen Abu Akleh was killed after being hit by a bullet during an Israeli raid on the Palestinian city of Jenin 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shanghai's big automakers saw production plunge by 75% in April after lockdowns began]]></title>
+        <id>107059206</id>
+        <link href="https://www.cnbc.com/2022/05/11/china-autos-shanghai-production-plunged-in-april-after-covid-lockdown.html"/>
+        <updated>2022-05-11T08:23:44.000Z</updated>
+        <summary type="html"><![CDATA[Auto production plunged in April as Covid lockdowns halted nearly all non-essential business in Shanghai, the China Passenger Car Association said Tuesday.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[India 'categorically' denies reports of sending troops to Sri Lanka]]></title>
         <id>https://timesofindia.indiatimes.com/world/south-asia/india-categorically-denies-reports-of-sending-troops-to-sri-lanka/articleshow/91488612.cms</id>
         <link href="https://timesofindia.indiatimes.com/world/south-asia/india-categorically-denies-reports-of-sending-troops-to-sri-lanka/articleshow/91488612.cms"/>
@@ -1177,6 +1930,17 @@ The post The National Security Implications of New Rules of the Road for Cyber a
         <summary type="html"><![CDATA[South Asia News: COLOMBO: The Indian High Commission on Wednesday "categorically" denied media reports about New Delhi sending its troops to Colombo, stating that the .]]></summary>
         <author>
             <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[White House responds to idea of labeling Russia as ‘sponsor of terrorism’]]></title>
+        <id>https://www.rt.com/news/555284-us-russia-sponsor-terrorism/</id>
+        <link href="https://www.rt.com/news/555284-us-russia-sponsor-terrorism/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-11T08:02:48.000Z</updated>
+        <summary type="html"><![CDATA[Washington said that it has imposed sanctions on Russia at a level reserved for state sponsors of terrorism 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
         </author>
     </entry>
     <entry>
@@ -1220,6 +1984,17 @@ The post The National Security Implications of New Rules of the Road for Cyber a
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[US House approves $40bn in Ukraine aid]]></title>
+        <id>https://www.rt.com/news/555280-us-house-ukraine-military-aid/</id>
+        <link href="https://www.rt.com/news/555280-us-house-ukraine-military-aid/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-11T04:43:08.000Z</updated>
+        <summary type="html"><![CDATA[The US House of Representatives has approved a massive $39.8 billion package of military and other aid to bolster Kiev against Moscow 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[High Commission rejects reports of Rajapaksa and family fleeing to India]]></title>
         <id>https://timesofindia.indiatimes.com/world/south-asia/indian-high-commission-rejects-local-social-media-reports-of-mahinda-rajapaksa-and-family-fleeing-to-india/articleshow/91482665.cms</id>
         <link href="https://timesofindia.indiatimes.com/world/south-asia/indian-high-commission-rejects-local-social-media-reports-of-mahinda-rajapaksa-and-family-fleeing-to-india/articleshow/91482665.cms"/>
@@ -1237,6 +2012,17 @@ The post The National Security Implications of New Rules of the Road for Cyber a
         <summary type="html"><![CDATA[Europe News: WASHINGTON: US lawmakers voted Tuesday to send a $40 billion aid package to Ukraine as Washington warned that Russia was likely girding for a long con.]]></summary>
         <author>
             <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former Twitter CEO reacts to Musk’s plan to unban Trump]]></title>
+        <id>https://www.rt.com/news/555279-dorsey-twitter-musk-trump-ban/</id>
+        <link href="https://www.rt.com/news/555279-dorsey-twitter-musk-trump-ban/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-11T02:37:40.000Z</updated>
+        <summary type="html"><![CDATA[Twitter co-founder Jack Dorsey said he is “generally” against permanent bans, after Elon Musk promised to unblock Donald Trump 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
         </author>
     </entry>
     <entry>
@@ -1270,6 +2056,28 @@ The post The National Security Implications of New Rules of the Road for Cyber a
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[US may get missile defense partner]]></title>
+        <id>https://www.rt.com/news/555277-canada-us-missile-defense/</id>
+        <link href="https://www.rt.com/news/555277-canada-us-missile-defense/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-11T01:24:17.000Z</updated>
+        <summary type="html"><![CDATA[Canada’s defense minister said Ottawa might join the US ballistic missile defense program as part of an ongoing policy review 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spy chief fired amid cyber-snooping scandal]]></title>
+        <id>https://www.rt.com/news/555278-spain-spy-chief-fired/</id>
+        <link href="https://www.rt.com/news/555278-spain-spy-chief-fired/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-11T00:58:45.000Z</updated>
+        <summary type="html"><![CDATA[Spain has fired its intelligence director after it emerged that Pegasus spyware had been used to snoop on the PM and other officials 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sri Lankan president urges people to stop 'violence and acts of revenge']]></title>
         <id>https://timesofindia.indiatimes.com/world/south-asia/sri-lankan-president-urges-people-to-stop-violence-and-acts-of-revenge/articleshow/91480213.cms</id>
         <link href="https://timesofindia.indiatimes.com/world/south-asia/sri-lankan-president-urges-people-to-stop-violence-and-acts-of-revenge/articleshow/91480213.cms"/>
@@ -1287,6 +2095,17 @@ The post The National Security Implications of New Rules of the Road for Cyber a
         <summary type="html"><![CDATA[Ukrainian fans celebrated in Turin as the Kalush Orchestra cement their position as favourites to win.]]></summary>
         <author>
             <name>BBC News - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bill Gates catches Covid]]></title>
+        <id>https://www.rt.com/news/555276-bill-gates-covid-symptoms/</id>
+        <link href="https://www.rt.com/news/555276-bill-gates-covid-symptoms/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-10T23:35:02.000Z</updated>
+        <summary type="html"><![CDATA[WHO megadonor and pandemic prevention advocate Bill Gates has caught Covid-19 himself, just as he was promoting his new book 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
         </author>
     </entry>
     <entry>
@@ -1330,6 +2149,72 @@ The post The National Security Implications of New Rules of the Road for Cyber a
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Disturbing photos prompt panic on plane]]></title>
+        <id>https://www.rt.com/news/555274-israel-turkey-plane-panic/</id>
+        <link href="https://www.rt.com/news/555274-israel-turkey-plane-panic/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-10T22:33:53.000Z</updated>
+        <summary type="html"><![CDATA[A flight departing Israel for Turkey had to turn around after photos of plane crashes sent to passengers caused a panic 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US Congress to question Pentagon on UFOs]]></title>
+        <id>https://www.rt.com/news/555275-ufo-hearing-congress-pentagon/</id>
+        <link href="https://www.rt.com/news/555275-ufo-hearing-congress-pentagon/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-10T22:18:20.000Z</updated>
+        <summary type="html"><![CDATA[The US House Intelligence Committee will question Pentagon officials at the first public hearing on UFOs in half a century 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk says he will allow Trump back on Twitter]]></title>
+        <id>https://www.rt.com/news/555271-musk-allows-trump-return-twitter/</id>
+        <link href="https://www.rt.com/news/555271-musk-allows-trump-return-twitter/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-10T19:56:35.000Z</updated>
+        <summary type="html"><![CDATA[Billionaire Twitter owner Elon Musk has said he will reverse the platform’s ban on former US president Donald Trump 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook moderator sues company over ‘human trafficking’]]></title>
+        <id>https://www.rt.com/news/555270-facebook-african-content-moderators-lawsuit/</id>
+        <link href="https://www.rt.com/news/555270-facebook-african-content-moderators-lawsuit/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-10T19:45:19.000Z</updated>
+        <summary type="html"><![CDATA[A former Meta content moderator has sued the firm for allegedly firing him over trying to strike in response to inhumane working conditions 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US intelligence estimates Russia’s plans for Ukraine]]></title>
+        <id>https://www.rt.com/news/555267-avril-haines-putin-ukraine/</id>
+        <link href="https://www.rt.com/news/555267-avril-haines-putin-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-10T18:40:28.000Z</updated>
+        <summary type="html"><![CDATA[Russian President Vladimir Putin is gearing up for a long conflict ending in territorial seizure in Ukraine, Congress heard 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japan imposes new sanctions on Russia]]></title>
+        <id>https://www.rt.com/news/555264-japan-new-sanctions-russia-ukraine/</id>
+        <link href="https://www.rt.com/news/555264-japan-new-sanctions-russia-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-10T17:03:37.000Z</updated>
+        <summary type="html"><![CDATA[Japan has imposed sanctions on more than 70 Russian companies and over 140 individuals from Russia and the Donbass republics 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Xi Jinping reportedly suffering from 'cerebral aneurysm']]></title>
         <id>https://timesofindia.indiatimes.com/world/china/xi-jinping-reportedly-suffering-from-cerebral-aneurysm/articleshow/91474967.cms</id>
         <link href="https://timesofindia.indiatimes.com/world/china/xi-jinping-reportedly-suffering-from-cerebral-aneurysm/articleshow/91474967.cms"/>
@@ -1350,6 +2235,116 @@ The post The National Security Implications of New Rules of the Road for Cyber a
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Millions of UK homes face no heat this winter, power chief warns]]></title>
+        <id>https://www.rt.com/news/555258-uk-energy-heating-cost/</id>
+        <link href="https://www.rt.com/news/555258-uk-energy-heating-cost/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-10T15:21:23.000Z</updated>
+        <summary type="html"><![CDATA[Scottish Power’s CEO has warned that annual energy bills could reach nearly £3,000 in October, depriving some 10 million homes of heat 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prison riot kills dozens, over 100 escape]]></title>
+        <id>https://www.rt.com/news/555259-prison-riot-kills-dozens/</id>
+        <link href="https://www.rt.com/news/555259-prison-riot-kills-dozens/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-10T15:21:02.000Z</updated>
+        <summary type="html"><![CDATA[Dozens of inmates were killed and more than a hundred are at large after another bloody riot in an Ecuadorian prison 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sanctions hurt US more than Russia – poll]]></title>
+        <id>https://www.rt.com/news/555252-biden-sanctions-hurt-america/</id>
+        <link href="https://www.rt.com/news/555252-biden-sanctions-hurt-america/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-10T14:17:10.000Z</updated>
+        <summary type="html"><![CDATA[Some 53% of Americans think that Washington’s sanctions hurt the US more than Russia, according to a recent poll 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Civilians killed in Donetsk shelling – officials]]></title>
+        <id>https://www.rt.com/news/555247-donetsk-shelling-missiles-report/</id>
+        <link href="https://www.rt.com/news/555247-donetsk-shelling-missiles-report/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-10T13:27:53.000Z</updated>
+        <summary type="html"><![CDATA[More civilians were killed and wounded in Donetsk as Ukraine shelled the city for two days straight, the Donbass republic officials said 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Student gathering descends into deadly stampede (VIDEO)]]></title>
+        <id>https://www.rt.com/news/555234-bolivia-stamepede-univeristy-meeting/</id>
+        <link href="https://www.rt.com/news/555234-bolivia-stamepede-univeristy-meeting/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-10T10:28:24.000Z</updated>
+        <summary type="html"><![CDATA[Four people were killed and dozens injured in a stampede after a gas grenade was thrown into a student gathering 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Near-miss at busy airport prompts action (VIDEO)]]></title>
+        <id>https://www.rt.com/news/555227-mexico-planes-airport-action/</id>
+        <link href="https://www.rt.com/news/555227-mexico-planes-airport-action/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-10T09:08:28.000Z</updated>
+        <summary type="html"><![CDATA[A near-miss at Mexico City International Airport prompted the country’s authorities to take urgent action 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Australia holds talks with top Indian military chiefs]]></title>
+        <id>https://www.rt.com/news/555222-australia-india-military-visit/</id>
+        <link href="https://www.rt.com/news/555222-australia-india-military-visit/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-10T05:29:50.000Z</updated>
+        <summary type="html"><![CDATA[The head of Australia’s air force held a series of meetings with senior military officials in India 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[German airline accused of booting all Jewish passengers off flight]]></title>
+        <id>https://www.rt.com/news/555221-lufthansa-airline-jewish-passengers/</id>
+        <link href="https://www.rt.com/news/555221-lufthansa-airline-jewish-passengers/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-10T04:08:17.000Z</updated>
+        <summary type="html"><![CDATA[A group of Orthodox Jewish travelers was expelled from a German airliner after some were accused of flouting its masking rules 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US prioritizes arming Ukraine over Covid aid]]></title>
+        <id>https://www.rt.com/news/555220-ukraine-congress-covid-relief/</id>
+        <link href="https://www.rt.com/news/555220-ukraine-congress-covid-relief/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-10T00:11:40.000Z</updated>
+        <summary type="html"><![CDATA[White House and Congress chose to split the bill and fast-track weapons and other aid to Ukraine over Covid-19 funding for Americans 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facial recognition firm reaches privacy settlement]]></title>
+        <id>https://www.rt.com/news/555219-clearview-settlement-illinois-aclu/</id>
+        <link href="https://www.rt.com/news/555219-clearview-settlement-illinois-aclu/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-09T23:58:45.000Z</updated>
+        <summary type="html"><![CDATA[Facial recognition startup Clearview AI will stop selling database access to private companies, but continues colluding with law enforcement 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Jill Biden Made A Surprise Visit To Ukraine To Meet With Their First Lady]]></title>
         <id>https://www.buzzfeednews.com/article/davidmack/jill-biden-ukraine-first-lady</id>
         <link href="https://www.buzzfeednews.com/article/davidmack/jill-biden-ukraine-first-lady"/>
@@ -1363,6 +2358,182 @@ View Entire Post ›]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Philippines opt for familiar names in presidential vote]]></title>
+        <id>https://www.rt.com/news/555215-marcos-duterte-philippines-election/</id>
+        <link href="https://www.rt.com/news/555215-marcos-duterte-philippines-election/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-09T22:29:51.000Z</updated>
+        <summary type="html"><![CDATA[Son of strongman Ferdinand Marcos and daughter of current president Rodrigo Duterte dominate Philippines’ vote for president and VP 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK’s Queen Elizabeth has ‘mobility problems’]]></title>
+        <id>https://www.rt.com/news/555218-uk-queen-parliament-opening-ceremony/</id>
+        <link href="https://www.rt.com/news/555218-uk-queen-parliament-opening-ceremony/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-09T21:51:01.000Z</updated>
+        <summary type="html"><![CDATA[Queen Elizabeth will not attend the opening of Parliament due to health issues, Buckingham Palace has said 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU to go into debt for Ukraine – Politico]]></title>
+        <id>https://www.rt.com/news/555214-eu-debt-ukraine-financing/</id>
+        <link href="https://www.rt.com/news/555214-eu-debt-ukraine-financing/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-09T21:42:42.000Z</updated>
+        <summary type="html"><![CDATA[EU is reportedly considering going into debt to fund Ukrainian government operations after Kiev begs for money to pay salaries and pensions 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden revives World War II arms act for Ukraine]]></title>
+        <id>https://www.rt.com/news/555217-biden-lend-lease-ukraine/</id>
+        <link href="https://www.rt.com/news/555217-biden-lend-lease-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-09T21:15:06.000Z</updated>
+        <summary type="html"><![CDATA[President Joe Biden has signed the Lend-Lease Act of 2022 into law, speeding up arms deliveries to Ukraine 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[White House comments on Supreme Court protests]]></title>
+        <id>https://www.rt.com/news/555216-white-house-condemns-stalking-scotus/</id>
+        <link href="https://www.rt.com/news/555216-white-house-condemns-stalking-scotus/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-09T21:04:14.000Z</updated>
+        <summary type="html"><![CDATA[The White House has denounced stalking conservative justices over their presumed support for overturning Roe v. Wade 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden blamed for US baby formula shortage]]></title>
+        <id>https://www.rt.com/news/555213-biden-baby-formula-shortage/</id>
+        <link href="https://www.rt.com/news/555213-biden-baby-formula-shortage/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-09T19:06:06.000Z</updated>
+        <summary type="html"><![CDATA[Republican lawmakers want President Biden to take action amid a nationwide shortage of baby formula 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fatal train crash in Austria]]></title>
+        <id>https://www.rt.com/news/555212-austria-fatal-train-crash/</id>
+        <link href="https://www.rt.com/news/555212-austria-fatal-train-crash/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-09T19:03:32.000Z</updated>
+        <summary type="html"><![CDATA[A train has derailed in Austria, killing one person and injuring more than a dozen others 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk warns he could die ‘under mysterious circumstances’]]></title>
+        <id>https://www.rt.com/news/555208-elon-musk-die-mysterious/</id>
+        <link href="https://www.rt.com/news/555208-elon-musk-die-mysterious/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-09T18:03:01.000Z</updated>
+        <summary type="html"><![CDATA[SpaceX and Tesla CEO Elon Musk told his Twitter followers that should he die mysteriously, “it’s been nice knowin ya.” 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surge in Americans reporting financial worries – poll]]></title>
+        <id>https://www.rt.com/news/555211-americans-financial-insecurity-spikes-poll/</id>
+        <link href="https://www.rt.com/news/555211-americans-financial-insecurity-spikes-poll/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-09T17:20:46.000Z</updated>
+        <summary type="html"><![CDATA[More than two in five Americans are worried about being able to pay the bills and maintain their standard of living, a new poll shows 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU sets date for Ukraine candidacy decision]]></title>
+        <id>https://www.rt.com/news/555210-eu-ukraine-candidacy-decision-date/</id>
+        <link href="https://www.rt.com/news/555210-eu-ukraine-candidacy-decision-date/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-09T17:18:37.000Z</updated>
+        <summary type="html"><![CDATA[The EU Commission will decide on Ukraine’s candidate status in June, Ursula von der Leyen has said 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attack on Russia ambassador ‘understandable’ – Poland]]></title>
+        <id>https://www.rt.com/news/555196-poland-envoy-attack-response/</id>
+        <link href="https://www.rt.com/news/555196-poland-envoy-attack-response/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-09T15:29:12.000Z</updated>
+        <summary type="html"><![CDATA[Poland’s interior minister said that the emotions of protesters who threw liquid at the Russian ambassador in Warsaw were “understandable” 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fire chief issues warning to hard up Brits]]></title>
+        <id>https://www.rt.com/news/555201-domestic-fires-rising-prices/</id>
+        <link href="https://www.rt.com/news/555201-domestic-fires-rising-prices/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-09T15:28:51.000Z</updated>
+        <summary type="html"><![CDATA[The London Fire Brigade warned of a surge in domestic fires as more people look for alternatives to heat homes 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PM resigns amid mass protests in Sri Lanka]]></title>
+        <id>https://www.rt.com/news/555197-sri-lanka-prime-minister-resigns/</id>
+        <link href="https://www.rt.com/news/555197-sri-lanka-prime-minister-resigns/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-09T14:08:46.000Z</updated>
+        <summary type="html"><![CDATA[Sri Lankan Prime Minister Mahinda Rajapaksa has resigned, as protests rage over the country’s dire economic state 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sweden’s ruling party to reveal its stance on NATO]]></title>
+        <id>https://www.rt.com/news/555195-sweden-decision-party-nato/</id>
+        <link href="https://www.rt.com/news/555195-sweden-decision-party-nato/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-09T13:27:04.000Z</updated>
+        <summary type="html"><![CDATA[Swedish ruling party will announce its position on NATO membership on May 15 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese ships detected near disputed islands]]></title>
+        <id>https://www.rt.com/news/555191-chinese-ships-islands-disputed-senkaku/</id>
+        <link href="https://www.rt.com/news/555191-chinese-ships-islands-disputed-senkaku/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-09T11:47:40.000Z</updated>
+        <summary type="html"><![CDATA[Chinese ships have reportedly been detected near Japanese-controlled disputed islands in the East China Sea 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK weighs in on Ukraine’s chances against Russia]]></title>
+        <id>https://www.rt.com/news/555187-uk-ukraine-wallace-putin/</id>
+        <link href="https://www.rt.com/news/555187-uk-ukraine-wallace-putin/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-09T11:43:18.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine defeating the Russian army is “very possible,” UK Defence Secretary Ben Wallace claims 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[She sat next to the annoying guy on the plane. Then they fell in love]]></title>
         <id>https://www.cnn.com/travel/article/chance-encounters-airplane-romance-new-york-california/index.html</id>
         <link href="https://www.cnn.com/travel/article/chance-encounters-airplane-romance-new-york-california/index.html"/>
@@ -1370,6 +2541,137 @@ View Entire Post ›]]></summary>
         <summary type="html"><![CDATA[The first time Krystina Burton met Gabriel Solberg, she rolled her eyes.]]></summary>
         <author>
             <name>CNN.com - RSS Channel - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[G7 pledges help to nations at risk of food crisis]]></title>
+        <id>https://www.rt.com/news/555176-g7-food-security-ukraine/</id>
+        <link href="https://www.rt.com/news/555176-g7-food-security-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-09T07:30:15.000Z</updated>
+        <summary type="html"><![CDATA[The G7 has pledged to step up efforts to help poor countries at risk of food crisis due to the conflict in Ukraine 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japan comments on Russian oil ban]]></title>
+        <id>https://www.rt.com/news/555171-japan-russian-oil-phaseout/</id>
+        <link href="https://www.rt.com/news/555171-japan-russian-oil-phaseout/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-09T06:59:46.000Z</updated>
+        <summary type="html"><![CDATA[Japanese Prime Minister Fumio Kishida says it will take time for his country to completely do away with Russian oil 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[G7 vows to ‘not let Russia win’]]></title>
+        <id>https://www.rt.com/news/555169-g7-summit-statement-russia-ukraine/</id>
+        <link href="https://www.rt.com/news/555169-g7-summit-statement-russia-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-09T06:24:36.000Z</updated>
+        <summary type="html"><![CDATA[The G7 has vowed to not allow Russia “win the war” against Ukraine, announcing new sanctions 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Women are doing more thankless tasks at work — here's how to help fix the problem]]></title>
+        <id>107056630</id>
+        <link href="https://www.cnbc.com/2022/05/09/how-to-solve-the-issue-of-women-doing-more-dead-end-work-tasks.html"/>
+        <updated>2022-05-09T05:16:23.000Z</updated>
+        <summary type="html"><![CDATA[The co-author of a book exploring why women are doing more "non-promotable tasks" explains what can be done to help solve the issue.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US running low on weapons – Congressman]]></title>
+        <id>https://www.rt.com/news/555167-javelin-weapon-stockpile-low/</id>
+        <link href="https://www.rt.com/news/555167-javelin-weapon-stockpile-low/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-08T20:44:54.000Z</updated>
+        <summary type="html"><![CDATA[The US push to arm Ukraine has depleted stockpiles of some weapons, Republican Rep. Mike Gallagher warned 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US sanctions Russian media]]></title>
+        <id>https://www.rt.com/news/555165-us-sanctions-russian-media/</id>
+        <link href="https://www.rt.com/news/555165-us-sanctions-russian-media/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-08T18:02:51.000Z</updated>
+        <summary type="html"><![CDATA[The US has sanctioned three Russian TV networks, dozens of banking executives and a defense contractor 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US CDC investigating wave of hepatitis cases in kids]]></title>
+        <id>https://www.rt.com/news/555164-cdc-hepatitis-chases-children/</id>
+        <link href="https://www.rt.com/news/555164-cdc-hepatitis-chases-children/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-08T17:48:27.000Z</updated>
+        <summary type="html"><![CDATA[The US Centers for Disease Control and Prevention (CDC) is investigating a spate of serious hepatitis cases in young children 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victorious nationalists call for 'debate' on Irish unity]]></title>
+        <id>https://www.rt.com/news/555156-sinn-fein-northern-ireland/</id>
+        <link href="https://www.rt.com/news/555156-sinn-fein-northern-ireland/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-08T15:52:54.000Z</updated>
+        <summary type="html"><![CDATA[Irish nationalist party Sinn Fein has called for an “honest debate” on the reunification of Ireland following a historic electoral victory 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Germany warns of global famine]]></title>
+        <id>https://www.rt.com/news/555162-german-minister-world-worst-famine/</id>
+        <link href="https://www.rt.com/news/555162-german-minister-world-worst-famine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-08T15:50:16.000Z</updated>
+        <summary type="html"><![CDATA[Continued conflict in Ukraine could lead to worst hunger since WWII, a German minister has warned 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brazil’s ex-president to challenge ‘criminal’ Bolsonaro]]></title>
+        <id>https://www.rt.com/news/555155-lula-brazil-president-campaign/</id>
+        <link href="https://www.rt.com/news/555155-lula-brazil-president-campaign/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-08T14:32:05.000Z</updated>
+        <summary type="html"><![CDATA[Brazil’s left-wing former president, Lula de Silva, has announced that he will challenge Jair Bolsonaro in October’s election 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia sanctions ‘don’t work’ – MEP]]></title>
+        <id>https://www.rt.com/news/555154-mep-sanctions-ukraine-oil/</id>
+        <link href="https://www.rt.com/news/555154-mep-sanctions-ukraine-oil/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-08T14:11:18.000Z</updated>
+        <summary type="html"><![CDATA[An embargo on Russian oil will not save any lives in Ukraine, European Parliament member Clare Daly has said 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foreign fighters seek ‘adventure’ in Ukraine – captured colonel]]></title>
+        <id>https://www.rt.com/news/555151-foreign-fighters-adventure-ukraine/</id>
+        <link href="https://www.rt.com/news/555151-foreign-fighters-adventure-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-08T13:06:55.000Z</updated>
+        <summary type="html"><![CDATA[Foreign fighters are joining the Ukrainian military in search of “adventure,” a captured commander of the Kiev marines has said 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
         </author>
     </entry>
     <entry>
@@ -1393,6 +2695,116 @@ View Entire Post ›]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Lawmaker takes heat for ‘putting up with racism’ comment]]></title>
+        <id>https://www.rt.com/news/555147-lawmaker-australia-racism-china/</id>
+        <link href="https://www.rt.com/news/555147-lawmaker-australia-racism-china/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-08T11:05:00.000Z</updated>
+        <summary type="html"><![CDATA[An Australian senator is accused of “tone deafness” over his “putting up with racism” remarks 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taiwan reveals why it sanctioned Russia]]></title>
+        <id>https://www.rt.com/news/555142-china-taiwan-sanctions-west/</id>
+        <link href="https://www.rt.com/news/555142-china-taiwan-sanctions-west/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-08T08:47:11.000Z</updated>
+        <summary type="html"><![CDATA[Taiwan hopes that if China invaded the island Beijing would face similar sanctions as Russia is now experiencing over Ukraine 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK promises more military aid for Ukraine]]></title>
+        <id>https://www.rt.com/news/555140-britain-doubles-aid-ukraine/</id>
+        <link href="https://www.rt.com/news/555140-britain-doubles-aid-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-08T08:04:25.000Z</updated>
+        <summary type="html"><![CDATA[Britain has promised an additional $1.6 billion in military support and aid to Ukraine. 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China ‘carefully’ studying Ukraine – CIA director]]></title>
+        <id>https://www.rt.com/news/555133-cia-china-ukraine-taiwan/</id>
+        <link href="https://www.rt.com/news/555133-cia-china-ukraine-taiwan/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-07T20:57:36.000Z</updated>
+        <summary type="html"><![CDATA[China is “carefully” studying the conflict in Ukraine with a view to taking Taiwan, CIA Director William Burns told a conference 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Germany explains Russian and Ukrainian flags ban]]></title>
+        <id>https://www.rt.com/news/555131-german-berlin-ukraine-flag-ban/</id>
+        <link href="https://www.rt.com/news/555131-german-berlin-ukraine-flag-ban/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-07T18:51:14.000Z</updated>
+        <summary type="html"><![CDATA[Berlin authorities defend decision to ban Ukrainian and Russian flags at memorial sites during Victory Day celebrations 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Details emerge about ‘explosive device’ at Russian media site in Germany]]></title>
+        <id>https://www.rt.com/news/555116-berlin-explosive-device-russian-media/</id>
+        <link href="https://www.rt.com/news/555116-berlin-explosive-device-russian-media/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-07T16:13:31.000Z</updated>
+        <summary type="html"><![CDATA[An improvised explosive device at a Russian media site in Berlin could have caused a major blaze, a senior journalist has said 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Сase of rare disease confirmed in England]]></title>
+        <id>https://www.rt.com/news/555127-monkeypox-uk-case-disgnosed/</id>
+        <link href="https://www.rt.com/news/555127-monkeypox-uk-case-disgnosed/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-07T15:53:54.000Z</updated>
+        <summary type="html"><![CDATA[Monkeypox has been diagnosed in a patient who recently arrived in the UK from Nigeria 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The EU is destroying its own energy security with the planned Russian oil embargo]]></title>
+        <id>https://www.rt.com/news/555073-eu-destroy-energy-security/</id>
+        <link href="https://www.rt.com/news/555073-eu-destroy-energy-security/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-07T14:43:34.000Z</updated>
+        <summary type="html"><![CDATA[The European Union’s planned phase-out of Russian oil imports by the end of 2022 will leave a gaping hole in its own energy security. 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Musk’s plans for Twitter revealed – NYT]]></title>
+        <id>https://www.rt.com/news/555122-musk-twitter-plans-revealed/</id>
+        <link href="https://www.rt.com/news/555122-musk-twitter-plans-revealed/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-07T14:17:33.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk reportedly wants to hire 3,600 Twitter employees and quintuple the social media giant’s revenue 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No EU fast-track for Ukraine – Austria]]></title>
+        <id>https://www.rt.com/news/555121-austria-ukraine-eu-fast-track/</id>
+        <link href="https://www.rt.com/news/555121-austria-ukraine-eu-fast-track/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-07T13:45:35.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine will not be able to join the EU “in the next five to ten years,” Austrian minister Karoline Edtstadler said 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hot Wheels launches first remote-controlled wheelchair toy in partnership with Paralympian]]></title>
         <id>https://www.cnn.com/2022/05/07/business/hot-wheels-wheelchair-toy-trnd/index.html</id>
         <link href="https://www.cnn.com/2022/05/07/business/hot-wheels-wheelchair-toy-trnd/index.html"/>
@@ -1400,6 +2812,17 @@ View Entire Post ›]]></summary>
         <summary type="html"><![CDATA[Hot Wheels is expanding representation for kids who use wheelchairs -- with the company's first-ever remote-controlled wheelchair toy.]]></summary>
         <author>
             <name>CNN.com - RSS Channel - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japan warns of Ukraine-like conflict]]></title>
+        <id>https://www.rt.com/news/555118-japan-ukraine-east-asia/</id>
+        <link href="https://www.rt.com/news/555118-japan-ukraine-east-asia/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-07T12:47:13.000Z</updated>
+        <summary type="html"><![CDATA[Japanese Prime Minister Fumio Kishida said that a Ukraine-style conflict could break out in East Asia 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
         </author>
     </entry>
     <entry>
@@ -1413,6 +2836,61 @@ View Entire Post ›]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[North Korea fires ‘projectile’ into Sea of Japan – Seoul]]></title>
+        <id>https://www.rt.com/news/555109-north-korea-fires-projectile/</id>
+        <link href="https://www.rt.com/news/555109-north-korea-fires-projectile/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-07T07:41:00.000Z</updated>
+        <summary type="html"><![CDATA[North Korea has test-fired a second projectile into the Sea of Japan in the span of several days, Seoul said 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surge in British desire to emigrate – reports]]></title>
+        <id>https://www.rt.com/news/555098-uk-emigration-spike-inflation-taxes/</id>
+        <link href="https://www.rt.com/news/555098-uk-emigration-spike-inflation-taxes/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-06T22:11:09.000Z</updated>
+        <summary type="html"><![CDATA[As taxes and the cost of living rise in the UK, more Britons are looking to start a new life overseas, lawyers and financial specialist warn 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Explosive device’ found at Russian media site in Berlin – RIA]]></title>
+        <id>https://www.rt.com/news/555100-berlin-rianovosti-explosive-device/</id>
+        <link href="https://www.rt.com/news/555100-berlin-rianovosti-explosive-device/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-06T21:32:47.000Z</updated>
+        <summary type="html"><![CDATA[A suspicious package, believed to be a makeshift bomb, has reportedly been discovered at RIA Novosti’s compound in Berlin 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Her Majesty's Russia Unit': How British spies have launched a full-scale propaganda war to demonize Moscow]]></title>
+        <id>https://www.rt.com/news/555064-london-consulting-companies-against-moscow/</id>
+        <link href="https://www.rt.com/news/555064-london-consulting-companies-against-moscow/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-06T18:58:26.000Z</updated>
+        <summary type="html"><![CDATA[Britain's international information war strategy was developed years ago 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US reveals date of major step in arming Ukraine]]></title>
+        <id>https://www.rt.com/news/555096-biden-signing-lend-lease-ukraine/</id>
+        <link href="https://www.rt.com/news/555096-biden-signing-lend-lease-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-06T18:01:24.000Z</updated>
+        <summary type="html"><![CDATA[Joe Biden will sign the Lend-Lease Act of 2022 on Monday, simplifying the process of sending arms to Ukraine 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['My chopsticks bust you open': You've heard of K-pop, now it's time for K-drill]]></title>
         <id>https://www.cnn.com/style/article/south-korea-kdrill-nomad/index.html</id>
         <link href="https://www.cnn.com/style/article/south-korea-kdrill-nomad/index.html"/>
@@ -1420,6 +2898,39 @@ View Entire Post ›]]></summary>
         <summary type="html"><![CDATA[If the lurking bass and syncopated beat of Silkybois' recent hit "Bomaye" sound familiar to fans of drill music, the pair's lyrical content might not. Flitting between English and their native Korean, the Seoul-based rappers inject numerous local references into the genre's typical allusions to street rivalries, cars and money.]]></summary>
         <author>
             <name>CNN.com - RSS Channel - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poll reveals Austrians’ stance on joining NATO]]></title>
+        <id>https://www.rt.com/news/555094-poll-austrians-prospects-joining-nato/</id>
+        <link href="https://www.rt.com/news/555094-poll-austrians-prospects-joining-nato/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-06T16:03:39.000Z</updated>
+        <summary type="html"><![CDATA[A poll has shown the majority of Austrians would oppose joining NATO, in stark contrast to trends seen in Sweden and Finland 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Massive explosion destroys hotel in Cuba]]></title>
+        <id>https://www.rt.com/news/555095-massive-explosion-cuba/</id>
+        <link href="https://www.rt.com/news/555095-massive-explosion-cuba/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-06T15:57:50.000Z</updated>
+        <summary type="html"><![CDATA[A massive explosion ripped through Havana’s Saratoga Hotel on Friday, destroying multiple floors of the building 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taiwan makes claims about Chinese military jets]]></title>
+        <id>https://www.rt.com/news/555078-taiwan-china-aircraft-incursion/</id>
+        <link href="https://www.rt.com/news/555078-taiwan-china-aircraft-incursion/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-06T15:37:20.000Z</updated>
+        <summary type="html"><![CDATA[Taiwan has reported a massive incursion of Chinese warplanes into its air defense zone 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
         </author>
     </entry>
     <entry>
@@ -1436,6 +2947,72 @@ View Entire Post ›]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Europe becoming cocaine hub – Europol]]></title>
+        <id>https://www.rt.com/news/555090-europe-drug-hub-cocaine/</id>
+        <link href="https://www.rt.com/news/555090-europe-drug-hub-cocaine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-06T15:06:45.000Z</updated>
+        <summary type="html"><![CDATA[Europe is a growing hub for the production and trans-shipment of cocaine around the world, the EU said on Friday 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraine’s neighbor sees future without border]]></title>
+        <id>https://www.rt.com/news/555081-polish-president-no-border-ukraine/</id>
+        <link href="https://www.rt.com/news/555081-polish-president-no-border-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-06T14:47:49.000Z</updated>
+        <summary type="html"><![CDATA[Polish President Andrzej Duda has suggested there will be no border between the two “fraternal” nations, Poland and Ukraine, in the future 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explosion rocks building in Madrid]]></title>
+        <id>https://www.rt.com/news/555085-madrid-spain-explosion-injuries/</id>
+        <link href="https://www.rt.com/news/555085-madrid-spain-explosion-injuries/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-06T14:25:52.000Z</updated>
+        <summary type="html"><![CDATA[More than a dozen people were injured in a blast in the Spanish capital Madrid, authorities have said 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don’t patronize us’, India tells EU official]]></title>
+        <id>https://www.rt.com/news/555077-india-envoy-netherlands-unsc/</id>
+        <link href="https://www.rt.com/news/555077-india-envoy-netherlands-unsc/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-06T12:50:11.000Z</updated>
+        <summary type="html"><![CDATA[India’s envoy to the United Nations has warned the Netherlands not to “patronize” his country over its voting on the conflict in Ukraine 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US takes heat from neighbor over Ukraine]]></title>
+        <id>https://www.rt.com/news/555068-mexico-us-ukraine-obrador/</id>
+        <link href="https://www.rt.com/news/555068-mexico-us-ukraine-obrador/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-06T11:48:51.000Z</updated>
+        <summary type="html"><![CDATA[While swiftly finding billions for Ukraine, the US has been in no rush to aid Central America, Mexico's president has complained 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump considered strike on Mexico – former Pentagon chief]]></title>
+        <id>https://www.rt.com/news/555070-trump-intended-strike-mexico/</id>
+        <link href="https://www.rt.com/news/555070-trump-intended-strike-mexico/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-06T11:30:55.000Z</updated>
+        <summary type="html"><![CDATA[Enraged by the influx of narcotics, Trump entertained the idea of launching missiles at Mexican drug labs, Mark Esper claims 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Style Guide: How to dress for the office]]></title>
         <id>https://www.cnn.com/style/article/how-to-dress-for-the-office-styleguide/index.html</id>
         <link href="https://www.cnn.com/style/article/how-to-dress-for-the-office-styleguide/index.html"/>
@@ -1443,6 +3020,39 @@ View Entire Post ›]]></summary>
         <summary type="html"><![CDATA[If the thought of retiring your comfortable sweats and choosing a new outfit to leave the house in each morning is an intimidating prospect, you're in good company. For the better part of the pandemic, I've lived in a pair of stretchy, soft wool trousers in the cooler months, switching allegiance in summer to a white linen dress that my brother-in-law dubbed "the ghost dress" (likening its so flowy, so oversized shape to that of a large bedsheet with a hole cut out for my head).]]></summary>
         <author>
             <name>CNN.com - RSS Channel - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[States sue Biden over Big Tech ‘collusion’]]></title>
+        <id>https://www.rt.com/news/555058-states-sue-biden-censorship/</id>
+        <link href="https://www.rt.com/news/555058-states-sue-biden-censorship/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-06T09:33:24.000Z</updated>
+        <summary type="html"><![CDATA[Missouri and Louisiana have filed a lawsuit against the Biden administration, claiming it “colluded” with Big Tech to hush up information 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US denies it helped sink Russian flagship]]></title>
+        <id>https://www.rt.com/news/555062-moskva-us-intelligence-ukraine/</id>
+        <link href="https://www.rt.com/news/555062-moskva-us-intelligence-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-06T09:33:17.000Z</updated>
+        <summary type="html"><![CDATA[The Pentagon is denying reports claiming US intelligence had been used in last month’s alleged Ukrainian strike on Russia’s warship Moskva 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FDA restricts Covid vaccine]]></title>
+        <id>https://www.rt.com/news/555050-fda-restricts-johnson-vaccine/</id>
+        <link href="https://www.rt.com/news/555050-fda-restricts-johnson-vaccine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
+        <updated>2022-05-06T06:20:22.000Z</updated>
+        <summary type="html"><![CDATA[The US Food and Drug Administration has limited the approved uses for Johnson & Johnson’s Covid vaccine, citing dangerous side effects 
+Read Full Article at RT.com]]></summary>
+        <author>
+            <name>RT</name>
         </author>
     </entry>
     <entry>
