@@ -6,5 +6,5 @@
 cacheUrl: https://hjb2722404.github.io/newsrss/cache.json
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href http://feeds.bbci.co.uk/news/world/rss.xml
-  - href https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml
+  - href: http://feeds.bbci.co.uk/news/world/rss.xml
+  - href: https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml
