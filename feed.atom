@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/newsrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-12T10:06:17.077Z</updated>
+    <updated>2022-05-12T10:12:14.301Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/newsrss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/newsrss/feed.atom"/>
@@ -27,6 +27,46 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The world's biggest stablecoin has dropped below its $1 peg]]></title>
+        <id>107059992</id>
+        <link href="https://www.cnbc.com/2022/05/12/tether-usdt-stablecoin-drops-below-1-peg.html"/>
+        <updated>2022-05-12T10:07:22.000Z</updated>
+        <summary type="html"><![CDATA[Tether sank to as low as 98 cents Thursday morning, according to data from CoinGecko.]]></summary>
+        <author>
+            <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcaster Deddy Corbuzier Shunned A Gay Couple After Welcoming Them]]></title>
+        <id>https://www.nytimes.com/2022/05/12/world/asia/indonesia-podcast-deddy-corbuzier.html</id>
+        <link href="https://www.nytimes.com/2022/05/12/world/asia/indonesia-podcast-deddy-corbuzier.html"/>
+        <updated>2022-05-12T10:07:21.000Z</updated>
+        <summary type="html"><![CDATA[The segment, aired in Indonesia, enraged religious leaders and prompted a backlash that highlights the limits of tolerance for gay people in the Muslim-majority nation.]]></summary>
+        <author>
+            <name>Mike Ives and Muktita Suhartono</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plane veers off runway in China and catches fire; 36 injured]]></title>
+        <id>https://abcnews.go.com/International/wireStory/passengers-injured-plane-leaves-runway-western-china-84660979</id>
+        <link href="https://abcnews.go.com/International/wireStory/passengers-injured-plane-leaves-runway-western-china-84660979"/>
+        <updated>2022-05-12T10:05:26.000Z</updated>
+        <summary type="html"><![CDATA[A Chinese passenger jet has veered off the runway during takeoff and caught fire, sending black smoke billowing into the air and injuring more than 30 people]]></summary>
+        <author>
+            <name>ABC News: International</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukrainian fighter trapped in Mariupol steelworks pleads for Elon Musk for help]]></title>
+        <id>b2077265</id>
+        <link href="https://www.independent.co.uk/news/world/europe/ukrainian-fighter-mariupol-steelworks-elon-musk-help-b2077265.html"/>
+        <updated>2022-05-12T10:03:52.000Z</updated>
+        <summary type="html"><![CDATA[‘If not you, then who?’ fighter asks as survivors fear death in sprawling steel plant]]></summary>
+        <author>
+            <name>Thomas Kingsley</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Seoul: North Korea fires missile toward sea]]></title>
         <id>https://abcnews.go.com/International/wireStory/seoul-north-korea-fires-missile-sea-84664856</id>
         <link href="https://abcnews.go.com/International/wireStory/seoul-north-korea-fires-missile-sea-84664856"/>
@@ -37,6 +77,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Inflation Anger]]></title>
+        <id>https://www.nytimes.com/2022/05/12/briefing/inflation-america-rising-prices.html</id>
+        <link href="https://www.nytimes.com/2022/05/12/briefing/inflation-america-rising-prices.html"/>
+        <updated>2022-05-12T10:02:05.000Z</updated>
+        <summary type="html"><![CDATA[Inflation is still high — and many Americans are upset.]]></summary>
+        <author>
+            <name>German Lopez</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sri Lanka court bans ex-PM Rajapaksa, allies from leaving country]]></title>
         <id>https://www.aljazeera.com/?t=1652347395</id>
         <link href="https://www.aljazeera.com/news/2022/5/12/sri-lanka-court-bans-ex-pm-rajapaksa-allies-from-leaving-country"/>
@@ -44,6 +94,56 @@
         <summary type="html"><![CDATA[Mahinda Rajapaksa, son Namal and 15 allies barred from leaving island over violence against anti-government protesters.]]></summary>
         <author>
             <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Modern World Can’t Exist Without These Four Ingredients. They All Require Fossil Fuels]]></title>
+        <id>https://time.com/?p=6175734</id>
+        <link href="https://time.com/6175734/reliance-on-fossil-fuels/"/>
+        <updated>2022-05-12T10:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Modern societies would be impossible without mass-scale production of many man-made materials. We could have an affluent civilization that provides plenty of food, material comforts, and access to good education and health care without any microchips or personal computers: we had one until the 1970s, and we managed, until the 1990s, to expand economies, build…]]></summary>
+        <author>
+            <name>Vaclav Smil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why the Bipartisan Push to Prevent Another Jan. 6 Is Running Out of Time]]></title>
+        <id>https://time.com/?p=6175720</id>
+        <link href="https://time.com/6175720/jan-6-electoral-count-act/"/>
+        <updated>2022-05-12T10:00:24.000Z</updated>
+        <summary type="html"><![CDATA[The Electoral Count Act may not be updated before the 2024 election.]]></summary>
+        <author>
+            <name>Eric Cortellessa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jack Ma makes rare public appearance at Alibaba Hangzhou campus to discusses philanthropy, agriculture tech]]></title>
+        <id>https://www.scmp.com/tech/big-tech/article/3177452/jack-ma-makes-rare-public-appearance-alibaba-hangzhou-campus?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/tech/big-tech/article/3177452/jack-ma-makes-rare-public-appearance-alibaba-hangzhou-campus?utm_source=rss_feed"/>
+        <updated>2022-05-12T10:00:16.000Z</updated>
+        <summary type="html"><![CDATA[Alibaba founder and billionaire Jack Ma visited the company’s Hangzhou campus on Tuesday, where he discussed philanthropy and agricultural technology, according to China Philanthropy Times.]]></summary>
+        <author>
+            <name>Tracy Qu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accused in deaths of innocents, a former colonel confronts his shame]]></title>
+        <id>https://www.washingtonpost.com/world/2022/05/12/colombia-false-positives-santiago-herrera/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world</id>
+        <link href="https://www.washingtonpost.com/world/2022/05/12/colombia-false-positives-santiago-herrera/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world"/>
+        <updated>2022-05-12T10:00:07.000Z</updated>
+        <summary type="html"><![CDATA[More than 3,000 members of Colombia’s security forces have cases pending before the country's special peace jurisdiction. They face significant barriers to speaking openly about their crimes — and the roles played by their superiors.]]></summary>
+        <author>
+            <name>Samantha Schmidt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Accused in deaths of innocents, a former colonel confronts his shame]]></title>
+        <id>https://www.washingtonpost.com/world/2022/05/12/colombia-false-positives-santiago-herrera/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world</id>
+        <link href="https://www.washingtonpost.com/world/2022/05/12/colombia-false-positives-santiago-herrera/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world"/>
+        <updated>2022-05-12T10:00:07.000Z</updated>
+        <summary type="html"><![CDATA[More than 3,000 members of Colombia’s security forces have cases pending before the country's special peace jurisdiction. They face significant barriers to speaking openly about their crimes — and the roles played by their superiors.]]></summary>
+        <author>
+            <name>Samantha Schmidt</name>
         </author>
     </entry>
     <entry>
@@ -468,6 +568,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Beijing slams EU and US for ‘foolish political show’ over criticism of Cardinal Joseph Zen’s arrest as Hong Kong Catholic diocese fears for former leader]]></title>
+        <id>https://www.scmp.com/news/hong-kong/politics/article/3177485/beijing-slams-eu-and-us-foolish-political-show-over?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/hong-kong/politics/article/3177485/beijing-slams-eu-and-us-foolish-political-show-over?utm_source=rss_feed"/>
+        <updated>2022-05-12T09:14:21.000Z</updated>
+        <summary type="html"><![CDATA[Hong Kong Catholic diocese says it is ‘extremely concerned’ for safety, condition of Cardinal Joseph Zen.]]></summary>
+        <author>
+            <name>Chris Lau</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hong Kong cardinal Joseph Zen arrested under China's security law]]></title>
         <id>https://www.bbc.co.uk/news/world-asia-61413335</id>
         <link href="https://www.bbc.co.uk/news/world-asia-61413335?at_medium=RSS&amp;at_campaign=KARANGA"/>
@@ -565,6 +675,26 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Hundreds of ballet dancers and students fled Ukraine after Russia’s invasion. With opportunities scarce, many will have to keep moving if they want to keep dancing.]]></summary>
         <author>
             <name>Alex Marshall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xi and Biden congratulate Marcos Jnr on election win as China, US vie for influence]]></title>
+        <id>https://www.scmp.com/news/china/diplomacy/article/3177483/xi-and-biden-congratulate-marcos-jnr-election-win-china-us-vie?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/china/diplomacy/article/3177483/xi-and-biden-congratulate-marcos-jnr-election-win-china-us-vie?utm_source=rss_feed"/>
+        <updated>2022-05-12T09:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Xi vows to strengthen relations with Manila and says the nations are ‘partners through thick and thin’, while Biden tells president-elect he wants to seek close security ties and expand cooperation.]]></summary>
+        <author>
+            <name>Shi Jiangtao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Give us grandchild or cough up US$650,000: Indian parents sue son, daughter-in-law]]></title>
+        <id>https://www.scmp.com/news/asia/south-asia/article/3177482/give-us-grandchild-or-cough-us650000-indian-parents-sue-son?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/asia/south-asia/article/3177482/give-us-grandchild-or-cough-us650000-indian-parents-sue-son?utm_source=rss_feed"/>
+        <updated>2022-05-12T08:59:26.000Z</updated>
+        <summary type="html"><![CDATA[Sanjeev and Sadhana Prasad said that they are financially broke after educating their pilot son and paying for a lavish wedding.]]></summary>
+        <author>
+            <name>Agence France-Presse</name>
         </author>
     </entry>
     <entry>
@@ -948,6 +1078,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Japan, EU agree to seek free Indo-Pacific, cooperate over Ukraine]]></title>
+        <id>https://www.scmp.com/news/asia/diplomacy/article/3177468/japan-eu-agree-seek-free-indo-pacific-cooperate-over-ukraine?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/asia/diplomacy/article/3177468/japan-eu-agree-seek-free-indo-pacific-cooperate-over-ukraine?utm_source=rss_feed"/>
+        <updated>2022-05-12T07:55:25.000Z</updated>
+        <summary type="html"><![CDATA[European Commission President Ursula von der Leyen described the Indo-Pacific as ‘a theatre of tensions’ in a veiled reference to an assertive China while also noting North Korea’s threat.]]></summary>
+        <author>
+            <name>Kyodo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ukraine goes on the counteroffensive as Russians fall back]]></title>
         <id>https://www.aljazeera.com/?t=1652288668</id>
         <link href="https://www.aljazeera.com/news/2022/5/12/ukraine-goes-on-the-counteroffensive-as-russians-falls-back"/>
@@ -1009,6 +1149,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ukraine war: Finland’s leaders back joining Nato ‘without delay’]]></title>
+        <id>https://www.scmp.com/news/world/europe/article/3177461/ukraine-war-finlands-leaders-back-joining-nato-without-delay?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/world/europe/article/3177461/ukraine-war-finlands-leaders-back-joining-nato-without-delay?utm_source=rss_feed"/>
+        <updated>2022-05-12T07:32:01.000Z</updated>
+        <summary type="html"><![CDATA[Announcement by Finland’s president and prime minister paves the way for the Nato alliance to expand amid Russia’s war in Ukraine.]]></summary>
+        <author>
+            <name>Agence France-Presse</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Palestinians mourn Abu Akleh at state service in Ramallah]]></title>
         <id>https://www.aljazeera.com/?t=1652338101</id>
         <link href="https://www.aljazeera.com/news/2022/5/12/funeral-service-shireen-abu-akleh-set-start-ramallah"/>
@@ -1036,6 +1186,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Iran is scheduled to put to death a 50-year-old Swedish-Iranian physician within nine days]]></summary>
         <author>
             <name>ABC News: International</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hong Kong man who attempted boat escape to Taiwan with 11 others jailed for 20 months for making explosives at home]]></title>
+        <id>https://www.scmp.com/news/hong-kong/law-and-crime/article/3177455/hong-kong-man-who-attempted-boat-escape-taiwan-11?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/hong-kong/law-and-crime/article/3177455/hong-kong-man-who-attempted-boat-escape-taiwan-11?utm_source=rss_feed"/>
+        <updated>2022-05-12T07:24:30.000Z</updated>
+        <summary type="html"><![CDATA[Former aircraft technician admits making dinitrotoluene (DNT) between December 2019 and January 2020, but denies trying to use it in anti-government protests.]]></summary>
+        <author>
+            <name>Brian Wong</name>
         </author>
     </entry>
     <entry>
@@ -1157,6 +1317,26 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[One of the most serious charges against Gionet stems from his livestream of entering the Capitol]]></summary>
         <author>
             <name>Shweta Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[European Union dropping Covid-19 mask mandate for planes and airports]]></title>
+        <id>https://www.scmp.com/news/world/europe/article/3177453/european-union-dropping-covid-19-mask-mandate-planes-and-airports?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/world/europe/article/3177453/european-union-dropping-covid-19-mask-mandate-planes-and-airports?utm_source=rss_feed"/>
+        <updated>2022-05-12T06:46:18.000Z</updated>
+        <summary type="html"><![CDATA[EU-wide guidance on requiring masks for air travel will be lifted from next week, as the pandemic eases in Europe.]]></summary>
+        <author>
+            <name>Associated Press</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elizabeth Zhong murder: Ex-cop hired by defendant Fang Sun tells New Zealand court he ‘illegally tracked’ Zhong]]></title>
+        <id>https://www.scmp.com/news/asia/australasia/article/3177448/elizabeth-zhong-murder-ex-cop-hired-defendant-fang-sun-tells?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/asia/australasia/article/3177448/elizabeth-zhong-murder-ex-cop-hired-defendant-fang-sun-tells?utm_source=rss_feed"/>
+        <updated>2022-05-12T06:45:14.000Z</updated>
+        <summary type="html"><![CDATA[Jun “Jimmy” Jin told a court he was knowingly breaking the law when he placed a tracking device under Elizabeth Zhong’s SUV. The former police officer was hired by Fang Sun, an estranged business partner of Zhong’s who is now on trial for her murder.]]></summary>
+        <author>
+            <name>The New Zealand Herald</name>
         </author>
     </entry>
     <entry>
@@ -1300,6 +1480,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mother of Hong Kong murder victim at centre of extradition bill case renews call for Carrie Lam to send suspect to Taiwan for trial]]></title>
+        <id>https://www.scmp.com/news/hong-kong/law-and-crime/article/3177442/mother-hong-kong-murder-victim-centre-extradition-bill?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/hong-kong/law-and-crime/article/3177442/mother-hong-kong-murder-victim-centre-extradition-bill?utm_source=rss_feed"/>
+        <updated>2022-05-12T06:25:12.000Z</updated>
+        <summary type="html"><![CDATA[Amber Poon tells Lam ‘at least all Hongkongers and history will remember that you have the heart to solve problems before you leave office’.]]></summary>
+        <author>
+            <name>Natalie Wong</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[International Nurses Day: Wishes, Messages, Facebook And WhatsApp Status]]></title>
         <id>2962739</id>
         <link href="https://www.ndtv.com/world-news/international-nurses-day-2022-images-quotes-wishes-messages-facebook-and-whatsapp-status-2962739"/>
@@ -1307,6 +1497,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Every year, May 12 is celebrated as International Nurses Day. It's the birth anniversary of Florence Nightingale.]]></summary>
         <author>
             <name>NDTV News - World-news</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Schoolboy among 4 arrested by Hong Kong police on suspicion of harassing debtors]]></title>
+        <id>https://www.scmp.com/news/hong-kong/law-and-crime/article/3177446/schoolboy-among-4-arrested-hong-kong-police-suspicion?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/hong-kong/law-and-crime/article/3177446/schoolboy-among-4-arrested-hong-kong-police-suspicion?utm_source=rss_feed"/>
+        <updated>2022-05-12T06:20:39.000Z</updated>
+        <summary type="html"><![CDATA[Officers say young men were suspected of going to debtors’ homes to carry out harassment acts such as splashing red paint.]]></summary>
+        <author>
+            <name>Clifford Lo</name>
         </author>
     </entry>
     <entry>
@@ -1320,6 +1520,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Japan, China, South Korea ‘on guard against heightening risks’ to regional economic outlook]]></title>
+        <id>https://www.scmp.com/economy/global-economy/article/3177445/japan-china-south-korea-guard-against-heightening-risks?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/economy/global-economy/article/3177445/japan-china-south-korea-guard-against-heightening-risks?utm_source=rss_feed"/>
+        <updated>2022-05-12T06:19:06.000Z</updated>
+        <summary type="html"><![CDATA[Finance ministers and central bank governors from Japan, China and South Korea on Thursday warned of the risks from the coronavirus pandemic and the war in Ukraine to Asia’s economic recovery.]]></summary>
+        <author>
+            <name>Reuters,Bloomberg</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vicky White news - latest: 911 call reveals Alabama correction officer blamed Casey White for police chase]]></title>
         <id>b2076198</id>
         <link href="https://www.independent.co.uk/news/world/americas/crime/vicky-white-found-inmate-casey-alabama-latest-b2076198.html"/>
@@ -1327,6 +1537,26 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Ms White died of a self-inflicted gunshot wound, police say]]></summary>
         <author>
             <name>Graig Graziosi,Maroosha Muzaffar and Johanna Chisholm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Philippines election: ‘Bongbong’ Marcos claims victory, asks to be judged by his actions, not on his ancestors]]></title>
+        <id>https://www.scmp.com/news/asia/southeast-asia/article/3177438/philippines-election-bongbong-marcos-claims-victory-asks?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/asia/southeast-asia/article/3177438/philippines-election-bongbong-marcos-claims-victory-asks?utm_source=rss_feed"/>
+        <updated>2022-05-12T06:15:21.000Z</updated>
+        <summary type="html"><![CDATA[The only son and namesake of the late Philippines dictator Ferdinand Marcos asked critics to judge him by his actions and not his past as he moves on with considering names for his cabinet.]]></summary>
+        <author>
+            <name>Bloomberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraine war: Russia slaps sanctions on Gazprom units in Europe and US, part owner of pipeline]]></title>
+        <id>https://www.scmp.com/news/world/russia-central-asia/article/3177443/ukraine-war-russia-slaps-sanctions-gazprom-units?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/world/russia-central-asia/article/3177443/ukraine-war-russia-slaps-sanctions-gazprom-units?utm_source=rss_feed"/>
+        <updated>2022-05-12T06:14:42.000Z</updated>
+        <summary type="html"><![CDATA[Russia has imposed sanctions on more than 30 EU, US and Singaporean energy companies in a retaliatory move following Western penalties over Ukraine.]]></summary>
+        <author>
+            <name>Reuters</name>
         </author>
     </entry>
     <entry>
@@ -1390,6 +1620,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Didi asks shareholders to approve delisting in New York to satisfy Beijing before going public on another exchange]]></title>
+        <id>https://www.scmp.com/tech/big-tech/article/3177425/didi-asks-shareholders-approve-delisting-new-york-satisfy-beijing?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/tech/big-tech/article/3177425/didi-asks-shareholders-approve-delisting-new-york-satisfy-beijing?utm_source=rss_feed"/>
+        <updated>2022-05-12T06:00:25.000Z</updated>
+        <summary type="html"><![CDATA[The ride-hailing giant is urging shareholders to vote to delist from the New York Stock Exchange to help it wrap up its cybersecurity probe from Beijing and list on another exchange, possibly in Hong Kong.]]></summary>
+        <author>
+            <name>Coco Feng</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AP News Digest 3:30 am]]></title>
         <id>b2077242</id>
         <link href="https://www.independent.co.uk/news/world/europe/ap-north-korea-ukraine-xi-jinping-nato-b2077242.html"/>
@@ -1407,6 +1647,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Days of violent reprisals against government figures aligned to the powerful Rajapaksa clan followed. In total, 9 people were killed and more than 300 injured during the clashes, police said.]]></summary>
         <author>
             <name>NDTV News - World-news</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russian diplomats spurned in Europe’s capitals as anger boils over Ukraine war]]></title>
+        <id>https://www.scmp.com/news/world/europe/article/3177440/russian-diplomats-spurned-europes-capitals-anger-over-ukraine-war?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/world/europe/article/3177440/russian-diplomats-spurned-europes-capitals-anger-over-ukraine-war?utm_source=rss_feed"/>
+        <updated>2022-05-12T05:43:24.000Z</updated>
+        <summary type="html"><![CDATA[Across Europe’s capitals, Russian diplomats are getting the cold shoulder, ranging from diplomatic expulsions by governments, to protests by individual citizens, and service denials by companies.]]></summary>
+        <author>
+            <name>Reuters</name>
         </author>
     </entry>
     <entry>
@@ -1450,6 +1700,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Coronavirus: Hong Kong authorities detect new Covid cluster in Kennedy Town, estate placed under lockdown, testing ramped up]]></title>
+        <id>https://www.scmp.com/news/hong-kong/health-environment/article/3177436/coronavirus-signs-large-cluster-hong-kongs?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/hong-kong/health-environment/article/3177436/coronavirus-signs-large-cluster-hong-kongs?utm_source=rss_feed"/>
+        <updated>2022-05-12T05:24:34.000Z</updated>
+        <summary type="html"><![CDATA[Health officials reveal that five cases, involving four families, have recently been uncovered in West Terrace, one of five blocks in Sai Wan Estate.]]></summary>
+        <author>
+            <name>Elizabeth Cheung</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Chinese ambassador says Solomons pact no threat to Australia]]></title>
         <id>b2077162</id>
         <link href="https://www.independent.co.uk/news/world/americas/us-politics/australia-ap-scott-morrison-chinese-south-pacific-b2077162.html"/>
@@ -1480,6 +1740,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Coronavirus: Living with Covid-19 in Singapore sees record high rents, taxi driver shortage]]></title>
+        <id>https://www.scmp.com/news/asia/southeast-asia/article/3177429/coronavirus-living-covid-19-singapore-sees-record-high?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/asia/southeast-asia/article/3177429/coronavirus-living-covid-19-singapore-sees-record-high?utm_source=rss_feed"/>
+        <updated>2022-05-12T05:15:19.000Z</updated>
+        <summary type="html"><![CDATA[Rents for Singapore’s private apartments and Housing Development Board flats surged to record highs last month, while the city state’s taxi fleet shrank by almost a fifth the past two years.]]></summary>
+        <author>
+            <name>Bloomberg</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Will new Philippine president Marcos Jr. pivot toward China? Analysts are divided]]></title>
         <id>107058493</id>
         <link href="https://www.cnbc.com/2022/05/12/philippines-election-what-marcos-presidency-means-for-us-china-ties.html"/>
@@ -1500,6 +1770,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Eager swimmers hit Hong Kong’s pools despite stormy weather after facilities reopen with easing of Covid social-distancing rules]]></title>
+        <id>https://www.scmp.com/news/hong-kong/society/article/3177432/eager-swimmers-hit-hong-kongs-pools-despite-stormy-weather?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/hong-kong/society/article/3177432/eager-swimmers-hit-hong-kongs-pools-despite-stormy-weather?utm_source=rss_feed"/>
+        <updated>2022-05-12T05:05:30.000Z</updated>
+        <summary type="html"><![CDATA[Observatory issues amber rainstorm warning shortly after noon.]]></summary>
+        <author>
+            <name>Mia Castagnone</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Japan is set to open its doors in June, but some locals aren't happy about it]]></title>
         <id>107057071</id>
         <link href="https://www.cnbc.com/2022/05/11/is-japan-open-to-travelers-some-locals-not-ready-to-reopen-borders.html"/>
@@ -1517,6 +1797,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[From deep within the steel plant, a Ukrainian soldier facing death issues a plea to the world: "A lot of people gave up their lives. Don’t waste this sacrifice.”]]></summary>
         <author>
             <name>Anthony Faiola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China-US relations: Washington says it is still against Taiwan independence despite ‘fact sheet’ change]]></title>
+        <id>https://www.scmp.com/news/china/diplomacy/article/3177430/china-us-relations-washington-says-it-still-against-taiwan?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/china/diplomacy/article/3177430/china-us-relations-washington-says-it-still-against-taiwan?utm_source=rss_feed"/>
+        <updated>2022-05-12T04:59:20.000Z</updated>
+        <summary type="html"><![CDATA[Both State Department spokesman Ned Price and White House Indo-Pacific coordinator Kurt Campbell say the US position regarding Taiwan has not changed.]]></summary>
+        <author>
+            <name>Kyodo</name>
         </author>
     </entry>
     <entry>
@@ -1601,6 +1891,26 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Coronavirus: Shanghai posts falling Covid-19 infections, symptomatic cases and death toll as city takes another tentative step towards recovery]]></title>
+        <id>https://www.scmp.com/business/china-business/article/3177426/coronavirus-shanghai-posts-falling-covid-19-infections?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/business/china-business/article/3177426/coronavirus-shanghai-posts-falling-covid-19-infections?utm_source=rss_feed"/>
+        <updated>2022-05-12T04:29:29.000Z</updated>
+        <summary type="html"><![CDATA[The declining infections renews calls by residents and businesses for Shanghai’s authorities to relax some of the lockdown and standstill orders around the city.]]></summary>
+        <author>
+            <name>Daniel Ren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hong Kong factory worker dies after head crushed by packaging machine]]></title>
+        <id>https://www.scmp.com/news/hong-kong/law-and-crime/article/3177423/hong-kong-factory-worker-dies-after-head-crushed?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/hong-kong/law-and-crime/article/3177423/hong-kong-factory-worker-dies-after-head-crushed?utm_source=rss_feed"/>
+        <updated>2022-05-12T04:21:48.000Z</updated>
+        <summary type="html"><![CDATA[Police source says staff member was believed to have been inspecting equipment when a machine part lowered from height and trapped him.]]></summary>
+        <author>
+            <name>Clifford Lo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Elon Musk Gives Many Headlines In 40-Minute Interview]]></title>
         <id>2968162</id>
         <link href="https://www.ndtv.com/world-news/elon-musk-assures-tesla-worrywarts-he-isnt-going-anywhere-2968162"/>
@@ -1648,6 +1958,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Tokyo earlier this week announced it would phase out imports of Russian oil.]]></summary>
         <author>
             <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[France opens torture case against Interpol chief Ahmed Nasser al-Raisi]]></title>
+        <id>https://www.scmp.com/news/world/europe/article/3177420/france-opens-torture-case-against-interpol-chief-ahmed-nasser-al?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/world/europe/article/3177420/france-opens-torture-case-against-interpol-chief-ahmed-nasser-al?utm_source=rss_feed"/>
+        <updated>2022-05-12T04:07:55.000Z</updated>
+        <summary type="html"><![CDATA[Ahmed Nasser al-Raisi was appointed president of Interpol in November 2021 despite accusations from rights groups that he had failed to act on allegations of torture of detainees in the UAE.]]></summary>
+        <author>
+            <name>Agence France-Presse</name>
         </author>
     </entry>
     <entry>
@@ -1701,6 +2021,36 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Will Japan’s dim view of US Indo-Pacific strategy overshadow Biden’s Tokyo visit?]]></title>
+        <id>https://www.scmp.com/week-asia/economics/article/3177409/will-washingtons-indo-pacific-strategy-and-its-hesitancy-join?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/week-asia/economics/article/3177409/will-washingtons-indo-pacific-strategy-and-its-hesitancy-join?utm_source=rss_feed"/>
+        <updated>2022-05-12T04:00:35.000Z</updated>
+        <summary type="html"><![CDATA[The US sees the Indo-Pacific Economic Framework as a complementary economic pact, but Japan perceives it undermines the CPTPP, which Tokyo worked to develop after Washington withdrew from the forerunner of the deal, the TPP.]]></summary>
+        <author>
+            <name>Julian Ryall</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teacher in China spends life savings creating a school and education system to help more than 500 disabled students]]></title>
+        <id>https://www.scmp.com/news/people-culture/trending-china/article/3177396/teacher-china-spends-life-savings-creating?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/people-culture/trending-china/article/3177396/teacher-china-spends-life-savings-creating?utm_source=rss_feed"/>
+        <updated>2022-05-12T04:00:32.000Z</updated>
+        <summary type="html"><![CDATA[A schoolteacher who dedicated his retirement and life savings to building a school for the disabled 12 years ago has educated more than 500 students and helped 120 find employment.]]></summary>
+        <author>
+            <name>Liya Su</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A journey to the magnetic centre of the Earth – from space]]></title>
+        <id>https://www.scmp.com/news/china/science/article/3177368/journey-magnetic-centre-earth-space?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/china/science/article/3177368/journey-magnetic-centre-earth-space?utm_source=rss_feed"/>
+        <updated>2022-05-12T04:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Zhang Keke heads a team planning to send four satellites into orbit to understand how the planet’s core creates a magnetic field and how the field changes.]]></summary>
+        <author>
+            <name>Ling Xin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Surprise! Justin Timberlake is in 'Candy' with Jessica Biel]]></title>
         <id>b2077126</id>
         <link href="https://www.independent.co.uk/news/world/americas/jessica-biel-ap-justin-timberlake-elizabeth-olsen-new-york-b2077126.html"/>
@@ -1751,6 +2101,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[UK government’s harsh new plan to crack down on ‘guerilla’ protests]]></title>
+        <id>https://www.scmp.com/news/world/europe/article/3177412/uk-governments-harsh-new-plan-crack-down-guerilla-protests?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/world/europe/article/3177412/uk-governments-harsh-new-plan-crack-down-guerilla-protests?utm_source=rss_feed"/>
+        <updated>2022-05-12T03:25:38.000Z</updated>
+        <summary type="html"><![CDATA[Home Secretary Priti Patel says the government will crack down on ‘selfish’ protesters who use tactics such as attaching themselves to buildings and public transport infrastructure.]]></summary>
+        <author>
+            <name>Agencies</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Trump news - live: Emails show 2020 election fraud efforts as Flynn says army ‘persecuting’ him over Russia]]></title>
         <id>b2076944</id>
         <link href="https://www.independent.co.uk/news/world/americas/us-politics/trump-news-today-musk-twitter-nebraska-b2076944.html"/>
@@ -1778,6 +2138,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Team members were traumatised by racial profiling by Liberty County sheriff’s deputies]]></summary>
         <author>
             <name>Maroosha Muzaffar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sri Lanka President Gotabaya Rajapaksa promises new prime minister and cabinet to end political instability]]></title>
+        <id>https://www.scmp.com/news/asia/south-asia/article/3177411/sri-lanka-president-gotabaya-rajapaksa-promises-new-prime?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/asia/south-asia/article/3177411/sri-lanka-president-gotabaya-rajapaksa-promises-new-prime?utm_source=rss_feed"/>
+        <updated>2022-05-12T03:11:49.000Z</updated>
+        <summary type="html"><![CDATA[President Gotabaya Rajapaksa has defied calls to resign, pledging instead to form a new government after violent clashes this week left eight people dead in an escalation of a months-long crisis over food and fuel shortages.]]></summary>
+        <author>
+            <name>Bloomberg</name>
         </author>
     </entry>
     <entry>
@@ -1842,6 +2212,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Event FAQ: Discover your child's potential with international education in Singapore]]></title>
+        <id>https://www.scmp.com/events/news/hong-kong/topics/hong-kong-education/article/3177405/event-faq-discover-your-childs?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/events/news/hong-kong/topics/hong-kong-education/article/3177405/event-faq-discover-your-childs?utm_source=rss_feed"/>
+        <updated>2022-05-12T02:35:01.000Z</updated>
+        <summary type="html"><![CDATA[A selection of FAQ from the event SCMP Conversations: Education on international schools education in Singapore held on April 16, 2022]]></summary>
+        <author>
+            <name>News - South China Morning Post</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Idaho hospital sues Ammon Bundy and associate for defamation]]></title>
         <id>b2077110</id>
         <link href="https://www.independent.co.uk/news/world/americas/ap-ammon-bundy-boise-idaho-b2077110.html"/>
@@ -1849,6 +2229,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[An Idaho hospital that went on lockdown in March after far-right activists protested outside is suing Ammon Bundy, Diego Rodriguez and their various political organizations for defamation]]></summary>
         <author>
             <name>Via AP news wire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tibet Airlines plane in flames, passengers evacuated before take-off in southwestern China]]></title>
+        <id>https://www.scmp.com/news/china/article/3177404/tibet-airlines-plane-flames-passengers-evacuated-take-western-china?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/china/article/3177404/tibet-airlines-plane-flames-passengers-evacuated-take-western-china?utm_source=rss_feed"/>
+        <updated>2022-05-12T02:26:01.000Z</updated>
+        <summary type="html"><![CDATA[Flames and billowing smoke seen from fuselage as people run from the aircraft on Thursday morning.]]></summary>
+        <author>
+            <name>Jack Lau</name>
         </author>
     </entry>
     <entry>
@@ -1862,6 +2252,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[National security law: arrest of Hong Kong’s Cardinal Joseph Zen sparks concerns of wider net cast over religious institutions]]></title>
+        <id>https://www.scmp.com/news/hong-kong/politics/article/3177400/national-security-law-arrest-hong-kongs-cardinal-joseph-zen?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/hong-kong/politics/article/3177400/national-security-law-arrest-hong-kongs-cardinal-joseph-zen?utm_source=rss_feed"/>
+        <updated>2022-05-12T02:16:51.000Z</updated>
+        <summary type="html"><![CDATA[Analysts say move does little to promote social cohesion, but decision also appears to be political rather than related to religion.]]></summary>
+        <author>
+            <name>Mimi Lau</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[North Korea confirms its first COVID-19 case]]></title>
         <id>3f65e533-8560-4d90-88f0-d9f5d06de4c9</id>
         <link href="https://www.cbsnews.com/news/north-korea-covid-case-kim-jong-un/"/>
@@ -1869,6 +2269,26 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[North Korea had previously claimed a perfect record in keeping out COVID-19, a claim widely doubted by outside experts.]]></summary>
         <author>
             <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ageing Asia needs immigration reform to end care worker shortage]]></title>
+        <id>https://www.scmp.com/comment/opinion/article/3177277/ageing-asia-needs-immigration-reform-end-care-worker-shortage?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/comment/opinion/article/3177277/ageing-asia-needs-immigration-reform-end-care-worker-shortage?utm_source=rss_feed"/>
+        <updated>2022-05-12T01:45:16.000Z</updated>
+        <summary type="html"><![CDATA[Asian countries in need of long-term carers cannot meet the growing demand through domestic recruitment alone. Multi-year visas, emigration that benefits countries of origin and regional collaboration can all help ensure proper care.]]></summary>
+        <author>
+            <name>Helen Dempster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coronavirus: Kim-Jong-un orders national lockdown after North Korea reports first Covid-19 case]]></title>
+        <id>https://www.scmp.com/news/asia/east-asia/article/3177397/coronavirus-kim-jong-un-orders-all-cities-be-put-lockdown-after?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/asia/east-asia/article/3177397/coronavirus-kim-jong-un-orders-all-cities-be-put-lockdown-after?utm_source=rss_feed"/>
+        <updated>2022-05-12T01:38:33.000Z</updated>
+        <summary type="html"><![CDATA[Until Thursday, Kim Jong-un’s regime denied it had any Covid-19 cases, a claim doubted by experts globally. It has also refused vaccines from the outside world.]]></summary>
+        <author>
+            <name>Bloomberg,Associated Press</name>
         </author>
     </entry>
     <entry>
@@ -1890,6 +2310,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Retail investors have continued to buy the dip in the recent market turmoil, liking tech despite the sector rout, according to TD Ameritrade's AJ Kahling.]]></summary>
         <author>
             <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[That Mao kiss: will it be like the old times for China as Marcos Jnr takes helm in Manila?]]></title>
+        <id>https://www.scmp.com/news/china/diplomacy/article/3177369/mao-kiss-will-it-be-old-times-china-marcos-jnr-takes-helm?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/china/diplomacy/article/3177369/mao-kiss-will-it-be-old-times-china-marcos-jnr-takes-helm?utm_source=rss_feed"/>
+        <updated>2022-05-12T01:30:22.000Z</updated>
+        <summary type="html"><![CDATA[Amid claims of ‘Bongbong’ Marcos Jnr’s victory being a win for China, observer warns against overstating family ties.]]></summary>
+        <author>
+            <name>Shi Jiangtao</name>
         </author>
     </entry>
     <entry>
@@ -1941,6 +2371,26 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[The Ukraine men's national soccer team is scheduled to play in a World Cup qualifying playoff match in June.]]></summary>
         <author>
             <name>Rick Noack</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese brothers pull 86-year-old mother in farm cart for 36km to go home after surgery because of her violent motion sickness]]></title>
+        <id>https://www.scmp.com/news/people-culture/article/3177364/chinese-brothers-pull-86-year-old-mother-farm-cart-36km-go-home?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/people-culture/article/3177364/chinese-brothers-pull-86-year-old-mother-farm-cart-36km-go-home?utm_source=rss_feed"/>
+        <updated>2022-05-12T01:00:25.000Z</updated>
+        <summary type="html"><![CDATA[Two brothers in China transported their mother 36km by pulling her on a farm cart because the woman gets severe motion sickness when she rides in cars.]]></summary>
+        <author>
+            <name>Yingjie Wang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Korea confirms a COVID-19 case for 1st time during pandemic]]></title>
+        <id>1.6450111</id>
+        <link href="https://www.cbc.ca/news/world/north-korea-covid-infection-1.6450111?cmp=rss"/>
+        <updated>2022-05-12T00:56:38.000Z</updated>
+        <summary type="html"><![CDATA[North Korea announced its first coronavirus infection more than two years into the pandemic Thursday as leader Kim Jong-un called for raising COVID-19 preventive measures to maximum levels.]]></summary>
+        <author>
+            <name>The Associated Press</name>
         </author>
     </entry>
     <entry>
@@ -2005,6 +2455,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hong Kong defends local dollar in first currency intervention in 18 months, as capital flows out in pursuit of higher US yields]]></title>
+        <id>https://www.scmp.com/business/banking-finance/article/3177394/hong-kong-defends-local-dollar-first-currency-intervention?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/business/banking-finance/article/3177394/hong-kong-defends-local-dollar-first-currency-intervention?utm_source=rss_feed"/>
+        <updated>2022-05-12T00:11:47.000Z</updated>
+        <summary type="html"><![CDATA[The Hong Kong Monetary Authority stepped into the financial markets on Thursday for the first time in 18 months to support the local currency, as US interest rate rises has led to carry-trade activities and capital outflows that weakened the Hong Kong dollar to the bottom of its trading range against the US dollar.]]></summary>
+        <author>
+            <name>Enoch Yiu</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tom Hiddleston: Why we all need monsters and myths]]></title>
         <id>https://www.bbc.co.uk/news/entertainment-arts-61221888</id>
         <link href="https://www.bbc.co.uk/news/entertainment-arts-61221888?at_medium=RSS&amp;at_campaign=KARANGA"/>
@@ -2012,6 +2472,36 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[The Loki star on his thought-provoking role as a Victorian pastor in TV series The Essex Serpent.]]></summary>
         <author>
             <name>BBC News - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hongkongers with ties to US-backed group slammed by Beijing report could risk censure, analysts warn]]></title>
+        <id>https://www.scmp.com/news/hong-kong/politics/article/3177383/hongkongers-ties-us-backed-group-slammed-beijing-report?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/hong-kong/politics/article/3177383/hongkongers-ties-us-backed-group-slammed-beijing-report?utm_source=rss_feed"/>
+        <updated>2022-05-12T00:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Warning from analysts comes days after document issued by Chinese foreign ministry denounces National Endowment for Democracy for funding Hong Kong protests.]]></summary>
+        <author>
+            <name>Tony Cheung,Chris Lau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Philippines breaks out in jeers and tears as some Robredo fans ‘draw the line’ after Marcos win]]></title>
+        <id>https://www.scmp.com/week-asia/politics/article/3177348/philippines-breaks-out-jeers-and-tears-some-robredo-fans-draw?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/week-asia/politics/article/3177348/philippines-breaks-out-jeers-and-tears-some-robredo-fans-draw?utm_source=rss_feed"/>
+        <updated>2022-05-12T00:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Some supporters of Robredo are fed-up with being taunted by Marcos fans following his election victory and vowed to cut off financial support to their pro-Bongbong relatives and friends.]]></summary>
+        <author>
+            <name>Raissa Robles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraine’s Volodymyr Zelensky slams ‘collaborators’ urging Russia to annex Kherson]]></title>
+        <id>https://www.scmp.com/news/world/russia-central-asia/article/3177392/ukraines-volodymyr-zelensky-slams-collaborators?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/world/russia-central-asia/article/3177392/ukraines-volodymyr-zelensky-slams-collaborators?utm_source=rss_feed"/>
+        <updated>2022-05-11T23:48:23.000Z</updated>
+        <summary type="html"><![CDATA[The Kremlin says it is up to residents living in the occupied region to decide if they want to join Russia, but Zelensky warns against ‘pseudo-referendums’.]]></summary>
+        <author>
+            <name>Reuters</name>
         </author>
     </entry>
     <entry>
@@ -2105,6 +2595,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tentative settlement in deadly Florida condo collapse lawsuit totals nearly $1B US]]></title>
+        <id>1.6449934</id>
+        <link href="https://www.cbc.ca/news/world/surfside-condo-collapse-tenative-settlement-1.6449934?cmp=rss"/>
+        <updated>2022-05-11T23:04:25.000Z</updated>
+        <summary type="html"><![CDATA[A nearly $1-billion US tentative settlement has been reached in a class-action lawsuit brought by families of victims and survivors of last June's condominium collapse in Surfside, Fla., an attorney said Wednesday.]]></summary>
+        <author>
+            <name>Curt Anderson</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[WHO says omicron BA.4 and BA.5 subvariants have spread to over a dozen countries]]></title>
         <id>107059726</id>
         <link href="https://www.cnbc.com/2022/05/11/who-says-omicron-bapoint4-and-bapoint5-subvariants-have-spread-to-over-a-dozen-countries.html"/>
@@ -2142,6 +2642,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Authorities believe the brazen killing of Paraguayan prosecutor Marcelo Pecci at a resort in Colombia was related to his work investigating “international terrorism.”]]></summary>
         <author>
             <name>Samantha Schmidt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Housing crisis: Hongkongers need their piece of land to find peace of mind]]></title>
+        <id>https://www.scmp.com/comment/opinion/article/3177210/housing-crisis-hongkongers-need-their-piece-land-find-peace-mind?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/comment/opinion/article/3177210/housing-crisis-hongkongers-need-their-piece-land-find-peace-mind?utm_source=rss_feed"/>
+        <updated>2022-05-11T22:45:14.000Z</updated>
+        <summary type="html"><![CDATA[Unaffordable housing is leading to public frustration and resentment, especially among young people, potentially undermining social and political stability. Hong Kong must act to improve affordability and promote greater home ownership among those unable to get on the property ladder.]]></summary>
+        <author>
+            <name>Xiaogang Wu</name>
         </author>
     </entry>
     <entry>
@@ -2276,6 +2786,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Abortion rights bill fails in US Senate as Supreme Court ruling looms]]></title>
+        <id>https://www.scmp.com/news/world/united-states-canada/article/3177390/abortion-rights-bill-fails-us-senate-supreme-court?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/world/united-states-canada/article/3177390/abortion-rights-bill-fails-us-senate-supreme-court?utm_source=rss_feed"/>
+        <updated>2022-05-11T22:06:43.000Z</updated>
+        <summary type="html"><![CDATA[A push to codify Roe vs Wade into law was blocked by the Republicans and Democrat lawmaker Joe Manchin.]]></summary>
+        <author>
+            <name>Agence France-Presse</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Who will testify when Depp v Heard trial resumes?]]></title>
         <id>b2076989</id>
         <link href="https://www.independent.co.uk/news/world/americas/amber-heard-ellen-barkin-johnny-depp-b2076989.html"/>
@@ -2304,6 +2824,26 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Few Republican senators spoke in favor of ending abortion access, but they embraced the filibuster to block the bill from advancing.]]></summary>
         <author>
             <name>Lisa Mascaro / AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[South Korean President Yoon Suk-yeol starts on wrong foot as official panned for backing gay conversion therapy]]></title>
+        <id>https://www.scmp.com/news/asia/east-asia/article/3177371/south-korean-president-yoon-suk-yeol-starts-wrong-foot-official?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/asia/east-asia/article/3177371/south-korean-president-yoon-suk-yeol-starts-wrong-foot-official?utm_source=rss_feed"/>
+        <updated>2022-05-11T22:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Kim Seong-hoi, religion and multicultural secretary, in Yoon’s new government slammed for endorsing the unscientific procedure in a 2019 Facebook post.]]></summary>
+        <author>
+            <name>Agence France-Presse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coronavirus in China: students left in limbo as zero-Covid hits US placement exam]]></title>
+        <id>https://www.scmp.com/news/china/article/3177346/coronavirus-china-students-left-limbo-zero-covid-hits-us-placement-exam?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/china/article/3177346/coronavirus-china-students-left-limbo-zero-covid-hits-us-placement-exam?utm_source=rss_feed"/>
+        <updated>2022-05-11T22:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Exam authority College Board cites ‘scale and uncertainty of the situation in China’.]]></summary>
+        <author>
+            <name>Jane Cai</name>
         </author>
     </entry>
     <entry>
@@ -2438,6 +2978,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Joe Biden eyes new ways to bar China from scooping up US data]]></title>
+        <id>https://www.scmp.com/news/world/united-states-canada/article/3177389/joe-biden-eyes-new-ways-bar-china-scooping-us-data?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/world/united-states-canada/article/3177389/joe-biden-eyes-new-ways-bar-china-scooping-us-data?utm_source=rss_feed"/>
+        <updated>2022-05-11T21:19:37.000Z</updated>
+        <summary type="html"><![CDATA[A proposed executive order reflects an effort by the administration to respond more aggressively to national security threats allegedly posed by foreign firms.]]></summary>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[5 big ideas for the White House's Global COVID Summit]]></title>
         <id>https://www.npr.org/sections/goatsandsoda/2022/05/11/1098378802/5-big-ideas-for-the-white-houses-global-covid-summit</id>
         <link href="https://www.npr.org/sections/goatsandsoda/2022/05/11/1098378802/5-big-ideas-for-the-white-houses-global-covid-summit"/>
@@ -2551,6 +3101,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[In Washington for summit, Asean leaders to meet with top US government, business officials]]></title>
+        <id>https://www.scmp.com/news/china/article/3177388/washington-summit-asean-leaders-meet-top-us-government-business?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/china/article/3177388/washington-summit-asean-leaders-meet-top-us-government-business?utm_source=rss_feed"/>
+        <updated>2022-05-11T20:47:33.000Z</updated>
+        <summary type="html"><![CDATA[Along with President Joe Biden, the Southeast Asian leaders will have talks with Kamala Harris, Nancy Pelosi, Antony Blinken and American CEOs.]]></summary>
+        <author>
+            <name>Kinling Lo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[America’s Traffic Laws Give Police Way Too Much Power]]></title>
         <id>https://time.com/?p=6175852</id>
         <link href="https://time.com/6175852/pretextual-traffic-stops/"/>
@@ -2580,6 +3140,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Wallace says Russia’s top officers failed their troops on the ground]]></summary>
         <author>
             <name>Arpan Rai</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biggest white diamond ever auctioned fetches US$21.9 million]]></title>
+        <id>https://www.scmp.com/news/world/europe/article/3177387/biggest-white-diamond-ever-auctioned-fetches-us219-million?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/world/europe/article/3177387/biggest-white-diamond-ever-auctioned-fetches-us219-million?utm_source=rss_feed"/>
+        <updated>2022-05-11T20:36:43.000Z</updated>
+        <summary type="html"><![CDATA[The Rock, a 228.31-carat stone, failed to smash the US$33.7 million world record price for such a gem.]]></summary>
+        <author>
+            <name>Agence France-Presse</name>
         </author>
     </entry>
     <entry>
@@ -2710,6 +3280,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[For 12 long, terrifying days, Iryna Danylovich's family and friends had no idea where she was.]]></summary>
         <author>
             <name>CNN.com - RSS Channel - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jesse Williams' Broadway nude scene posted online, prompting outrage]]></title>
+        <id>1.6449589</id>
+        <link href="https://www.cbc.ca/news/entertainment/jesse-williams-nude-scene-1.6449589?cmp=rss"/>
+        <updated>2022-05-11T19:48:50.000Z</updated>
+        <summary type="html"><![CDATA[Video of a naked Jesse Williams, captured onstage in a shower scene from a Broadway play, has been posted online — prompting an outcry from the producers and the union that represents actors and stage managers.]]></summary>
+        <author>
+            <name>The Associated Press</name>
         </author>
     </entry>
     <entry>
@@ -2867,6 +3447,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vietnamese photographer Nick Ut gives Pope Francis famous Napalm Girl picture]]></title>
+        <id>https://www.scmp.com/news/asia/southeast-asia/article/3177386/vietnamese-photographer-nick-ut-gives-pope-francis-famous?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/asia/southeast-asia/article/3177386/vietnamese-photographer-nick-ut-gives-pope-francis-famous?utm_source=rss_feed"/>
+        <updated>2022-05-11T18:52:53.000Z</updated>
+        <summary type="html"><![CDATA[Nick Ut and Kim Phuc Phan Thi, the then nine-year-old girl whose terror was captured in the iconic Vietnam war image, met the pontiff ahead of the 50th anniversary of the photo]]></summary>
+        <author>
+            <name>Associated Press</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Newly revealed emails show how far Trump lawyer was willing to go to overturn 2020 election]]></title>
         <id>b2076823</id>
         <link href="https://www.independent.co.uk/news/world/americas/us-politics/trump-lawyer-emails-overturn-election-b2076823.html"/>
@@ -2917,6 +3507,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Study sheds light on dark history of U.S. Indigenous residential schools]]></title>
+        <id>1.6449330</id>
+        <link href="https://www.cbc.ca/news/world/us-indigenous-boarding-schools-study-department-interior-1.6449330?cmp=rss"/>
+        <updated>2022-05-11T18:12:06.000Z</updated>
+        <summary type="html"><![CDATA[A U.S. federal study of Native American boarding schools — that for over a century sought to assimilate Indigenous children into white society — has identified more than 500 student deaths at the institutions, but officials expect that figure to grow exponentially as research continues.]]></summary>
+        <author>
+            <name>The Associated Press</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Senator Marsha Blackburn says Justice Department should arrest pro-choice protesters]]></title>
         <id>b2076770</id>
         <link href="https://www.independent.co.uk/news/world/americas/us-politics/marsha-blackburn-abortion-protests-scotus-b2076770.html"/>
@@ -2954,6 +3554,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Christy Shelton’s family has always doubted the official ruling around her 2008 death]]></summary>
         <author>
             <name>Rachel Sharp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hong Kong team develops lightweight drone that can fly for longer – inspired by maple seeds]]></title>
+        <id>https://www.scmp.com/news/china/science/article/3177361/hong-kong-team-develops-lightweight-drone-can-fly-longer?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/china/science/article/3177361/hong-kong-team-develops-lightweight-drone-can-fly-longer?utm_source=rss_feed"/>
+        <updated>2022-05-11T18:00:24.000Z</updated>
+        <summary type="html"><![CDATA[The 35-gram (1-oz) bicopter can hover for 15 to 24 minutes and carry a small air-quality sensor or camera for mapping and surveillance, CityU researchers say.]]></summary>
+        <author>
+            <name>Holly Chik</name>
         </author>
     </entry>
     <entry>
@@ -3095,6 +3705,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Families of other alleged victims had previously tried to sue hospital for deaths]]></summary>
         <author>
             <name>Gino Spocchia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pilot down, passenger with ‘no idea how to fly’ takes over and lands US plane]]></title>
+        <id>https://www.scmp.com/news/world/united-states-canada/article/3177385/pilot-down-passenger-no-idea-how-fly-takes-over-and?utm_source=rss_feed</id>
+        <link href="https://www.scmp.com/news/world/united-states-canada/article/3177385/pilot-down-passenger-no-idea-how-fly-takes-over-and?utm_source=rss_feed"/>
+        <updated>2022-05-11T17:05:19.000Z</updated>
+        <summary type="html"><![CDATA[Responding to the passenger’s plea for help, air traffic controllers helped guide the tiny Cessna 208 to touch down safely at an airport in Florida.]]></summary>
+        <author>
+            <name>Associated Press</name>
         </author>
     </entry>
     <entry>
@@ -3375,6 +3995,26 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[U.S. inflation hit 8.3% last month but slows from 40-year high]]></title>
+        <id>1.6449026</id>
+        <link href="https://www.cbc.ca/news/business/us-inflation-slows-1.6449026?cmp=rss"/>
+        <updated>2022-05-11T14:05:29.000Z</updated>
+        <summary type="html"><![CDATA[Inflation slowed in April after seven months of relentless gains, a tentative sign that price increases may be peaking while still imposing a financial strain on American households.]]></summary>
+        <author>
+            <name>Christopher Rugaber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU to lift mask requirement for air travellers next week]]></title>
+        <id>1.6449027</id>
+        <link href="https://www.cbc.ca/news/world/european-union-mask-air-travel-1.6449027?cmp=rss"/>
+        <updated>2022-05-11T14:03:27.000Z</updated>
+        <summary type="html"><![CDATA[The European Union will no longer require masks to be worn at airports and on planes starting next week amid the easing of coronavirus restrictions across the bloc, authorities said Wednesday.]]></summary>
+        <author>
+            <name>The Associated Press</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[In eastern Ukraine's cities, brutal trench warfare awaits Russia's troops]]></title>
         <id>3d6dd517-b0ba-407f-a841-39991f644469</id>
         <link href="https://www.cbsnews.com/news/ukraine-news-russia-war-putin-setbacks-kharkiv-donbas-cities-trench-warfare/"/>
@@ -3496,6 +4136,16 @@ Read Full Article at RT.com]]></summary>
 The post The National Security Implications of New Rules of the Road for Cyber appeared first on The Cipher Brief.]]></summary>
         <author>
             <name>Suzanne Kelly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After 20 years, Apple is saying goodbye to the iPod]]></title>
+        <id>1.6448960</id>
+        <link href="https://www.cbc.ca/news/business/apple-ipod-discontinued-1.6448960?cmp=rss"/>
+        <updated>2022-05-11T12:06:36.000Z</updated>
+        <summary type="html"><![CDATA[It was once the face of portable music, but the iPod's time is up as Apple is discontinuing the device.]]></summary>
+        <author>
+            <name>Reuters</name>
         </author>
     </entry>
     <entry>
@@ -3764,6 +4414,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Al Jazeera reporter killed during Israeli raid in West Bank]]></title>
+        <id>1.6448903</id>
+        <link href="https://www.cbc.ca/news/world/al-jazeera-journalist-shot-israel-1.6448903?cmp=rss"/>
+        <updated>2022-05-11T05:57:43.000Z</updated>
+        <summary type="html"><![CDATA[A journalist for Al Jazeera was shot and killed while covering an Israeli raid in the occupied West Bank town of Jenin early Wednesday. The broadcaster blamed Israeli forces, while Israel initially said there was evidence she was hit by Palestinian gunfire, but later the military stepped back from that assertion.]]></summary>
+        <author>
+            <name>The Associated Press</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Russians 'pushed away from Kharkiv' as Washington warns of long war]]></title>
         <id>https://timesofindia.indiatimes.com/world/europe/russians-pushed-away-from-kharkiv-as-washington-warns-of-long-war/articleshow/91484474.cms</id>
         <link href="https://timesofindia.indiatimes.com/world/europe/russians-pushed-away-from-kharkiv-as-washington-warns-of-long-war/articleshow/91484474.cms"/>
@@ -3853,6 +4513,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[US News: SEATTLE: Microsoft co-founder Bill Gates said Tuesday he has tested positive for Covid-19 and is experiencing mild symptoms.]]></summary>
         <author>
             <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Authorities hope to reach survivors trapped in Canadian-owned mine in Burkina Faso]]></title>
+        <id>1.6448457</id>
+        <link href="https://www.cbc.ca/news/world/burkina-faso-trapped-miners-1.6448457?cmp=rss"/>
+        <updated>2022-05-11T01:41:08.000Z</updated>
+        <summary type="html"><![CDATA[The race to reach eight workers trapped in a flooded, Canadian-owned zinc mine in West Africa is making progress.]]></summary>
+        <author>
+            <name>Georgie Smyth</name>
         </author>
     </entry>
     <entry>
@@ -3969,6 +4639,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Haitian gang leader charged in 2021 kidnapping of 17 missionaries, including Canadian]]></title>
+        <id>1.6448555</id>
+        <link href="https://www.cbc.ca/news/world/haiti-missionaires-kidnapped-canadian-haitian-charged-1.6448555?cmp=rss"/>
+        <updated>2022-05-10T22:56:26.000Z</updated>
+        <summary type="html"><![CDATA[Federal prosecutors in the United States have charged the leader of a notoriously violent Haitian gang with conspiracy to commit hostage taking for his alleged role in the kidnapping of 16 Americans and one Canadian last year.]]></summary>
+        <author>
+            <name>The Associated Press</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Haitian gang leader charged in kidnapping of missionaries]]></title>
         <id>de243787-1819-4e59-abc8-81c425da02c4</id>
         <link href="https://www.cbsnews.com/news/joly-germine-400-mawozo-gang-haiti-charged-kidnapping-missionaries/"/>
@@ -4021,6 +4701,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fugitive Alabama inmate, jail official had multiple guns and were prepared for shootout: sheriff]]></title>
+        <id>1.6448200</id>
+        <link href="https://www.cbc.ca/news/world/alabama-fugitive-couple-1.6448200?cmp=rss"/>
+        <updated>2022-05-10T20:19:31.000Z</updated>
+        <summary type="html"><![CDATA[Investigators will examine whether prison official Vicky White's fatal gunshot wound was self-inflicted, as prisoner Casey White claimed, after the pair were finally tracked down after 11 days on the run.]]></summary>
+        <author>
+            <name>The Associated Press</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Elon Musk says he will allow Trump back on Twitter]]></title>
         <id>https://www.rt.com/news/555271-musk-allows-trump-return-twitter/</id>
         <link href="https://www.rt.com/news/555271-musk-allows-trump-return-twitter/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
@@ -4043,6 +4733,26 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[If Twitter sale goes through, Elon Musk says he will reverse its ban on Donald Trump]]></title>
+        <id>1.6448129</id>
+        <link href="https://www.cbc.ca/news/business/musk-trump-twitter-ban-reversal-1.6448129?cmp=rss"/>
+        <updated>2022-05-10T19:01:26.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk said he will reverse Twitter's permanent ban of former U.S. president Donald Trump if the Tesla CEO follows through with his plan to buy the social media company. To date, Trump has maintained he will not rejoin Twitter.]]></summary>
+        <author>
+            <name>The Associated Press</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. Senator: Canada's a freeloader on defence and it's getting tiring]]></title>
+        <id>1.6448053</id>
+        <link href="https://www.cbc.ca/news/world/us-senator-canada-freeloader-1.6448053?cmp=rss"/>
+        <updated>2022-05-10T18:48:09.000Z</updated>
+        <summary type="html"><![CDATA[A U.S. senator derided Canada as a freeloader on defence during a high-profile congressional hearing and he suggested he's getting fed up with it. As American politicians prepare to send billions more to Ukraine, this one says the U.S. is shouldering too much of the burden.]]></summary>
+        <author>
+            <name>Alexander Panetta</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[US intelligence estimates Russia’s plans for Ukraine]]></title>
         <id>https://www.rt.com/news/555267-avril-haines-putin-ukraine/</id>
         <link href="https://www.rt.com/news/555267-avril-haines-putin-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
@@ -4061,6 +4771,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Mexico has a protection program for journalists and human rights defenders, but it was not immediately known whether the women were enrolled.]]></summary>
         <author>
             <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mike Tyson not facing criminal charges for punching passenger on plane]]></title>
+        <id>1.6448131</id>
+        <link href="https://www.cbc.ca/sports/mike-tyson-investigation-plane-incident-no-charges-1.6448131?cmp=rss"/>
+        <updated>2022-05-10T18:33:49.000Z</updated>
+        <summary type="html"><![CDATA[Authorities will not file criminal charges against former heavyweight champ Mike Tyson after he was recorded on video punching a fellow first-class passenger aboard a plane at San Francisco International Airport last month, prosecutors announced Tuesday.]]></summary>
+        <author>
+            <name>The Associated Press</name>
         </author>
     </entry>
     <entry>
@@ -4102,6 +4822,19 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Chinese President Xi Jinping is suffering from "cerebral aneurysm" and had to be hospitalized at the end of 2021, media reports said.It is learnt that he preferred to be treated with traditional Chinese medicines rather than going for surgery, which softens the blood vessels and shrinks aneurysm.Of late, there have been speculations about Xi's health as he had avoided meeting the foreign leaders since the outbreak of Covid-19 till the Beijing Winter Olympics.]]></summary>
         <author>
             <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WHO offers rare criticism for China's steadfast and strict COVID-19 measures]]></title>
+        <id>1.6447833</id>
+        <link href="https://www.cbc.ca/news/world/china-covid-19-who-1.6447833?cmp=rss"/>
+        <updated>2022-05-10T16:20:25.000Z</updated>
+        <summary type="html"><![CDATA[<img src='https://i.cbc.ca/1.6447837.1652196952!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_460/health-coronavirus-china.JPG' alt='HEALTH-CORONAVIRUS/CHINA' width='460' title='A person rides a shared bicycle with a cart filled with food items for sale on Tuesday, near the Central Business District (CBD) in Beijing.
+
+' height='259' />                
+The head of the World Health Organization said on Tuesday China's zero-tolerance COVID-19 policy is not sustainable given what is known of the disease, in rare public comments by the United Nations agency on a government's handling of the virus.]]></summary>
+        <author>
+            <name>Reuters</name>
         </author>
     </entry>
     <entry>
@@ -4239,6 +4972,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[World could see 1.5 C of warming in next 5 years, WMO reports]]></title>
+        <id>1.6447631</id>
+        <link href="https://www.cbc.ca/news/science/world-1-5-degrees-warming-1.6447631?cmp=rss"/>
+        <updated>2022-05-10T13:24:19.000Z</updated>
+        <summary type="html"><![CDATA[The world faces a 50 per cent chance of warming 1.5 degrees C above pre-industrial levels, if only briefly, by 2026, the World Meteorological Organization says.]]></summary>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[New research shows how sunscreen kills marine life]]></title>
         <id>da81967b-b56c-44be-8517-1f97a7c3ee2c</id>
         <link href="https://www.cbsnews.com/news/sunscreen-marine-life-toxic-research/"/>
@@ -4246,6 +4989,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Up to 6,000 tons of sunscreen end up on coral reefs every year, according to the National Park Service – and it's taking a deadly toll on vital ecosystems.]]></summary>
         <author>
             <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stunning test images from James Webb Telescope released by NASA]]></title>
+        <id>1.6447622</id>
+        <link href="https://www.cbc.ca/news/science/james-webb-telescope-images-1.6447622?cmp=rss"/>
+        <updated>2022-05-10T13:00:32.000Z</updated>
+        <summary type="html"><![CDATA[The James Webb Space Telescope beamed back the latest test pictures of a neighbouring satellite galaxy, and the results are stunning when compared with images taken by NASA's previous infrared observatory. NASA provided an update on the telescope Monday.]]></summary>
+        <author>
+            <name>The Associated Press</name>
         </author>
     </entry>
     <entry>
@@ -4266,6 +5019,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Dairo Antonio Úsuga David, also known as Otoniel, is "the most dangerous drug trafficker in the world," Colombia's president said,]]></summary>
         <author>
             <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prince Charles delivers Queen's speech to open Parliament for the 1st time]]></title>
+        <id>1.6447583</id>
+        <link href="https://www.cbc.ca/news/world/prince-charles-queen-elizabeth-speech-uk-parliament-1.6447583?cmp=rss"/>
+        <updated>2022-05-10T11:38:49.000Z</updated>
+        <summary type="html"><![CDATA[With the Queen forced to withdraw on Monday due to a recurrence of mobility issues, Prince Charles arrived at the Palace of Westminster on Tuesday to read out the government's legislative agenda.]]></summary>
+        <author>
+            <name>Reuters</name>
         </author>
     </entry>
     <entry>
@@ -4308,6 +5071,16 @@ Read Full Article at RT.com]]></summary>
 Read Full Article at RT.com]]></summary>
         <author>
             <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[South Korea's new leader offers 'audacious plan' if North abandons nukes]]></title>
+        <id>1.6447541</id>
+        <link href="https://www.cbc.ca/news/world/koreas-new-president-1.6447541?cmp=rss"/>
+        <updated>2022-05-10T06:50:33.000Z</updated>
+        <summary type="html"><![CDATA[Yoon Suk Yeol, a conservative political neophyte, took office as South Korea's new president Tuesday with a vow to pursue a negotiated settlement of North Korea's threatening nuclear program and an offer of "an audacious plan" to improve Pyongyang's economy if it abandons its nuclear weapons.]]></summary>
+        <author>
+            <name>The Associated Press</name>
         </author>
     </entry>
     <entry>
