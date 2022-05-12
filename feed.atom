@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/newsrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-12T10:04:11.625Z</updated>
+    <updated>2022-05-12T10:06:17.077Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/newsrss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/newsrss/feed.atom"/>
@@ -44,6 +44,16 @@
         <summary type="html"><![CDATA[Mahinda Rajapaksa, son Namal and 15 allies barred from leaving island over violence against anti-government protesters.]]></summary>
         <author>
             <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Korea Fires "Ballistic Missile": Seoul's Military]]></title>
+        <id>2969149</id>
+        <link href="https://www.ndtv.com/world-news/north-korea-fires-ballistic-missile-seouls-military-2969149"/>
+        <updated>2022-05-12T09:59:34.000Z</updated>
+        <summary type="html"><![CDATA[North Korea has fired a ballistic missile, Seoul's military said Thursday, hours after Pyongyang announced the country's first-ever cases of Covid-19.]]></summary>
+        <author>
+            <name>NDTV News - World-news</name>
         </author>
     </entry>
     <entry>
@@ -144,6 +154,16 @@
         <summary type="html"><![CDATA[South Korea says North Korea has fired an unidentified missile toward the sea]]></summary>
         <author>
             <name>Associated Press</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Class 5 Student In US School Brings Weed Gummies, 2 In Hospital]]></title>
+        <id>2969092</id>
+        <link href="https://www.ndtv.com/world-news/two-class-5-students-of-us-school-in-hospital-after-eating-weed-gummies-report-2969092"/>
+        <updated>2022-05-12T09:44:18.000Z</updated>
+        <summary type="html"><![CDATA[This is the same school where a kindergarten student brought a bottle of pre-mixed margaritas and shared it with her classmates.]]></summary>
+        <author>
+            <name>NDTV News - World-news</name>
         </author>
     </entry>
     <entry>
@@ -268,6 +288,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ukraine news — live: Finland to apply to join Nato ‘without delay’]]></title>
+        <id>b2077115</id>
+        <link href="https://www.independent.co.uk/news/world/europe/russia-ukraine-war-putin-nuclear-weapons-gdp-b2077115.html"/>
+        <updated>2022-05-12T09:34:07.000Z</updated>
+        <summary type="html"><![CDATA[Finland’s president blames Putin for the country’s historic decision]]></summary>
+        <author>
+            <name>Arpan Rai,Tom Ambrose and Maryam Zakir-Hussain</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Biden calls to congratulate presumptive Philippine president]]></title>
         <id>https://abcnews.go.com/International/wireStory/biden-calls-congratulate-presumptive-philippine-president-84660978</id>
         <link href="https://abcnews.go.com/International/wireStory/biden-calls-congratulate-presumptive-philippine-president-84660978"/>
@@ -318,6 +348,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Madison Cawthorn mocked for wishing US would spend $40bn on veterans when VA budget is $301bn]]></title>
+        <id>b2077199</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/madison-cawthorn-ukraine-aid-veterans-b2077199.html"/>
+        <updated>2022-05-12T09:24:15.000Z</updated>
+        <summary type="html"><![CDATA[‘It would mean we cut the VA budget by about 300 billion’]]></summary>
+        <author>
+            <name>Maroosha Muzaffar</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Grandchild or $650,000: Indian parents take son to court]]></title>
         <id>https://www.aljazeera.com/?t=1652344182</id>
         <link href="https://www.aljazeera.com/news/2022/5/12/grandchild-or-650000-indian-parents-take-son-to-court"/>
@@ -325,6 +365,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Couple sue son demanding that he and his wife produce either a grandchild in a year or cough up money they spent on him.]]></summary>
         <author>
             <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vicky White news - latest: 911 call reveals Alabama correction officer blamed Casey White for police chase]]></title>
+        <id>b2077231</id>
+        <link href="https://www.independent.co.uk/news/world/americas/crime/alabama-vicky-white-casey-911-call-update-b2077231.html"/>
+        <updated>2022-05-12T09:18:39.000Z</updated>
+        <summary type="html"><![CDATA[Ms White died of a self-inflicted gunshot wound, police say]]></summary>
+        <author>
+            <name>Graig Graziosi,Maroosha Muzaffar and Johanna Chisholm</name>
         </author>
     </entry>
     <entry>
@@ -395,6 +445,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Somalia is set to hold its long-delayed presidential vote on Sunday, ending the convoluted electoral process that raised tensions in the country when the president’s term expired last year without a successor in place]]></summary>
         <author>
             <name>Omar Faruk | AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Somalia set to elect new president amid growing insecurity]]></title>
+        <id>b2077330</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/mohamed-abdullahi-mohamed-ap-somalia-mogadishu-islamic-b2077330.html"/>
+        <updated>2022-05-12T09:15:29.000Z</updated>
+        <summary type="html"><![CDATA[Somalia is set to hold its long-delayed presidential vote on Sunday, ending the convoluted electoral process that raised tensions in the country when the president’s term expired last year without a successor in place]]></summary>
+        <author>
+            <name>Via AP news wire</name>
         </author>
     </entry>
     <entry>
@@ -508,6 +568,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Trump news – live: Ex-president sells DC hotel as ‘ultra-Maga’ Kathy Barnette surges in Pennsylvania]]></title>
+        <id>b2077261</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/trump-news-today-twitter-dc-hotel-biden-latest-b2077261.html"/>
+        <updated>2022-05-12T08:59:14.000Z</updated>
+        <summary type="html"><![CDATA[Follow the latest updates]]></summary>
+        <author>
+            <name>Oliver O'Connell,Shweta Sharma,Andrew Naughtie and Sravasti Dasgupta</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Indian rupee hits new low, stocks tumble on inflation woes]]></title>
         <id>https://www.aljazeera.com/?t=1652344731</id>
         <link href="https://www.aljazeera.com/economy/2022/5/12/indian-rupee-hits-new-low-stocks-tumble-on-inflation-woes"/>
@@ -618,6 +688,26 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Japan's Nissan returns to profit despite chips shortages]]></title>
+        <id>b2077290</id>
+        <link href="https://www.independent.co.uk/news/world/europe/nissan-ap-carlos-ghosn-tokyo-japan-b2077290.html"/>
+        <updated>2022-05-12T08:35:09.000Z</updated>
+        <summary type="html"><![CDATA[Japanese automaker Nissan has returned to profitability for the first time in three fiscal years, despite challenges such as supply shortages caused by the pandemic and soaring costs]]></summary>
+        <author>
+            <name>Via AP news wire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Baby formula shortage leaves parents scrambling nationwide]]></title>
+        <id>b2077246</id>
+        <link href="https://www.independent.co.uk/news/world/americas/baby-formula-shortage-us-2022-b2077246.html"/>
+        <updated>2022-05-12T08:33:05.000Z</updated>
+        <summary type="html"><![CDATA[A combination of product recalls, rising prices and supply chain issues have particularly affected the availability of formula]]></summary>
+        <author>
+            <name>Jenna Portnoy and Kyle Swenson</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sri Lanka Court Bans Ex-PM Mahinda Rajapaksa, Allies From Leaving Country]]></title>
         <id>2968794</id>
         <link href="https://www.ndtv.com/world-news/sri-lanka-court-bans-ex-pm-mahinda-rajapaksa-allies-from-leaving-country-news-agency-afp-2968794"/>
@@ -708,6 +798,26 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Passenger with no flying experience lands plane at Florida airport after pilot becomes incapacitated]]></title>
+        <id>b2076523</id>
+        <link href="https://www.independent.co.uk/news/world/americas/passenger-lands-plane-florida-palm-beach-b2076523.html"/>
+        <updated>2022-05-12T08:25:14.000Z</updated>
+        <summary type="html"><![CDATA[‘This is the first time I’ve ever heard of one of these being landed by somebody that has no aeronautical experience,’ aviation expert says]]></summary>
+        <author>
+            <name>Gino Spocchia and Gustaf Kilander</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finland says it must apply for Nato membership ‘without delay’]]></title>
+        <id>b2077228</id>
+        <link href="https://www.independent.co.uk/news/world/europe/nato-finland-join-sauli-niinisto-b2077228.html"/>
+        <updated>2022-05-12T08:24:58.000Z</updated>
+        <summary type="html"><![CDATA[Sweden is also expected to decide to apply to join Nato in the coming days]]></summary>
+        <author>
+            <name>Thomas Kingsley</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Finland to apply for Nato membership 'without delay']]></title>
         <id>https://www.bbc.co.uk/news/world-europe-61420185</id>
         <link href="https://www.bbc.co.uk/news/world-europe-61420185?at_medium=RSS&amp;at_campaign=KARANGA"/>
@@ -735,6 +845,26 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[German and Finnish firms join the list of mostly Western firms that have halted business over conflict.]]></summary>
         <author>
             <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Hero’ air traffic controller speaks out after helping a passenger with no flying experience land plane]]></title>
+        <id>b2077267</id>
+        <link href="https://www.independent.co.uk/news/world/americas/air-traffic-controller-passenger-palm-beach-b2077267.html"/>
+        <updated>2022-05-12T08:19:13.000Z</updated>
+        <summary type="html"><![CDATA[Robert Morgan, an employee at Palm Beach International Airport, successfully guided a passenger through an emergency landing in Florida]]></summary>
+        <author>
+            <name>Nathan Place</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hero air traffic controller speaks out after helping passenger land plane: ‘I just knew I had to keep him calm’]]></title>
+        <id>b2076730</id>
+        <link href="https://www.independent.co.uk/news/world/americas/air-traffic-controller-passenger-plane-b2076730.html"/>
+        <updated>2022-05-12T08:18:10.000Z</updated>
+        <summary type="html"><![CDATA[Robert Morgan, an employee at Palm Beach International Airport, successfully guided a passenger through an emergency landing in Florida]]></summary>
+        <author>
+            <name>Nathan Place</name>
         </author>
     </entry>
     <entry>
@@ -768,6 +898,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Trump news - live: Biden mocks former president as ‘the great MAGA king’]]></title>
+        <id>b2077118</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/trump-news-today-twitter-jan-6-kathy-barnette-b2077118.html"/>
+        <updated>2022-05-12T08:10:27.000Z</updated>
+        <summary type="html"><![CDATA[Follow the latest updates]]></summary>
+        <author>
+            <name>Oliver O'Connell,Shweta Sharma,Andrew Naughtie and Sravasti Dasgupta</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[EU oil ban adds pressure on Russia but obstacles remain: Analysts]]></title>
         <id>https://www.aljazeera.com/?t=1652307986</id>
         <link href="https://www.aljazeera.com/news/2022/5/12/eus-proposed-oil-ban-steps-up-pressure-on-russia-analysts"/>
@@ -785,6 +925,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Finland has had a decades-long policy of military neutrality that would come to an end if it becomes a full member of the military alliance.]]></summary>
         <author>
             <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Protesters vent fury at French company for staying in Russia]]></title>
+        <id>b2077259</id>
+        <link href="https://www.independent.co.uk/news/world/europe/ap-vladimir-putin-poland-french-ukraine-b2077259.html"/>
+        <updated>2022-05-12T07:58:12.000Z</updated>
+        <summary type="html"><![CDATA[In the weeks after Russia invaded Ukraine, a protest movement was born in Poland urging people to boycott companies that have chosen to keep operating in Russia]]></summary>
+        <author>
+            <name>Via AP news wire</name>
         </author>
     </entry>
     <entry>
@@ -889,6 +1039,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vicky White news - latest: 911 call reveals Alabama correction officer blamed Casey White for police chase]]></title>
+        <id>b2077176</id>
+        <link href="https://www.independent.co.uk/news/world/americas/crime/alabama-vicky-white-casey-911-call-b2077176.html"/>
+        <updated>2022-05-12T07:23:20.000Z</updated>
+        <summary type="html"><![CDATA[Ms White died of a self-inflicted gunshot wound, police say]]></summary>
+        <author>
+            <name>Graig Graziosi,Maroosha Muzaffar and Johanna Chisholm</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[On Camera, Beach House In US Collapses Into Ocean As Sea Levels Rise]]></title>
         <id>2968579</id>
         <link href="https://www.ndtv.com/world-news/on-camera-beach-house-in-us-collapses-and-floats-in-water-as-sea-level-rises-2968579"/>
@@ -907,6 +1067,26 @@ Read Full Article at RT.com]]></summary>
 Read Full Article at RT.com]]></summary>
         <author>
             <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lufthansa apologises for refusing to let Orthodox Jewish passengers on flight]]></title>
+        <id>b2077129</id>
+        <link href="https://www.independent.co.uk/news/world/europe/lufthansa-flights-orthodox-jews-passengers-b2077129.html"/>
+        <updated>2022-05-12T07:04:42.000Z</updated>
+        <summary type="html"><![CDATA[Lufthansa allegedly cancelled boarding passes of over 100 people after some refused to wear masks]]></summary>
+        <author>
+            <name>Stuti Mishra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finland's leaders in favor of applying for NATO membership]]></title>
+        <id>b2077222</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/nato-ap-finland-helsinki-sauli-niinisto-b2077222.html"/>
+        <updated>2022-05-12T07:03:36.000Z</updated>
+        <summary type="html"><![CDATA[Finland’s president and prime minister say they’re in favor of applying for NATO membership]]></summary>
+        <author>
+            <name>Via AP news wire</name>
         </author>
     </entry>
     <entry>
@@ -970,6 +1150,36 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Capitol riot plea hearing for far-right livestreamer Baked Alaska falls apart as he claims innocence]]></title>
+        <id>b2077163</id>
+        <link href="https://www.independent.co.uk/news/world/americas/crime/jan-6-baked-alaska-hearing-b2077163.html"/>
+        <updated>2022-05-12T06:49:29.000Z</updated>
+        <summary type="html"><![CDATA[One of the most serious charges against Gionet stems from his livestream of entering the Capitol]]></summary>
+        <author>
+            <name>Shweta Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wheat Crops Almost Everywhere Are Coming Under Threat From Extreme Weather]]></title>
+        <id>https://time.com/?p=6175997</id>
+        <link href="https://time.com/6175997/wheat-food-weather-climate/"/>
+        <updated>2022-05-12T06:41:58.000Z</updated>
+        <summary type="html"><![CDATA[As Russia’s invasion chokes off Ukrainian wheat exports, the global harvest faces an added test: extreme weather]]></summary>
+        <author>
+            <name>Megan Durisin, Kim Chipman, Jen Skerritt and James Poole / Bloomberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wheat Crops Almost Everywhere Are Coming Under Threat From Extreme Weather]]></title>
+        <id>https://time.com/?p=6175997</id>
+        <link href="https://time.com/6175997/wheat-food-weather-climate/"/>
+        <updated>2022-05-12T06:41:58.000Z</updated>
+        <summary type="html"><![CDATA[As Russia’s invasion chokes off Ukrainian wheat exports, the global harvest faces an added test: extreme weather]]></summary>
+        <author>
+            <name>Megan Durisin, Kim Chipman, Jen Skerritt and James Poole / Bloomberg</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Biden hosts Southeast Asian leaders at the White House today. Here's what to expect]]></title>
         <id>107058631</id>
         <link href="https://www.cnbc.com/2022/05/12/biden-will-host-asean-summit-at-the-white-house-.html"/>
@@ -977,6 +1187,96 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[The summit will demonstrate "enduring commitment" to ASEAN and commemorate 45 years of relations with the Southeast Asian grouping, the White House says]]></summary>
         <author>
             <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Nato and why was it formed?]]></title>
+        <id>b2076325</id>
+        <link href="https://www.independent.co.uk/news/world/europe/nato-formed-when-why-russia-b2076325.html"/>
+        <updated>2022-05-12T06:32:58.000Z</updated>
+        <summary type="html"><![CDATA[Military alliance created in aftermath of Second World War in hope of bringing an end to bloody conflict between nations]]></summary>
+        <author>
+            <name>Joe Sommerlad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Nato and why was it formed?]]></title>
+        <id>b2077192</id>
+        <link href="https://www.independent.co.uk/news/world/europe/nato-formed-when-why-russia-b2077192.html"/>
+        <updated>2022-05-12T06:32:34.000Z</updated>
+        <summary type="html"><![CDATA[Military alliance created in aftermath of Second World War in hope of bringing an end to bloody conflict between nations]]></summary>
+        <author>
+            <name>Joe Sommerlad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How likely is it that Russia will launch a nuclear attack?]]></title>
+        <id>b2076280</id>
+        <link href="https://www.independent.co.uk/news/world/europe/putin-nuclear-weapons-russia-ukraine-b2076280.html"/>
+        <updated>2022-05-12T06:31:42.000Z</updated>
+        <summary type="html"><![CDATA[Vladimir Putin has placed the Kremlin’s strategic nuclear weapons forces on ‘high alert’, prompting fears over what could happen next]]></summary>
+        <author>
+            <name>Isobel Frodsham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How likely is it that Russia will launch a nuclear attack?]]></title>
+        <id>b2077191</id>
+        <link href="https://www.independent.co.uk/news/world/europe/putin-nuclear-weapons-russia-ukraine-b2077191.html"/>
+        <updated>2022-05-12T06:31:16.000Z</updated>
+        <summary type="html"><![CDATA[Vladimir Putin has placed the Kremlin’s strategic nuclear weapons forces on ‘high alert’, prompting fears over what could happen next]]></summary>
+        <author>
+            <name>Isobel Frodsham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists discover ‘Yellow Brick Road’ to ‘Atlantis’ in never-before explored depth of Pacific]]></title>
+        <id>b2076954</id>
+        <link href="https://www.independent.co.uk/news/world/americas/atlantis-yellow-brick-road-pacific-depth-b2076954.html"/>
+        <updated>2022-05-12T06:30:35.000Z</updated>
+        <summary type="html"><![CDATA[Bizarre find made by researchers north of Hawaiian Islands]]></summary>
+        <author>
+            <name>Graeme Massie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[War crimes: How are they defined, investigated and punished?]]></title>
+        <id>b2076335</id>
+        <link href="https://www.independent.co.uk/news/world/europe/russia-ukraine-crime-putin-war-b2076335.html"/>
+        <updated>2022-05-12T06:30:23.000Z</updated>
+        <summary type="html"><![CDATA[International Criminal Court’s chief prosecutor has already announced an investigation into Russia’s conduct in Ukraine as invasion continues and atrocities are alleged in Bucha]]></summary>
+        <author>
+            <name>Joe Sommerlad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists discover ‘Yellow Brick Road’ to ‘Atlantis’ in never-before explored depth of Pacific]]></title>
+        <id>b2077182</id>
+        <link href="https://www.independent.co.uk/news/world/americas/atlantis-yellow-brick-road-pacific-depth-b2077182.html"/>
+        <updated>2022-05-12T06:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Bizarre find made by researchers north of Hawaiian Islands]]></summary>
+        <author>
+            <name>Graeme Massie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[War crimes: How are they defined, investigated and punished?]]></title>
+        <id>b2077187</id>
+        <link href="https://www.independent.co.uk/news/world/europe/russia-ukraine-crime-putin-war-b2077187.html"/>
+        <updated>2022-05-12T06:29:58.000Z</updated>
+        <summary type="html"><![CDATA[International Criminal Court’s chief prosecutor has already announced an investigation into Russia’s conduct in Ukraine as invasion continues and atrocities are alleged in Bucha]]></summary>
+        <author>
+            <name>Joe Sommerlad</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why did Russia invade Ukraine? The conflict explained]]></title>
+        <id>b2076266</id>
+        <link href="https://www.independent.co.uk/news/world/europe/putin-russia-invade-ukraine-why-b2076266.html"/>
+        <updated>2022-05-12T06:28:34.000Z</updated>
+        <summary type="html"><![CDATA[Vladimir Putin’s military assault continues in face of near-unanimous international condemnation]]></summary>
+        <author>
+            <name>Thomas Kingsley and Joe Sommerlad</name>
         </author>
     </entry>
     <entry>
@@ -990,6 +1290,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Why did Russia invade Ukraine? The conflict explained]]></title>
+        <id>b2077181</id>
+        <link href="https://www.independent.co.uk/news/world/europe/putin-russia-invade-ukraine-why-b2077181.html"/>
+        <updated>2022-05-12T06:28:01.000Z</updated>
+        <summary type="html"><![CDATA[Vladimir Putin’s military assault continues in face of near-unanimous international condemnation]]></summary>
+        <author>
+            <name>Thomas Kingsley and Joe Sommerlad</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[International Nurses Day: Wishes, Messages, Facebook And WhatsApp Status]]></title>
         <id>2962739</id>
         <link href="https://www.ndtv.com/world-news/international-nurses-day-2022-images-quotes-wishes-messages-facebook-and-whatsapp-status-2962739"/>
@@ -997,6 +1307,36 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Every year, May 12 is celebrated as International Nurses Day. It's the birth anniversary of Florence Nightingale.]]></summary>
         <author>
             <name>NDTV News - World-news</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump sells DC hotel at centre of ethics violations claims to Miami investment group for $375m]]></title>
+        <id>b2077158</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/trump-hotel-dc-lease-miami-b2077158.html"/>
+        <updated>2022-05-12T06:19:48.000Z</updated>
+        <summary type="html"><![CDATA[The hotel is the former Old Post Office building and still formally owned by US government]]></summary>
+        <author>
+            <name>Sravasti Dasgupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vicky White news - latest: 911 call reveals Alabama correction officer blamed Casey White for police chase]]></title>
+        <id>b2076198</id>
+        <link href="https://www.independent.co.uk/news/world/americas/crime/vicky-white-found-inmate-casey-alabama-latest-b2076198.html"/>
+        <updated>2022-05-12T06:18:23.000Z</updated>
+        <summary type="html"><![CDATA[Ms White died of a self-inflicted gunshot wound, police say]]></summary>
+        <author>
+            <name>Graig Graziosi,Maroosha Muzaffar and Johanna Chisholm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[With the Pilot Down, a Passenger With ‘No Idea How to Fly’ Takes Over and Lands the Plane]]></title>
+        <id>https://time.com/?p=6175993</id>
+        <link href="https://time.com/6175993/passenger-lands-plane/"/>
+        <updated>2022-05-12T06:13:16.000Z</updated>
+        <summary type="html"><![CDATA[The passenger took over after the pilot fell ill and, with help from an air traffic controller, landed in Florida]]></summary>
+        <author>
+            <name>Associated Press</name>
         </author>
     </entry>
     <entry>
@@ -1030,6 +1370,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Live updates |  Ukraine reports more airstrikes on Azovstal]]></title>
+        <id>b2077173</id>
+        <link href="https://www.independent.co.uk/news/world/europe/ukraine-ap-zaporizhzhia-mariupol-gina-raimondo-b2077173.html"/>
+        <updated>2022-05-12T06:03:18.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine’s military says Russian forces are continuing airstrikes on the Azovstal steelworks in Mariupol and pressing their advance on towns in eastern Ukraine]]></summary>
+        <author>
+            <name>Via AP news wire</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Elizabeth line: London unveils its new Tube line, 10 stories underground]]></title>
         <id>https://www.washingtonpost.com/world/2022/05/12/elizabeth-line-tube-london/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world</id>
         <link href="https://www.washingtonpost.com/world/2022/05/12/elizabeth-line-tube-london/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world"/>
@@ -1040,6 +1390,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AP News Digest 3:30 am]]></title>
+        <id>b2077242</id>
+        <link href="https://www.independent.co.uk/news/world/europe/ap-north-korea-ukraine-xi-jinping-nato-b2077242.html"/>
+        <updated>2022-05-12T05:58:33.000Z</updated>
+        <summary type="html"><![CDATA[Here are the AP’s latest coverage plans, top stories and promotable content. All times EDT. For up-to-the minute information on AP’s coverage, visit Coverage Plan at https://newsroom.ap.org.]]></summary>
+        <author>
+            <name>Via AP news wire</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A Big Day For Sri Lanka After President Warns Of Anarchy]]></title>
         <id>2968369</id>
         <link href="https://www.ndtv.com/world-news/a-big-day-for-sri-lanka-after-president-warns-of-anarchy-2968369"/>
@@ -1047,6 +1407,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Days of violent reprisals against government figures aligned to the powerful Rajapaksa clan followed. In total, 9 people were killed and more than 300 injured during the clashes, police said.]]></summary>
         <author>
             <name>NDTV News - World-news</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden mocks Trump as ‘the great MAGA King’ as he blames him for leaving US economy ‘on the brink of a Great Depression’]]></title>
+        <id>b2077094</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/biden-trump-maga-king-economy-b2077094.html"/>
+        <updated>2022-05-12T05:40:15.000Z</updated>
+        <summary type="html"><![CDATA[‘Under my predecessor, the great MAGA king, the deficit increased every single year he was president’]]></summary>
+        <author>
+            <name>Nathan Place</name>
         </author>
     </entry>
     <entry>
@@ -1077,6 +1447,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Rescuers in Gujarat state are picking up dozens of exhausted birds daily as scorching heatwave dries out water sources.]]></summary>
         <author>
             <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese ambassador says Solomons pact no threat to Australia]]></title>
+        <id>b2077162</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/australia-ap-scott-morrison-chinese-south-pacific-b2077162.html"/>
+        <updated>2022-05-12T05:23:09.000Z</updated>
+        <summary type="html"><![CDATA[A Chinese ambassador says China’s engagement with South Pacific island countries poses no threat to Australia, responding to fears that Beijing will establish a military foothold in the Solomon Islands]]></summary>
+        <author>
+            <name>Via AP news wire</name>
         </author>
     </entry>
     <entry>
@@ -1251,6 +1631,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Biden hosts ASEAN as he looks to show Pacific commitment]]></title>
+        <id>b2077131</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/joe-biden-ap-asean-indonesia-united-states-b2077131.html"/>
+        <updated>2022-05-12T04:09:00.000Z</updated>
+        <summary type="html"><![CDATA[President Joe Biden is hosting leaders from the Association of Southeast Asian Nations as his administration continues an effort to demonstrate that the United States hasn’t lost focus on the Pacific]]></summary>
+        <author>
+            <name>Via AP news wire</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Japan PM Kishida pledges further cooperation with EU on Russia]]></title>
         <id>https://www.aljazeera.com/?t=1652324133</id>
         <link href="https://www.aljazeera.com/economy/2022/5/12/japan-pm-kishida-pledges-further-cooperation-with-eu-on-russia"/>
@@ -1258,6 +1648,26 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Tokyo earlier this week announced it would phase out imports of Russian oil.]]></summary>
         <author>
             <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Colorado elections race tests GOP embrace of conspiracies]]></title>
+        <id>b2077128</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/ap-anderson-gop-donald-trump-democrats-b2077128.html"/>
+        <updated>2022-05-12T04:07:04.000Z</updated>
+        <summary type="html"><![CDATA[Colorado's Republican primary for its top elections official may be a contest against the past and future approaches the party has to administering elections]]></summary>
+        <author>
+            <name>Via AP news wire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden co-hosting 2nd COVID summit as world's resolve falters]]></title>
+        <id>b2077127</id>
+        <link href="https://www.independent.co.uk/news/world/europe/joe-biden-ap-covid-washington-momentum-b2077127.html"/>
+        <updated>2022-05-12T04:05:05.000Z</updated>
+        <summary type="html"><![CDATA[President Joe Biden will appeal for a renewed international commitment to attacking COVID-19 as the second global COVID-19 summit opens]]></summary>
+        <author>
+            <name>Via AP news wire</name>
         </author>
     </entry>
     <entry>
@@ -1291,6 +1701,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Surprise! Justin Timberlake is in 'Candy' with Jessica Biel]]></title>
+        <id>b2077126</id>
+        <link href="https://www.independent.co.uk/news/world/americas/jessica-biel-ap-justin-timberlake-elizabeth-olsen-new-york-b2077126.html"/>
+        <updated>2022-05-12T04:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Viewers tuning in to Thursday’s episode of “Candy,” starring Jessica Biel, may recognize a familiar face: Biel’s husband Justin Timberlake]]></summary>
+        <author>
+            <name>Via AP news wire</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[US clashes with China and Russia over North Korea sanctions]]></title>
         <id>https://www.washingtonpost.com/world/us-clashes-with-china-and-russia-over-north-korea-sanctions/2022/05/11/7b9ac742-d1a7-11ec-886b-df76183d233f_story.html?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world</id>
         <link href="https://www.washingtonpost.com/world/us-clashes-with-china-and-russia-over-north-korea-sanctions/2022/05/11/7b9ac742-d1a7-11ec-886b-df76183d233f_story.html?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world"/>
@@ -1298,6 +1718,26 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[The United States has clashed with China and Russia over their strong opposition to the U.S. push for new U.N. sanctions on North Korea over its missile and nuclear programs]]></summary>
         <author>
             <name>Edith M. Lederer | AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Johnny Depp trial - live: Pirates actor will return to stand as Amber Heard’s sister and Ellen Barkin testify]]></title>
+        <id>b2077124</id>
+        <link href="https://www.independent.co.uk/news/world/americas/johnny-depp-amber-heard-trial-court-verdict-testimony-b2077124.html"/>
+        <updated>2022-05-12T03:49:35.000Z</updated>
+        <summary type="html"><![CDATA[Follow for the latest updates]]></summary>
+        <author>
+            <name>Oliver O'Connell,Megan Sheets ,Gino Spocchia and Peony Hirwani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Johnny Depp trial - live: Pirates actor will return to stand as Amber Heard’s sister and Ellen Barkin testify]]></title>
+        <id>b2076200</id>
+        <link href="https://www.independent.co.uk/news/world/americas/johnny-depp-amber-heard-trial-fairfax-ex-b2076200.html"/>
+        <updated>2022-05-12T03:45:57.000Z</updated>
+        <summary type="html"><![CDATA[Follow for the latest updates]]></summary>
+        <author>
+            <name>Oliver O'Connell,Megan Sheets ,Gino Spocchia and Peony Hirwani</name>
         </author>
     </entry>
     <entry>
@@ -1311,6 +1751,36 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Trump news - live: Emails show 2020 election fraud efforts as Flynn says army ‘persecuting’ him over Russia]]></title>
+        <id>b2076944</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/trump-news-today-musk-twitter-nebraska-b2076944.html"/>
+        <updated>2022-05-12T03:22:54.000Z</updated>
+        <summary type="html"><![CDATA[Follow the latest updates]]></summary>
+        <author>
+            <name>Oliver O'Connell,Shweta Sharma and Andrew Naughtie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden calls to congratulate presumptive Philippine president]]></title>
+        <id>b2077121</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/ap-joe-biden-leni-robredo-manila-washington-b2077121.html"/>
+        <updated>2022-05-12T03:21:07.000Z</updated>
+        <summary type="html"><![CDATA[President Joe Biden has called Ferdinand Marcos Jr. to congratulate him on his apparent landslide victory in the Philippine presidential election]]></summary>
+        <author>
+            <name>Via AP news wire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Girls’ lacrosse team from historically Black college ‘traumatised’ after Georgia deputies search their bags]]></title>
+        <id>b2076257</id>
+        <link href="https://www.independent.co.uk/news/world/americas/georgia-delaware-lacrosse-team-bus-search-b2076257.html"/>
+        <updated>2022-05-12T03:12:06.000Z</updated>
+        <summary type="html"><![CDATA[Team members were traumatised by racial profiling by Liberty County sheriff’s deputies]]></summary>
+        <author>
+            <name>Maroosha Muzaffar</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["You Come From Another Planet": Ukraine Commander Asks Elon Musk For Help]]></title>
         <id>2968047</id>
         <link href="https://www.ndtv.com/world-news/russia-ukraine-war-you-come-from-another-planet-ukraine-commander-asks-elon-musk-for-help-2968047"/>
@@ -1318,6 +1788,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Russia-Ukraine War: Serhiy Volyna, commander of the 36th Separate Marine Brigade, said he created a Twitter account for the sole purpose of reaching out to Musk, asking the world's richest man to...]]></summary>
         <author>
             <name>NDTV News - World-news</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraine-Russia news - live: UK to help Finland in event Putin launches attack]]></title>
+        <id>b2076387</id>
+        <link href="https://www.independent.co.uk/news/world/europe/russia-invade-ukraine-latest-putin-nuclear-weapons-b2076387.html"/>
+        <updated>2022-05-12T03:06:14.000Z</updated>
+        <summary type="html"><![CDATA[Boris Johnson visited Sweden and Finland, who are considering Nato membership, today]]></summary>
+        <author>
+            <name>Thomas Kingsley and Tom Ambrose</name>
         </author>
     </entry>
     <entry>
@@ -1329,6 +1809,16 @@ Read Full Article at RT.com]]></summary>
 Read Full Article at RT.com]]></summary>
         <author>
             <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Suspect in murders of newlyweds in Utah identified as McDonald’s worker]]></title>
+        <id>b2077105</id>
+        <link href="https://www.independent.co.uk/news/world/americas/crime/moab-utah-murders-suspect-dog-the-bounty-hunter-b2077105.html"/>
+        <updated>2022-05-12T02:57:29.000Z</updated>
+        <summary type="html"><![CDATA[Adam Pinkusiewicz, who took his own life in September, was identified by Grand County authorities as suspect]]></summary>
+        <author>
+            <name>Sheila Flynn</name>
         </author>
     </entry>
     <entry>
@@ -1349,6 +1839,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[A Tibet Airlines plane caught fire on Thursday at a Chinese airport after veering off the runway, but all passengers and crew were "safely evacuated", the airline said.]]></summary>
         <author>
             <name>NDTV News - World-news</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Idaho hospital sues Ammon Bundy and associate for defamation]]></title>
+        <id>b2077110</id>
+        <link href="https://www.independent.co.uk/news/world/americas/ap-ammon-bundy-boise-idaho-b2077110.html"/>
+        <updated>2022-05-12T02:33:34.000Z</updated>
+        <summary type="html"><![CDATA[An Idaho hospital that went on lockdown in March after far-right activists protested outside is suing Ammon Bundy, Diego Rodriguez and their various political organizations for defamation]]></summary>
+        <author>
+            <name>Via AP news wire</name>
         </author>
     </entry>
     <entry>
@@ -1475,6 +1975,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Biden calls Trump 'MAGA king,' vows to push GOP contrasts]]></title>
+        <id>b2077095</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/joe-biden-ap-donald-trump-democratic-national-committee-gop-b2077095.html"/>
+        <updated>2022-05-12T00:33:22.000Z</updated>
+        <summary type="html"><![CDATA[President Joe Biden is calling his predecessor, Donald Trump, “the great MAGA king” and continuing sharp criticism against Republicans ahead of midterm elections that could be bruising for Democrats]]></summary>
+        <author>
+            <name>Via AP news wire</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Britain strikes new security deals with Sweden & Finland]]></title>
         <id>https://timesofindia.indiatimes.com/world/europe/britain-strikes-new-security-deals-with-sweden-finland/articleshow/91504386.cms</id>
         <link href="https://timesofindia.indiatimes.com/world/europe/britain-strikes-new-security-deals-with-sweden-finland/articleshow/91504386.cms"/>
@@ -1505,6 +2015,26 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Woman charged with fatally shoving vocal coach was angry about being kicked out of park, prosecution says]]></title>
+        <id>b2077075</id>
+        <link href="https://www.independent.co.uk/news/world/americas/crime/lauren-pazienza-barbara-gustern-fatal-shove-b2077075.html"/>
+        <updated>2022-05-11T23:38:17.000Z</updated>
+        <summary type="html"><![CDATA[Lauren Pazienza faces up to 25 years in jail if convicted of manslaughter and assault]]></summary>
+        <author>
+            <name>Graeme Massie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senate confirms Black economist to Federal Reserve Board]]></title>
+        <id>b2077085</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/ap-joe-biden-senate-jerome-powell-federal-reserve-b2077085.html"/>
+        <updated>2022-05-11T23:35:49.000Z</updated>
+        <summary type="html"><![CDATA[The Senate has confirmed economist Phillip Jefferson to the Federal Reserve’s Board of Governors]]></summary>
+        <author>
+            <name>Via AP news wire</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Gambling worry as India firms bet big on online games]]></title>
         <id>https://www.bbc.co.uk/news/world-asia-india-61317075</id>
         <link href="https://www.bbc.co.uk/news/world-asia-india-61317075?at_medium=RSS&amp;at_campaign=KARANGA"/>
@@ -1512,6 +2042,26 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[The industry says online gaming involves skill but critics say it is gambling, which is illegal in India.]]></summary>
         <author>
             <name>BBC News - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Missouri election chief: Redistricting risks election errors]]></title>
+        <id>b2077080</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/ap-missouri-republican-senate-legislature-b2077080.html"/>
+        <updated>2022-05-11T23:22:56.000Z</updated>
+        <summary type="html"><![CDATA[Missouri's top election official is warning that it may be too late to pass new congressional districts for the August primary elections without causing confusion and errors]]></summary>
+        <author>
+            <name>Via AP news wire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump sells Washington hotel to Miami-based investor group]]></title>
+        <id>b2077081</id>
+        <link href="https://www.independent.co.uk/news/world/americas/donald-trump-ap-new-york-miami-washington-b2077081.html"/>
+        <updated>2022-05-11T23:20:45.000Z</updated>
+        <summary type="html"><![CDATA[The lease to the Washington hotel run by Donald Trump's family company while he was president has been sold to a Miami-based investor fund]]></summary>
+        <author>
+            <name>Via AP news wire</name>
         </author>
     </entry>
     <entry>
@@ -1645,6 +2195,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Michael Flynn says US Army is ‘persecuting’ him with fine for taking money from Russian government TV channel]]></title>
+        <id>b2076890</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/flynn-army-russia-today-money-b2076890.html"/>
+        <updated>2022-05-11T22:22:17.000Z</updated>
+        <summary type="html"><![CDATA[Retired Lt General was paid $38,557.06 by Russia Today to attend 2015 gala with Vladimir Putin]]></summary>
+        <author>
+            <name>Graeme Massie</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Intelligence-sharing with Ukraine designed to prevent wider war]]></title>
         <id>https://www.washingtonpost.com/national-security/2022/05/11/ukraine-us-intelligence-sharing-war/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world</id>
         <link href="https://www.washingtonpost.com/national-security/2022/05/11/ukraine-us-intelligence-sharing-war/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world"/>
@@ -1662,6 +2222,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[A 21-year-old Russian soldier is accused of following orders to shoot an unarmed cyclist four days into Russia’s invasion of Ukraine.]]></summary>
         <author>
             <name>Anushka Patil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-NFL star Brett Favre, WWE’s ‘Million Dollar Man’ sued over $20m in misspent Mississippi welfare funds]]></title>
+        <id>b2076914</id>
+        <link href="https://www.independent.co.uk/news/world/americas/brett-favre-sued-mississippi-welfare-funds-b2076914.html"/>
+        <updated>2022-05-11T22:15:05.000Z</updated>
+        <summary type="html"><![CDATA[State officials trying to recover money intended for the poorest citizens of one of the nation’s poorest states.]]></summary>
+        <author>
+            <name>Abe Asher</name>
         </author>
     </entry>
     <entry>
@@ -1686,6 +2256,36 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Senate Democrats fail to pass legislation to protect abortion rights as Roe hangs in the balance]]></title>
+        <id>b2076910</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/senate-abortion-vote-roe-wade-b2076910.html"/>
+        <updated>2022-05-11T22:08:47.000Z</updated>
+        <summary type="html"><![CDATA[Senator Joe Manchin’s opposition effectively killed the legislation’s chances.]]></summary>
+        <author>
+            <name>Eric Garcia and Andrew Feinberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Elon Musk to James Franco, who were potential witnesses at Johnny Depp vs Amber Heard defamation trial?]]></title>
+        <id>b2076279</id>
+        <link href="https://www.independent.co.uk/news/world/americas/amber-heard-elon-musk-james-franco-johnny-depp-b2076279.html"/>
+        <updated>2022-05-11T22:07:22.000Z</updated>
+        <summary type="html"><![CDATA[Trial began with jury selection on 11 April in Virginia]]></summary>
+        <author>
+            <name>Clémence Michallon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who will testify when Depp v Heard trial resumes?]]></title>
+        <id>b2076989</id>
+        <link href="https://www.independent.co.uk/news/world/americas/amber-heard-ellen-barkin-johnny-depp-b2076989.html"/>
+        <updated>2022-05-11T22:04:42.000Z</updated>
+        <summary type="html"><![CDATA[Trial will resume on 16 May after one-week hiatus]]></summary>
+        <author>
+            <name>Clémence Michallon</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[UN issues drought disaster warning]]></title>
         <id>https://www.rt.com/news/555334-un-droughts-climate-change/</id>
         <link href="https://www.rt.com/news/555334-un-droughts-climate-change/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
@@ -1694,6 +2294,36 @@ Read Full Article at RT.com]]></summary>
 Read Full Article at RT.com]]></summary>
         <author>
             <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Senate Fell Short in an Effort To Preserve Roe V. Wade Abortion Access]]></title>
+        <id>https://time.com/?p=6175921</id>
+        <link href="https://time.com/6175921/senate-filibuster-roe-wade-abortion/"/>
+        <updated>2022-05-11T22:01:19.000Z</updated>
+        <summary type="html"><![CDATA[Few Republican senators spoke in favor of ending abortion access, but they embraced the filibuster to block the bill from advancing.]]></summary>
+        <author>
+            <name>Lisa Mascaro / AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victims of collapsed Surfside condo reach $997m settlement over disaster]]></title>
+        <id>b2077018</id>
+        <link href="https://www.independent.co.uk/news/world/americas/florida-surfside-condo-victims-settlement-b2077018.html"/>
+        <updated>2022-05-11T22:00:17.000Z</updated>
+        <summary type="html"><![CDATA[The 12-storey residential building north of Miami partially collapsed on 24 June 2021]]></summary>
+        <author>
+            <name>Graeme Massie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What hearsay objections mean at the Depp v Heard trial]]></title>
+        <id>b2076876</id>
+        <link href="https://www.independent.co.uk/news/world/americas/johnny-depp-hearsay-amber-heard-trial-b2076876.html"/>
+        <updated>2022-05-11T21:57:03.000Z</updated>
+        <summary type="html"><![CDATA[Hearsay objections have been raised frequently during testimony]]></summary>
+        <author>
+            <name>Clémence Michallon</name>
         </author>
     </entry>
     <entry>
@@ -1728,6 +2358,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Marjorie Taylor Greene replies to decade-old Dr Oz tweet, telling him to ‘come back home’ from 2012 Switzerland trip]]></title>
+        <id>b2077008</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/marjorie-taylor-greene-dr-oz-switzerland-b2077008.html"/>
+        <updated>2022-05-11T21:34:56.000Z</updated>
+        <summary type="html"><![CDATA[‘What are you doing there?’ the congresswoman chastised, demanding that Dr Oz return from a trip he took 10 years ago]]></summary>
+        <author>
+            <name>Nathan Place</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sanctions forcing Russia to use appliance parts in military gear, U.S. says]]></title>
         <id>https://www.washingtonpost.com/technology/2022/05/11/russia-sanctions-effect-military/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world</id>
         <link href="https://www.washingtonpost.com/technology/2022/05/11/russia-sanctions-effect-military/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world"/>
@@ -1735,6 +2375,26 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[U.S.-led sanctions are depriving Russia of technology, forcing it to use computer chips meant for refrigerators and dishwashers in some military equipment, Commerce Secretary Gina Raimondo said.]]></summary>
         <author>
             <name>Jeanne Whalen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vicky White and inmate lover carried out dry run of Alabama prison break ahead of nationwide manhunt]]></title>
+        <id>b2077001</id>
+        <link href="https://www.independent.co.uk/news/world/americas/crime/vicky-white-casey-white-escape-plan-b2077001.html"/>
+        <updated>2022-05-11T21:32:28.000Z</updated>
+        <summary type="html"><![CDATA[New details continue to emerge about the couple’s escape plan and how the nationwide manhunt played out, resulting in Casey White’s capture and Vicky White’s death]]></summary>
+        <author>
+            <name>Rachel Sharp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Louisiana governor opposes ‘patently unconstitutional’ bill to classify abortion as homicide]]></title>
+        <id>b2076955</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/john-bel-edwards-abortion-murder-louisiana-b2076955.html"/>
+        <updated>2022-05-11T21:31:35.000Z</updated>
+        <summary type="html"><![CDATA[Anti-abortion legislators intend to amend bill’s language as state braces for Supreme Court decision]]></summary>
+        <author>
+            <name>Alex Woodward</name>
         </author>
     </entry>
     <entry>
@@ -1755,6 +2415,26 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[The stilts holding up the house gave way after being struck by high winds and strong tides.]]></summary>
         <author>
             <name>BBC News - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Don’t let them die’: Wives of last remaining Azovstal fighters plead with Pope Francis for help]]></title>
+        <id>b2076587</id>
+        <link href="https://www.independent.co.uk/news/world/europe/azovstal-mariupol-pope-francis-ukraine-b2076587.html"/>
+        <updated>2022-05-11T21:26:36.000Z</updated>
+        <summary type="html"><![CDATA[‘Don’t let them die,’ the women said pleading with the Pope for support]]></summary>
+        <author>
+            <name>Thomas Kingsley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Voting Won’t Save Abortion Rights]]></title>
+        <id>https://time.com/?p=6175881</id>
+        <link href="https://time.com/6175881/abortion-crisis-goes-beyond-voting/"/>
+        <updated>2022-05-11T21:22:02.000Z</updated>
+        <summary type="html"><![CDATA[In the wake of the Supreme Court’s leaked draft opinion declaring their decision to overrule Roe v. Wade and allow states to recriminalize abortion, Americans have turned to their pro-choice elected officials looking for a plan. While some local legislators have offered creative solutions to ensure abortion will remain available to as many people as…]]></summary>
+        <author>
+            <name>Renee Bracey Sherman</name>
         </author>
     </entry>
     <entry>
@@ -1811,6 +2491,36 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dramatic police footage shows moment Casey White is captured and Vicky White is pulled from car gun in hand]]></title>
+        <id>b2076553</id>
+        <link href="https://www.independent.co.uk/news/world/americas/crime/casey-white-police-video-vicky-white-b2076553.html"/>
+        <updated>2022-05-11T21:10:33.000Z</updated>
+        <summary type="html"><![CDATA[Coroner ruled Vicky White’s death a suicide and shocking audio revealed she was on the phone to a 911 dispatcher at the time of the crash]]></summary>
+        <author>
+            <name>Rachel Sharp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump wanted to court-martial former military officials he thought were disloyal, book claims]]></title>
+        <id>b2076993</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/trump-court-martial-military-officials-b2076993.html"/>
+        <updated>2022-05-11T21:07:34.000Z</updated>
+        <summary type="html"><![CDATA[Trump wanted generals punished for criticism of his leadership]]></summary>
+        <author>
+            <name>John Bowden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bolivia's Arce warns may not attend Summit of the Americas]]></title>
+        <id>b2077010</id>
+        <link href="https://www.independent.co.uk/news/world/europe/ap-bolivia-mexico-cuba-la-paz-b2077010.html"/>
+        <updated>2022-05-11T21:04:23.000Z</updated>
+        <summary type="html"><![CDATA[Bolivia’s President Luis Arce says he may not go to the Summit of the Americas if some countries are not invited]]></summary>
+        <author>
+            <name>Via AP news wire</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Russia-Ukraine war: What happened today (May 11)]]></title>
         <id>https://www.npr.org/2022/05/11/1098305702/russia-ukraine-war-what-happened-today-may-11</id>
         <link href="https://www.npr.org/2022/05/11/1098305702/russia-ukraine-war-what-happened-today-may-11"/>
@@ -1821,6 +2531,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mom charged with murder after allegedly abandoning newborns decades ago]]></title>
+        <id>b2076796</id>
+        <link href="https://www.independent.co.uk/news/world/americas/crime/minnesota-woman-charged-murder-children-b2076796.html"/>
+        <updated>2022-05-11T20:54:22.000Z</updated>
+        <summary type="html"><![CDATA[‘For over 20 years, the deaths of these innocent babies have haunted our community,’ sheriff says]]></summary>
+        <author>
+            <name>Gustaf Kilander</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Your Thursday Briefing: A Journalist Killed in the West Bank]]></title>
         <id>https://www.nytimes.com/2022/05/11/briefing/journalist-west-bank-al-jazeera.html</id>
         <link href="https://www.nytimes.com/2022/05/11/briefing/journalist-west-bank-al-jazeera.html"/>
@@ -1828,6 +2548,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Plus uncertainty about China’s wheat harvest and religious violence in India.]]></summary>
         <author>
             <name>Amelia Nierenberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[America’s Traffic Laws Give Police Way Too Much Power]]></title>
+        <id>https://time.com/?p=6175852</id>
+        <link href="https://time.com/6175852/pretextual-traffic-stops/"/>
+        <updated>2022-05-11T20:45:38.000Z</updated>
+        <summary type="html"><![CDATA[In my role as a Police Commissioner for San Francisco, I've introduced a new regulation to limit it]]></summary>
+        <author>
+            <name>Max Carter-Oberstone</name>
         </author>
     </entry>
     <entry>
@@ -1843,6 +2573,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Wrecked Russian fighter planes found with rudimentary GPS receivers ‘taped to dashboards’]]></title>
+        <id>b2076376</id>
+        <link href="https://www.independent.co.uk/news/world/europe/russian-fighter-jets-gps-dashboard-uk-b2076376.html"/>
+        <updated>2022-05-11T20:38:49.000Z</updated>
+        <summary type="html"><![CDATA[Wallace says Russia’s top officers failed their troops on the ground]]></summary>
+        <author>
+            <name>Arpan Rai</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A spying scandal and the fate of Western Sahara]]></title>
         <id>https://www.npr.org/2022/05/11/1098368201/a-spying-scandal-and-the-fate-of-western-sahara</id>
         <link href="https://www.npr.org/2022/05/11/1098368201/a-spying-scandal-and-the-fate-of-western-sahara"/>
@@ -1850,6 +2590,26 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Diplomatic relations between Spain and Morocco are tense after it was revealed that the phone of Spanish Prime Minister Pedro Sanchez had been hacked with the spyware Pegasus.]]></summary>
         <author>
             <name>Adrian Florido</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Federal report finds burial sites and details abuse among Native American children at government boarding schools]]></title>
+        <id>b2076815</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/native-american-boarding-school-report-b2076815.html"/>
+        <updated>2022-05-11T20:35:58.000Z</updated>
+        <summary type="html"><![CDATA[Interior Department’s stunning report identifies more than 50 burial sites and details forced assimilation agenda that lasted through 1960s]]></summary>
+        <author>
+            <name>Alex Woodward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alabama fugitives Vicky White and Casey White paid homeless man to check them into motel]]></title>
+        <id>b2076961</id>
+        <link href="https://www.independent.co.uk/news/world/americas/crime/casey-white-vicky-motel-homeless-b2076961.html"/>
+        <updated>2022-05-11T20:30:02.000Z</updated>
+        <summary type="html"><![CDATA[Law enforcement began surveillance on the motel after spotting the couple’s latest getaway car in the parking lot]]></summary>
+        <author>
+            <name>Rachel Sharp</name>
         </author>
     </entry>
     <entry>
@@ -1873,6 +2633,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Elon Musk, an erratic visionary, revels in contradiction]]></title>
+        <id>b2076984</id>
+        <link href="https://www.independent.co.uk/news/world/americas/elon-musk-ap-twitter-tesla-ceo-b2076984.html"/>
+        <updated>2022-05-11T20:25:14.000Z</updated>
+        <summary type="html"><![CDATA[Many people are puzzling what a Elon Musk takeover of Twitter would mean for the company and even whether he’ll go through with the deal]]></summary>
+        <author>
+            <name>Via AP news wire</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[10-year Treasury yield dips back below 3% after hotter-than-expected inflation data]]></title>
         <id>107059223</id>
         <link href="https://www.cnbc.com/2022/05/11/us-bonds-treasury-yields-fall-ahead-of-key-inflation-data.html"/>
@@ -1893,6 +2663,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Warnings issued over New Profile Pic app initially registered in Russia collecting large amounts of personal data]]></title>
+        <id>b2076589</id>
+        <link href="https://www.independent.co.uk/news/world/new-profile-pic-russia-personal-data-b2076589.html"/>
+        <updated>2022-05-11T19:57:05.000Z</updated>
+        <summary type="html"><![CDATA[‘Address on Moscow River is the address of lawyers who registered the company. We have never had an office there,’ Photo Lab spokesperson says]]></summary>
+        <author>
+            <name>Gustaf Kilander</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[McDonald's franchisees are worried the company's new grading system will alienate workers]]></title>
         <id>107059013</id>
         <link href="https://www.cnbc.com/2022/05/11/mcdonalds-franchisees-worry-new-grading-system-will-alienate-workers.html"/>
@@ -1900,6 +2680,26 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[McDonald's is rolling out a new grading system for its restaurants and tensions are boiling over for some owner-operators.]]></summary>
         <author>
             <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jim Fitton: Government urged to stop ‘nightmare’ of Briton facing death penalty in Iraq]]></title>
+        <id>b2076635</id>
+        <link href="https://www.independent.co.uk/news/uk/home-news/briton-death-penalty-iraq-government-b2076635.html"/>
+        <updated>2022-05-11T19:55:55.000Z</updated>
+        <summary type="html"><![CDATA[‘I am deeply concerned by the nature of the Foreign Office’s engagement with my constituent’s case,’ Wera Hobhouse says]]></summary>
+        <author>
+            <name>Zoe Tidman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arizona puts convicted murderer Clarence Dixon to death after Supreme Court denies stay]]></title>
+        <id>b2076933</id>
+        <link href="https://www.independent.co.uk/news/world/americas/crime/clarence-dixon-arizona-death-penalty-b2076933.html"/>
+        <updated>2022-05-11T19:51:08.000Z</updated>
+        <summary type="html"><![CDATA[It was the state’s first execution since 2014 killing of Joseph Wood]]></summary>
+        <author>
+            <name>Graeme Massie</name>
         </author>
     </entry>
     <entry>
@@ -1935,6 +2735,46 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Why So Many Young Adults with Depression Don’t Get Treatment]]></title>
+        <id>https://time.com/?p=6175288</id>
+        <link href="https://time.com/6175288/depression-untreated-young-adults/"/>
+        <updated>2022-05-11T19:35:08.000Z</updated>
+        <summary type="html"><![CDATA[One major barrier, they say, is cost]]></summary>
+        <author>
+            <name>Jeffrey Kluger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attempted murder, fatal stabbing and an ex’s mystery ‘suicide’: Casey White’s long history with the law before jail breakout with prison guard lover]]></title>
+        <id>b2076877</id>
+        <link href="https://www.independent.co.uk/news/world/americas/crime/casey-white-prison-crime-vicky-b2076877.html"/>
+        <updated>2022-05-11T19:30:50.000Z</updated>
+        <summary type="html"><![CDATA[The suspected murderer recaptured after 10 days on the run has been involved in a series of crimes and suspected offences, writes Rachel Sharp]]></summary>
+        <author>
+            <name>Rachel Sharp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump news - live: Emails show 2020 election fraud efforts as Flynn says army ‘persecuting’ him over Russia]]></title>
+        <id>b2076191</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/trump-news-today-west-virginia-mooney-musk-twitter-b2076191.html"/>
+        <updated>2022-05-11T19:28:55.000Z</updated>
+        <summary type="html"><![CDATA[Follow the latest updates]]></summary>
+        <author>
+            <name>Oliver O'Connell,Shweta Sharma and Andrew Naughtie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump ordered to pay $110k in fines as judge lifts contempt order against him over financial documents]]></title>
+        <id>b2076833</id>
+        <link href="https://www.independent.co.uk/news/world/americas/crime/donald-trump-fined-contempt-order-b2076833.html"/>
+        <updated>2022-05-11T19:20:59.000Z</updated>
+        <summary type="html"><![CDATA[Former president’s use of post-it notes prompts dispute between Trump lawyer and New York state attorney]]></summary>
+        <author>
+            <name>Gustaf Kilander</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Dallas Federal Reserve names Lorie Logan new president to succeed Robert Kaplan]]></title>
         <id>107059530</id>
         <link href="https://www.cnbc.com/2022/05/11/dallas-federal-reserve-names-lorrie-logan-new-president-to-succeed-robert-kaplan.html"/>
@@ -1962,6 +2802,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[A senior intelligence official says a cyber-war raging over Ukraine could escalate further.]]></summary>
         <author>
             <name>BBC News - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Is Making It Easier to Remove Personal Info From Search]]></title>
+        <id>https://time.com/?p=6173811</id>
+        <link href="https://time.com/6173811/remove-personal-information-google-search/"/>
+        <updated>2022-05-11T19:09:53.000Z</updated>
+        <summary type="html"><![CDATA[The company is rolling out a new tool to make it easier for users to scrub personal details from its search results]]></summary>
+        <author>
+            <name>Megan McCluskey</name>
         </author>
     </entry>
     <entry>
@@ -1997,6 +2847,36 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[‘Our Blue-Collar Tough Guy.’ John Fetterman Charts a New Path for Democrats]]></title>
+        <id>https://time.com/?p=6175747</id>
+        <link href="https://time.com/6175747/john-fetterman-pennsylvania-senate-primary/"/>
+        <updated>2022-05-11T18:55:23.000Z</updated>
+        <summary type="html"><![CDATA[John Fetterman walks into a brewery in Easton, Pa., with his arms outstretched like a wrestler. The state’s lieutenant governor—6 ft. 8 in., bald and goateed, wearing his trademark Carhartt sweatshirt and athletic shorts—doesn’t bother with his stump speech right away. Instead, he starts working the crowd. He asks if they’re Eagles fans or Steelers…]]></summary>
+        <author>
+            <name>Charlotte Alter/Easton, Pa.</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chilling 911 call captures Vicky White telling lover ‘let’s get out and run’ moments before shooting herself]]></title>
+        <id>b2076711</id>
+        <link href="https://www.independent.co.uk/news/world/americas/crime/vicky-white-casey-911-call-b2076711.html"/>
+        <updated>2022-05-11T18:54:59.000Z</updated>
+        <summary type="html"><![CDATA[Vicky White’s death was ruled a suicide on Tuesday with a coroner saying that her gunshot wound to the head was self-inflicted]]></summary>
+        <author>
+            <name>Rachel Sharp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Newly revealed emails show how far Trump lawyer was willing to go to overturn 2020 election]]></title>
+        <id>b2076823</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/trump-lawyer-emails-overturn-election-b2076823.html"/>
+        <updated>2022-05-11T18:51:59.000Z</updated>
+        <summary type="html"><![CDATA[John Eastman suggested that Pennsylvania throw out thousands of absentee ballots to show Donald Trump leading the state’s vote count.]]></summary>
+        <author>
+            <name>Abe Asher</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ukraine regains territory, and crime scene investigators move in]]></title>
         <id>https://www.washingtonpost.com/world/2022/05/11/ukraine-police-homicide-investigators-build-war-crimes-cases/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world</id>
         <link href="https://www.washingtonpost.com/world/2022/05/11/ukraine-police-homicide-investigators-build-war-crimes-cases/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world"/>
@@ -2004,6 +2884,96 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[In towns near Kharkiv, police dodge mines and booby traps to document Russian war crimes.]]></summary>
         <author>
             <name>Isabelle Khurshudyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Fiery’ Psaki ending tenure as a top White House messenger]]></title>
+        <id>b2076917</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/jen-psaki-ap-joe-biden-white-house-donald-trump-b2076917.html"/>
+        <updated>2022-05-11T18:38:22.000Z</updated>
+        <summary type="html"><![CDATA[Jen Psaki is leaving as White House press secretary on Friday after having answered reporters’ questions nearly every weekday of the almost 500 days that President Joe Biden has been in office]]></summary>
+        <author>
+            <name>Via AP news wire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why So Many Tech Stocks Are Falling]]></title>
+        <id>https://time.com/?p=6175464</id>
+        <link href="https://time.com/6175464/why-tech-stocks-are-down/"/>
+        <updated>2022-05-11T18:34:40.000Z</updated>
+        <summary type="html"><![CDATA[Technology companies thrived when the pandemic began more than two years ago. But now, as much of the population returns to work and spends less time at home, the tech sector is suffering deep losses as investors fear that companies boosted by the pandemic are running out of steam. The tech-heavy Nasdaq composite reported the…]]></summary>
+        <author>
+            <name>Nik Popli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watchdog investigating whether Texas misspent Covid aid on border crackdown, report says]]></title>
+        <id>b2076873</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/texas-investigation-covid-aid-border-b2076873.html"/>
+        <updated>2022-05-11T18:19:22.000Z</updated>
+        <summary type="html"><![CDATA[The Treasury Department announced on Tuesday that they were initiating a “review” into the state’s spending]]></summary>
+        <author>
+            <name>Johanna Chisholm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senator Marsha Blackburn says Justice Department should arrest pro-choice protesters]]></title>
+        <id>b2076770</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/marsha-blackburn-abortion-protests-scotus-b2076770.html"/>
+        <updated>2022-05-11T18:11:52.000Z</updated>
+        <summary type="html"><![CDATA[‘They should haul all of these people down to the police headquarters’]]></summary>
+        <author>
+            <name>Andrew Feinberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mother accused of killing three young children charged with murder]]></title>
+        <id>b2076804</id>
+        <link href="https://www.independent.co.uk/news/world/americas/crime/la-mother-charged-murder-children-b2076804.html"/>
+        <updated>2022-05-11T18:08:15.000Z</updated>
+        <summary type="html"><![CDATA[Cause of deaths in West Hills neighbourhood still under investigation]]></summary>
+        <author>
+            <name>Graeme Massie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everything we know about dead Alabama prison officer and murder suspect she disappeared with]]></title>
+        <id>b2076579</id>
+        <link href="https://www.independent.co.uk/news/world/americas/crime/what-casey-white-do-vicky-alabama-b2076579.html"/>
+        <updated>2022-05-11T18:04:45.000Z</updated>
+        <summary type="html"><![CDATA[Vicky White died from injuries hours after nationawide manhunt came to an end, Indiana coroner confirms]]></summary>
+        <author>
+            <name>Shweta Sharma,Rachel Sharp and Megan Sheets</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Casey White: Police reopen probe into mysterious shooting suicide of escaped Alabama inmate’s ex-girlfriend]]></title>
+        <id>b2076765</id>
+        <link href="https://www.independent.co.uk/news/world/americas/crime/casey-white-christy-shelton-death-b2076765.html"/>
+        <updated>2022-05-11T18:03:55.000Z</updated>
+        <summary type="html"><![CDATA[Christy Shelton’s family has always doubted the official ruling around her 2008 death]]></summary>
+        <author>
+            <name>Rachel Sharp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Democrats seek criminal charges against Trump Interior head]]></title>
+        <id>b2076887</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/david-bernhardt-ap-donald-trump-fish-and-wildlife-service-democrats-b2076887.html"/>
+        <updated>2022-05-11T17:58:08.000Z</updated>
+        <summary type="html"><![CDATA[Democrats on the House Natural Resources Committee have asked the Justice Department to investigate whether a Trump administration Interior secretary engaged in possible criminal conduct while helping an Arizona developer get a crucial permit for a housing project]]></summary>
+        <author>
+            <name>Via AP news wire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK could give military help to Sweden and Finland under new deal, Boris Johnson says]]></title>
+        <id>b2076515</id>
+        <link href="https://www.independent.co.uk/news/uk/politics/boris-johnson-sweden-finland-russia-b2076515.html"/>
+        <updated>2022-05-11T17:52:38.000Z</updated>
+        <summary type="html"><![CDATA[UK ready to respond with ‘whatever Sweden requests’ in case of attack by Russia, says PM]]></summary>
+        <author>
+            <name>Andrew Woodcock</name>
         </author>
     </entry>
     <entry>
@@ -2018,6 +2988,26 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Roman Catholic Cardinal Arrested by Hong Kong National Security Police]]></title>
+        <id>https://time.com/?p=6175754</id>
+        <link href="https://time.com/6175754/hong-kong-arrest-catholic-cardinal-national-security/"/>
+        <updated>2022-05-11T17:46:13.000Z</updated>
+        <summary type="html"><![CDATA[Cardinal Joseph Zen, the retired archbishop of Hong Kong, is a fierce critic of China and has been blistering in his condemnation of the Vatican’s 2018 agreement with Beijing]]></summary>
+        <author>
+            <name>Associated Press</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roman Catholic Cardinal Arrested by Hong Kong National Security Police]]></title>
+        <id>https://time.com/?p=6175754</id>
+        <link href="https://time.com/6175754/hong-kong-arrest-catholic-cardinal-national-security/"/>
+        <updated>2022-05-11T17:46:13.000Z</updated>
+        <summary type="html"><![CDATA[Cardinal Joseph Zen, the retired archbishop of Hong Kong, is a fierce critic of China and has been blistering in his condemnation of the Vatican’s 2018 agreement with Beijing]]></summary>
+        <author>
+            <name>Associated Press</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Quentin Sommerville: BBC on patrol with the soldiers pushing Russia back]]></title>
         <id>https://www.bbc.co.uk/news/world-europe-61415677</id>
         <link href="https://www.bbc.co.uk/news/world-europe-61415677?at_medium=RSS&amp;at_campaign=KARANGA"/>
@@ -2025,6 +3015,56 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[The BBC's Quentin Sommerville spends a week with Ukrainians liberating towns north of Kharkiv.]]></summary>
         <author>
             <name>BBC News - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘I am looking into hell’: Haunting messages from soldiers inside steel plant bombed by Putin’s forces]]></title>
+        <id>b2076839</id>
+        <link href="https://www.independent.co.uk/news/world/europe/ukraine-war-russia-mariupol-steel-plant-b2076839.html"/>
+        <updated>2022-05-11T17:34:59.000Z</updated>
+        <summary type="html"><![CDATA[Families of the men holding out inside Azovstal steel plant tell Kim Sengupta they want the world to help]]></summary>
+        <author>
+            <name>Kim Sengupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kentucky attorney general files for 2023 governor's race]]></title>
+        <id>b2076861</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/daniel-cameron-ap-kentucky-andy-beshear-democratic-b2076861.html"/>
+        <updated>2022-05-11T17:28:38.000Z</updated>
+        <summary type="html"><![CDATA[Republican Kentucky Attorney General Daniel Cameron has filed paperwork to enter the state's 2023 governor’s race]]></summary>
+        <author>
+            <name>Via AP news wire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minnesota GOP seeks candidate who can topple Democrat Walz]]></title>
+        <id>b2076862</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/ap-republicans-gop-tim-walz-democratic-b2076862.html"/>
+        <updated>2022-05-11T17:27:57.000Z</updated>
+        <summary type="html"><![CDATA[Endorsing a candidate who can topple Democratic Gov. Tim Walz will top the agenda when Minnesota Republicans gather in Rochester for their state convention Friday and Saturday]]></summary>
+        <author>
+            <name>Via AP news wire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraine says it will block Russian gas supply to Europe]]></title>
+        <id>b2076300</id>
+        <link href="https://www.independent.co.uk/news/world/europe/ukraine-russia-block-gas-supply-b2076300.html"/>
+        <updated>2022-05-11T17:25:02.000Z</updated>
+        <summary type="html"><![CDATA[Kyiv has blamed Russian ‘occupying forces’ for suspending the gas supply]]></summary>
+        <author>
+            <name>Thomas Kingsley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conservative groups go against Trump, Oz in Pa. Senate race]]></title>
+        <id>b2076856</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-ap-mehmet-oz-gop-harrisburg-b2076856.html"/>
+        <updated>2022-05-11T17:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Several prominent conservative groups are lining up behind Pennsylvania Republican Senate candidate Kathy Barnette as an alternative to Mehmet Oz, the celebrity heart surgeon endorsed by former President Donald Trump]]></summary>
+        <author>
+            <name>Via AP news wire</name>
         </author>
     </entry>
     <entry>
@@ -2038,6 +3078,46 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[‘I am looking into hell’: Haunting messages from soldiers inside steel plant bombed by Putin’s forces]]></title>
+        <id>b2076787</id>
+        <link href="https://www.independent.co.uk/news/world/europe/i-am-looking-into-hell-haunting-messages-from-ukrainian-soldiers-inside-b2076787.html"/>
+        <updated>2022-05-11T17:13:41.000Z</updated>
+        <summary type="html"><![CDATA[Families of the men holding out inside Azovstal steel plant tell Kim Sengupta they want the world to help]]></summary>
+        <author>
+            <name>Kim Sengupta</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former hospital worker charged with murder decades after death of patient]]></title>
+        <id>b2076758</id>
+        <link href="https://www.independent.co.uk/news/world/americas/crime/hospital-worker-charged-murder-patient-b2076758.html"/>
+        <updated>2022-05-11T17:05:26.000Z</updated>
+        <summary type="html"><![CDATA[Families of other alleged victims had previously tried to sue hospital for deaths]]></summary>
+        <author>
+            <name>Gino Spocchia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US inflation rate slowed to 0.3 per cent last month]]></title>
+        <id>b2076538</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/inflation-latest-consumer-price-b2076538.html"/>
+        <updated>2022-05-11T17:04:22.000Z</updated>
+        <summary type="html"><![CDATA[The .3 per cent increase is the smallest monthly rise in prices in the last six months — just a quarter of the 1.2 per cent increase recorded in March — and could indicate the rate of inflation is slowing after months of record increases]]></summary>
+        <author>
+            <name>Andrew Feinberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The ‘voice of Palestine’ gunned down: How Shireen Abu Akleh fell victim to the conflict she covered]]></title>
+        <id>b2076520</id>
+        <link href="https://www.independent.co.uk/news/world/middle-east/shireen-al-jazeera-journalist-israel-b2076520.html"/>
+        <updated>2022-05-11T17:01:22.000Z</updated>
+        <summary type="html"><![CDATA[Her death is already sending shockwaves across the Middle East and Israel]]></summary>
+        <author>
+            <name>Borzou Daragahi</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ukraine tries its first Russian soldier for alleged war crimes]]></title>
         <id>https://www.npr.org/2022/05/11/1098242940/ukraine-russia-war-crimes-trial</id>
         <link href="https://www.npr.org/2022/05/11/1098242940/ukraine-russia-war-crimes-trial"/>
@@ -2045,6 +3125,26 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Prosecutor General Iryna Venediktova says 21-year-old Vadim Shishimarin shot and killed an unarmed man while fleeing from Ukrainian defense forces. He's in custody and could face life in prison.]]></summary>
         <author>
             <name>Rachel Treisman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zelensky tweets thanks to Pelosi and US Congress for passing Ukraine aid package]]></title>
+        <id>b2076771</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/zelensky-tweet-congress-aid-ukraine-b2076771.html"/>
+        <updated>2022-05-11T16:57:03.000Z</updated>
+        <summary type="html"><![CDATA[The US House of Representatives passed its latest Ukraine aid package on Tuesday night.]]></summary>
+        <author>
+            <name>Abe Asher</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Johnny Depp to return to witness stand in Amber Heard trial]]></title>
+        <id>b2076704</id>
+        <link href="https://www.independent.co.uk/news/world/americas/johnny-depp-amber-heard-trial-b2076704.html"/>
+        <updated>2022-05-11T16:50:16.000Z</updated>
+        <summary type="html"><![CDATA[Actor already testifed as part of own case against ex-wife]]></summary>
+        <author>
+            <name>Oliver O'Connell</name>
         </author>
     </entry>
     <entry>
@@ -2060,6 +3160,36 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Polish diplomat hears Russia's protest to Warsaw incident]]></title>
+        <id>b2076813</id>
+        <link href="https://www.independent.co.uk/news/world/europe/russia-ap-polish-sergey-andreev-ukraine-b2076813.html"/>
+        <updated>2022-05-11T16:47:26.000Z</updated>
+        <summary type="html"><![CDATA[Poland’s ambassador in Moscow has been summoned to Russia’s Foreign Ministry two days after Russia’s ambassador to Poland was splattered with red paint thrown at him by protesters opposed to the war in Ukraine]]></summary>
+        <author>
+            <name>Via AP news wire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Senate OK ahead for House-passed $40B aid for Ukraine]]></title>
+        <id>b2076812</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/senate-ap-ukraine-john-thune-joe-biden-b2076812.html"/>
+        <updated>2022-05-11T16:46:39.000Z</updated>
+        <summary type="html"><![CDATA[Final congressional approval of a $40 billion Ukraine aid bill seems certain within days]]></summary>
+        <author>
+            <name>Via AP news wire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sen Joe Manchin will vote against Democrats’ abortion legislation but ‘would vote for Roe v Wade codification’]]></title>
+        <id>b2076757</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/joe-manchin-roe-v-wade-abortion-b2076757.html"/>
+        <updated>2022-05-11T16:44:05.000Z</updated>
+        <summary type="html"><![CDATA[Comes as Democrats plan a vote on the Women’s Health Protection Act]]></summary>
+        <author>
+            <name>Eric Garcia</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A fan-favorite band from Ukraine advances to the Eurovision grand final]]></title>
         <id>https://www.npr.org/2022/05/11/1098229013/eurovision-ukraine-kalush-orchestra-final</id>
         <link href="https://www.npr.org/2022/05/11/1098229013/eurovision-ukraine-kalush-orchestra-final"/>
@@ -2067,6 +3197,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Ukrainian folk-rap group Kalush Orchestra will compete in the final round of the competition on Saturday. Their song "Stefania" is about the singer's mom, but has taken on new meaning during the war.]]></summary>
         <author>
             <name>Rachel Treisman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Likely Senate contest in Kentucky pits ideological opposites]]></title>
+        <id>b2076802</id>
+        <link href="https://www.independent.co.uk/news/world/americas/us-politics/rand-paul-ap-charles-booker-kentucky-democrats-b2076802.html"/>
+        <updated>2022-05-11T16:37:16.000Z</updated>
+        <summary type="html"><![CDATA[U.S. Sen. Rand Paul rarely targets his likely Democratic challenger by name in Kentucky]]></summary>
+        <author>
+            <name>Via AP news wire</name>
         </author>
     </entry>
     <entry>
@@ -2193,6 +3333,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sri Lanka Deploys Troops in Capital After Violence, Protests]]></title>
+        <id>https://time.com/?p=6175658</id>
+        <link href="https://time.com/6175658/sri-lanka-army-protests/"/>
+        <updated>2022-05-11T15:02:20.000Z</updated>
+        <summary type="html"><![CDATA[A strict nationwide curfew has been in place since Monday, when pro-government mobs attacked peaceful protesters, triggering a wave of violence across the country.]]></summary>
+        <author>
+            <name>Krishan Francis / Associated Press</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[UK signs new 'pre-NATO' security deals]]></title>
         <id>https://www.rt.com/russia/555319-uk-sweden-finland-security/</id>
         <link href="https://www.rt.com/russia/555319-uk-sweden-finland-security/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
@@ -2243,6 +3393,16 @@ Read Full Article at RT.com]]></summary>
 Read Full Article at RT.com]]></summary>
         <author>
             <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Climate Change Will Make Droughts Longer, More Common, Says UN]]></title>
+        <id>https://time.com/?p=6175622</id>
+        <link href="https://time.com/6175622/climate-change-worse-droughts/"/>
+        <updated>2022-05-11T13:49:47.000Z</updated>
+        <summary type="html"><![CDATA[“We need to steer towards the solutions rather than continuing with destructive actions"]]></summary>
+        <author>
+            <name>WANJOHI KABUKURU / AP</name>
         </author>
     </entry>
     <entry>
@@ -2339,6 +3499,16 @@ The post The National Security Implications of New Rules of the Road for Cyber a
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Al Jazeera Reporter Killed During Israeli Raid in West Bank]]></title>
+        <id>https://time.com/?p=6175571</id>
+        <link href="https://time.com/6175571/journalist-killed-israeli-raid-west-bank/"/>
+        <updated>2022-05-11T12:02:50.000Z</updated>
+        <summary type="html"><![CDATA[JERUSALEM — A female journalist for Al Jazeera was shot and killed while covering an Israeli raid in the occupied West Bank town of Jenin early Wednesday. The broadcaster and a reporter who was wounded in the incident blamed Israeli forces, while Israel claimed there was evidence the two were hit by Palestinian gunfire. Shireen…]]></summary>
+        <author>
+            <name>JOSEPH KRAUSS and FARES AKRAM / Associated Press</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ukrainian army ‘westernized’ by US and allies to fight Russia – Pentagon]]></title>
         <id>https://www.rt.com/news/555298-us-training-arms-ukraine/</id>
         <link href="https://www.rt.com/news/555298-us-training-arms-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
@@ -2411,6 +3581,26 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Polar Paradox: The Melting Arctic Could Destroy Indigenous Ways of Life While Making Some Alaskans Rich]]></title>
+        <id>https://time.com/?p=6174947</id>
+        <link href="https://time.com/6174947/melting-arctic-indigenous-communities-alaska/"/>
+        <updated>2022-05-11T11:00:32.000Z</updated>
+        <summary type="html"><![CDATA[The Arctic is warming, and for Indigenous communities the consequences could be devastating.]]></summary>
+        <author>
+            <name>Aryn Baker/Nome, Alaska</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After Visiting Both Ends of the Earth, I Realized How Much Trouble We’re In]]></title>
+        <id>https://time.com/?p=6174966</id>
+        <link href="https://time.com/6174966/north-south-pole-melting-climate-change/"/>
+        <updated>2022-05-11T11:00:12.000Z</updated>
+        <summary type="html"><![CDATA[These remote places have more impact on our lives than almost anything closer to home.]]></summary>
+        <author>
+            <name>Aryn Baker</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Al Jazeera's Shireen Abu Akleh is killed while reporting on an Israeli raid]]></title>
         <id>https://www.npr.org/2022/05/11/1098157067/al-jazeera-shireen-abu-akleh-killed-israel</id>
         <link href="https://www.npr.org/2022/05/11/1098157067/al-jazeera-shireen-abu-akleh-killed-israel"/>
@@ -2428,6 +3618,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Sri Lanka has ordered troops to "shoot on sight" following violence that left several dead, as chaos unfolds on the streets of the crisis-hit nation.]]></summary>
         <author>
             <name>CNN.com - RSS Channel - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As the City’s COVID-19 Lockdown Tightens Again, Shanghai Residents Have Been Pushed to Breaking Point]]></title>
+        <id>https://time.com/?p=6175179</id>
+        <link href="https://time.com/6175179/shanghai-covid-lockdown-residents/"/>
+        <updated>2022-05-11T10:28:07.000Z</updated>
+        <summary type="html"><![CDATA[China doubles down on its unpopular zero-COVID approach, seeking to avoid a "tsunami" of cases if Omicron is allowed to spread]]></summary>
+        <author>
+            <name>Charlie Campbell</name>
         </author>
     </entry>
     <entry>
@@ -2875,6 +4075,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The World Should Be Worried About a Dictator’s Son’s Apparent Win in the Philippines]]></title>
+        <id>https://time.com/?p=6174739</id>
+        <link href="https://time.com/6174739/bongbong-marcos-election-philippines/"/>
+        <updated>2022-05-10T16:49:27.000Z</updated>
+        <summary type="html"><![CDATA[Authoritarians around the world have watched the Philippine election with interest and been given a powerful lesson]]></summary>
+        <author>
+            <name>Jonathan Corpus Ong</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["Toad poison" hangover treatment reportedly kills Russian oil executive]]></title>
         <id>a702d337-f4e6-4573-970a-c192a6ad27b9</id>
         <link href="https://www.cbsnews.com/news/toad-poison-hangover-treatment-reportedly-kills-russian-oil-executive/"/>
@@ -2892,6 +4102,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Chinese President Xi Jinping is suffering from "cerebral aneurysm" and had to be hospitalized at the end of 2021, media reports said.It is learnt that he preferred to be treated with traditional Chinese medicines rather than going for surgery, which softens the blood vessels and shrinks aneurysm.Of late, there have been speculations about Xi's health as he had avoided meeting the foreign leaders since the outbreak of Covid-19 till the Beijing Winter Olympics.]]></summary>
         <author>
             <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bongbong Marcos Looks Set to Be the Next Philippine President. A Short History of His Family’s Rise, Fall, and Rise Again]]></title>
+        <id>https://time.com/?p=6174469</id>
+        <link href="https://time.com/6174469/bongbong-marcos-philippines-election-family-history/"/>
+        <updated>2022-05-10T16:05:06.000Z</updated>
+        <summary type="html"><![CDATA[Ferdinand “Bongbong” Marcos Jr. looks set to win the Philippines presidential election, according to the Associated Press. A win would mark the return of the Marcos family to power, more than three decades after being forced to flee the country amid a popular uprising following brutal, dictatorial rule. The victory would also be the culmination…]]></summary>
+        <author>
+            <name>Olivia B. Waxman</name>
         </author>
     </entry>
     <entry>
