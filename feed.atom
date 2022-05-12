@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/newsrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-12T09:48:18.295Z</updated>
+    <updated>2022-05-12T09:50:14.744Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/newsrss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/newsrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[War and Famines  Warnings of Potential Outcomes of the War in Ukraine]]></title>
+        <id>https://www.globalissues.org/news/2022/05/12/30827</id>
+        <link href="https://www.globalissues.org/news/2022/05/12/30827"/>
+        <updated>2022-05-12T14:04:33.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="https://static.globalissues.org/ips/2022/05/Harvest-Triumph.jpg" width="640" alt="" /></p><p>STOCKHOLM, May 12 (IPS)  - An entirely unnecessary and all too tangible nightmare continues to scourge Ukraine. Without doubt, one catastrophe after another still awaits. Much of Ukraine’s harvest, of paramount importance to global food supply, is at risk of being lost due to Vladimir Putin’s and the Russian army’s belligerent actions. Last year, Ukraine harvested a record of 106 million tonnes of grain – 25, or even 50 percent of this amount is currently feared to be lost during this year while most experts add that “this is an optimistic forecast.”</p><p><a href="https://www.globalissues.org/news/2022/05/12/30827">Read the full story, “War and Famines  Warnings of Potential Outcomes of the War in Ukraine”, on globalissues.org</a> →</p>]]></summary>
+        <author>
+            <name>Global Issues News Headlines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Projections for a Pandemic Future: in Whose Interest?]]></title>
+        <id>https://www.globalissues.org/news/2022/05/12/30826</id>
+        <link href="https://www.globalissues.org/news/2022/05/12/30826"/>
+        <updated>2022-05-12T13:29:38.000Z</updated>
+        <summary type="html"><![CDATA[<p>ROME, May 12 (IPS)  - The writer is Director, Global Health Justice Program, Society for International Development (SID), and Co-chair Geneva Global Health Hub (G2H2). In what has been defined a historic consensus decision aimed at protecting the world from future infectious diseases crises, on 1st December 2021, the special session of the World Health Assembly agreed to kickstart a global process to draft and negotiate a convention, agreement or other international instrument to strengthen pandemic prevention, preparedness and response.</p><p><a href="https://www.globalissues.org/news/2022/05/12/30826">Read the full story, “Projections for a Pandemic Future: in Whose Interest?”, on globalissues.org</a> →</p>]]></summary>
+        <author>
+            <name>Global Issues News Headlines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden to order federal flags to fly at half-staff as the U.S. Covid toll nears one million.]]></title>
+        <id>https://www.nytimes.com/2022/05/12/world/biden-to-order-federal-flags-to-fly-at-half-staff-as-the-us-covid-toll-nears-one-million.html</id>
+        <link href="https://www.nytimes.com/2022/05/12/world/biden-to-order-federal-flags-to-fly-at-half-staff-as-the-us-covid-toll-nears-one-million.html"/>
+        <updated>2022-05-12T09:34:55.000Z</updated>
+        <summary type="html"><![CDATA[“We must remain vigilant against this pandemic and do everything we can to save as many lives as possible, as we have with more testing, vaccines, and treatments than ever before,” the president said.]]></summary>
+        <author>
+            <name>Sheryl Gay Stolberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some truths about Shireen Abu Akleh’s murder]]></title>
+        <id>https://www.aljazeera.com/?t=1652333540</id>
+        <link href="https://www.aljazeera.com/opinions/2022/5/12/some-truths-about-shireen-abu-aklehs-murder"/>
+        <updated>2022-05-12T09:30:41.000Z</updated>
+        <summary type="html"><![CDATA[She was not 'killed'. She was murdered.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Barbaric war on Ukraine’: EU’s von der Leyen denounces Russia]]></title>
+        <id>https://www.aljazeera.com/?t=1652342614</id>
+        <link href="https://www.aljazeera.com/news/2022/5/12/russia-most-direct-threat-to-world-order-eus-von-der-leyen"/>
+        <updated>2022-05-12T09:26:53.000Z</updated>
+        <summary type="html"><![CDATA[European Commission president calls Russia the 'most direct threat' to international order during annual meeting.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grandchild or $650,000: Indian parents take son to court]]></title>
+        <id>https://www.aljazeera.com/?t=1652344182</id>
+        <link href="https://www.aljazeera.com/news/2022/5/12/grandchild-or-650000-indian-parents-take-son-to-court"/>
+        <updated>2022-05-12T09:19:23.000Z</updated>
+        <summary type="html"><![CDATA[Couple sue son demanding that he and his wife produce either a grandchild in a year or cough up money they spent on him.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hong Kong cardinal Joseph Zen arrested under China's security law]]></title>
         <id>https://www.bbc.co.uk/news/world-asia-61413335</id>
@@ -24,6 +84,16 @@
         <summary type="html"><![CDATA[It's the highest total in the world - but the WHO thinks the true death toll may be higher elsewhere.]]></summary>
         <author>
             <name>BBC News - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How we remember them: My grandmother’s shirt]]></title>
+        <id>https://www.aljazeera.com/?t=1648732577</id>
+        <link href="https://www.aljazeera.com/features/2022/5/12/how-we-remember-them-my-grandmothers-shirt"/>
+        <updated>2022-05-12T09:01:39.000Z</updated>
+        <summary type="html"><![CDATA['In my closet, I have a shirt that once belonged to my grandmother... When I’m an old woman, I should like to wear it.']]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
         </author>
     </entry>
     <entry>
@@ -67,6 +137,56 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Indian rupee hits new low, stocks tumble on inflation woes]]></title>
+        <id>https://www.aljazeera.com/?t=1652344731</id>
+        <link href="https://www.aljazeera.com/economy/2022/5/12/indian-rupee-hits-new-low-stocks-tumble-on-inflation-woes"/>
+        <updated>2022-05-12T08:57:12.000Z</updated>
+        <summary type="html"><![CDATA[The rupee hit a new low for the second time this week while the stock exchange tumbled to its lowest in two months.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[South Korea drafts $46bn budget to help COVID-hit businesses]]></title>
+        <id>https://www.aljazeera.com/?t=1652342073</id>
+        <link href="https://www.aljazeera.com/economy/2022/5/12/south-korea-drafts-46bn-budget-to-help-covid-hit-businesses"/>
+        <updated>2022-05-12T08:48:25.000Z</updated>
+        <summary type="html"><![CDATA[President Yoon Suk-yeol's administration will pay more than $20bn to small businesses and the self-employed.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia-Ukraine war: List of key events, day 78]]></title>
+        <id>https://www.aljazeera.com/?t=1652338170</id>
+        <link href="https://www.aljazeera.com/news/2022/5/12/russia-ukraine-war-list-of-key-events-day-78"/>
+        <updated>2022-05-12T08:45:07.000Z</updated>
+        <summary type="html"><![CDATA[As the Russia-Ukraine war enters its 78th day, we take a look at the main developments.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nuclear talks: Iran’s Raisi launches major economic reform]]></title>
+        <id>https://www.aljazeera.com/?t=1652339833</id>
+        <link href="https://www.aljazeera.com/news/2022/5/12/nuclear-talks-irans-raisi-engages-in-major-economic-reform"/>
+        <updated>2022-05-12T08:41:27.000Z</updated>
+        <summary type="html"><![CDATA[President announced reforms a day before the EU's coordinator for nuclear deal negotiations arrived in Tehran.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Many Sri Lankans flee Colombo as leaders meet to discuss crisis]]></title>
+        <id>https://www.aljazeera.com/?t=1652338946</id>
+        <link href="https://www.aljazeera.com/news/2022/5/12/many-sri-lankans-flee-colombo-as-leaders-meet-to-discuss-crisis"/>
+        <updated>2022-05-12T08:32:33.000Z</updated>
+        <summary type="html"><![CDATA[Hundreds of people thronged main bus station in the commercial capital after authorities lifted an indefinite curfew.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Finland to apply for Nato membership 'without delay']]></title>
         <id>https://www.bbc.co.uk/news/world-europe-61420185</id>
         <link href="https://www.bbc.co.uk/news/world-europe-61420185?at_medium=RSS&amp;at_campaign=KARANGA"/>
@@ -87,6 +207,66 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Siemens, Finnish utility Fortum quit Russia over Ukraine war]]></title>
+        <id>https://www.aljazeera.com/?t=1652340643</id>
+        <link href="https://www.aljazeera.com/economy/2022/5/12/siemens-finnish-utility-fortum-quit-russia-over-ukraine-war"/>
+        <updated>2022-05-12T08:19:20.000Z</updated>
+        <summary type="html"><![CDATA[German and Finnish firms join the list of mostly Western firms that have halted business over conflict.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finland must apply to join NATO ‘without delay’: Finnish leaders]]></title>
+        <id>https://www.aljazeera.com/?t=1652340269</id>
+        <link href="https://www.aljazeera.com/news/2022/5/12/finland-must-apply-to-join-nato-without-delay-finnish-leaders"/>
+        <updated>2022-05-12T08:11:10.000Z</updated>
+        <summary type="html"><![CDATA[Finnish leaders announce a significant policy shift triggered by Russia's full-scale invasion of Ukraine.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU oil ban adds pressure on Russia but obstacles remain: Analysts]]></title>
+        <id>https://www.aljazeera.com/?t=1652307986</id>
+        <link href="https://www.aljazeera.com/news/2022/5/12/eus-proposed-oil-ban-steps-up-pressure-on-russia-analysts"/>
+        <updated>2022-05-12T08:06:19.000Z</updated>
+        <summary type="html"><![CDATA[For a complete embargo to be successful, the bloc has yet to convince countries which rely more heavily on Moscow.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraine goes on the counteroffensive as Russians fall back]]></title>
+        <id>https://www.aljazeera.com/?t=1652288668</id>
+        <link href="https://www.aljazeera.com/news/2022/5/12/ukraine-goes-on-the-counteroffensive-as-russians-falls-back"/>
+        <updated>2022-05-12T07:53:39.000Z</updated>
+        <summary type="html"><![CDATA[Ukrainian forces have pushed the enemy within 10km of the Russian border and continue to thwart Russian attacks.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraine to hold first war crimes trial of Russian soldier]]></title>
+        <id>https://www.aljazeera.com/?t=1652337353</id>
+        <link href="https://www.aljazeera.com/news/2022/5/12/ukraine-to-hold-first-war-crimes-trial-of-russian-soldier"/>
+        <updated>2022-05-12T07:46:29.000Z</updated>
+        <summary type="html"><![CDATA[Prosecutors say 21-year-old Vadim Shyshimarin is accused of killing an unarmed 62-year-old civilian.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palestinians mourn Abu Akleh at state service in Ramallah]]></title>
+        <id>https://www.aljazeera.com/?t=1652338101</id>
+        <link href="https://www.aljazeera.com/news/2022/5/12/funeral-service-shireen-abu-akleh-set-start-ramallah"/>
+        <updated>2022-05-12T07:25:09.000Z</updated>
+        <summary type="html"><![CDATA[State service for the slain Al Jazeera journalist took place at the presidential compound in Ramallah.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[U.K. Donor Said to Have Funneled Russian Money to Tories]]></title>
         <id>https://www.nytimes.com/2022/05/12/world/europe/russian-money-uk-tories.html</id>
         <link href="https://www.nytimes.com/2022/05/12/world/europe/russian-money-uk-tories.html"/>
@@ -97,6 +277,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sri Lanka: How can the crisis be resolved?]]></title>
+        <id>https://www.aljazeera.com/?t=1652306283</id>
+        <link href="https://www.aljazeera.com/program/the-stream/2022/5/12/sri-lanka-how-can-the-crisis-be-resolved"/>
+        <updated>2022-05-12T07:00:03.000Z</updated>
+        <summary type="html"><![CDATA[We also look at the suffering of Syrian children and how the Taliban is further clamping down on womens' freedoms.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As crisis worsens, Sri Lankan businesses want Rajapaksa to go]]></title>
+        <id>https://www.aljazeera.com/?t=1652335104</id>
+        <link href="https://www.aljazeera.com/economy/2022/5/12/as-crisis-worsens-sri-lankas-businesses-want-rajapaksa-to-go"/>
+        <updated>2022-05-12T06:59:19.000Z</updated>
+        <summary type="html"><![CDATA[Several business groups in Sri Lanka have asked the president to appoint a new government and resign immediately.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Shireen Abu Aqla: UN chief appalled at Al Jazeera reporter's killing]]></title>
         <id>https://www.bbc.co.uk/news/world-middle-east-61419699</id>
         <link href="https://www.bbc.co.uk/news/world-middle-east-61419699?at_medium=RSS&amp;at_campaign=KARANGA"/>
@@ -104,6 +304,46 @@
         <summary type="html"><![CDATA[Shireen Abu Aqla was shot dead while covering a raid by Israeli forces in the occupied West Bank.]]></summary>
         <author>
             <name>BBC News - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China passenger jet catches fire, dozens ‘lightly injured’]]></title>
+        <id>https://www.aljazeera.com/?t=1652332721</id>
+        <link href="https://www.aljazeera.com/news/2022/5/12/china-passenger-jet-catches-fire-dozens-lightly-injured"/>
+        <updated>2022-05-12T06:03:35.000Z</updated>
+        <summary type="html"><![CDATA[Tibet Airlines says all 113 passengers and 9 crew on board the plane that caught fire were safely evacuated.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Timeline: Week 11 of Russia’s war in Ukraine]]></title>
+        <id>https://www.aljazeera.com/?t=1652290040</id>
+        <link href="https://www.aljazeera.com/news/2022/5/12/timeline-week-11-of-russias-war-in-ukraine"/>
+        <updated>2022-05-12T05:39:44.000Z</updated>
+        <summary type="html"><![CDATA[Al Jazeera recaps key events during week 11 of Russia’s invasion of Ukraine.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dehydrated birds falling from sky in India amid record heatwave]]></title>
+        <id>https://www.aljazeera.com/?t=1652328315</id>
+        <link href="https://www.aljazeera.com/news/2022/5/12/dehydrated-birds-falling-from-sky-in-india-amid-record-heatwave"/>
+        <updated>2022-05-12T05:25:02.000Z</updated>
+        <summary type="html"><![CDATA[Rescuers in Gujarat state are picking up dozens of exhausted birds daily as scorching heatwave dries out water sources.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Philippines’s GDP growth blasts past forecasts]]></title>
+        <id>https://www.aljazeera.com/?t=1652330542</id>
+        <link href="https://www.aljazeera.com/economy/2022/5/12/philippines-gdp-growth-blasts-past-forecasts"/>
+        <updated>2022-05-12T05:10:15.000Z</updated>
+        <summary type="html"><![CDATA[Southeast Asian country's gross domestic product expands 8.3 percent in first quarter.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
         </author>
     </entry>
     <entry>
@@ -127,6 +367,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Biden, Xi congratulate Marcos Jr on Philippine presidential win]]></title>
+        <id>https://www.aljazeera.com/?t=1652321237</id>
+        <link href="https://www.aljazeera.com/news/2022/5/12/us-china-congratulate-marcos-jr-on-philippine-presidential-win"/>
+        <updated>2022-05-12T04:31:54.000Z</updated>
+        <summary type="html"><![CDATA[Ferdinand Marcos Jr declares victory in Philippine presidential election, pledges to be a leader 'for all Filipinos'.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japan PM Kishida pledges further cooperation with EU on Russia]]></title>
+        <id>https://www.aljazeera.com/?t=1652324133</id>
+        <link href="https://www.aljazeera.com/economy/2022/5/12/japan-pm-kishida-pledges-further-cooperation-with-eu-on-russia"/>
+        <updated>2022-05-12T04:08:53.000Z</updated>
+        <summary type="html"><![CDATA[Tokyo earlier this week announced it would phase out imports of Russian oil.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Has the Milky Way’s Black Hole Come to Light?]]></title>
         <id>https://www.nytimes.com/2022/05/12/science/black-hole-photo.html</id>
         <link href="https://www.nytimes.com/2022/05/12/science/black-hole-photo.html"/>
@@ -144,6 +404,16 @@
         <summary type="html"><![CDATA[President Gotabaya Rajapaksa again ignored calls to resign amid protests over an economic crisis.]]></summary>
         <author>
             <name>BBC News - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Korea reports first COVID outbreak, orders lockdown]]></title>
+        <id>https://www.aljazeera.com/?t=1652314846</id>
+        <link href="https://www.aljazeera.com/news/2022/5/12/north-korea-reports-first-covid-outbreak-since-pandemic"/>
+        <updated>2022-05-12T01:15:07.000Z</updated>
+        <summary type="html"><![CDATA[Kim Jong Un calls nationwide lockdown to tackle 'malicious' virus after BA.2 sub-variant detected in Pyongyang.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
         </author>
     </entry>
     <entry>
@@ -257,6 +527,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Shireen Abu Akleh: US activists slam ‘impunity’ for Israeli abuse]]></title>
+        <id>https://www.aljazeera.com/?t=1652301497</id>
+        <link href="https://www.aljazeera.com/news/2022/5/11/shireen-abu-akleh-us-activists-slam-impunity-for-israeli-abuse"/>
+        <updated>2022-05-11T21:50:34.000Z</updated>
+        <summary type="html"><![CDATA[Advocates say US should not allow Israel to investigate itself for killing of second American citizen this year.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[North Carolina: The moment a beach house collapsed into the sea]]></title>
         <id>https://www.bbc.co.uk/news/world-us-canada-61415378</id>
         <link href="https://www.bbc.co.uk/news/world-us-canada-61415378?at_medium=RSS&amp;at_campaign=KARANGA"/>
@@ -264,6 +544,18 @@
         <summary type="html"><![CDATA[The stilts holding up the house gave way after being struck by high winds and strong tides.]]></summary>
         <author>
             <name>BBC News - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another European war ‘not an impossibility’; Unity crucial in Bosnia and Herzegovina]]></title>
+        <id>https://www.globalissues.org/news/2022/05/11/30825</id>
+        <link href="https://www.globalissues.org/news/2022/05/11/30825"/>
+        <updated>2022-05-11T21:17:05.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/03-11-2021_Bosnia+and+Herzegovina.jpg/image1170x530cropped.jpg" width="640" alt="" /></p><p>
+					Amidst rising tensions, a months-long political stalemate and increasing speculation about yet another conflict in Europe, the international community must stand firm behind a peaceful, unified Bosnia and Herzegovina, the country’s UN envoy told the Security Council on Wednesday.
+				</p><p><a href="https://www.globalissues.org/news/2022/05/11/30825">Read the full story, “Another European war ‘not an impossibility’; Unity crucial in Bosnia and Herzegovina”, on globalissues.org</a> →</p>]]></summary>
+        <author>
+            <name>Global Issues News Headlines</name>
         </author>
     </entry>
     <entry>
@@ -277,6 +569,30 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Yemen: $33 million pledged to address decaying oil tanker threat]]></title>
+        <id>https://www.globalissues.org/news/2022/05/11/30820</id>
+        <link href="https://www.globalissues.org/news/2022/05/11/30820"/>
+        <updated>2022-05-11T20:45:08.000Z</updated>
+        <summary type="html"><![CDATA[<p>
+					Donors on Wednesday pledged $33 million towards a UN-coordinated plan to prevent an ageing oil tanker moored off the west Coast of Yemen from sparking a potential ecological and humanitarian disaster. 
+				</p><p><a href="https://www.globalissues.org/news/2022/05/11/30820">Read the full story, “Yemen: $33 million pledged to address decaying oil tanker threat”, on globalissues.org</a> →</p>]]></summary>
+        <author>
+            <name>Global Issues News Headlines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dialogue and cooperation needed for ‘interlinked global crises’ UN chief says in Austria]]></title>
+        <id>https://www.globalissues.org/news/2022/05/11/30824</id>
+        <link href="https://www.globalissues.org/news/2022/05/11/30824"/>
+        <updated>2022-05-11T19:41:42.000Z</updated>
+        <summary type="html"><![CDATA[<p>
+					The world is facing “multiple and interlinked global crises,” the UN chief told journalists in Austria on Wednesday during a joint press conference with Chancellor Karl Nehammer and Foreign Minister Alexander Schallenberg.
+				</p><p><a href="https://www.globalissues.org/news/2022/05/11/30824">Read the full story, “Dialogue and cooperation needed for ‘interlinked global crises’ UN chief says in Austria”, on globalissues.org</a> →</p>]]></summary>
+        <author>
+            <name>Global Issues News Headlines</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ukraine war: Don’t underestimate Russia cyber-threat, warns US]]></title>
         <id>https://www.bbc.co.uk/news/technology-61416320</id>
         <link href="https://www.bbc.co.uk/news/technology-61416320?at_medium=RSS&amp;at_campaign=KARANGA"/>
@@ -284,6 +600,18 @@
         <summary type="html"><![CDATA[A senior intelligence official says a cyber-war raging over Ukraine could escalate further.]]></summary>
         <author>
             <name>BBC News - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UN officials call for probe into killing of Al Jazeera journalist Shireen Abu Akleh]]></title>
+        <id>https://www.globalissues.org/news/2022/05/11/30823</id>
+        <link href="https://www.globalissues.org/news/2022/05/11/30823"/>
+        <updated>2022-05-11T18:58:39.000Z</updated>
+        <summary type="html"><![CDATA[<p>
+					Senior officials from across the United Nations are calling for an investigation into the killing on Wednesday of well-known Al Jazeera correspondent Shireen Abu Akleh. 
+				</p><p><a href="https://www.globalissues.org/news/2022/05/11/30823">Read the full story, “UN officials call for probe into killing of Al Jazeera journalist Shireen Abu Akleh”, on globalissues.org</a> →</p>]]></summary>
+        <author>
+            <name>Global Issues News Headlines</name>
         </author>
     </entry>
     <entry>
@@ -304,6 +632,50 @@
         <summary type="html"><![CDATA[Masks will no longer have to be worn on EU flights and in airports from next Monday, new guidance says.]]></summary>
         <author>
             <name>BBC News - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraine: UN labour agency update shows 4.8 million jobs lost to war]]></title>
+        <id>https://www.globalissues.org/news/2022/05/11/30822</id>
+        <link href="https://www.globalissues.org/news/2022/05/11/30822"/>
+        <updated>2022-05-11T16:49:38.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/11-05-2022_FAO_Ukraine-01.jpg/image1170x530cropped.jpg" width="640" alt="" /></p><p>
+					An estimated 4.8 million jobs have been lost in Ukraine since Russia’s 24 February invasion, according to a brief published on Wednesday by the UN’s labour agency.
+				</p><p><a href="https://www.globalissues.org/news/2022/05/11/30822">Read the full story, “Ukraine: UN labour agency update shows 4.8 million jobs lost to war”, on globalissues.org</a> →</p>]]></summary>
+        <author>
+            <name>Global Issues News Headlines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New UN campaign aims to bring more young voices to halls of power]]></title>
+        <id>https://www.globalissues.org/news/2022/05/11/30821</id>
+        <link href="https://www.globalissues.org/news/2022/05/11/30821"/>
+        <updated>2022-05-11T16:14:35.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/UNHCR/Embargoed+2/08-03-2022_UNICEF_Argentina.jpg/image1170x530cropped.jpg" width="640" alt="" /></p><p>
+					To support young people’s political participation and amplify their voices in public life, the UN launched a campaign on Wednesday in collaboration with the Youth Envoy.
+				</p><p><a href="https://www.globalissues.org/news/2022/05/11/30821">Read the full story, “New UN campaign aims to bring more young voices to halls of power”, on globalissues.org</a> →</p>]]></summary>
+        <author>
+            <name>Global Issues News Headlines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Women Leading Humanitarian Efforts in Ukraine, Now Include them in Leadership, say UN Women and CARE]]></title>
+        <id>https://www.globalissues.org/news/2022/05/11/30819</id>
+        <link href="https://www.globalissues.org/news/2022/05/11/30819"/>
+        <updated>2022-05-11T15:45:19.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="https://static.globalissues.org/ips/2022/05/20220312_125253.jpg" width="640" alt="" /></p><p>New York, May 11 (IPS)  - A joint UN Women and CARE report on the gender disparities in the wake of the Ukrainian crisis calls for donors and humanitarian partners to take greater care to promote the voices of women and marginalized communities in the humanitarian effort.</p><p><a href="https://www.globalissues.org/news/2022/05/11/30819">Read the full story, “Women Leading Humanitarian Efforts in Ukraine, Now Include them in Leadership, say UN Women and CARE”, on globalissues.org</a> →</p>]]></summary>
+        <author>
+            <name>Global Issues News Headlines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Most Maternal Deaths Are Preventable: How To Improve Outcomes in South Africa]]></title>
+        <id>https://www.globalissues.org/news/2022/05/11/30818</id>
+        <link href="https://www.globalissues.org/news/2022/05/11/30818"/>
+        <updated>2022-05-11T15:42:19.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="https://static.globalissues.org/ips/2022/05/mothers-629x419.jpg" width="640" alt="" /></p><p>May 11 (IPS)  - The past 20 years have seen a significant decline in maternal mortality rates <a href="https://data.unicef.org/topic/maternal-health/maternal-mortality/#:%7E:text=From%202000%20to%202017%2C%20the,reduction%20of%202.9%20per%20cent">from 342 deaths to 211 per 100,000 globally </a>. But every day, more than <a href="https://data.unicef.org/topic/maternal-health/maternal-mortality/">800 women</a> around the world die from complications of pregnancy and childbirth, up to 42 days after delivery. Most of these deaths are preventable.</p><p><a href="https://www.globalissues.org/news/2022/05/11/30818">Read the full story, “Most Maternal Deaths Are Preventable: How To Improve Outcomes in South Africa”, on globalissues.org</a> →</p>]]></summary>
+        <author>
+            <name>Global Issues News Headlines</name>
         </author>
     </entry>
     <entry>
@@ -334,6 +706,17 @@
         <summary type="html"><![CDATA[The prices of clothing and used cars fell, but inflation remains at a 40-year high.]]></summary>
         <author>
             <name>BBC News - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The National Security Implications of New Rules of the Road for Cyber]]></title>
+        <id>https://www.thecipherbrief.com/?p=37040</id>
+        <link href="https://www.thecipherbrief.com/the-national-security-implications-of-new-rules-of-the-road-for-cyber"/>
+        <updated>2022-05-11T12:22:00.000Z</updated>
+        <summary type="html"><![CDATA[EXPERT PERSPECTIVE — The Cyber Initiatives Group (powered by The Cipher Brief) filed national security-related comments in support of the SEC’s proposed rules regarding Cybersecurity [...] More 
+The post The National Security Implications of New Rules of the Road for Cyber appeared first on The Cipher Brief.]]></summary>
+        <author>
+            <name>Suzanne Kelly</name>
         </author>
     </entry>
     <entry>
@@ -413,6 +796,17 @@ View Entire Post ›]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Kim Jong-un Doubles Down on Nuclear Threat]]></title>
+        <id>https://www.thecipherbrief.com/?p=37017</id>
+        <link href="https://www.thecipherbrief.com/kim-jong-un-doubles-down-on-nuclear-threat"/>
+        <updated>2022-05-05T12:53:05.000Z</updated>
+        <summary type="html"><![CDATA[OPINION — It should be crystal clear:  North Korea has nuclear weapons not only for defensive deterrence purposes but, according to Kim Jong-un, to respond [...] More 
+The post Kim Jong-un Doubles Down on Nuclear Threat appeared first on The Cipher Brief.]]></summary>
+        <author>
+            <name>Suzanne Kelly</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A Former Marine Was Freed From “Wrongful Detention” In Russia, But Concerns Remain For Brittney Griner And Others]]></title>
         <id>https://www.buzzfeednews.com/article/davidmack/brittney-griner-trevor-reed-paul-whelan-russia</id>
         <link href="https://www.buzzfeednews.com/article/davidmack/brittney-griner-trevor-reed-paul-whelan-russia"/>
@@ -439,6 +833,28 @@ View Entire Post ›]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Core of Putin’s Weakness]]></title>
+        <id>https://www.thecipherbrief.com/?p=36978</id>
+        <link href="https://www.thecipherbrief.com/the-core-of-putins-weakness"/>
+        <updated>2022-04-25T12:40:05.000Z</updated>
+        <summary type="html"><![CDATA[OPINION — In 2017, I wrote a short piece for Foreign Policy asking if Putin was more a product of his KGB background and personal [...] More 
+The post The Core of Putin’s Weakness appeared first on The Cipher Brief.]]></summary>
+        <author>
+            <name>Suzanne Kelly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Energy’s Impact on Europe’s Moral Imperative]]></title>
+        <id>https://www.thecipherbrief.com/?p=36943</id>
+        <link href="https://www.thecipherbrief.com/energys-impact-on-europes-moral-imperative"/>
+        <updated>2022-04-19T14:17:15.000Z</updated>
+        <summary type="html"><![CDATA[French President Emmanuel Macron is joining other European leaders in support of an EU Russian oil embargo according to French officials.  French Finance Minister Bruno [...] More 
+The post Energy’s Impact on Europe’s Moral Imperative appeared first on The Cipher Brief.]]></summary>
+        <author>
+            <name>Suzanne Kelly</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The UK Was Warned This Counterterrorism Program Was A Disaster — But Rolled It Out Anyway]]></title>
         <id>https://www.buzzfeednews.com/article/richholmes/uk-manchester-bombing-counterterrorism-failures</id>
         <link href="https://www.buzzfeednews.com/article/richholmes/uk-manchester-bombing-counterterrorism-failures"/>
@@ -449,6 +865,17 @@ View Entire Post ›]]></summary>
 View Entire Post ›]]></summary>
         <author>
             <name>Richard Holmes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Putting Europe’s Energy Problem into Perspective]]></title>
+        <id>https://www.thecipherbrief.com/?p=36922</id>
+        <link href="https://www.thecipherbrief.com/putting-europes-energy-problem-into-perspective"/>
+        <updated>2022-04-13T13:35:48.000Z</updated>
+        <summary type="html"><![CDATA[“The Cipher Brief has become the most popular outlet for former intelligence officers; no media outlet is even a close second to The Cipher Brief [...] More 
+The post Putting Europe’s Energy Problem into Perspective appeared first on The Cipher Brief.]]></summary>
+        <author>
+            <name>Suzanne Kelly</name>
         </author>
     </entry>
 </feed>

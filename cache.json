@@ -299,6 +299,16 @@
       "siteUrl": "https://www.nytimes.com/section/world",
       "articles": [
         {
+          "id": "https://www.nytimes.com/2022/05/12/world/biden-to-order-federal-flags-to-fly-at-half-staff-as-the-us-covid-toll-nears-one-million.html",
+          "author": "Sheryl Gay Stolberg",
+          "description": "“We must remain vigilant against this pandemic and do everything we can to save as many lives as possible, as we have with more testing, vaccines, and treatments than ever before,” the president said.",
+          "link": "https://www.nytimes.com/2022/05/12/world/biden-to-order-federal-flags-to-fly-at-half-staff-as-the-us-covid-toll-nears-one-million.html",
+          "publishedOn": "2022-05-12T09:34:55.000Z",
+          "wordCount": 522,
+          "title": "Biden to order federal flags to fly at half-staff as the U.S. Covid toll nears one million.",
+          "imageUrl": "https://static01.nyt.com/images/2022/05/12/world/12virus-briefing-biden-one-million-deaths1/merlin_182563602_7de80a55-f41d-4577-9840-28c376781b4c-facebookJumbo.jpg"
+        },
+        {
           "id": "https://www.nytimes.com/2022/05/12/world/americas/el-salvador-prison-gangs-bukele.html",
           "author": "Natalie Kitroeff and Daniele Volpe",
           "description": "Dozens of women wait outside a detention facility for news of their loved ones after a crackdown on gang violence resulted in the imprisonment of more than 25,000 people.",
@@ -454,6 +464,427 @@
           "wordCount": 4551,
           "title": "The UK Was Warned This Counterterrorism Program Was A Disaster — But Rolled It Out Anyway",
           "imageUrl": "https://img.buzzfeed.com/buzzfeed-static/static/2022-04/13/13/campaign_images/b96d474ef097/the-uk-was-warned-this-counterterrorism-program-w-2-2044-1649857762-6_dblbig.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Al Jazeera – Breaking News, World News and Video from Al Jazeera",
+      "feedUrl": "http://www.aljazeera.com/xml/rss/all.xml",
+      "siteUrl": "https://www.aljazeera.com",
+      "articles": [
+        {
+          "id": "https://www.aljazeera.com/?t=1652333540",
+          "author": null,
+          "description": "She was not 'killed'. She was murdered.",
+          "link": "https://www.aljazeera.com/opinions/2022/5/12/some-truths-about-shireen-abu-aklehs-murder",
+          "publishedOn": "2022-05-12T09:30:41.000Z",
+          "wordCount": 1469,
+          "title": "Some truths about Shireen Abu Akleh’s murder",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2022/05/AP22131668925084.jpg?resize=1200%2C630"
+        },
+        {
+          "id": "https://www.aljazeera.com/?t=1652342614",
+          "author": null,
+          "description": "European Commission president calls Russia the 'most direct threat' to international order during annual meeting.",
+          "link": "https://www.aljazeera.com/news/2022/5/12/russia-most-direct-threat-to-world-order-eus-von-der-leyen",
+          "publishedOn": "2022-05-12T09:26:53.000Z",
+          "wordCount": 606,
+          "title": "‘Barbaric war on Ukraine’: EU’s von der Leyen denounces Russia",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2022/05/2022-05-12T040746Z_1877895629_RC2E5U9IHVYL_RTRMADP_3_JAPAN-EU.jpg?resize=1200%2C630"
+        },
+        {
+          "id": "https://www.aljazeera.com/?t=1652344182",
+          "author": null,
+          "description": "Couple sue son demanding that he and his wife produce either a grandchild in a year or cough up money they spent on him.",
+          "link": "https://www.aljazeera.com/news/2022/5/12/grandchild-or-650000-indian-parents-take-son-to-court",
+          "publishedOn": "2022-05-12T09:19:23.000Z",
+          "wordCount": 465,
+          "title": "Grandchild or $650,000: Indian parents take son to court",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2021/04/000_1TB2MP.jpg?resize=1200%2C630"
+        },
+        {
+          "id": "https://www.aljazeera.com/?t=1648732577",
+          "author": null,
+          "description": "'In my closet, I have a shirt that once belonged to my grandmother... When I’m an old woman, I should like to wear it.'",
+          "link": "https://www.aljazeera.com/features/2022/5/12/how-we-remember-them-my-grandmothers-shirt",
+          "publishedOn": "2022-05-12T09:01:39.000Z",
+          "wordCount": 1778,
+          "title": "How we remember them: My grandmother’s shirt",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2022/05/Kalia.jpeg?resize=1200%2C630"
+        },
+        {
+          "id": "https://www.aljazeera.com/?t=1652344731",
+          "author": null,
+          "description": "The rupee hit a new low for the second time this week while the stock exchange tumbled to its lowest in two months.",
+          "link": "https://www.aljazeera.com/economy/2022/5/12/indian-rupee-hits-new-low-stocks-tumble-on-inflation-woes",
+          "publishedOn": "2022-05-12T08:57:12.000Z",
+          "wordCount": 427,
+          "title": "Indian rupee hits new low, stocks tumble on inflation woes",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2022/05/387221700.jpg?resize=1200%2C630"
+        },
+        {
+          "id": "https://www.aljazeera.com/?t=1652342073",
+          "author": null,
+          "description": "President Yoon Suk-yeol's administration will pay more than $20bn to small businesses and the self-employed.",
+          "link": "https://www.aljazeera.com/economy/2022/5/12/south-korea-drafts-46bn-budget-to-help-covid-hit-businesses",
+          "publishedOn": "2022-05-12T08:48:25.000Z",
+          "wordCount": 461,
+          "title": "South Korea drafts $46bn budget to help COVID-hit businesses",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2022/05/2022-05-10T095954Z_36050755_RC264U9IJ5WX_RTRMADP_3_SOUTHKOREA-POLITICS-INAUGURATION.jpg?resize=1200%2C630"
+        },
+        {
+          "id": "https://www.aljazeera.com/?t=1652338170",
+          "author": null,
+          "description": "As the Russia-Ukraine war enters its 78th day, we take a look at the main developments.",
+          "link": "https://www.aljazeera.com/news/2022/5/12/russia-ukraine-war-list-of-key-events-day-78",
+          "publishedOn": "2022-05-12T08:45:07.000Z",
+          "wordCount": 578,
+          "title": "Russia-Ukraine war: List of key events, day 78",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2022/05/2022-05-11T060057Z_846110386_RC201U93OMR3_RTRMADP_3_UKRAINE-CRISIS-HOSPITAL.jpg?resize=1200%2C630"
+        },
+        {
+          "id": "https://www.aljazeera.com/?t=1652339833",
+          "author": null,
+          "description": "President announced reforms a day before the EU's coordinator for nuclear deal negotiations arrived in Tehran.",
+          "link": "https://www.aljazeera.com/news/2022/5/12/nuclear-talks-irans-raisi-engages-in-major-economic-reform",
+          "publishedOn": "2022-05-12T08:41:27.000Z",
+          "wordCount": 1401,
+          "title": "Nuclear talks: Iran’s Raisi launches major economic reform",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2022/05/Iran.jpg?resize=1200%2C630"
+        },
+        {
+          "id": "https://www.aljazeera.com/?t=1652338946",
+          "author": null,
+          "description": "Hundreds of people thronged main bus station in the commercial capital after authorities lifted an indefinite curfew.",
+          "link": "https://www.aljazeera.com/news/2022/5/12/many-sri-lankans-flee-colombo-as-leaders-meet-to-discuss-crisis",
+          "publishedOn": "2022-05-12T08:32:33.000Z",
+          "wordCount": 787,
+          "title": "Many Sri Lankans flee Colombo as leaders meet to discuss crisis",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2022/05/2022-05-11T060325Z_520295488_RC2R4U9WM342_RTRMADP_3_SRI-LANKA-CRISIS.jpg?resize=1200%2C630"
+        },
+        {
+          "id": "https://www.aljazeera.com/?t=1652340643",
+          "author": null,
+          "description": "German and Finnish firms join the list of mostly Western firms that have halted business over conflict.",
+          "link": "https://www.aljazeera.com/economy/2022/5/12/siemens-finnish-utility-fortum-quit-russia-over-ukraine-war",
+          "publishedOn": "2022-05-12T08:19:20.000Z",
+          "wordCount": 475,
+          "title": "Siemens, Finnish utility Fortum quit Russia over Ukraine war",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2022/05/367752610.jpg?resize=1200%2C630"
+        },
+        {
+          "id": "https://www.aljazeera.com/?t=1652340269",
+          "author": null,
+          "description": "Finnish leaders announce a significant policy shift triggered by Russia's full-scale invasion of Ukraine.",
+          "link": "https://www.aljazeera.com/news/2022/5/12/finland-must-apply-to-join-nato-without-delay-finnish-leaders",
+          "publishedOn": "2022-05-12T08:11:10.000Z",
+          "wordCount": 489,
+          "title": "Finland must apply to join NATO ‘without delay’: Finnish leaders",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2022/05/2022-05-12T072636Z_48387113_RC2J5U9BB58G_RTRMADP_3_UKRAINE-CRISIS-NATO-FINLAND.jpg?resize=1200%2C630"
+        },
+        {
+          "id": "https://www.aljazeera.com/?t=1652307986",
+          "author": null,
+          "description": "For a complete embargo to be successful, the bloc has yet to convince countries which rely more heavily on Moscow.",
+          "link": "https://www.aljazeera.com/news/2022/5/12/eus-proposed-oil-ban-steps-up-pressure-on-russia-analysts",
+          "publishedOn": "2022-05-12T08:06:19.000Z",
+          "wordCount": 1274,
+          "title": "EU oil ban adds pressure on Russia but obstacles remain: Analysts",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2022/05/oil3.jpg?resize=1200%2C630"
+        },
+        {
+          "id": "https://www.aljazeera.com/?t=1652288668",
+          "author": null,
+          "description": "Ukrainian forces have pushed the enemy within 10km of the Russian border and continue to thwart Russian attacks.",
+          "link": "https://www.aljazeera.com/news/2022/5/12/ukraine-goes-on-the-counteroffensive-as-russians-falls-back",
+          "publishedOn": "2022-05-12T07:53:39.000Z",
+          "wordCount": 1235,
+          "title": "Ukraine goes on the counteroffensive as Russians fall back",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2022/05/Kharviv.jpg?resize=1200%2C630"
+        },
+        {
+          "id": "https://www.aljazeera.com/?t=1652337353",
+          "author": null,
+          "description": "Prosecutors say 21-year-old Vadim Shyshimarin is accused of killing an unarmed 62-year-old civilian.",
+          "link": "https://www.aljazeera.com/news/2022/5/12/ukraine-to-hold-first-war-crimes-trial-of-russian-soldier",
+          "publishedOn": "2022-05-12T07:46:29.000Z",
+          "wordCount": 549,
+          "title": "Ukraine to hold first war crimes trial of Russian soldier",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2022/05/AP22130402779701.jpg?resize=1200%2C630"
+        },
+        {
+          "id": "https://www.aljazeera.com/?t=1652338101",
+          "author": null,
+          "description": "State service for the slain Al Jazeera journalist took place at the presidential compound in Ramallah.",
+          "link": "https://www.aljazeera.com/news/2022/5/12/funeral-service-shireen-abu-akleh-set-start-ramallah",
+          "publishedOn": "2022-05-12T07:25:09.000Z",
+          "wordCount": 614,
+          "title": "Palestinians mourn Abu Akleh at state service in Ramallah",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2022/05/AP22131555610161.jpg?resize=1200%2C630"
+        },
+        {
+          "id": "https://www.aljazeera.com/?t=1652306283",
+          "author": null,
+          "description": "We also look at the suffering of Syrian children and how the Taliban is further clamping down on womens' freedoms.",
+          "link": "https://www.aljazeera.com/program/the-stream/2022/5/12/sri-lanka-how-can-the-crisis-be-resolved",
+          "publishedOn": "2022-05-12T07:00:03.000Z",
+          "wordCount": 653,
+          "title": "Sri Lanka: How can the crisis be resolved?",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2022/05/Monitor-1.jpg?resize=1200%2C630"
+        },
+        {
+          "id": "https://www.aljazeera.com/?t=1652335104",
+          "author": null,
+          "description": "Several business groups in Sri Lanka have asked the president to appoint a new government and resign immediately.",
+          "link": "https://www.aljazeera.com/economy/2022/5/12/as-crisis-worsens-sri-lankas-businesses-want-rajapaksa-to-go",
+          "publishedOn": "2022-05-12T06:59:19.000Z",
+          "wordCount": 905,
+          "title": "As crisis worsens, Sri Lankan businesses want Rajapaksa to go",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2022/05/387221202.jpg?resize=1200%2C630"
+        },
+        {
+          "id": "https://www.aljazeera.com/?t=1652332721",
+          "author": null,
+          "description": "Tibet Airlines says all 113 passengers and 9 crew on board the plane that caught fire were safely evacuated.",
+          "link": "https://www.aljazeera.com/news/2022/5/12/china-passenger-jet-catches-fire-dozens-lightly-injured",
+          "publishedOn": "2022-05-12T06:03:35.000Z",
+          "wordCount": 421,
+          "title": "China passenger jet catches fire, dozens ‘lightly injured’",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2022/05/2022-05-12T044342Z_140168962_RC2G5U94G3FY_RTRMADP_3_CHINA-AVIATION-ACCIDENT.jpg?resize=1200%2C630"
+        },
+        {
+          "id": "https://www.aljazeera.com/?t=1652290040",
+          "author": null,
+          "description": "Al Jazeera recaps key events during week 11 of Russia’s invasion of Ukraine.",
+          "link": "https://www.aljazeera.com/news/2022/5/12/timeline-week-11-of-russias-war-in-ukraine",
+          "publishedOn": "2022-05-12T05:39:44.000Z",
+          "wordCount": 1827,
+          "title": "Timeline: Week 11 of Russia’s war in Ukraine",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2022/05/2022-05-11T161554Z_311596791_RC235U9GOY3R_RTRMADP_3_UKRAINE-CRISIS-VILLAGE.jpg?resize=1200%2C630"
+        },
+        {
+          "id": "https://www.aljazeera.com/?t=1652328315",
+          "author": null,
+          "description": "Rescuers in Gujarat state are picking up dozens of exhausted birds daily as scorching heatwave dries out water sources.",
+          "link": "https://www.aljazeera.com/news/2022/5/12/dehydrated-birds-falling-from-sky-in-india-amid-record-heatwave",
+          "publishedOn": "2022-05-12T05:25:02.000Z",
+          "wordCount": 591,
+          "title": "Dehydrated birds falling from sky in India amid record heatwave",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2022/05/2022-05-11T182040Z_675865381_RC2Z4U9UCB4S_RTRMADP_3_INDIA-WEATHER-HEATWAVE-BIRDS.jpg?resize=1200%2C630"
+        },
+        {
+          "id": "https://www.aljazeera.com/?t=1652330542",
+          "author": null,
+          "description": "Southeast Asian country's gross domestic product expands 8.3 percent in first quarter.",
+          "link": "https://www.aljazeera.com/economy/2022/5/12/philippines-gdp-growth-blasts-past-forecasts",
+          "publishedOn": "2022-05-12T05:10:15.000Z",
+          "wordCount": 559,
+          "title": "Philippines’s GDP growth blasts past forecasts",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2022/05/2022-03-24T000000Z_1069085111_RC2S8T9D73JR_RTRMADP_3_PHILIPPINES-ECONOMY-RATES.jpg?resize=1200%2C630"
+        },
+        {
+          "id": "https://www.aljazeera.com/?t=1652321237",
+          "author": null,
+          "description": "Ferdinand Marcos Jr declares victory in Philippine presidential election, pledges to be a leader 'for all Filipinos'.",
+          "link": "https://www.aljazeera.com/news/2022/5/12/us-china-congratulate-marcos-jr-on-philippine-presidential-win",
+          "publishedOn": "2022-05-12T04:31:54.000Z",
+          "wordCount": 993,
+          "title": "Biden, Xi congratulate Marcos Jr on Philippine presidential win",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2022/05/2022-05-11T085758Z_1552773583_RC2W4U93XMWO_RTRMADP_3_PHILIPPINES-ELECTION.jpg?resize=1200%2C630"
+        },
+        {
+          "id": "https://www.aljazeera.com/?t=1652324133",
+          "author": null,
+          "description": "Tokyo earlier this week announced it would phase out imports of Russian oil.",
+          "link": "https://www.aljazeera.com/economy/2022/5/12/japan-pm-kishida-pledges-further-cooperation-with-eu-on-russia",
+          "publishedOn": "2022-05-12T04:08:53.000Z",
+          "wordCount": 414,
+          "title": "Japan PM Kishida pledges further cooperation with EU on Russia",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2021/12/2021-12-04T015332Z_1791345350_RC2D7R9BTGL2_RTRMADP_3_HEALTH-CORONAVIRUS-JAPAN-USA.jpg?resize=1200%2C630"
+        },
+        {
+          "id": "https://www.aljazeera.com/?t=1652314846",
+          "author": null,
+          "description": "Kim Jong Un calls nationwide lockdown to tackle 'malicious' virus after BA.2 sub-variant detected in Pyongyang.",
+          "link": "https://www.aljazeera.com/news/2022/5/12/north-korea-reports-first-covid-outbreak-since-pandemic",
+          "publishedOn": "2022-05-12T01:15:07.000Z",
+          "wordCount": 957,
+          "title": "North Korea reports first COVID outbreak, orders lockdown",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2022/05/AP22132040876591.jpg?resize=1200%2C630"
+        },
+        {
+          "id": "https://www.aljazeera.com/?t=1652301497",
+          "author": null,
+          "description": "Advocates say US should not allow Israel to investigate itself for killing of second American citizen this year.",
+          "link": "https://www.aljazeera.com/news/2022/5/11/shireen-abu-akleh-us-activists-slam-impunity-for-israeli-abuse",
+          "publishedOn": "2022-05-11T21:50:34.000Z",
+          "wordCount": 1215,
+          "title": "Shireen Abu Akleh: US activists slam ‘impunity’ for Israeli abuse",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2022/05/AP22131668925084-1.jpg?resize=1024%2C630"
+        }
+      ]
+    },
+    {
+      "title": "Global Issues News Headlines",
+      "feedUrl": "https://www.globalissues.org/news/feed",
+      "siteUrl": "https://www.globalissues.org/news",
+      "articles": [
+        {
+          "id": "https://www.globalissues.org/news/2022/05/12/30827",
+          "author": null,
+          "description": "<p><img src=\"https://static.globalissues.org/ips/2022/05/Harvest-Triumph.jpg\" width=\"640\" alt=\"\" /></p><p>STOCKHOLM, May 12 (IPS)  - An entirely unnecessary and all too tangible nightmare continues to scourge Ukraine. Without doubt, one catastrophe after another still awaits. Much of Ukraine’s harvest, of paramount importance to global food supply, is at risk of being lost due to Vladimir Putin’s and the Russian army’s belligerent actions. Last year, Ukraine harvested a record of 106 million tonnes of grain – 25, or even 50 percent of this amount is currently feared to be lost during this year while most experts add that “this is an optimistic forecast.”</p><p><a href=\"https://www.globalissues.org/news/2022/05/12/30827\">Read the full story, “War and Famines  Warnings of Potential Outcomes of the War in Ukraine”, on globalissues.org</a> →</p>",
+          "link": "https://www.globalissues.org/news/2022/05/12/30827",
+          "publishedOn": "2022-05-12T14:04:33.000Z",
+          "wordCount": 1933,
+          "title": "War and Famines  Warnings of Potential Outcomes of the War in Ukraine",
+          "imageUrl": "https://static.globalissues.org/ips/2022/05/Harvest-Triumph.jpg"
+        },
+        {
+          "id": "https://www.globalissues.org/news/2022/05/12/30826",
+          "author": null,
+          "description": "<p>ROME, May 12 (IPS)  - The writer is Director, Global Health Justice Program, Society for International Development (SID), and Co-chair Geneva Global Health Hub (G2H2). In what has been defined a historic consensus decision aimed at protecting the world from future infectious diseases crises, on 1st December 2021, the special session of the World Health Assembly agreed to kickstart a global process to draft and negotiate a convention, agreement or other international instrument to strengthen pandemic prevention, preparedness and response.</p><p><a href=\"https://www.globalissues.org/news/2022/05/12/30826\">Read the full story, “Projections for a Pandemic Future: in Whose Interest?”, on globalissues.org</a> →</p>",
+          "link": "https://www.globalissues.org/news/2022/05/12/30826",
+          "publishedOn": "2022-05-12T13:29:38.000Z",
+          "wordCount": 1599,
+          "title": "Projections for a Pandemic Future: in Whose Interest?",
+          "imageUrl": "https://static.globalissues.org/globalissues.png"
+        },
+        {
+          "id": "https://www.globalissues.org/news/2022/05/11/30825",
+          "author": null,
+          "description": "<p><img src=\"https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/03-11-2021_Bosnia+and+Herzegovina.jpg/image1170x530cropped.jpg\" width=\"640\" alt=\"\" /></p><p>\n\t\t\t\t\tAmidst rising tensions, a months-long political stalemate and increasing speculation about yet another conflict in Europe, the international community must stand firm behind a peaceful, unified Bosnia and Herzegovina, the country’s UN envoy told the Security Council on Wednesday.\n\t\t\t\t</p><p><a href=\"https://www.globalissues.org/news/2022/05/11/30825\">Read the full story, “Another European war ‘not an impossibility’; Unity crucial in Bosnia and Herzegovina”, on globalissues.org</a> →</p>",
+          "link": "https://www.globalissues.org/news/2022/05/11/30825",
+          "publishedOn": "2022-05-11T21:17:05.000Z",
+          "wordCount": 1198,
+          "title": "Another European war ‘not an impossibility’; Unity crucial in Bosnia and Herzegovina",
+          "imageUrl": "https://static.globalissues.org/globalissues.png"
+        },
+        {
+          "id": "https://www.globalissues.org/news/2022/05/11/30820",
+          "author": null,
+          "description": "<p>\n\t\t\t\t\tDonors on Wednesday pledged $33 million towards a UN-coordinated plan to prevent an ageing oil tanker moored off the west Coast of Yemen from sparking a potential ecological and humanitarian disaster. \n\t\t\t\t</p><p><a href=\"https://www.globalissues.org/news/2022/05/11/30820\">Read the full story, “Yemen: $33 million pledged to address decaying oil tanker threat”, on globalissues.org</a> →</p>",
+          "link": "https://www.globalissues.org/news/2022/05/11/30820",
+          "publishedOn": "2022-05-11T20:45:08.000Z",
+          "wordCount": 1084,
+          "title": "Yemen: $33 million pledged to address decaying oil tanker threat",
+          "imageUrl": "https://static.globalissues.org/globalissues.png"
+        },
+        {
+          "id": "https://www.globalissues.org/news/2022/05/11/30824",
+          "author": null,
+          "description": "<p>\n\t\t\t\t\tThe world is facing “multiple and interlinked global crises,” the UN chief told journalists in Austria on Wednesday during a joint press conference with Chancellor Karl Nehammer and Foreign Minister Alexander Schallenberg.\n\t\t\t\t</p><p><a href=\"https://www.globalissues.org/news/2022/05/11/30824\">Read the full story, “Dialogue and cooperation needed for ‘interlinked global crises’ UN chief says in Austria”, on globalissues.org</a> →</p>",
+          "link": "https://www.globalissues.org/news/2022/05/11/30824",
+          "publishedOn": "2022-05-11T19:41:42.000Z",
+          "wordCount": 1163,
+          "title": "Dialogue and cooperation needed for ‘interlinked global crises’ UN chief says in Austria",
+          "imageUrl": "https://static.globalissues.org/globalissues.png"
+        },
+        {
+          "id": "https://www.globalissues.org/news/2022/05/11/30823",
+          "author": null,
+          "description": "<p>\n\t\t\t\t\tSenior officials from across the United Nations are calling for an investigation into the killing on Wednesday of well-known Al Jazeera correspondent Shireen Abu Akleh. \n\t\t\t\t</p><p><a href=\"https://www.globalissues.org/news/2022/05/11/30823\">Read the full story, “UN officials call for probe into killing of Al Jazeera journalist Shireen Abu Akleh”, on globalissues.org</a> →</p>",
+          "link": "https://www.globalissues.org/news/2022/05/11/30823",
+          "publishedOn": "2022-05-11T18:58:39.000Z",
+          "wordCount": 929,
+          "title": "UN officials call for probe into killing of Al Jazeera journalist Shireen Abu Akleh",
+          "imageUrl": "https://static.globalissues.org/globalissues.png"
+        },
+        {
+          "id": "https://www.globalissues.org/news/2022/05/11/30822",
+          "author": null,
+          "description": "<p><img src=\"https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/11-05-2022_FAO_Ukraine-01.jpg/image1170x530cropped.jpg\" width=\"640\" alt=\"\" /></p><p>\n\t\t\t\t\tAn estimated 4.8 million jobs have been lost in Ukraine since Russia’s 24 February invasion, according to a brief published on Wednesday by the UN’s labour agency.\n\t\t\t\t</p><p><a href=\"https://www.globalissues.org/news/2022/05/11/30822\">Read the full story, “Ukraine: UN labour agency update shows 4.8 million jobs lost to war”, on globalissues.org</a> →</p>",
+          "link": "https://www.globalissues.org/news/2022/05/11/30822",
+          "publishedOn": "2022-05-11T16:49:38.000Z",
+          "wordCount": 1230,
+          "title": "Ukraine: UN labour agency update shows 4.8 million jobs lost to war",
+          "imageUrl": "https://static.globalissues.org/globalissues.png"
+        },
+        {
+          "id": "https://www.globalissues.org/news/2022/05/11/30821",
+          "author": null,
+          "description": "<p><img src=\"https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/UNHCR/Embargoed+2/08-03-2022_UNICEF_Argentina.jpg/image1170x530cropped.jpg\" width=\"640\" alt=\"\" /></p><p>\n\t\t\t\t\tTo support young people’s political participation and amplify their voices in public life, the UN launched a campaign on Wednesday in collaboration with the Youth Envoy.\n\t\t\t\t</p><p><a href=\"https://www.globalissues.org/news/2022/05/11/30821\">Read the full story, “New UN campaign aims to bring more young voices to halls of power”, on globalissues.org</a> →</p>",
+          "link": "https://www.globalissues.org/news/2022/05/11/30821",
+          "publishedOn": "2022-05-11T16:14:35.000Z",
+          "wordCount": 1287,
+          "title": "New UN campaign aims to bring more young voices to halls of power",
+          "imageUrl": "https://static.globalissues.org/globalissues.png"
+        },
+        {
+          "id": "https://www.globalissues.org/news/2022/05/11/30819",
+          "author": null,
+          "description": "<p><img src=\"https://static.globalissues.org/ips/2022/05/20220312_125253.jpg\" width=\"640\" alt=\"\" /></p><p>New York, May 11 (IPS)  - A joint UN Women and CARE report on the gender disparities in the wake of the Ukrainian crisis calls for donors and humanitarian partners to take greater care to promote the voices of women and marginalized communities in the humanitarian effort.</p><p><a href=\"https://www.globalissues.org/news/2022/05/11/30819\">Read the full story, “Women Leading Humanitarian Efforts in Ukraine, Now Include them in Leadership, say UN Women and CARE”, on globalissues.org</a> →</p>",
+          "link": "https://www.globalissues.org/news/2022/05/11/30819",
+          "publishedOn": "2022-05-11T15:45:19.000Z",
+          "wordCount": 1317,
+          "title": "Women Leading Humanitarian Efforts in Ukraine, Now Include them in Leadership, say UN Women and CARE",
+          "imageUrl": "https://static.globalissues.org/ips/2022/05/20220312_125253.jpg"
+        },
+        {
+          "id": "https://www.globalissues.org/news/2022/05/11/30818",
+          "author": null,
+          "description": "<p><img src=\"https://static.globalissues.org/ips/2022/05/mothers-629x419.jpg\" width=\"640\" alt=\"\" /></p><p>May 11 (IPS)  - The past 20 years have seen a significant decline in maternal mortality rates <a href=\"https://data.unicef.org/topic/maternal-health/maternal-mortality/#:%7E:text=From%202000%20to%202017%2C%20the,reduction%20of%202.9%20per%20cent\">from 342 deaths to 211 per 100,000 globally </a>. But every day, more than <a href=\"https://data.unicef.org/topic/maternal-health/maternal-mortality/\">800 women</a> around the world die from complications of pregnancy and childbirth, up to 42 days after delivery. Most of these deaths are preventable.</p><p><a href=\"https://www.globalissues.org/news/2022/05/11/30818\">Read the full story, “Most Maternal Deaths Are Preventable: How To Improve Outcomes in South Africa”, on globalissues.org</a> →</p>",
+          "link": "https://www.globalissues.org/news/2022/05/11/30818",
+          "publishedOn": "2022-05-11T15:42:19.000Z",
+          "wordCount": 1540,
+          "title": "Most Maternal Deaths Are Preventable: How To Improve Outcomes in South Africa",
+          "imageUrl": "https://static.globalissues.org/ips/2022/05/mothers-629x419.jpg"
+        }
+      ]
+    },
+    {
+      "title": "The Cipher Brief",
+      "feedUrl": "https://www.thecipherbrief.com/feed",
+      "siteUrl": "https://www.thecipherbrief.com",
+      "articles": [
+        {
+          "id": "https://www.thecipherbrief.com/?p=37040",
+          "author": "Suzanne Kelly",
+          "description": "EXPERT PERSPECTIVE — The Cyber Initiatives Group (powered by The Cipher Brief) filed national security-related comments in support of the SEC’s proposed rules regarding Cybersecurity [...] More \nThe post The National Security Implications of New Rules of the Road for Cyber appeared first on The Cipher Brief.",
+          "link": "https://www.thecipherbrief.com/the-national-security-implications-of-new-rules-of-the-road-for-cyber",
+          "publishedOn": "2022-05-11T12:22:00.000Z",
+          "wordCount": 1930,
+          "title": "The National Security Implications of New Rules of the Road for Cyber",
+          "imageUrl": "https://www.thecipherbrief.com/wp-content/uploads/2022/05/IMAGE-globalcyber.jpg"
+        },
+        {
+          "id": "https://www.thecipherbrief.com/?p=37017",
+          "author": "Suzanne Kelly",
+          "description": "OPINION — It should be crystal clear:  North Korea has nuclear weapons not only for defensive deterrence purposes but, according to Kim Jong-un, to respond [...] More \nThe post Kim Jong-un Doubles Down on Nuclear Threat appeared first on The Cipher Brief.",
+          "link": "https://www.thecipherbrief.com/kim-jong-un-doubles-down-on-nuclear-threat",
+          "publishedOn": "2022-05-05T12:53:05.000Z",
+          "wordCount": 1971,
+          "title": "Kim Jong-un Doubles Down on Nuclear Threat",
+          "imageUrl": "https://www.thecipherbrief.com/wp-content/uploads/2022/05/IMAGE-NKoreaNukemissile.jpg"
+        },
+        {
+          "id": "https://www.thecipherbrief.com/?p=36978",
+          "author": "Suzanne Kelly",
+          "description": "OPINION — In 2017, I wrote a short piece for Foreign Policy asking if Putin was more a product of his KGB background and personal [...] More \nThe post The Core of Putin’s Weakness appeared first on The Cipher Brief.",
+          "link": "https://www.thecipherbrief.com/the-core-of-putins-weakness",
+          "publishedOn": "2022-04-25T12:40:05.000Z",
+          "wordCount": 2266,
+          "title": "The Core of Putin’s Weakness",
+          "imageUrl": "https://www.thecipherbrief.com/wp-content/uploads/2022/04/IMAGE-Russiahistorical-1024x751.jpg"
+        },
+        {
+          "id": "https://www.thecipherbrief.com/?p=36943",
+          "author": "Suzanne Kelly",
+          "description": "French President Emmanuel Macron is joining other European leaders in support of an EU Russian oil embargo according to French officials.  French Finance Minister Bruno [...] More \nThe post Energy’s Impact on Europe’s Moral Imperative appeared first on The Cipher Brief.",
+          "link": "https://www.thecipherbrief.com/energys-impact-on-europes-moral-imperative",
+          "publishedOn": "2022-04-19T14:17:15.000Z",
+          "wordCount": 3279,
+          "title": "Energy’s Impact on Europe’s Moral Imperative",
+          "imageUrl": "https://www.thecipherbrief.com/wp-content/uploads/2022/04/IMAGE-EuropeRussiaEnergy-scaled.jpg"
+        },
+        {
+          "id": "https://www.thecipherbrief.com/?p=36922",
+          "author": "Suzanne Kelly",
+          "description": "“The Cipher Brief has become the most popular outlet for former intelligence officers; no media outlet is even a close second to The Cipher Brief [...] More \nThe post Putting Europe’s Energy Problem into Perspective appeared first on The Cipher Brief.",
+          "link": "https://www.thecipherbrief.com/putting-europes-energy-problem-into-perspective",
+          "publishedOn": "2022-04-13T13:35:48.000Z",
+          "wordCount": 1088,
+          "title": "Putting Europe’s Energy Problem into Perspective",
+          "imageUrl": "https://www.thecipherbrief.com/wp-content/uploads/2022/04/IMAGE-gaspipelinesrefinery-scaled.jpg"
         }
       ]
     }
