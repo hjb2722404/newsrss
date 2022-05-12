@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/newsrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-12T10:01:50.851Z</updated>
+    <updated>2022-05-12T10:04:11.625Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/newsrss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/newsrss/feed.atom"/>
@@ -27,6 +27,76 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Seoul: North Korea fires missile toward sea]]></title>
+        <id>https://abcnews.go.com/International/wireStory/seoul-north-korea-fires-missile-sea-84664856</id>
+        <link href="https://abcnews.go.com/International/wireStory/seoul-north-korea-fires-missile-sea-84664856"/>
+        <updated>2022-05-12T10:02:56.000Z</updated>
+        <summary type="html"><![CDATA[South Korea says North Korea has fired an unidentified missile toward the sea.]]></summary>
+        <author>
+            <name>ABC News: International</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sri Lanka court bans ex-PM Rajapaksa, allies from leaving country]]></title>
+        <id>https://www.aljazeera.com/?t=1652347395</id>
+        <link href="https://www.aljazeera.com/news/2022/5/12/sri-lanka-court-bans-ex-pm-rajapaksa-allies-from-leaving-country"/>
+        <updated>2022-05-12T10:00:48.000Z</updated>
+        <summary type="html"><![CDATA[Mahinda Rajapaksa, son Namal and 15 allies barred from leaving island over violence against anti-government protesters.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sweden sees highest inflation rate since 1991]]></title>
+        <id>https://abcnews.go.com/International/wireStory/sweden-sees-highest-inflation-rate-1991-84664932</id>
+        <link href="https://abcnews.go.com/International/wireStory/sweden-sees-highest-inflation-rate-1991-84664932"/>
+        <updated>2022-05-12T09:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Inflation in Sweden increased last month to its highest level since 1991]]></summary>
+        <author>
+            <name>ABC News: International</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[G7 foreign ministers meet to discuss Ukraine war, impacts]]></title>
+        <id>https://abcnews.go.com/International/wireStory/g7-foreign-ministers-meet-discuss-ukraine-war-impacts-84664769</id>
+        <link href="https://abcnews.go.com/International/wireStory/g7-foreign-ministers-meet-discuss-ukraine-war-impacts-84664769"/>
+        <updated>2022-05-12T09:53:20.000Z</updated>
+        <summary type="html"><![CDATA[Top diplomats from the Group of Seven wealthy nations are gathering in northern Germany to discuss the war in Ukraine]]></summary>
+        <author>
+            <name>ABC News: International</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Years late, London's 'game-changer' subway line set to open]]></title>
+        <id>https://abcnews.go.com/International/wireStory/years-late-londons-game-changer-subway-line-set-84664770</id>
+        <link href="https://abcnews.go.com/International/wireStory/years-late-londons-game-changer-subway-line-set-84664770"/>
+        <updated>2022-05-12T09:53:06.000Z</updated>
+        <summary type="html"><![CDATA[A new rail line that builders say will transform travel in London is to open.]]></summary>
+        <author>
+            <name>ABC News: International</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Korea fires missile toward sea: South Korea]]></title>
+        <id>https://timesofindia.indiatimes.com/world/rest-of-world/north-korea-fires-missile-toward-sea-south-korea/articleshow/91515485.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/rest-of-world/north-korea-fires-missile-toward-sea-south-korea/articleshow/91515485.cms"/>
+        <updated>2022-05-12T09:52:59.000Z</updated>
+        <summary type="html"><![CDATA[South Korea says North Korea has fired an unidentified missile toward the sea. South Korea's Joint Chiefs of Staff says in a statement the North Korean missile flew toward its eastern waters on Thursday. It gave no further details.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japan's Defense Ministry says missile fired by North Korea could be a possible ballistic missile]]></title>
+        <id>https://abcnews.go.com/International/wireStory/japans-defense-ministry-missile-fired-north-korea-ballistic-84664857</id>
+        <link href="https://abcnews.go.com/International/wireStory/japans-defense-ministry-missile-fired-north-korea-ballistic-84664857"/>
+        <updated>2022-05-12T09:52:26.000Z</updated>
+        <summary type="html"><![CDATA[Japan's Defense Ministry says missile fired by North Korea could be a possible ballistic missile]]></summary>
+        <author>
+            <name>ABC News: International</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bitcoin plunges below $27,000, erases 2021 gains as crypto sell-off intensifies]]></title>
         <id>107059974</id>
         <link href="https://www.cnbc.com/2022/05/12/bitcoin-btc-price-falls-below-27000-as-crypto-sell-off-intensifies.html"/>
@@ -34,6 +104,36 @@
         <summary type="html"><![CDATA[Bitcoin slumped below $27,000 Thursday for the first time in over 16 months as cryptocurrency markets extended their losses.]]></summary>
         <author>
             <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Israel says "not certain" who killed Palestinian-American journalist]]></title>
+        <id>34f26f60-0e1f-483c-8bf2-6fb80ae5b2c0</id>
+        <link href="https://www.cbsnews.com/news/shireen-abu-akleh-al-jazeera-journalist-killed-israel-funeral-west-bank/"/>
+        <updated>2022-05-12T09:48:39.000Z</updated>
+        <summary type="html"><![CDATA[After PM suggested Shireen Abu Akleh was "likely" killed by Palestinian gunmen, defense chief concedes the fatal shot could have come from "our side."]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nepali Sherpa breaks her own record for most Everest summits by a woman]]></title>
+        <id>5dee346f-ca77-40c3-800e-a4a99f4dfb86</id>
+        <link href="https://www.cbsnews.com/news/nepali-sherpa-breaks-her-own-record-for-most-mount-everest-summits-by-a-woman/"/>
+        <updated>2022-05-12T09:48:16.000Z</updated>
+        <summary type="html"><![CDATA[Lakpa Sherpa, who now lives in Connecticut, reached the top of the world's highest mountain for the 10th time just days after a male climber beat his own record.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finland's leaders advocate NATO membership 'without delay']]></title>
+        <id>https://abcnews.go.com/International/wireStory/finlands-leaders-favor-applying-nato-membership-84663525</id>
+        <link href="https://abcnews.go.com/International/wireStory/finlands-leaders-favor-applying-nato-membership-84663525"/>
+        <updated>2022-05-12T09:46:44.000Z</updated>
+        <summary type="html"><![CDATA[Finland’s president and prime minister say they’re in favor of applying for NATO membership]]></summary>
+        <author>
+            <name>ABC News: International</name>
         </author>
     </entry>
     <entry>
@@ -87,6 +187,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Covid claims 1 million US lives, leaving trail of loss]]></title>
+        <id>https://timesofindia.indiatimes.com/world/us/covid-claims-1-million-us-lives-leaving-trail-of-loss/articleshow/91514823.cms</id>
+        <link href="https://timesofindia.indiatimes.com/world/us/covid-claims-1-million-us-lives-leaving-trail-of-loss/articleshow/91514823.cms"/>
+        <updated>2022-05-12T09:40:55.000Z</updated>
+        <summary type="html"><![CDATA[The 1 million mark is a stark reminder of the staggering grief and loss caused by the pandemic even as the threat posed by the virus wanes in the minds of many people. It represents about one death for every 327 Americans, or more than the entire population of San Francisco or Seattle.]]></summary>
+        <author>
+            <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[South Korea says North Korea has fired an unidentified projectile toward sea]]></title>
+        <id>https://abcnews.go.com/International/wireStory/south-korea-north-korea-fired-unidentified-projectile-sea-84664855</id>
+        <link href="https://abcnews.go.com/International/wireStory/south-korea-north-korea-fired-unidentified-projectile-sea-84664855"/>
+        <updated>2022-05-12T09:39:52.000Z</updated>
+        <summary type="html"><![CDATA[South Korea says North Korea has fired an unidentified projectile toward sea]]></summary>
+        <author>
+            <name>ABC News: International</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Poland claims Russia spreading ideological ‘cancer’]]></title>
         <id>https://www.rt.com/news/555351-morawiecki-russian-nationalism-cancer/</id>
         <link href="https://www.rt.com/news/555351-morawiecki-russian-nationalism-cancer/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
@@ -95,6 +215,26 @@
 Read Full Article at RT.com]]></summary>
         <author>
             <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Kremlin says that Finland's move to join NATO won't help stability and security in Europe]]></title>
+        <id>https://abcnews.go.com/International/wireStory/kremlin-finlands-move-join-nato-stability-security-europe-84664854</id>
+        <link href="https://abcnews.go.com/International/wireStory/kremlin-finlands-move-join-nato-stability-security-europe-84664854"/>
+        <updated>2022-05-12T09:38:25.000Z</updated>
+        <summary type="html"><![CDATA[The Kremlin says that Finland's move to join NATO won't help stability and security in Europe]]></summary>
+        <author>
+            <name>ABC News: International</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden to order federal flags to fly at half-staff as the U.S. Covid toll nears one million.]]></title>
+        <id>https://www.nytimes.com/2022/05/12/world/biden-covid-deaths-flags-half-staff.html</id>
+        <link href="https://www.nytimes.com/2022/05/12/world/biden-covid-deaths-flags-half-staff.html"/>
+        <updated>2022-05-12T09:34:55.000Z</updated>
+        <summary type="html"><![CDATA[“We must remain vigilant against this pandemic and do everything we can to save as many lives as possible, as we have with more testing, vaccines, and treatments than ever before,” the president said.]]></summary>
+        <author>
+            <name>Sheryl Gay Stolberg</name>
         </author>
     </entry>
     <entry>
@@ -125,6 +265,26 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[“Russia’s invasion of Ukraine has altered the European and Finnish security environment," Foreign Minister Pekka Haavisto told Parliament.]]></summary>
         <author>
             <name>Annabelle Timsit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden calls to congratulate presumptive Philippine president]]></title>
+        <id>https://abcnews.go.com/International/wireStory/biden-calls-congratulate-presumptive-philippine-president-84660978</id>
+        <link href="https://abcnews.go.com/International/wireStory/biden-calls-congratulate-presumptive-philippine-president-84660978"/>
+        <updated>2022-05-12T09:32:22.000Z</updated>
+        <summary type="html"><![CDATA[President Joe Biden has called Ferdinand Marcos Jr. to congratulate him on his apparent landslide victory in the Philippine presidential election]]></summary>
+        <author>
+            <name>ABC News: International</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Years late, London's 'game-changer' subway line set to open]]></title>
+        <id>https://abcnews.go.com/International/wireStory/years-late-londons-game-changer-subway-line-set-84664752</id>
+        <link href="https://abcnews.go.com/International/wireStory/years-late-londons-game-changer-subway-line-set-84664752"/>
+        <updated>2022-05-12T09:31:37.000Z</updated>
+        <summary type="html"><![CDATA[A new rail line that builders say will transform travel in London is set to open]]></summary>
+        <author>
+            <name>ABC News: International</name>
         </author>
     </entry>
     <entry>
@@ -198,6 +358,36 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Qatari emir in Iran for talks amid tensions over nuke deal]]></title>
+        <id>https://abcnews.go.com/International/wireStory/qatari-emir-iran-talks-amid-tensions-nuke-deal-84664350</id>
+        <link href="https://abcnews.go.com/International/wireStory/qatari-emir-iran-talks-amid-tensions-nuke-deal-84664350"/>
+        <updated>2022-05-12T09:18:11.000Z</updated>
+        <summary type="html"><![CDATA[Qatar’s emir has arrived in Iran for talks with the Iranian president, state media reported, as efforts to save Tehran’s tattered nuclear deal with world powers hit a deadlock]]></summary>
+        <author>
+            <name>ABC News: International</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Somalia set to elect new president amid growing insecurity]]></title>
+        <id>https://abcnews.go.com/International/wireStory/somalia-set-elect-president-amid-growing-insecurity-84664120</id>
+        <link href="https://abcnews.go.com/International/wireStory/somalia-set-elect-president-amid-growing-insecurity-84664120"/>
+        <updated>2022-05-12T09:18:02.000Z</updated>
+        <summary type="html"><![CDATA[Somalia is set to hold its long-delayed presidential vote on Sunday, ending the convoluted electoral process that raised tensions in the country when the president’s term expired last year without a successor in place]]></summary>
+        <author>
+            <name>ABC News: International</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chemical plant blast in Slovenia injures at least 20]]></title>
+        <id>https://abcnews.go.com/International/wireStory/chemical-plant-blast-slovenia-injures-10-84663790</id>
+        <link href="https://abcnews.go.com/International/wireStory/chemical-plant-blast-slovenia-injures-10-84663790"/>
+        <updated>2022-05-12T09:16:43.000Z</updated>
+        <summary type="html"><![CDATA[An explosion and fire at a chemical plant in southeast Slovenia have injured at least 20 people]]></summary>
+        <author>
+            <name>ABC News: International</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Somalia set to elect new president amid growing insecurity]]></title>
         <id>https://www.washingtonpost.com/world/somalia-set-to-elect-new-president-amid-growing-insecurity/2022/05/12/6313c112-d1d2-11ec-886b-df76183d233f_story.html?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world</id>
         <link href="https://www.washingtonpost.com/world/somalia-set-to-elect-new-president-amid-growing-insecurity/2022/05/12/6313c112-d1d2-11ec-886b-df76183d233f_story.html?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world"/>
@@ -205,6 +395,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Somalia is set to hold its long-delayed presidential vote on Sunday, ending the convoluted electoral process that raised tensions in the country when the president’s term expired last year without a successor in place]]></summary>
         <author>
             <name>Omar Faruk | AP</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia continues steel mill airstrikes as Ukraine seeks deal]]></title>
+        <id>https://abcnews.go.com/International/wireStory/ukraine-offers-swap-prisoners-hurt-mariupol-fighters-84661451</id>
+        <link href="https://abcnews.go.com/International/wireStory/ukraine-offers-swap-prisoners-hurt-mariupol-fighters-84661451"/>
+        <updated>2022-05-12T09:14:57.000Z</updated>
+        <summary type="html"><![CDATA[Russian forces are continuing their airstrikes on the Azovstal steel mill.]]></summary>
+        <author>
+            <name>ABC News: International</name>
         </author>
     </entry>
     <entry>
@@ -235,6 +435,26 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Ukraine War: Russian strike on a town in Ukraine's northern Chernigiv region, killing three people. The strike took place at night and hit critical infrastructure, including a school, Chernigiv...]]></summary>
         <author>
             <name>NDTV News - World-news</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU Commission to end relaxed COVID-19 state aid scheme]]></title>
+        <id>https://abcnews.go.com/International/wireStory/eu-commission-end-relaxed-covid-19-state-aid-84664119</id>
+        <link href="https://abcnews.go.com/International/wireStory/eu-commission-end-relaxed-covid-19-state-aid-84664119"/>
+        <updated>2022-05-12T09:03:03.000Z</updated>
+        <summary type="html"><![CDATA[The European Commission says it will gradually put an end to temporary rules that allowed the 27 EU member countries to benefit from extra public support during the coronavirus pandemic]]></summary>
+        <author>
+            <name>ABC News: International</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['This tears my soul apart': A Ukrainian boy and a killing]]></title>
+        <id>https://abcnews.go.com/International/wireStory/tears-soul-ukrainian-boy-killing-84662945</id>
+        <link href="https://abcnews.go.com/International/wireStory/tears-soul-ukrainian-boy-killing-84662945"/>
+        <updated>2022-05-12T09:02:27.000Z</updated>
+        <summary type="html"><![CDATA[As he listened to his father die, the boy lay still on the asphalt]]></summary>
+        <author>
+            <name>ABC News: International</name>
         </author>
     </entry>
     <entry>
@@ -308,6 +528,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[UK economic growth slows, raising recession concerns]]></title>
+        <id>https://abcnews.go.com/International/wireStory/uk-economic-growth-slows-raising-recession-concerns-84664077</id>
+        <link href="https://abcnews.go.com/International/wireStory/uk-economic-growth-slows-raising-recession-concerns-84664077"/>
+        <updated>2022-05-12T08:52:26.000Z</updated>
+        <summary type="html"><![CDATA[Britain’s economy grew at the slowest pace in a year during the first quarter as retailers and manufacturers were hurt by supply disruptions and higher prices]]></summary>
+        <author>
+            <name>ABC News: International</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[U.K. law could send Ukrainian refugees who enter via Ireland to Rwanda]]></title>
         <id>https://www.washingtonpost.com/world/2022/05/12/ukraine-refugees-rwanda-britain-ireland/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world</id>
         <link href="https://www.washingtonpost.com/world/2022/05/12/ukraine-refugees-rwanda-britain-ireland/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=wp_world"/>
@@ -315,6 +545,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[British Prime Minister Boris Johnson said his plan was intended to cut illegal sea crossings, but Ukrainians fleeing war could be included by default.]]></summary>
         <author>
             <name>Rachel Pannett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finland's leaders say they are in favor of seeking NATO membership]]></title>
+        <id>https://www.npr.org/2022/05/12/1098456961/finland-leaders-seek-nato-membership</id>
+        <link href="https://www.npr.org/2022/05/12/1098456961/finland-leaders-seek-nato-membership"/>
+        <updated>2022-05-12T08:49:28.000Z</updated>
+        <summary type="html"><![CDATA[The statement by the president and prime minister comes a day after British Prime Minister Boris Johnson visited both Finland and Sweden to sign a military cooperation agreement.]]></summary>
+        <author>
+            <name>The Associated Press</name>
         </author>
     </entry>
     <entry>
@@ -345,6 +585,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[As the Russia-Ukraine war enters its 78th day, we take a look at the main developments.]]></summary>
         <author>
             <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japan's Nissan returns to profit despite chips shortages]]></title>
+        <id>https://abcnews.go.com/International/wireStory/japans-nissan-returns-profit-chips-shortages-84663993</id>
+        <link href="https://abcnews.go.com/International/wireStory/japans-nissan-returns-profit-chips-shortages-84663993"/>
+        <updated>2022-05-12T08:42:11.000Z</updated>
+        <summary type="html"><![CDATA[Japanese automaker Nissan has returned to profitability for the first time in three fiscal years, despite challenges such as supply shortages caused by the pandemic and soaring costs]]></summary>
+        <author>
+            <name>ABC News: International</name>
         </author>
     </entry>
     <entry>
@@ -388,6 +638,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Arrested Hong Kong cardinal a fiery critic of Beijing]]></title>
+        <id>https://abcnews.go.com/International/wireStory/arrested-hong-kong-cardinal-fiery-critic-beijing-84663650</id>
+        <link href="https://abcnews.go.com/International/wireStory/arrested-hong-kong-cardinal-fiery-critic-beijing-84663650"/>
+        <updated>2022-05-12T08:32:13.000Z</updated>
+        <summary type="html"><![CDATA[Cardinal Joseph Zen left a police station on bail Wednesday night.]]></summary>
+        <author>
+            <name>ABC News: International</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Wildfire Engulfs Upscale Locality In California, Evacuation Underway]]></title>
         <id>2968793</id>
         <link href="https://www.ndtv.com/world-news/california-wildfire-engulfs-several-homes-in-upscale-locality-evacuation-underway-2968793"/>
@@ -408,6 +668,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Israel levels Palestinian homes ahead of settlement approval]]></title>
+        <id>https://abcnews.go.com/International/wireStory/israel-levels-palestinian-homes-ahead-settlement-approval-84663662</id>
+        <link href="https://abcnews.go.com/International/wireStory/israel-levels-palestinian-homes-ahead-settlement-approval-84663662"/>
+        <updated>2022-05-12T08:30:34.000Z</updated>
+        <summary type="html"><![CDATA[Israel’s military has demolished 18 buildings and structures in the occupied West Bank following a Supreme Court decision that would force around 1,000 Palestinians out of an area declared a firing zone]]></summary>
+        <author>
+            <name>ABC News: International</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Markets in Hong Kong and Taiwan fall more than 2% as Asia tech stocks slide]]></title>
         <id>107059810</id>
         <link href="https://www.cnbc.com/2022/05/12/asia-markets-us-inflation-data-wall-street-declines-currencies-oil.html"/>
@@ -425,6 +695,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Israel’s military has demolished 18 buildings and structures in the occupied West Bank following a Supreme Court decision that would force around 1,000 Palestinians out of an area declared a firing zone]]></summary>
         <author>
             <name>Associated Press</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palestinians reject probe with Israel of reporter's killing]]></title>
+        <id>https://abcnews.go.com/International/wireStory/palestinians-reject-probe-israel-reporters-killing-84663910</id>
+        <link href="https://abcnews.go.com/International/wireStory/palestinians-reject-probe-israel-reporters-killing-84663910"/>
+        <updated>2022-05-12T08:26:02.000Z</updated>
+        <summary type="html"><![CDATA[The Palestinians rejected an Israeli request for a joint probe into the death.]]></summary>
+        <author>
+            <name>ABC News: International</name>
         </author>
     </entry>
     <entry>
@@ -455,6 +735,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[German and Finnish firms join the list of mostly Western firms that have halted business over conflict.]]></summary>
         <author>
             <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Protesters vent fury at French company for staying in Russia]]></title>
+        <id>https://abcnews.go.com/International/wireStory/protesters-vent-fury-french-company-staying-russia-84663786</id>
+        <link href="https://abcnews.go.com/International/wireStory/protesters-vent-fury-french-company-staying-russia-84663786"/>
+        <updated>2022-05-12T08:15:02.000Z</updated>
+        <summary type="html"><![CDATA[In the weeks after Russia invaded Ukraine, a protest movement was born in Poland urging people to boycott companies that have chosen to keep operating in Russia]]></summary>
+        <author>
+            <name>ABC News: International</name>
         </author>
     </entry>
     <entry>
@@ -515,6 +805,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Ukrainian forces have pushed the enemy within 10km of the Russian border and continue to thwart Russian attacks.]]></summary>
         <author>
             <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Catholic cardinal and others are arrested on Hong Kong security law]]></title>
+        <id>https://www.npr.org/2022/05/12/1098453568/catholic-cardinal-arrested-in-hong-kong</id>
+        <link href="https://www.npr.org/2022/05/12/1098453568/catholic-cardinal-arrested-in-hong-kong"/>
+        <updated>2022-05-12T07:50:26.000Z</updated>
+        <summary type="html"><![CDATA[The White House and U.S. politicians join others around the world in calling for the release of a retired archbishop, singer and others in the Chinese territory.]]></summary>
+        <author>
+            <name>The Associated Press</name>
         </author>
     </entry>
     <entry>
@@ -579,6 +879,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[EXPLAINER: Who's the Swedish doctor facing execution in Iran]]></title>
+        <id>https://abcnews.go.com/International/wireStory/explainer-swedish-doctor-facing-execution-iran-84662943</id>
+        <link href="https://abcnews.go.com/International/wireStory/explainer-swedish-doctor-facing-execution-iran-84662943"/>
+        <updated>2022-05-12T07:24:56.000Z</updated>
+        <summary type="html"><![CDATA[Iran is scheduled to put to death a 50-year-old Swedish-Iranian physician within nine days]]></summary>
+        <author>
+            <name>ABC News: International</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[On Camera, Beach House In US Collapses Into Ocean As Sea Levels Rise]]></title>
         <id>2968579</id>
         <link href="https://www.ndtv.com/world-news/on-camera-beach-house-in-us-collapses-and-floats-in-water-as-sea-level-rises-2968579"/>
@@ -597,6 +907,16 @@ Read Full Article at RT.com]]></summary>
 Read Full Article at RT.com]]></summary>
         <author>
             <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finland’s leadership supports joining NATO, paving way for membership application amid Russia's war in Ukraine]]></title>
+        <id>https://abcnews.go.com/International/wireStory/finlands-leadership-supports-joining-nato-paving-membership-application-84663442</id>
+        <link href="https://abcnews.go.com/International/wireStory/finlands-leadership-supports-joining-nato-paving-membership-application-84663442"/>
+        <updated>2022-05-12T07:03:25.000Z</updated>
+        <summary type="html"><![CDATA[Finland’s leadership supports joining NATO, paving way for membership application amid Russia's war in Ukraine]]></summary>
+        <author>
+            <name>ABC News: International</name>
         </author>
     </entry>
     <entry>
@@ -630,6 +950,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[North Korea confirms 1st COVID outbreak as Kim orders lockdown]]></title>
+        <id>https://www.npr.org/2022/05/12/1098454391/north-korea-confirms-1st-covid-outbreak-kim-orders-lockdown</id>
+        <link href="https://www.npr.org/2022/05/12/1098454391/north-korea-confirms-1st-covid-outbreak-kim-orders-lockdown"/>
+        <updated>2022-05-12T06:56:52.000Z</updated>
+        <summary type="html"><![CDATA[While the scale of the outbreak isn't known, it could have serious consequences because the country has a poor health care system and its 26 million people are believed to be mostly unvaccinated.]]></summary>
+        <author>
+            <name>The Associated Press</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Shireen Abu Aqla: UN chief appalled at Al Jazeera reporter's killing]]></title>
         <id>https://www.bbc.co.uk/news/world-middle-east-61419699</id>
         <link href="https://www.bbc.co.uk/news/world-middle-east-61419699?at_medium=RSS&amp;at_campaign=KARANGA"/>
@@ -647,6 +977,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[The summit will demonstrate "enduring commitment" to ASEAN and commemorate 45 years of relations with the Southeast Asian grouping, the White House says]]></summary>
         <author>
             <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese ambassador says Solomons pact no threat to Australia]]></title>
+        <id>https://abcnews.go.com/International/wireStory/chinese-ambassador-solomons-pact-threat-australia-84662780</id>
+        <link href="https://abcnews.go.com/International/wireStory/chinese-ambassador-solomons-pact-threat-australia-84662780"/>
+        <updated>2022-05-12T06:28:26.000Z</updated>
+        <summary type="html"><![CDATA[A Chinese ambassador says China’s engagement with South Pacific island countries poses no threat to Australia, responding to fears that Beijing will establish a military foothold in the Solomon Islands]]></summary>
+        <author>
+            <name>ABC News: International</name>
         </author>
     </entry>
     <entry>
@@ -1022,6 +1362,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[North Korea confirms its first COVID-19 case]]></title>
+        <id>3f65e533-8560-4d90-88f0-d9f5d06de4c9</id>
+        <link href="https://www.cbsnews.com/news/north-korea-covid-case-kim-jong-un/"/>
+        <updated>2022-05-12T01:55:43.000Z</updated>
+        <summary type="html"><![CDATA[North Korea had previously claimed a perfect record in keeping out COVID-19, a claim widely doubted by outside experts.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[US sets intelligence ‘rules’ for Ukraine – media]]></title>
         <id>https://www.rt.com/news/555339-us-ukraine-intelligence-sharing-rules/</id>
         <link href="https://www.rt.com/news/555339-us-ukraine-intelligence-sharing-rules/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
@@ -1215,6 +1565,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Palestinian-American reporter killed covering Israeli raid in West Bank]]></title>
+        <id>49a03e64-f835-40ff-9ea5-4c6e41327593</id>
+        <link href="https://www.cbsnews.com/news/shireen-abu-akleh-killed-west-bank-israel-al-jazeera-palestinian-american-journalist/"/>
+        <updated>2022-05-11T22:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Al Jazeera and the Palestinian Authority say Israeli forces killed Shireen Abu Akleh. Israel says there's a "considerable chance" Palestinian gunmen killed her.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['No idea' passenger lands Florida plane as pilot falls ill]]></title>
         <id>https://www.bbc.co.uk/news/world-us-canada-61416384</id>
         <link href="https://www.bbc.co.uk/news/world-us-canada-61416384?at_medium=RSS&amp;at_campaign=KARANGA"/>
@@ -1262,6 +1622,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[The car is seen drifting towards traffic before strangers intervened on a busy road in Florida.]]></summary>
         <author>
             <name>BBC News - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Great Barrier Reef survey reveals vast extent of coral bleaching]]></title>
+        <id>3e2d0dff-790f-48f5-9a09-a502994e6579</id>
+        <link href="https://www.cbsnews.com/news/great-barrier-reef-coral-bleaching-91-percent-report/"/>
+        <updated>2022-05-11T22:27:31.000Z</updated>
+        <summary type="html"><![CDATA[Researchers say climate change is "the greatest threat to the Reef."]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
         </author>
     </entry>
     <entry>
@@ -1368,6 +1738,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What to know about summer travel protection amid COVID cancellations]]></title>
+        <id>7449cb28-e5c8-4ebd-97fa-bc4a45027420</id>
+        <link href="https://www.cbsnews.com/video/what-to-know-about-summer-travel-protection-amid-covid-cancellations/"/>
+        <updated>2022-05-11T21:31:19.000Z</updated>
+        <summary type="html"><![CDATA[CBS News senior travel adviser Peter Greenberg joins "CBS Mornings" with the best way to protect your vacation from financial loss and how to navigate COVID rules.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[North Carolina: The moment a beach house collapsed into the sea]]></title>
         <id>https://www.bbc.co.uk/news/world-us-canada-61415378</id>
         <link href="https://www.bbc.co.uk/news/world-us-canada-61415378?at_medium=RSS&amp;at_campaign=KARANGA"/>
@@ -1375,6 +1755,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[The stilts holding up the house gave way after being struck by high winds and strong tides.]]></summary>
         <author>
             <name>BBC News - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 big ideas for the White House's Global COVID Summit]]></title>
+        <id>https://www.npr.org/sections/goatsandsoda/2022/05/11/1098378802/5-big-ideas-for-the-white-houses-global-covid-summit</id>
+        <link href="https://www.npr.org/sections/goatsandsoda/2022/05/11/1098378802/5-big-ideas-for-the-white-houses-global-covid-summit"/>
+        <updated>2022-05-11T21:18:24.000Z</updated>
+        <summary type="html"><![CDATA[We asked experts from around the world: What would they like to see on the agenda for this virtual event. Their ideas include fair pay for all health workers — and a makeover for foreign aid.]]></summary>
+        <author>
+            <name>KAMALA THIAGARAJAN</name>
         </author>
     </entry>
     <entry>
@@ -1387,6 +1777,16 @@ Read Full Article at RT.com]]></summary>
 				</p><p><a href="https://www.globalissues.org/news/2022/05/11/30825">Read the full story, “Another European war ‘not an impossibility’; Unity crucial in Bosnia and Herzegovina”, on globalissues.org</a> →</p>]]></summary>
         <author>
             <name>Global Issues News Headlines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A look at Hong Kong's new leader, John Lee — and his history with the territory]]></title>
+        <id>https://www.npr.org/2022/05/11/1098368229/a-look-at-hong-kongs-new-leader-john-lee-and-his-history-with-the-territory</id>
+        <link href="https://www.npr.org/2022/05/11/1098368229/a-look-at-hong-kongs-new-leader-john-lee-and-his-history-with-the-territory"/>
+        <updated>2022-05-11T21:12:51.000Z</updated>
+        <summary type="html"><![CDATA[Hong Kong's new leader, John Lee, rose through the law enforcement ranks to become the territory's No. 2 under outgoing Chief Executive Carrie Lam. He faces governing a divided and mistrustful city.]]></summary>
+        <author>
+            <name>John Ruwitch</name>
         </author>
     </entry>
     <entry>
@@ -1411,6 +1811,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Russia-Ukraine war: What happened today (May 11)]]></title>
+        <id>https://www.npr.org/2022/05/11/1098305702/russia-ukraine-war-what-happened-today-may-11</id>
+        <link href="https://www.npr.org/2022/05/11/1098305702/russia-ukraine-war-what-happened-today-may-11"/>
+        <updated>2022-05-11T20:57:24.000Z</updated>
+        <summary type="html"><![CDATA[A roundup of key developments and the latest in-depth coverage of Russia's invasion of Ukraine.]]></summary>
+        <author>
+            <name>NPR Staff</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Your Thursday Briefing: A Journalist Killed in the West Bank]]></title>
         <id>https://www.nytimes.com/2022/05/11/briefing/journalist-west-bank-al-jazeera.html</id>
         <link href="https://www.nytimes.com/2022/05/11/briefing/journalist-west-bank-al-jazeera.html"/>
@@ -1430,6 +1840,36 @@ Read Full Article at RT.com]]></summary>
 				</p><p><a href="https://www.globalissues.org/news/2022/05/11/30820">Read the full story, “Yemen: $33 million pledged to address decaying oil tanker threat”, on globalissues.org</a> →</p>]]></summary>
         <author>
             <name>Global Issues News Headlines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A spying scandal and the fate of Western Sahara]]></title>
+        <id>https://www.npr.org/2022/05/11/1098368201/a-spying-scandal-and-the-fate-of-western-sahara</id>
+        <link href="https://www.npr.org/2022/05/11/1098368201/a-spying-scandal-and-the-fate-of-western-sahara"/>
+        <updated>2022-05-11T20:36:18.000Z</updated>
+        <summary type="html"><![CDATA[Diplomatic relations between Spain and Morocco are tense after it was revealed that the phone of Spanish Prime Minister Pedro Sanchez had been hacked with the spyware Pegasus.]]></summary>
+        <author>
+            <name>Adrian Florido</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India's Supreme Court will soon rule on Muslim headscarves in public schools]]></title>
+        <id>https://www.npr.org/2022/05/11/1098368173/muslim-girls-in-india-are-missing-out-on-education-as-they-fight-classroom-hijab</id>
+        <link href="https://www.npr.org/2022/05/11/1098368173/muslim-girls-in-india-are-missing-out-on-education-as-they-fight-classroom-hijab"/>
+        <updated>2022-05-11T20:27:46.000Z</updated>
+        <summary type="html"><![CDATA[When her high school banned the hijab, Ayesha Shifa sued — and her case went to India's Supreme Court. A verdict, expected soon, may redefine what secularism means in the world's largest democracy.]]></summary>
+        <author>
+            <name>Lauren Frayer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Al Jazeera journalist Shireen Abu Akleh was shot and killed in West Bank]]></title>
+        <id>https://www.npr.org/2022/05/11/1098368159/al-jazeera-journalist-shireen-abu-akleh-was-shot-and-killed-in-west-bank</id>
+        <link href="https://www.npr.org/2022/05/11/1098368159/al-jazeera-journalist-shireen-abu-akleh-was-shot-and-killed-in-west-bank"/>
+        <updated>2022-05-11T20:27:46.000Z</updated>
+        <summary type="html"><![CDATA[A prominent Palestinian-American journalist was killed in the West Bank and her network blames Israeli forces. Israel says it's possible Palestinian gunmen shot her, but says it will investigate.]]></summary>
+        <author>
+            <name>Daniel Estrin</name>
         </author>
     </entry>
     <entry>
@@ -1598,6 +2038,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ukraine tries its first Russian soldier for alleged war crimes]]></title>
+        <id>https://www.npr.org/2022/05/11/1098242940/ukraine-russia-war-crimes-trial</id>
+        <link href="https://www.npr.org/2022/05/11/1098242940/ukraine-russia-war-crimes-trial"/>
+        <updated>2022-05-11T16:58:21.000Z</updated>
+        <summary type="html"><![CDATA[Prosecutor General Iryna Venediktova says 21-year-old Vadim Shishimarin shot and killed an unarmed man while fleeing from Ukrainian defense forces. He's in custody and could face life in prison.]]></summary>
+        <author>
+            <name>Rachel Treisman</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ukraine: UN labour agency update shows 4.8 million jobs lost to war]]></title>
         <id>https://www.globalissues.org/news/2022/05/11/30822</id>
         <link href="https://www.globalissues.org/news/2022/05/11/30822"/>
@@ -1607,6 +2057,26 @@ Read Full Article at RT.com]]></summary>
 				</p><p><a href="https://www.globalissues.org/news/2022/05/11/30822">Read the full story, “Ukraine: UN labour agency update shows 4.8 million jobs lost to war”, on globalissues.org</a> →</p>]]></summary>
         <author>
             <name>Global Issues News Headlines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A fan-favorite band from Ukraine advances to the Eurovision grand final]]></title>
+        <id>https://www.npr.org/2022/05/11/1098229013/eurovision-ukraine-kalush-orchestra-final</id>
+        <link href="https://www.npr.org/2022/05/11/1098229013/eurovision-ukraine-kalush-orchestra-final"/>
+        <updated>2022-05-11T16:39:44.000Z</updated>
+        <summary type="html"><![CDATA[Ukrainian folk-rap group Kalush Orchestra will compete in the final round of the competition on Saturday. Their song "Stefania" is about the singer's mom, but has taken on new meaning during the war.]]></summary>
+        <author>
+            <name>Rachel Treisman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hope for thousands of inmates as India's top court halts sedition law]]></title>
+        <id>02eb292d-34e5-4378-85e5-58d5d52513aa</id>
+        <link href="https://www.cbsnews.com/news/sedition-law-india-supreme-court-order-halts-colonial-era-law/"/>
+        <updated>2022-05-11T16:20:45.000Z</updated>
+        <summary type="html"><![CDATA[The colonial-era law permits arrest without warrant of anyone accused of speaking or acting against the government. More than 13,000 are said to be imprisoned under it right now.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
         </author>
     </entry>
     <entry>
@@ -1620,6 +2090,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Indian court unable to decide if rape in a marriage should be illegal]]></title>
+        <id>6b78b8ae-0893-434c-a2ed-0836e45ee745</id>
+        <link href="https://www.cbsnews.com/news/india-marital-spousal-rape-law-delhi-court-no-verdict/"/>
+        <updated>2022-05-11T16:17:12.000Z</updated>
+        <summary type="html"><![CDATA[India's penal code says forced sex between a husband and wife "is not rape." Those challenging that clause say they'll take the fight to the Supreme Court.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[New UN campaign aims to bring more young voices to halls of power]]></title>
         <id>https://www.globalissues.org/news/2022/05/11/30821</id>
         <link href="https://www.globalissues.org/news/2022/05/11/30821"/>
@@ -1629,6 +2109,16 @@ Read Full Article at RT.com]]></summary>
 				</p><p><a href="https://www.globalissues.org/news/2022/05/11/30821">Read the full story, “New UN campaign aims to bring more young voices to halls of power”, on globalissues.org</a> →</p>]]></summary>
         <author>
             <name>Global Issues News Headlines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parents worry about baby formula supply shortage]]></title>
+        <id>bbc26640-2d30-478b-aab2-d97e5695d1fc</id>
+        <link href="https://www.cbsnews.com/video/parents-worry-about-baby-formula-supply-shortage/"/>
+        <updated>2022-05-11T16:13:50.000Z</updated>
+        <summary type="html"><![CDATA[A worsening baby formula shortage worries families across the country. Janet Shamlian spoke to Texas parents facing the crisis firsthand]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
         </author>
     </entry>
     <entry>
@@ -1683,6 +2173,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Al Jazeera journalist Shireen Abu Akleh killed while reporting]]></title>
+        <id>de22edf6-50ab-408c-ba33-c73e9059b697</id>
+        <link href="https://www.cbsnews.com/video/al-jazeera-journalist-shireen-abu-akleh-killed-while-reporting/"/>
+        <updated>2022-05-11T15:16:19.000Z</updated>
+        <summary type="html"><![CDATA[Al Jazeera journalist Shireen Abu Akleh was fatally shot while covering the West Bank on Wednesday reporting on an Israeli raid. Imtiaz Tyab reports on her killing that witnesses claim was deliberate.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ukraine war: Snake Island and battle for control in Black Sea]]></title>
         <id>https://www.bbc.co.uk/news/world-europe-61406808</id>
         <link href="https://www.bbc.co.uk/news/world-europe-61406808?at_medium=RSS&amp;at_campaign=KARANGA"/>
@@ -1722,6 +2222,16 @@ Read Full Article at RT.com]]></summary>
 Read Full Article at RT.com]]></summary>
         <author>
             <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In eastern Ukraine's cities, brutal trench warfare awaits Russia's troops]]></title>
+        <id>3d6dd517-b0ba-407f-a841-39991f644469</id>
+        <link href="https://www.cbsnews.com/news/ukraine-news-russia-war-putin-setbacks-kharkiv-donbas-cities-trench-warfare/"/>
+        <updated>2022-05-11T13:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Putin's forces are flattening small towns in their bid to capture a huge chunk of eastern Ukraine. But in the cities, they'll face a well-armed, deeply entrenched resistance.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
         </author>
     </entry>
     <entry>
@@ -1767,6 +2277,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ukraine military fortifies cities in the east, ready to defend against Russian advances]]></title>
+        <id>1345d96c-ded0-433e-8869-6a2e35421497</id>
+        <link href="https://www.cbsnews.com/video/ukraine-military-fortifies-cities-in-the-east-ready-to-defend-against-russian-advances/"/>
+        <updated>2022-05-11T13:25:17.000Z</updated>
+        <summary type="html"><![CDATA[Charlie D'Agata is on the front lines in the city of Slovyansk, which has fortified itself against the Russian advances.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Doctors say these pandemic side effects are serious problems—and unlikely 'to go away anytime soon']]></title>
         <id>107055842</id>
         <link href="https://www.cnbc.com/2022/05/11/doctors-say-pandemic-side-effects-are-becoming-serious-health-problems.html"/>
@@ -1785,6 +2305,16 @@ Read Full Article at RT.com]]></summary>
 Read Full Article at RT.com]]></summary>
         <author>
             <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How one of Russia's neighbors is dealing with Putin's propaganda]]></title>
+        <id>https://www.npr.org/2022/05/11/1096856581/how-one-of-russias-neighbors-is-dealing-with-putins-propaganda</id>
+        <link href="https://www.npr.org/2022/05/11/1096856581/how-one-of-russias-neighbors-is-dealing-with-putins-propaganda"/>
+        <updated>2022-05-11T12:40:51.000Z</updated>
+        <summary type="html"><![CDATA[On the border with Russia, the Estonian town of Narva has strong cultural and linguistic ties with Russia. That makes it a target of Russian disinformation; something Estonians are trying to combat.]]></summary>
+        <author>
+            <name>Jenna McLaughlin</name>
         </author>
     </entry>
     <entry>
@@ -1820,6 +2350,36 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Putin preparing for "prolonged conflict" in Ukraine, intel chief says]]></title>
+        <id>9a27da6f-c14a-4fcb-84a1-e0a2091e631a</id>
+        <link href="https://www.cbsnews.com/news/russia-ukraine-conflict-putin-prolonged/"/>
+        <updated>2022-05-11T11:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Director of National Intelligence Avril Haines said the coming months could see a "more unpredictable and potentially escalatory trajectory" in the conflict.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global warming may exceed 1.5 degrees Celsius soon, report warns]]></title>
+        <id>3e750abc-cf26-47a0-8695-4754d8e4db22</id>
+        <link href="https://www.cbsnews.com/news/climate-change-global-warming-1-5-degrees-celsius/"/>
+        <updated>2022-05-11T11:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Scientists warn that the five-year forecast reveals a future where temperatures may exceed a dangerous threshold for longer time periods.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House approves $39.8 billion Ukraine aid bill]]></title>
+        <id>0757f06f-d932-4aff-8ee2-b0c3c41bf0b7</id>
+        <link href="https://www.cbsnews.com/news/ukraine-aid-bill-house-vote-39-8-billion/"/>
+        <updated>2022-05-11T11:41:00.000Z</updated>
+        <summary type="html"><![CDATA[The bill passed 368 to 57.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[EU has ‘no solution’ to fix damage from Russian oil ban – Hungary]]></title>
         <id>https://www.rt.com/news/555297-hungary-eu-no-solution/</id>
         <link href="https://www.rt.com/news/555297-hungary-eu-no-solution/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
@@ -1838,6 +2398,26 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Volkswagen confirmed to CNBC that its supervisory board would vote on the proposals on Wednesday.]]></summary>
         <author>
             <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to watch the "super flower blood moon" total lunar eclipse]]></title>
+        <id>d29cb571-2d79-4876-aa3b-89737e2a7498</id>
+        <link href="https://www.cbsnews.com/news/total-lunar-eclipse-may-15-how-to-watch-rare-super-flower-blood-moon/"/>
+        <updated>2022-05-11T11:15:00.000Z</updated>
+        <summary type="html"><![CDATA[A spectacular full moon is fast-approaching. Here's everything you need to know to see it.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Al Jazeera's Shireen Abu Akleh is killed while reporting on an Israeli raid]]></title>
+        <id>https://www.npr.org/2022/05/11/1098157067/al-jazeera-shireen-abu-akleh-killed-israel</id>
+        <link href="https://www.npr.org/2022/05/11/1098157067/al-jazeera-shireen-abu-akleh-killed-israel"/>
+        <updated>2022-05-11T10:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Abu Akleh, a Palestinian American, had been covering a military raid on the Jenin refugee camp "when she was shot in the face by a single bullet, despite wearing a press vest," Al Jazeera said.]]></summary>
+        <author>
+            <name>Bill Chappell</name>
         </author>
     </entry>
     <entry>
@@ -1892,6 +2472,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Solar projects are on hold as U.S. investigates whether China is skirting trade rules]]></title>
+        <id>https://www.npr.org/2022/05/11/1097644931/solar-panels-solar-power-u-s-investigates-china-trade-rules</id>
+        <link href="https://www.npr.org/2022/05/11/1097644931/solar-panels-solar-power-u-s-investigates-china-trade-rules"/>
+        <updated>2022-05-11T09:00:41.000Z</updated>
+        <summary type="html"><![CDATA[A federal investigation of allegations that China is illegally avoiding duties on solar panels sold to U.S. companies is putting the brakes on the nation's solar power build-out.]]></summary>
+        <author>
+            <name>Fred Bever</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[New Zealand fully reopens to the world in August: Ardern]]></title>
         <id>https://timesofindia.indiatimes.com/world/rest-of-world/new-zealand-fully-reopens-to-the-world-in-august-ardern/articleshow/91489071.cms</id>
         <link href="https://timesofindia.indiatimes.com/world/rest-of-world/new-zealand-fully-reopens-to-the-world-in-august-ardern/articleshow/91489071.cms"/>
@@ -1920,6 +2510,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Auto production plunged in April as Covid lockdowns halted nearly all non-essential business in Shanghai, the China Passenger Car Association said Tuesday.]]></summary>
         <author>
             <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shanghai maintains 'zero-COVID' policy but the U.N. says it is not sustainable]]></title>
+        <id>https://www.npr.org/2022/05/11/1098150456/shanghai-maintains-zero-covid-policy-but-the-u-n-says-it-is-not-sustainable</id>
+        <link href="https://www.npr.org/2022/05/11/1098150456/shanghai-maintains-zero-covid-policy-but-the-u-n-says-it-is-not-sustainable"/>
+        <updated>2022-05-11T08:19:19.000Z</updated>
+        <summary type="html"><![CDATA[The leader of the World Health Organization says he doesn't think that a 'zero-COVID' strategy is sustainable, given the behavior of the virus.]]></summary>
+        <author>
+            <name>The Associated Press</name>
         </author>
     </entry>
     <entry>
@@ -2067,6 +2667,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hotel Saratoga Havana explosion death toll rises to 43]]></title>
+        <id>22674718-ad5d-4889-8923-20710f095929</id>
+        <link href="https://www.cbsnews.com/news/hotel-saratoga-havana-cuba-explosion-death-toll/"/>
+        <updated>2022-05-11T01:06:51.000Z</updated>
+        <summary type="html"><![CDATA[Of the 43 people killed, at least 23 were workers at the hotel. Another 17 people remain hospitalized.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Spy chief fired amid cyber-snooping scandal]]></title>
         <id>https://www.rt.com/news/555278-spain-spy-chief-fired/</id>
         <link href="https://www.rt.com/news/555278-spain-spy-chief-fired/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
@@ -2149,6 +2759,26 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DEA zeroes in on China as fentanyl deaths soar]]></title>
+        <id>7d61d11d-ecea-4802-81af-c1c91cafc4bd</id>
+        <link href="https://www.cbsnews.com/news/fentanyl-china-mexico-drug-enforcement-administration/"/>
+        <updated>2022-05-10T23:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Materials used to make fentanyl are shipped from China to Mexico before flowing into the U.S., the Drug Enforcement Administration said.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haitian gang leader charged in kidnapping of missionaries]]></title>
+        <id>de243787-1819-4e59-abc8-81c425da02c4</id>
+        <link href="https://www.cbsnews.com/news/joly-germine-400-mawozo-gang-haiti-charged-kidnapping-missionaries/"/>
+        <updated>2022-05-10T22:55:49.000Z</updated>
+        <summary type="html"><![CDATA[Joly Germine, who already faces weapons trafficking charges​, now faces a charge of conspiracy to commit kidnapping.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Disturbing photos prompt panic on plane]]></title>
         <id>https://www.rt.com/news/555274-israel-turkey-plane-panic/</id>
         <link href="https://www.rt.com/news/555274-israel-turkey-plane-panic/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
@@ -2168,6 +2798,26 @@ Read Full Article at RT.com]]></summary>
 Read Full Article at RT.com]]></summary>
         <author>
             <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sri Lanka's prime minister resigns as protests turn deadly]]></title>
+        <id>01a00f93-4d22-4229-80c6-60d97046a954</id>
+        <link href="https://www.cbsnews.com/news/sri-lankas-prime-minister-mahinda-rajapaksa-resigns-protests-economy-turn-deadly/"/>
+        <updated>2022-05-10T20:56:30.000Z</updated>
+        <summary type="html"><![CDATA[Mahinda Rajapaksa's resignation followed violent confrontations between his supporters and anti-government protesters.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marcos Jr. favored to win presidential elections in the Philippines]]></title>
+        <id>97842176-8c0c-4cdd-9829-5abfbbd814c9</id>
+        <link href="https://www.cbsnews.com/video/marcos-jr-favored-to-win-presidential-elections-in-the-philippines/"/>
+        <updated>2022-05-10T20:33:18.000Z</updated>
+        <summary type="html"><![CDATA[Ferdinand Marcos Jr., the son of the former Philippines dictator, is projected to win the country’s presidential election. It's an election that could have broader implications for America's influence in the region. Liz Palmer reports.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
         </author>
     </entry>
     <entry>
@@ -2204,6 +2854,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2 more journalists killed in Mexico; 10th and 11th of the year]]></title>
+        <id>5e03c208-f3cc-46f4-8534-812ed8f4bb1e</id>
+        <link href="https://www.cbsnews.com/news/mexico-journalists-killed-yessenia-mollinedo-falconi-sheila-johana-garcia-olivera/"/>
+        <updated>2022-05-10T18:39:38.000Z</updated>
+        <summary type="html"><![CDATA[Mexico has a protection program for journalists and human rights defenders, but it was not immediately known whether the women were enrolled.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Japan imposes new sanctions on Russia]]></title>
         <id>https://www.rt.com/news/555264-japan-new-sanctions-russia-ukraine/</id>
         <link href="https://www.rt.com/news/555264-japan-new-sanctions-russia-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
@@ -2215,6 +2875,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA["Toad poison" hangover treatment reportedly kills Russian oil executive]]></title>
+        <id>a702d337-f4e6-4573-970a-c192a6ad27b9</id>
+        <link href="https://www.cbsnews.com/news/toad-poison-hangover-treatment-reportedly-kills-russian-oil-executive/"/>
+        <updated>2022-05-10T16:28:49.000Z</updated>
+        <summary type="html"><![CDATA[Lukoil board member Alexander Subbotin was found dead in the house of a local "shaman" who offered unorthodox treatments, some involving poisonous toads.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Xi Jinping reportedly suffering from 'cerebral aneurysm']]></title>
         <id>https://timesofindia.indiatimes.com/world/china/xi-jinping-reportedly-suffering-from-cerebral-aneurysm/articleshow/91474967.cms</id>
         <link href="https://timesofindia.indiatimes.com/world/china/xi-jinping-reportedly-suffering-from-cerebral-aneurysm/articleshow/91474967.cms"/>
@@ -2222,6 +2892,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Chinese President Xi Jinping is suffering from "cerebral aneurysm" and had to be hospitalized at the end of 2021, media reports said.It is learnt that he preferred to be treated with traditional Chinese medicines rather than going for surgery, which softens the blood vessels and shrinks aneurysm.Of late, there have been speculations about Xi's health as he had avoided meeting the foreign leaders since the outbreak of Covid-19 till the Beijing Winter Olympics.]]></summary>
         <author>
             <name>World News Headlines, Latest International News, World Breaking News - Times of India</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New South Korea leader takes oath, hints at bid to lure Kim back to talks]]></title>
+        <id>d2c0b71c-7c6b-465f-9ddb-86a5b8dd3f98</id>
+        <link href="https://www.cbsnews.com/news/south-korea-north-korea-president-yoon-suk-yeol-inauguration-kim-jong-un-us/"/>
+        <updated>2022-05-10T15:47:11.000Z</updated>
+        <summary type="html"><![CDATA[Yoon Suk-yeol was elected by voters fed up with his predecessor's moderate stance on the country's nuclear-armed neighbor. He says "the door to dialogue will remain open."]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
         </author>
     </entry>
     <entry>
@@ -2268,6 +2948,46 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Notorious Filipino dictator's son poised for landslide election victory]]></title>
+        <id>5af4efc3-836c-460a-b1d8-386331df2194</id>
+        <link href="https://www.cbsnews.com/news/philippines-election-dictator-ferdinand-marcos-son-bongbong-landslide-win/"/>
+        <updated>2022-05-10T14:04:58.000Z</updated>
+        <summary type="html"><![CDATA[Three decades after the family was driven from their country and convicted of robbing it of billions of dollars, the Marcos clan is about to take the reins again in the Philippines.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Police discover more than 110 pounds of cocaine near diver's body]]></title>
+        <id>6797b17a-b41a-40d1-8111-43d5c3f78bcd</id>
+        <link href="https://www.cbsnews.com/news/australian-police-110-pounds-cocaine-diver/"/>
+        <updated>2022-05-10T13:46:05.000Z</updated>
+        <summary type="html"><![CDATA[The drugs have an estimated street value of $20 million AUD, according to officials.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Humans are causing the ocean to lose its memory, study shows]]></title>
+        <id>4299e5ce-0899-42d3-9016-4acc67b48781</id>
+        <link href="https://www.cbsnews.com/news/ocean-memory-loss-climate-change-study/"/>
+        <updated>2022-05-10T13:45:41.000Z</updated>
+        <summary type="html"><![CDATA[A new study found that global warming is making it more challenging to predict ocean conditions, manage ecosystems and prepare for marine hazards.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia targets port city of Odesa]]></title>
+        <id>163ee98f-229b-4777-9da5-60b6b9d49272</id>
+        <link href="https://www.cbsnews.com/video/russia-targets-port-city-of-odesa/"/>
+        <updated>2022-05-10T13:33:17.000Z</updated>
+        <summary type="html"><![CDATA[Russia has stepped-up missile strikes on the vital port city of Odesa. CBS News correspondent Debora Patta reports.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Civilians killed in Donetsk shelling – officials]]></title>
         <id>https://www.rt.com/news/555247-donetsk-shelling-missiles-report/</id>
         <link href="https://www.rt.com/news/555247-donetsk-shelling-missiles-report/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
@@ -2276,6 +2996,76 @@ Read Full Article at RT.com]]></summary>
 Read Full Article at RT.com]]></summary>
         <author>
             <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Queen "reluctantly" skips Parliamentary duty due to "mobility problems"]]></title>
+        <id>b0ecefb6-0e29-4d03-801b-a743382bb1fe</id>
+        <link href="https://www.cbsnews.com/news/queen-elizabeth-ii-reluctantly-skips-state-opening-parliament-before-platinum-jubilee/"/>
+        <updated>2022-05-10T13:26:00.000Z</updated>
+        <summary type="html"><![CDATA[The monarch had missed the opening of Parliament only twice before, leaving some to wonder if she'll attend celebrations to mark her record 70-year reign in just a few weeks.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-Haitian senator charged in U.S. for alleged role in presidential assassination]]></title>
+        <id>378bbb2f-567f-4c0d-9177-72b52fd20b40</id>
+        <link href="https://www.cbsnews.com/news/haiti-joseph-joel-john-charged-in-us-president-jovenel-moise-assassination/"/>
+        <updated>2022-05-10T13:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Joseph Joel John, 51, faces life in prison if convicted.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New research shows how sunscreen kills marine life]]></title>
+        <id>da81967b-b56c-44be-8517-1f97a7c3ee2c</id>
+        <link href="https://www.cbsnews.com/news/sunscreen-marine-life-toxic-research/"/>
+        <updated>2022-05-10T13:14:34.000Z</updated>
+        <summary type="html"><![CDATA[Up to 6,000 tons of sunscreen end up on coral reefs every year, according to the National Park Service – and it's taking a deadly toll on vital ecosystems.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia pounds Odesa as Ukraine war delivers Putin no "clear victories"]]></title>
+        <id>5af38a81-aa3e-4922-b274-df4a61e051e0</id>
+        <link href="https://www.cbsnews.com/news/ukraine-news-russia-war-us-says-putin-failing-odesa-missile-strikes/"/>
+        <updated>2022-05-10T12:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The Russian leader's war machine is bogged down, and despite it taking a devastating toll on Ukrainian lives and infrastructure, people are coming home to Kyiv.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cartel shuts down towns, threatens public after leader extradited to U.S.]]></title>
+        <id>bd2cd9ad-e72c-4cb0-9827-9f4b1883d7b3</id>
+        <link href="https://www.cbsnews.com/news/colombia-gulf-clan-cartel-shuts-down-towns-leader-otoniel-extradited-us/"/>
+        <updated>2022-05-10T12:43:58.000Z</updated>
+        <summary type="html"><![CDATA[Dairo Antonio Úsuga David, also known as Otoniel, is "the most dangerous drug trafficker in the world," Colombia's president said,]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. temporarily suspends tariffs on steel imported from Ukraine]]></title>
+        <id>b1170041-9152-497a-9047-4ac39fe7a23d</id>
+        <link href="https://www.cbsnews.com/news/ukraine-steel-tariffs-united-states/"/>
+        <updated>2022-05-10T11:36:00.000Z</updated>
+        <summary type="html"><![CDATA["For steel mills to continue as an economic lifeline for the people of Ukraine, they must be able to export their steel," Commerce Secretary Gina Raimondo said.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Putin defends invasion of Ukraine in Russian "Victory Day" speech]]></title>
+        <id>577414ca-4a96-48b0-a4ff-a8875b775d36</id>
+        <link href="https://www.cbsnews.com/news/putin-victory-day-speech-russia-ukraine-invasion/"/>
+        <updated>2022-05-10T11:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Despite widespread speculation, Putin did not declare victory in Ukraine or hint at any stronger push on the battlefield there.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
         </author>
     </entry>
     <entry>
@@ -2320,6 +3110,36 @@ Read Full Article at RT.com]]></summary>
 Read Full Article at RT.com]]></summary>
         <author>
             <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First lady Jill Biden visits Ukraine as G-7 and U.S. announce new Russian sanctions]]></title>
+        <id>24c9ab15-d17b-4e78-8a31-b15ec785619c</id>
+        <link href="https://www.cbsnews.com/video/first-lady-jill-biden-visits-ukraine-as-g-7-and-us-announce-new-russian-sanctions/"/>
+        <updated>2022-05-10T02:14:58.000Z</updated>
+        <summary type="html"><![CDATA[First lady Jill Biden met with Ukraine's first lady, Olena Zelenska, in Ukraine for Mother's Day. This comes as the pressure continues to mount on Russia with G-7 countries planning to phase out imports of Russian oil and the U.S. unleashing a fresh round of sanctions. CBS News chief White House correspondent Nancy Cordes reports.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 U.S. tourists dead, another hospitalized in mysterious incident at Bahamas resort]]></title>
+        <id>f4d76905-5a81-4eb0-ab88-5a242dbcb6bd</id>
+        <link href="https://www.cbsnews.com/video/three-us-tourists-dead-another-hospitalized-in-mysterious-incident-at-bahamas-resort/"/>
+        <updated>2022-05-10T02:06:24.000Z</updated>
+        <summary type="html"><![CDATA[Investigators in the Bahamas are searching for answers after three American tourists died in their hotel rooms and another had to be airlifted to a hospital. All four victims were staying at the Sandals Emerald Bay resort in Exuma. Health officials have not determined what caused the incident, but they say foul play is not suspected. Manuel Bojorquez reports.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U2's Bono and The Edge make surprise appearance in Kyiv subway station]]></title>
+        <id>3744dbe2-f51f-4d55-8761-b8c18ca6295d</id>
+        <link href="https://www.cbsnews.com/video/u2s-bono-and-the-edge-make-surprise-appearance-in-kyiv-subway-station/"/>
+        <updated>2022-05-10T01:20:59.000Z</updated>
+        <summary type="html"><![CDATA[Bono and The Edge, the legendary members of Irish rock band U2, made a surprise appearance in a subway station in Kyiv to lift Ukrainians' spirits amid the war with Russia.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
         </author>
     </entry>
     <entry>
@@ -2413,6 +3233,26 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Russian ambassador hit with red paint by protesters in Poland]]></title>
+        <id>d8c01976-4580-4cc6-93a2-5159b7d8964f</id>
+        <link href="https://www.cbsnews.com/news/russian-ambassador-sergei-andreev-hit-red-paint-poland-protesters/"/>
+        <updated>2022-05-09T19:24:00.000Z</updated>
+        <summary type="html"><![CDATA[When the Russian delegation appeared at Warsaw's Mausoleum Cemetery, protesters greeted them with shouts of "murderers" and "fascists."]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Severe heat wave kills dozens in India and Pakistan]]></title>
+        <id>b9e128e6-064f-4a58-a746-af072f1ee200</id>
+        <link href="https://www.cbsnews.com/news/india-heat-wave-pakistan-climate-change-snapshot/"/>
+        <updated>2022-05-09T19:20:58.000Z</updated>
+        <summary type="html"><![CDATA["There is no doubt that climate change is playing a role here," a climate scientist told CBS News.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Biden blamed for US baby formula shortage]]></title>
         <id>https://www.rt.com/news/555213-biden-baby-formula-shortage/</id>
         <link href="https://www.rt.com/news/555213-biden-baby-formula-shortage/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
@@ -2446,6 +3286,36 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Havana hotel explosion death toll climbs to 35]]></title>
+        <id>ad1e17a7-8501-4609-af47-dab4d8143241</id>
+        <link href="https://www.cbsnews.com/news/hotel-saratoga-havana-cuba-explosion-death-toll-rises/"/>
+        <updated>2022-05-09T17:50:00.000Z</updated>
+        <summary type="html"><![CDATA[A pregnant woman and 4 minors said to be among the victims of what authorities believe was likely a gas explosion at one of Cuba's most iconic hotels.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Explosive-sniffing dog honored in Ukraine]]></title>
+        <id>7ccd0148-e83b-4d2d-a03b-939f09a37697</id>
+        <link href="https://www.cbsnews.com/news/explosive-sniffing-dog-ukraine-awarded-medal-president-zelenskyy-patron-justin-trudeau/"/>
+        <updated>2022-05-09T17:38:36.000Z</updated>
+        <summary type="html"><![CDATA[Patron, a Jack Russel Terrier, has helped detect more than 200 explosive devices.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk: Japan will "cease to exist" if low birth rates continue]]></title>
+        <id>309c8d22-a3e2-4a56-9898-87eb428e27e8</id>
+        <link href="https://www.cbsnews.com/news/elon-musk-japan-low-birth-rate/"/>
+        <updated>2022-05-09T17:31:38.000Z</updated>
+        <summary type="html"><![CDATA[Japan had its largest population drop on record last year – the eleventh consecutive year that population has decreased.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Surge in Americans reporting financial worries – poll]]></title>
         <id>https://www.rt.com/news/555211-americans-financial-insecurity-spikes-poll/</id>
         <link href="https://www.rt.com/news/555211-americans-financial-insecurity-spikes-poll/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
@@ -2465,6 +3335,56 @@ Read Full Article at RT.com]]></summary>
 Read Full Article at RT.com]]></summary>
         <author>
             <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Late dictator Ferdinand Marcos' son poised to win Philippine election]]></title>
+        <id>5eafc3a8-7c76-4058-8fb5-b896054e7819</id>
+        <link href="https://www.cbsnews.com/news/philippines-election-2022-ferdinand-bongbong-marcos-dictators-son-results/"/>
+        <updated>2022-05-09T16:57:01.000Z</updated>
+        <summary type="html"><![CDATA[Ferdinand Marcos' 21-year rule was marked by a crackdown that left thousands imprisoned and his family extremely wealthy. Including his son, who's about to be elected president.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U2's Bono, The Edge hold surprise concert in Kyiv subway station]]></title>
+        <id>efb25592-5f18-4ad6-a242-5307c0556b6b</id>
+        <link href="https://www.cbsnews.com/news/bono-ukraine-u2-surprise-concert-kyiv-train-station/"/>
+        <updated>2022-05-09T16:24:00.000Z</updated>
+        <summary type="html"><![CDATA[The Irish rock band was also joined by a Ukrainian band, Antytila.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rugby star dies after reportedly jumping off bridge to celebrate win]]></title>
+        <id>865312f4-0c04-4f37-baec-8c40ad0aabdd</id>
+        <link href="https://www.cbsnews.com/news/kelly-meafua-died-rugby-player-reportedly-jumps-off-bridge-celebrate-victory-france/"/>
+        <updated>2022-05-09T15:54:32.000Z</updated>
+        <summary type="html"><![CDATA[Kelly Meafua's club said one of his teammates "tried to rescue him, without success."]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CBS News is in eastern Ukraine seeing the towns where 10,000 Russian forces are massing]]></title>
+        <id>f3b88f1e-ca6a-47e9-b33a-617f0d3bb7b6</id>
+        <link href="https://www.cbsnews.com/video/cbs-news-is-in-eastern-ukraine-seeing-the-towns-where-10000-russian-forces-are-massing/"/>
+        <updated>2022-05-09T15:40:18.000Z</updated>
+        <summary type="html"><![CDATA[CBS News senior foreign correspondent Charlie D'Agata is on the front lines of the war in eastern Ukraine, the region Russian troops are fighting the hardest. He visits the village of Velyka Novosilka, where Russians are massing 10,000 troops.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia's "Victory Day" marked with parade — but no major change in Putin's strategy in Ukraine]]></title>
+        <id>7367517d-e4c1-4eab-8c32-61800c090dd9</id>
+        <link href="https://www.cbsnews.com/video/russias-victory-day-marked-with-parade-but-no-major-change-in-putins-strategy-in-ukraine/"/>
+        <updated>2022-05-09T15:33:19.000Z</updated>
+        <summary type="html"><![CDATA[Despite speculation that a parade commemorating Russia's victory in World War II could be used as a defining moment for Vladimir Putin, the occasion was marked by the Russian president doubling down on his defense to invade Ukraine. CBS News foreign correspondent Debora Patta reports on the response in Kyiv.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
         </author>
     </entry>
     <entry>
@@ -2509,6 +3429,16 @@ Read Full Article at RT.com]]></summary>
 Read Full Article at RT.com]]></summary>
         <author>
             <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attack on school the latest atrocity as Russia hammers eastern Ukraine]]></title>
+        <id>0d043efe-2449-4c47-a364-62899586ec8c</id>
+        <link href="https://www.cbsnews.com/news/ukraine-news-russia-school-bombing-putin-war-donbas-civilians/"/>
+        <updated>2022-05-09T12:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine accuses Russia of a direct hit on the school, which was sheltering civilians, as Putin's war machine continues to flatten front-line cities in the east.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
         </author>
     </entry>
     <entry>
@@ -2606,6 +3536,16 @@ Read Full Article at RT.com]]></summary>
 Read Full Article at RT.com]]></summary>
         <author>
             <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 Americans found dead at Bahamas hotel, 4th airlifted to hospital]]></title>
+        <id>59635438-40db-4fb6-aee8-6a0c9563a038</id>
+        <link href="https://www.cbsnews.com/news/americans-deaths-bahamas-hotel-sandals-emerald-bay/"/>
+        <updated>2022-05-08T17:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Environmental health scientists, physicians and others were investigating to ensure there was not a public health hazard, officials said.]]></summary>
+        <author>
+            <name>World - CBSNews.com</name>
         </author>
     </entry>
     <entry>
