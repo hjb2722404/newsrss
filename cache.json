@@ -523,6 +523,16 @@
       "siteUrl": "https://www.aljazeera.com",
       "articles": [
         {
+          "id": "https://www.aljazeera.com/?t=1652323941",
+          "author": null,
+          "description": "US rolls out the red carpet for Southeast Asian leaders amid increasing rivalry in the Asia Pacific.",
+          "link": "https://www.aljazeera.com/news/2022/5/12/us-asean-summit-explainer",
+          "publishedOn": "2022-05-12T10:24:58.000Z",
+          "wordCount": 1597,
+          "title": "ASEAN leaders head to White House for key summit",
+          "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2022/05/2022-05-11T100342Z_1045304306_RC2X4U9TA6O4_RTRMADP_3_USA-ASEAN.jpg?resize=1200%2C630"
+        },
+        {
           "id": "https://www.aljazeera.com/?t=1652271189",
           "author": null,
           "description": "Over the past year, Israeli forces have killed at least 380 Palestinians, including 90 children, according to the UN.",
@@ -3629,6 +3639,16 @@
       "siteUrl": "https://www.ndtv.com",
       "articles": [
         {
+          "id": "2969207",
+          "author": null,
+          "description": "Sri Lanka's President Gotabaya Rajapaksa is set to name a new Prime Minister to replace his brother as the country battles an economic crisis. Former PM Mahinda Rajapaksa was banned from leaving the...",
+          "link": "https://www.ndtv.com/world-news/ex-sri-lanka-pm-banned-from-leaving-country-as-economic-crisis-worsens-10-facts-2969207",
+          "publishedOn": "2022-05-12T10:17:32.000Z",
+          "wordCount": 422,
+          "title": "Ex Sri Lanka PM Banned From Leaving Country As Crisis Worsens: 5 Facts",
+          "imageUrl": "https://c.ndtvimg.com/2022-05/8j3poj9_sri-lanka-protest_625x300_12_May_22.jpg"
+        },
+        {
           "id": "2969149",
           "author": null,
           "description": "North Korea has fired a ballistic missile, Seoul's military said Thursday, hours after Pyongyang announced the country's first-ever cases of Covid-19.",
@@ -3769,6 +3789,16 @@
           "imageUrl": "https://c.ndtvimg.com/2022-05/0gok25v_sri-lanka-10-_625x300_09_May_22.jpg"
         },
         {
+          "id": "2968350",
+          "author": null,
+          "description": "Violence erupted in Sri Lanka on Monday after supporters of former PM Mahinda Rajapaksa attacked peaceful anti-government protesters. Probe has been ordered on allegations whether prison inmates were...",
+          "link": "https://www.ndtv.com/world-news/probe-ordered-whether-sri-lankan-prison-inmates-hired-to-attack-protesters-2968350",
+          "publishedOn": "2022-05-12T05:45:22.000Z",
+          "wordCount": 669,
+          "title": "Probe Ordered Whether Sri Lankan Prison Inmates Hired To Attack Protesters",
+          "imageUrl": "https://c.ndtvimg.com/2022-05/jp7un3p_sri-lanka-violence-afp-650_625x300_10_May_22.jpg"
+        },
+        {
           "id": "2968213",
           "author": null,
           "description": "Two years after getting infected with COVID-19, half of people hospitalised with the infection have at least one symptom, a follow-up study by the medical journal The Lancet has said.",
@@ -3855,6 +3885,26 @@
       "feedUrl": "http://abcnews.go.com/abcnews/internationalheadlines",
       "siteUrl": "http://abcnews.go.com",
       "articles": [
+        {
+          "id": "https://abcnews.go.com/International/wireStory/kosovo-join-european-human-rights-organization-84665140",
+          "author": null,
+          "description": "The government of Kosovo has decided to apply for membership in the Council of Europe, the continent’s top human rights organization",
+          "link": "https://abcnews.go.com/International/wireStory/kosovo-join-european-human-rights-organization-84665140",
+          "publishedOn": "2022-05-12T10:24:16.000Z",
+          "wordCount": 392,
+          "title": "Kosovo wants to join European human rights organization",
+          "imageUrl": "null"
+        },
+        {
+          "id": "https://abcnews.go.com/International/wireStory/explainer-finland-sweden-joining-nato-big-deal-84665113",
+          "author": null,
+          "description": "Finland appears on the cusp of joining NATO",
+          "link": "https://abcnews.go.com/International/wireStory/explainer-finland-sweden-joining-nato-big-deal-84665113",
+          "publishedOn": "2022-05-12T10:23:45.000Z",
+          "wordCount": 939,
+          "title": "EXPLAINER: Why Finland, Sweden joining NATO will be big deal",
+          "imageUrl": "https://s.abcnews.com/images/International/WireAP_b520d9355e9c4132ab277bd11e5dc46b_16x9_992.jpg"
+        },
         {
           "id": "https://abcnews.go.com/International/wireStory/south-korea-north-korea-fired-total-missiles-sea-84664942",
           "author": null,
@@ -4812,6 +4862,16 @@
       "siteUrl": "https://time.com",
       "articles": [
         {
+          "id": "https://time.com/?p=6175735",
+          "author": "Edward Felsenthal",
+          "description": "At TIME, our eyes are on the rising stars poised to shape the future. We first joined forces with Rolex in 2014 to launch Next Generation Leaders, our series elevating young people from across fields and around the globe who are working to build a better world. This edition includes, for example, beauty entrepreneur Deepica…",
+          "link": "https://time.com/6175735/next-generation-leaders-2022/",
+          "publishedOn": "2022-05-12T10:21:22.000Z",
+          "wordCount": 1293,
+          "title": "How TIME Chose Its 2022 List of Next Generation Leaders",
+          "imageUrl": "https://api.time.com/wp-content/uploads/2022/05/NGL2022_final.jpg?quality=85&crop=0px%2C103px%2C2400px%2C1256px&resize=1200%2C628&strip"
+        },
+        {
           "id": "https://time.com/?p=6175997",
           "author": "Megan Durisin, Kim Chipman, Jen Skerritt and James Poole / Bloomberg",
           "description": "As Russia’s invasion chokes off Ukrainian wheat exports, the global harvest faces an added test: extreme weather",
@@ -4820,6 +4880,66 @@
           "wordCount": 1656,
           "title": "Wheat Crops Almost Everywhere Are Coming Under Threat From Extreme Weather",
           "imageUrl": "https://api.time.com/wp-content/uploads/2022/05/GettyImages-1240580012.jpg?quality=85&w=1024&h=628&crop=1"
+        },
+        {
+          "id": "https://time.com/?p=6174901",
+          "author": "Cady Lang",
+          "description": "For Maximilian Davis, fashion isn’t just a career choice—it’s part of his family legacy. Growing up in Manchester, England, in a close-knit Trinidadian-Jamaican family, his sister and mother modeled, and his father studied fashion design. When he was 6, his grandmother taught him to sew on her industrial machine, which he used to design unique…",
+          "link": "https://time.com/6174901/maximilian-davis/",
+          "publishedOn": "2022-05-11T22:33:04.000Z",
+          "wordCount": 1137,
+          "title": "Salvatore Ferragamo’s New Creative Director Is Designing a More Inclusive Fashion Industry",
+          "imageUrl": "https://api.time.com/wp-content/uploads/2022/05/maximilian-davis-next-generation-leaders-2022-1.jpg?quality=85&crop=0px%2C155px%2C2400px%2C1256px&resize=1200%2C628&strip"
+        },
+        {
+          "id": "https://time.com/?p=6174935",
+          "author": "Sanya Mansoor",
+          "description": "In 2020, when Bolor-Erdene Battsengel would walk into work in Ulan Bator’s national parliament building, security guards would stop her to ask if she was a personal assistant or a janitor. She was neither—she was the youngest member of the Mongolian government’s Cabinet, appointed to help lead the nation’s digital transformation. The experience underscored just…",
+          "link": "https://time.com/6174935/bolor-erdene-battsengel/",
+          "publishedOn": "2022-05-11T22:33:04.000Z",
+          "wordCount": 895,
+          "title": "The Youngest Member of Mongolia’s Government Is Making Space for Women in Tech",
+          "imageUrl": "https://api.time.com/wp-content/uploads/2022/05/bolor-erdene-battsengel-next-generation-leaders-2022.jpg?quality=85&crop=0px%2C495px%2C1920px%2C1005px&resize=1200%2C628&strip"
+        },
+        {
+          "id": "https://time.com/?p=6174883",
+          "author": "Lisa Abend",
+          "description": "The Kyiv Independent has quickly become the world’s primary source for reliable, English-language journalism on the war in Ukraine",
+          "link": "https://time.com/6174883/olga-rudenko/",
+          "publishedOn": "2022-05-11T22:33:03.000Z",
+          "wordCount": 2589,
+          "title": "Olga Rudenko and the Kyiv Independent Gave the World a Window Into a Devastating War",
+          "imageUrl": "https://api.time.com/wp-content/uploads/2022/05/olga-rudenko-ngl-100.jpg?quality=85&w=1200&h=628&crop=1"
+        },
+        {
+          "id": "https://time.com/?p=6174899",
+          "author": "Sam Lansky",
+          "description": "After starring in the second season of Bridgerton—the lush period drama that has become Netflix’s most watched English-language series ever—the actor Jonathan Bailey could have done anything. He chose something that he knew would be a challenge. “Cock!” Bailey says brightly, over lunch on a sunny London afternoon. A woman at a nearby table looks…",
+          "link": "https://time.com/6174899/jonathan-bailey/",
+          "publishedOn": "2022-05-11T22:33:03.000Z",
+          "wordCount": 1406,
+          "title": "Bridgerton’s Jonathan Bailey Is Redefining the Hollywood Heartthrob",
+          "imageUrl": "https://api.time.com/wp-content/uploads/2022/05/jonathan-bailey-generation-leaders-2022.jpg?quality=85&crop=0px%2C253px%2C1920px%2C1006px&resize=1200%2C628&strip"
+        },
+        {
+          "id": "https://time.com/?p=6174939",
+          "author": "Judy Berman",
+          "description": "Bilal Baig wants to take a pause. In April, they won top honors at the Canadian Screen Awards for Sort Of, a CBC/HBO Max dramedy they co-created and star in about a nonbinary Torontonian of Pakistani descent struggling to fuse the fragments of their compartmentalized life. The next day, they’re back to work on Season…",
+          "link": "https://time.com/6174939/bilal-baig/",
+          "publishedOn": "2022-05-11T22:33:03.000Z",
+          "wordCount": 1063,
+          "title": "Bilal Baig Wants You to Understand That Transition Is a Universal Experience",
+          "imageUrl": "https://api.time.com/wp-content/uploads/2022/05/bilal-baig-next-generation-leaders-2022.jpg?quality=85&crop=0px%2C23px%2C1767px%2C926px&resize=1200%2C628&strip"
+        },
+        {
+          "id": "https://time.com/?p=6174941",
+          "author": "Eloise Barry",
+          "description": "Rinzin Phunjok Lama was 16 when he first saw a Himalayan snow leopard prowling the mountains near his home in northeastern Nepal—an encounter that changed his life. In the folklore of Lama’s Buddhist community, the snow leopard is a manifestation of the god of Nepal’s high mountain pastures, who appears on earth only when humans…",
+          "link": "https://time.com/6174941/rinzin-phunjok-lama/",
+          "publishedOn": "2022-05-11T22:33:03.000Z",
+          "wordCount": 936,
+          "title": "An Encounter With a Snow Leopard Became a Wake-Up Call for a Nepali Conservationist",
+          "imageUrl": "https://api.time.com/wp-content/uploads/2022/05/rinzin-phunjok-lama-next-generation-leaders-2022.jpg?quality=85&crop=0px%2C595px%2C2400px%2C1257px&resize=1200%2C628&strip"
         },
         {
           "id": "https://time.com/?p=6175754",
@@ -8857,6 +8977,21 @@
       "siteUrl": "https://news.sky.com/world",
       "articles": [
         {
+          "id": "https://news.sky.com/story/spain-offers-menstrual-leave-to-women-who-suffer-severe-period-pain-with-up-to-three-days-off-a-month-12611181",
+          "author": null,
+          "description": "Women who suffer from severe period pain could be allowed to take up to three days off work each month under a reform plan due to be approved by Spain's government next week.",
+          "link": "https://news.sky.com/story/spain-offers-menstrual-leave-to-women-who-suffer-severe-period-pain-with-up-to-three-days-off-a-month-12611181",
+          "publishedOn": "2022-05-12T09:33:00.000Z",
+          "wordCount": 778,
+          "title": "Women in Spain to be given menstrual leave for severe pain",
+          "enclosure": {
+            "url": "https://e3.365dm.com/22/05/70x70/skynews-menstruation-period_5769097.jpg?20220512104723",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://e3.365dm.com/22/05/70x70/skynews-menstruation-period_5769097.jpg?20220512104723"
+        },
+        {
           "id": "https://news.sky.com/story/india-dehydrated-birds-fall-from-sky-as-countrys-heatwave-dries-up-water-sources-12611125",
           "author": null,
           "description": "Dozens of dehydrated birds are falling from the sky every day in India's western Gujarat state as the country's scorching heat wave dries up water sources.",
@@ -9220,6 +9355,16 @@
       "feedUrl": "http://www.channelnewsasia.com/rssfeeds/8395884",
       "siteUrl": "https://www.channelnewsasia.com/",
       "articles": [
+        {
+          "id": "https://www.channelnewsasia.com/world/us-marks-1-million-covid-19-deaths-early-epicenter-new-york-seeks-move-2680996",
+          "author": null,
+          "description": "NEW YORK: The United States has crossed the threshold of one million deaths from COVID-19, the White House said on Thursday (May 12), as cities like New York try to turn the page on the pandemic despite threats of another surge.\n\n\"Today, we mark a tragic milestone: one million American lives lost to COVID-1",
+          "link": "https://www.channelnewsasia.com/world/us-marks-1-million-covid-19-deaths-early-epicenter-new-york-seeks-move-2680996",
+          "publishedOn": "2022-05-12T10:21:24.000Z",
+          "wordCount": 1582,
+          "title": "US marks 1 million COVID-19 deaths, early epicenter New York seeks to move on",
+          "imageUrl": "https://onecms-res.cloudinary.com/image/upload/s--W2rN5Gug--/fl_relative,g_south_east,l_one-cms:core:watermark:afp_watermark,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/8fa26db98743702e111234d11ed611577f8bc79f.jpg?itok=AcGoTNdz"
+        },
         {
           "id": "https://www.channelnewsasia.com/world/uk-police-recommend-more-100-fines-downing-street-lockdown-breaches-2680946",
           "author": null,
@@ -9940,6 +10085,763 @@
           "wordCount": 1450,
           "title": "Biden marks 1M US COVID deaths, to co-host 2nd global summit",
           "imageUrl": "https://images.thestar.com/u2FajoP3NW57udKJFv3CjxjJdXs=/1280x1024/smart/filters:cb(1652350563377)/https://www.thestar.com/content/dam/thestar/news/world/us/2022/05/12/biden-marks-1m-us-covid-deaths-to-co-host-2nd-global-summit/20220511150516-627c0bfd3c9fbbc365a77fffjpeg.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Raw Story - Celebrating 18 Years of Independent Journalism",
+      "feedUrl": "https://www.rawstory.com/category/world/feed/",
+      "siteUrl": "https://www.rawstory.com/",
+      "articles": [
+        {
+          "id": "https://www.rawstory.com/finland-nato/",
+          "author": "Brad Reed",
+          "description": "In yet another major blow for Russian President Vladimir Putin, Finland's president and prime minister have now said that their country intends to apply for NATO membership.\nIn a joint statement released Thursday, Finnish President Sauli Niinistö and Finnish Prime Minister Sanna Marin said that they believe NATO membership is essential to ensuring their nation's security in the wake of Russia's invasion of Ukraine.\n\"As a member of NATO, Finland would strengthen the entire defense alliance,\" they wrote. \"Finland must apply for NATO membership without delay. We hope that the national steps still needed to make this decision will be taken rapidly within the next few days.\"\nFinland, which shares an 830-mile land border with Russia, has traditionally stayed away from NATO membership in the interest of maintaining a diplomatic balance between Russia and other Western European nations.\nREAD MORE: Cheers as Trump DC hotel sign taken down: 'Good riddance to a sinkhole of corruption'\nFinancial Times Moscow bureau chief Max Seddon comments that the decision by Finland to apply for NATO membership now can only be seen as \"yet more blowback from Moscow’s war in Ukraine,\" which has also resulted in an unprecedented number of crippling sanctions that internal Kremlin forecasts show could led to a 12 percent contraction of gross domestic product this year alone.\nNow that Finland is applying for NATO membership, the next question will be whether Sweden, which has also traditionally tried to remain militarily neutral between Russia and Western Europe, will follow suit.",
+          "link": "https://www.rawstory.com/finland-nato/",
+          "publishedOn": "2022-05-12T10:18:16.000Z",
+          "wordCount": 1762,
+          "title": "More 'blowback' for Putin as Finland applies for NATO membership",
+          "imageUrl": "https://www.rawstory.com/media-library/there-is-a-chance-vladimir-putin-is-controlling-the-white-house-national-security-expert.jpg?id=24813092&width=1200&coordinates=0%2C15%2C0%2C15&height=600"
+        },
+        {
+          "id": "https://www.rawstory.com/putin-notes-left-soldiers-flee/",
+          "author": "Sarah K. Burris",
+          "description": "Russia hosted a huge celebration for Victory Day, the day that they celebrate the Soviet success over the Nazis in World War II. But behind the scenes, things haven't been going well. Even loyalists of Vladimir Putin are admitting that the Russian military isn't as strong as the president thought. \nIt was reported Wednesday that some Russian soldiers in Ukraine are in retreat. While it isn't expected to last long, those soldiers who backed away left behind information that gives a guide for Putin's ultimate goal. \nThe Daily Beast reported that amid the rubble of the Ukrainian town of Trostyanets in Sumy Oblast, forces found documents showing the details about why Russia is focusing so much on attacks of the Donbas region in eastern Ukraine. \nPutin made it clear in his speech ahead of the i…",
+          "link": "https://www.rawstory.com/putin-notes-left-soldiers-flee/",
+          "publishedOn": "2022-05-11T19:32:03.000Z",
+          "wordCount": 1926,
+          "title": "Retreating Russian soldiers leave behind Putin’s true plans for Ukraine: report",
+          "imageUrl": "https://www.rawstory.com/media-library/sad-putin.jpg?id=29792021&width=1200&coordinates=0%2C24%2C0%2C26&height=600"
+        },
+        {
+          "id": "https://www.rawstory.com/britain-signs-security-deal-vowing-to-defend-sweden-in-case-of/",
+          "author": "Agence France-Presse",
+          "description": "Britain pledged to defend Sweden if the country came under attack, with Prime Ministers Boris Johnson and Magdalena Andersson signing a security assurance deal outside Stockholm on Wednesday.\nSweden and Finland are pondering whether to join NATO following Russia's invasion of Ukraine on Feb. 24. Johnson is later expected to make a similar defense commitment to Finland, where he will meet with President Sauli Niinisto.\nThe agreement will “fortify northern Europe’s defenses, in the face of renewed threats,” Johnson said in a statement, adding it “is a symbol of the everlasting assurance between our nations.\"\n“These are not a short-term stop-gap, but a long-term commitment to bolster military ties and global stability, and fortify Europe’s defenses for generations to come,” Johnson said in th…",
+          "link": "https://www.rawstory.com/britain-signs-security-deal-vowing-to-defend-sweden-in-case-of/",
+          "publishedOn": "2022-05-11T17:31:21.000Z",
+          "wordCount": 2091,
+          "title": "Britain signs security deal vowing to defend Sweden in case of attack",
+          "imageUrl": "https://www.rawstory.com/media-library/british-prime-minister-boris-johnson-and-sweden-s-prime-minister-magdalena-andersson-signed-a-security-agreement-on-may-11-2022-c-jonathan-nackstrand-afp.jpg?id=29791300&width=1200&coordinates=0%2C0%2C0%2C149&height=600"
+        },
+        {
+          "id": "https://www.rawstory.com/russia-invasion-of-ukraine-2657302405/",
+          "author": "Brad Reed",
+          "description": "Amid reports of fresh setbacks for Russian forces in Ukraine, Ret. Brig. Gen. Steve Anderson suggested that the Russian military knows that it has bitten off more than it can chew.\nDuring a panel discussion on CNN, host Kate Bolduan asked Anderson what he made of reports that Russia is moving more troops toward the city of Kharkiv, where the Ukrainians have had success in pushing back Russian forces who previously believed they'd had the city secured.\n\"It suggests that to me, Kate, they're losing and they know it,\" he said. \"They're having to reposition their forces. They've been trying for six weeks now to cross the rivers and to get down to Kramatorsk. They've been trying to get down there but unable to do it.\"\nAnderson then credited the Ukrainians with executing what he described as \"a …",
+          "link": "https://www.rawstory.com/russia-invasion-of-ukraine-2657302405/",
+          "publishedOn": "2022-05-11T15:54:34.000Z",
+          "wordCount": 1872,
+          "title": "Russia is 'losing and they know it' after Ukraine's 'stunning counterattack': Retired general",
+          "imageUrl": "https://www.rawstory.com/media-library/putin-urges-better-us-russia-ties-then-vilifies-west.jpg?id=24837417&width=1200&coordinates=0%2C52%2C0%2C53&height=600"
+        },
+        {
+          "id": "https://www.rawstory.com/analysis-exposes-big-oil-s-plot-to-unleash-climate-carbon-bombs-worldwide/",
+          "author": "Jake Johnson, Common Dreams",
+          "description": "A new investigation published Wednesday reveals that some of the largest fossil fuel corporations in the world—from Exxon in the U.S. to Gazprom in Russia to Aramco in Saudi Arabia—are planning or currently operating nearly 200 \"carbon bombs,\" massive oil and gas projects that could unleash 646 billion tonnes of CO2 emissions and doom efforts to rein in planetary warming.\n\"They are destroying your future. They are doing it deliberately. They have been doing that for decades.\"\nResearch shared exclusively with The Guardian ahead of its formal publication identifies at least 195 \"carbon bombs\" that are either in the process of being built or already in place across the globe as scientists warn that fossil fuel use must be quickly phased out to prevent catastrophic climate outcomes.\nLed by Kje…",
+          "link": "https://www.rawstory.com/analysis-exposes-big-oil-s-plot-to-unleash-climate-carbon-bombs-worldwide/",
+          "publishedOn": "2022-05-11T15:41:53.000Z",
+          "wordCount": 2197,
+          "title": "Analysis exposes Big Oil's plot to unleash climate-killing 'carbon bombs' worldwide",
+          "imageUrl": "https://www.rawstory.com/media-library/oil-field-operations-likely-triggered-earthquakes-in-california-a-few-miles-from-the-san-andreas-fault.jpg?id=24834921&width=1200&coordinates=0%2C15%2C0%2C15&height=600"
+        },
+        {
+          "id": "https://www.rawstory.com/australia-s-election-battle-gets-personal/",
+          "author": "Agence France-Presse",
+          "description": "Australian Prime Minister Scott Morrison derided his Labor Party opponent Wednesday as an unreliable \"loose unit\" on the economy as he fought to catch up in the opinion polls 10 days from the federal election on May 21.\nIn their third televised election debate, characterized as the \"final showdown\" before 17 million Australians cast their compulsory votes, Morrison and Labor's Anthony Albanese got personal.\nAt the outset of the campaign last month, Albanese forgot both the unemployment rate and the main lending rate. More recently, he apparently had difficulty explaining his party's disability policy.\n\"He's a loose unit when it comes to the economy. He makes things up as he goes along,\" said Morrison using a slang term for someone who is unreliable.\nAlbanese hit back, accusing Morrison of …",
+          "link": "https://www.rawstory.com/australia-s-election-battle-gets-personal/",
+          "publishedOn": "2022-05-11T14:18:37.000Z",
+          "wordCount": 2015,
+          "title": "Australia's election battle gets personal",
+          "imageUrl": "https://www.rawstory.com/media-library/ahead-of-the-may-21-federal-election-australian-prime-minister-scott-morrison-r-and-opposition-leader-anthony-albanese-have-sparred-on-a-number-of-policy-issues-including-climate-change-mick-tsikas-pool-afp.jpg?id=29790444&width=1200&coordinates=0%2C0%2C0%2C75&height=600"
+        },
+        {
+          "id": "https://www.rawstory.com/google-meta-must-find-and-remove-online-child-pornography-under-eu-draft-rules/",
+          "author": "Reuters UK",
+          "description": "By Foo Yun Chee, Charlotte, Van and Campenhout BRUSSELS (Reuters) -Google, Meta and other online service providers will be required to find and remove online child pornography under proposed European Commission rules, a move some privacy groups say could put people's communications at risk. Companies that fail to comply with the rules face fines up to 6% of their annual income or global turnover, which will be set by EU countries. The EU executive said its proposal announced on Wednesday aimed to replace the current system of voluntary detection and reporting by companies which has proven to b...",
+          "link": "https://www.rawstory.com/google-meta-must-find-and-remove-online-child-pornography-under-eu-draft-rules/",
+          "publishedOn": "2022-05-11T13:41:14.000Z",
+          "wordCount": 1614,
+          "title": "Google, Meta must find and remove online child pornography under EU draft rules",
+          "imageUrl": "https://www.rawstory.com/media-library/image.jpg?id=29790310&width=980"
+        },
+        {
+          "id": "https://www.rawstory.com/bill-ackman/",
+          "author": "Matthew Chapman",
+          "description": "On Wednesday, Newsweek reported that billionaire investor Bill Ackman is urging U.S. companies to hire Ukrainians to engineering jobs, because Americans lack the same level of \"work ethic\".\n\"In a Tuesday tweet, the founder and CEO of Pershing Square Capital Management said he had dinner with a number of startup CEOs who had complained about the work ethic of young American engineers,\" reported Khaleda Rahman. \"He suggested that employers should instead look to hiring people from Ukraine as Russia's invasion of the country continues.\"\nBut — Ackman was careful to note — companies shouldn't go through all the trouble of bringing Ukrainians out of their war-torn country to come to the U.S. to take those jobs, but simply have them work remotely.\n\nTo be clear, I recommend hiring Ukrainian engineers virtually, not recruiting them to the US, which takes time and will drain talent from @Ukraine. We should find Ukrainians work and dignity now so they can provide for their families and country.https://twitter.com/BillAckman/status/1523852028241457152\\u00a0\\u2026\n — Bill Ackman (@Bill Ackman)\n        1652150298\n\n\nThe Russian invasion of Ukraine has devastated huge sections of the country and created a massive refugee crisis, as Russian forces commit horrifying war crimes in occupied territory.\nRELATED: Leaked Kremlin forecasts show Russia facing economic collapse from sanctions: report\nThe Biden administration has committed to admitting in 100,000 Ukrainian refugees, with 6,000 already approved for entry into the U.S.\nAckman's comments also come as U.S. businesses are facing a sharp uptick in workers resigning to pursue other job opportunities, a trend known as the \"Great Resignation\" as a labor shortage causes workers to start questioning the value of working lower-pay, less-secure jobs.",
+          "link": "https://www.rawstory.com/bill-ackman/",
+          "publishedOn": "2022-05-11T12:49:04.000Z",
+          "wordCount": 1785,
+          "title": "Billionaire CEO: Companies should hire Ukrainian engineers because Americans lack 'work ethic'",
+          "imageUrl": "https://www.rawstory.com/media-library/computer-keyboard-afp.png?id=27389415&width=1200&coordinates=0%2C64%2C0%2C65&height=600"
+        },
+        {
+          "id": "https://www.rawstory.com/russia-sanctions-2657300041/",
+          "author": "Brad Reed",
+          "description": "The unprecedented economic sanctions leveled against Russia haven't stopped the country from continuing its war in Ukraine -- but they have succeeded in crushing its economy.\nBloomberg reports that leaked economic forecasts from Russia's Finance Ministry project that the Russian economy will shrink by as much as 12 percent this year as crippling economic sanctions wipe out roughly an entire decade's worth of economic growth.\nThis would also mark the worst economic crisis for Russia since the 1990s when the collapse of the Soviet Union sent the country's economy spiraling downward.\nNatalia Lavrova, chief economist at BCS Financial Group in Moscow, tells Bloomberg that there is no easy fix for Russia going forward.\nIN OTHER NEWS: Legal experts slam Josh Hawley's 'blatantly unconstitutional' anti-Disney bill\n“The main negatives are the oil embargo, the EU giving up Russian gas, along with more departures among foreign companies,” she explained. “All that will probably expand gradually, with a lot of negative carrying over in to 2023.”\nMajor Western nations launched sanctions against Russia earlier this year after the country launched an unprovoked war against neighboring Ukraine.\nAlthough many intelligence experts believed Russia would be able to quickly overrun Ukraine militarily, Russia has failed to achieve its objective of taking over the capital of Kyiv and has also faced significant setbacks in its efforts to take over the eastern region of the country.\nNOW WATCH: Georgia’s Record Setting Early Voting Process Experiences Challenges\n\n\nGeorgia’s Record Setting Early Voting Process Experiences Challenges\n\nwww.youtube.com",
+          "link": "https://www.rawstory.com/russia-sanctions-2657300041/",
+          "publishedOn": "2022-05-11T11:26:20.000Z",
+          "wordCount": 1756,
+          "title": "Leaked Kremlin forecasts show Russia facing economic collapse from sanctions: report",
+          "imageUrl": "https://www.rawstory.com/media-library/putin-to-us-i-m-ready-for-another-cuban-missile-crisis-if-you-want-one.jpg?id=24721644&width=1200&coordinates=0%2C16%2C0%2C17&height=600"
+        },
+        {
+          "id": "https://www.rawstory.com/al-jazeera-journalist-killed-while-covering-israeli-raid-in-west-bank/",
+          "author": "Agence France-Presse",
+          "description": "Veteran Al Jazeera journalist Shireen Abu Akleh, a Palestinian-American who was among the network's most prominent figures, was shot dead Wednesday as she covered an Israeli army raid in the occupied West Bank.\nThe Qatar-based TV channel said Israeli forces shot Abu Akleh, 51, deliberately and \"in cold blood\" while she was covering unrest in the Jenin refugee camp. \nIsraeli Prime Minister Naftali Bennett however said it was \"likely\" that Palestinian gunfire killed her. \nAnother Al Jazeera journalist, producer Ali al-Samudi, was wounded in the incident, the broadcaster added.\nAn AFP photographer said Abu Akleh was wearing a press flak jacket when she was shot. The photographer reported that Israeli forces were firing in the area and then saw Abu Akleh's body lying on the ground. \nThere were…",
+          "link": "https://www.rawstory.com/al-jazeera-journalist-killed-while-covering-israeli-raid-in-west-bank/",
+          "publishedOn": "2022-05-11T11:15:20.000Z",
+          "wordCount": 2190,
+          "title": "Al-Jazeera journalist killed while covering Israeli raid in West Bank",
+          "imageUrl": "https://www.rawstory.com/media-library/image.jpg?id=29789104&width=1200&coordinates=0%2C2%2C0%2C91&height=600"
+        },
+        {
+          "id": "https://www.rawstory.com/tokyo-to-recognize-same-partnerships-from-november/",
+          "author": "Agence France-Presse",
+          "description": "Tokyo will begin recognizing same-sex partnerships from November after revising current rules, officials said Wednesday, becoming the largest city in Japan to do so.\nJapan is the only nation of the Group of Seven countries that does not recognize same-sex unions, and its constitution stipulates that \"marriage shall be only with the mutual consent of both sexes\".\n\nBut in recent years, local authorities across the country have made moves to recognize same-sex partnerships, although such recognition does not carry the same rights as marriage under the law.\n\"We collected opinions from the public for the past two months and we heard opinions (from same-sex couples) who said they want to be recognized as partners,\" a Tokyo government spokesman told AFP.\nThe metropolitan government plans to ask legislators to approve revising a local ordinance next month, and will then begin accepting applications for the certificates in October and issuing them in November.\nThe city is considering offering various services currently only available to married couples to those with the partnership certificate, including applying for city-administered apartments, the spokesman said.\nTokyo's Shibuya district in 2015 became the first place in Japan to begin issuing symbolic \"partnership\" certificates to same-sex couples.\nMany areas have followed suit, with activists saying more than 200 municipalities now recognize same-sex partnerships, granting couples rights including the ability to visit a partner in hospital and rent property together.\nIn a landmark ruling last year, a court in northern Sapporo said Japan's failure to recognize same-sex marriage is unconstitutional, a verdict hailed by campaigners as a major victory.\nBut Japan's Prime Minister Fumio Kishida has been cautious on the possibility of any legislative changes at the national level to recognize same-sex unions.\nTaiwan is currently the only place in Asia with marriage equality, having taken the unprecedented step of legalizing same-sex unions in 2019.\n© 2022 AFP",
+          "link": "https://www.rawstory.com/tokyo-to-recognize-same-partnerships-from-november/",
+          "publishedOn": "2022-05-11T11:01:17.000Z",
+          "wordCount": 1818,
+          "title": "Tokyo to recognize same-sex partnerships from November",
+          "imageUrl": "https://www.rawstory.com/media-library/gay-pride-parade-japan.jpg?id=29788972&width=1200&coordinates=0%2C0%2C0%2C68&height=600"
+        },
+        {
+          "id": "https://www.rawstory.com/paraguay-anti-prosecutor-shot-on-honeymoon-in-colombia/",
+          "author": "Agence France-Presse",
+          "description": "Paraguayan anti-drug prosecutor Marcelo Pecci was shot dead execution-style Tuesday while honeymooning on a Colombian Caribbean island by attackers who fled by sea, police and his widow said.\nParaguay's president denounced the crime as a \"cowardly murder\" and a fellow prosecutor said the modus operandi was reminiscent of \"the mafia.\"\nPecci, 45, was felled by two shots while relaxing on a beach on the idyllic tourist island of Baru, according to his wife, Paraguayan journalist Claudia Aguilera.\nThe couple got married on April 30 in the nearby city of Cartagena.\n\"Two men attacked Marcelo. They came (by sea) in a small boat, or on a jet ski, the truth is I did not see well,\" Aguilera told the El Tiempo newspaper.\nOne of the assailants got out and \"without a word he shot Marcelo twice, one (bu…",
+          "link": "https://www.rawstory.com/paraguay-anti-prosecutor-shot-on-honeymoon-in-colombia/",
+          "publishedOn": "2022-05-11T10:50:23.000Z",
+          "wordCount": 2118,
+          "title": "Paraguay anti-drug prosecutor shot dead on honeymoon in Colombia",
+          "imageUrl": "https://www.rawstory.com/media-library/anti-drug-prosecutor-marcelo-pecci-pictured-in-asuncion-paraguay-on-march-10-2020-c-jorge-adorno-reuters.jpg?id=29788915&width=1200&coordinates=0%2C0%2C0%2C91&height=600"
+        },
+        {
+          "id": "https://www.rawstory.com/hong-kong-tiananmen-vigil-organizers-labelled-foreign-agents/",
+          "author": "Agence France-Presse",
+          "description": "A Hong Kong court ruled on Wednesday that prosecutors could label organizers of the city's annual Tiananmen vigil \"foreign agents\" without having to reveal who the group is accused of working for.\nThe decision was made on national security grounds but those being prosecuted argue that the precedent-setting ruling makes it harder to prepare their defense ahead of trial.\nFor three decades, the now-disbanded Hong Kong Alliance held vigils commemorating victims of China's deadly 1989 crackdown on democracy protesters in Beijing's Tiananmen Square.\nThose commemorations have been driven underground since Beijing imposed a sweeping national security law on Hong Kong following democracy protests three years ago.\nAuthorities charged the alliance with \"incitement to subversion\", a national security …",
+          "link": "https://www.rawstory.com/hong-kong-tiananmen-vigil-organizers-labelled-foreign-agents/",
+          "publishedOn": "2022-05-11T10:46:25.000Z",
+          "wordCount": 1934,
+          "title": "Hong Kong Tiananmen vigil organizers labeled 'foreign agents'",
+          "imageUrl": "https://www.rawstory.com/media-library/hong-kong-marks-tiananmen-crackdown-as-anthem-insults-and-vigil-banned.jpg?id=24481114&width=1200&coordinates=0%2C15%2C0%2C15&height=600"
+        },
+        {
+          "id": "https://www.rawstory.com/sri-lanka-president-warns-of-racial-tensions-amid-economic-crisis/",
+          "author": "Reuters",
+          "description": "By Uditha Jayasinghe and Alasdair Pal\nCOLOMBO (Reuters) - Sri Lanka's president urged people on Wednesday to reject what he called attempts to foment racial and religious disharmony, as clashes broke out in many parts of the country over the government's handling of a devastating economic crisis.\nViolent street protests killed eight people this week and even the resignation of President Gotabaya Rajapaksa's elder brother as prime minister and a curfew have failed to douse public anger. The government has ordered troops to shoot at anyone damaging public property or threatening lives.\nSri Lankans have blamed the Rajapaksa dynasty for the economic meltdown that has left the country with only about $50 million in reserves, stalling most imports and leading to massive shortages of fuel, cookin…",
+          "link": "https://www.rawstory.com/sri-lanka-president-warns-of-racial-tensions-amid-economic-crisis/",
+          "publishedOn": "2022-05-11T04:53:05.000Z",
+          "wordCount": 1930,
+          "title": "Sri Lanka president warns of racial tensions amid economic crisis",
+          "imageUrl": "https://www.rawstory.com/media-library/image.jpg?id=29788160&width=980"
+        },
+        {
+          "id": "https://www.rawstory.com/us-takes-first-step-to-approve-40-bn-in-ukraine-aid/",
+          "author": "AFP",
+          "description": "US President Joe Biden signed the Ukraine Democracy Defense Lend-Lease Act of 2022 into law earlier this week\nWashington (AFP) - US lawmakers voted Tuesday to send a $40 billion aid package to Ukraine, as Washington warned that Russia was likely girding for a long conflict with its neighbor.\nThe defense, humanitarian and economic funding passed the House of Representatives by 368 votes to 57, with the two parties' leaders having already reached an agreement on the details. It will likely pass the Senate by the end of the week or next week.\nAll the dissenting votes came from the Republican ranks.\n\"With this aid package, America sends a resounding message to the world of our unwavering determination to stand with the courageous people of Ukraine until victory is won,\" House Speaker Nancy Pel…",
+          "link": "https://www.rawstory.com/us-takes-first-step-to-approve-40-bn-in-ukraine-aid/",
+          "publishedOn": "2022-05-11T03:44:55.000Z",
+          "wordCount": 2212,
+          "title": "US takes first step to approve $40 bn in Ukraine aid",
+          "imageUrl": "https://www.rawstory.com/media-library/image.jpg?id=29788072&width=980"
+        },
+        {
+          "id": "https://www.rawstory.com/china-taiwan-straight/",
+          "author": "Reuters",
+          "description": "China's military said on Wednesday that it had monitored and warned a U.S. warship that had sailed through the sensitive Taiwan Strait, a mission that happened shortly after China carried out drills near the island.\n\t\n\t\n\t\tThe U.S. Navy's 7th Fleet said the guided-missile cruiser USS Port Royal co...",
+          "link": "https://www.rawstory.com/china-taiwan-straight/",
+          "publishedOn": "2022-05-11T01:49:48.000Z",
+          "wordCount": 1981,
+          "title": "China says warned U.S. warship as it transited Taiwan Strait",
+          "imageUrl": "https://www.rawstory.com/media-library/image.jpg?id=29787941&width=980"
+        },
+        {
+          "id": "https://www.rawstory.com/philippines-election-winner-marcos-tells-world-to-judge-him-by-actions-not-family-s-past/",
+          "author": "Reuters UK",
+          "description": "By Karen Lema and Enrico Dela Cruz MANILA (Reuters) - The son of the disgraced late Philippines dictator Ferdinand Marcos vowed on Tuesday to work for all people after his stunning election victory, and told the world to judge him by his presidency, not his family's past. Ferdinand Marcos Jr, better known as \"Bongbong\", become the first candidate in recent history to win an outright majority in a Philippines presidential election, paving the way for a once unimaginable return to rule for the country's most notorious political dynasty. \"Judge me not by my ancestors, but by my actions,\" Marcos t...",
+          "link": "https://www.rawstory.com/philippines-election-winner-marcos-tells-world-to-judge-him-by-actions-not-family-s-past/",
+          "publishedOn": "2022-05-11T00:24:29.000Z",
+          "wordCount": 1618,
+          "title": "Philippines election winner Marcos tells world to judge him by actions, not family's past",
+          "imageUrl": "https://www.rawstory.com/media-library/image.jpg?id=29787728&width=980"
+        },
+        {
+          "id": "https://www.rawstory.com/haitian-gang-leader-yonyon-indicted-in-dc-for-role-in-kidnapping-of-16-americans/",
+          "author": "Miami Herald",
+          "description": "The leader of a Haitian gang that kidnapped 17 American and Canadian missionaries on the eastern outskirts of Port-au-Prince last October was indicted Tuesday by a federal grand jury in the District of Columbia. Germine Joly, 29, who is better known as “Yonyon,” was charged with conspiracy to commit hostage taking for his role in the armed kidnapping of 16 U.S. citizens in Haiti. The victims, including five children, were Christian missionaries serving in Haiti. Most of them were held captive for 61 days by the gang 400 Mawozo. The gang’s No. 2 demanded $1 million in ransom per victim and thre...",
+          "link": "https://www.rawstory.com/haitian-gang-leader-yonyon-indicted-in-dc-for-role-in-kidnapping-of-16-americans/",
+          "publishedOn": "2022-05-10T23:51:30.000Z",
+          "wordCount": 1641,
+          "title": "Haitian gang leader ‘Yonyon’ indicted in DC for role in kidnapping of 16 Americans",
+          "imageUrl": "https://www.rawstory.com/media-library/image.jpg?id=29787665&width=980"
+        },
+        {
+          "id": "https://www.rawstory.com/uk-to-reform-spy-laws-to-tackle-threats-from-cyber-and-state-influence/",
+          "author": "Reuters UK",
+          "description": "LONDON (Reuters) - Britain will overhaul its espionage laws in the face of threats to national security ranging from cyber-attacks to pernicious lobbying that could undermine its economy, the country's interior minister said on Wednesday. Home Secretary Priti Patel said the reforms would include the creation of a new Foreign Influence Registration Scheme, similar to ones in the United States and Australia, to reduce the risk of foreign governments damaging Britain's interests. Patel said the new laws, coupled with more powerful tools for Britain's police and intelligence agencies, \"will be cri...",
+          "link": "https://www.rawstory.com/uk-to-reform-spy-laws-to-tackle-threats-from-cyber-and-state-influence/",
+          "publishedOn": "2022-05-10T23:11:07.000Z",
+          "wordCount": 1607,
+          "title": "UK to reform spy laws to tackle threats from cyber and state influence",
+          "imageUrl": "https://www.rawstory.com/media-library/image.jpg?id=29787576&width=980"
+        },
+        {
+          "id": "https://www.rawstory.com/ukrainian-entry-makes-it-into-eurovision-song-contest-final/",
+          "author": "DPA",
+          "description": "Kalush Orchestra from Ukraine performs with the title \"Stefania\" at the first semi-final of the Eurovision Song Contest (ESC). Jens Büttner/dpa\nKalush Orchestra, the Ukrainian entry for this year's Eurovision Song Contest, has made it into Saturday's grand final in Turin.\nKalush Orchestra advanced in the first semi-final late Tuesday along with nine other countries.\nThe musicians from western Ukraine and their song \"Stefania\" are the favourites for overall victory at this year's Grand Prix in the northern Italian city.\nArtists from a total of 17 countries took part in the first semi- final on Tuesday.\nThe band has been vocal in expressing its support for Ukrainian resistance to the Russian invasion on social media since the armed conflict began.\nRussia has been excluded from this year's Eurovision, as has its neighbour and close ally Belarus.\nKalush Orchestra from Ukraine performs with the title \"Stefania\" at the first semi-final of the Eurovision Song Contest (ESC). Jens Büttner/dpa\nKalush Orchestra from Ukraine performs with the title \"Stefania\" at the first semi-final of the Eurovision Song Contest (ESC). Jens Büttner/dpa",
+          "link": "https://www.rawstory.com/ukrainian-entry-makes-it-into-eurovision-song-contest-final/",
+          "publishedOn": "2022-05-10T23:09:01.000Z",
+          "wordCount": 1749,
+          "title": "Ukrainian entry makes it into Eurovision Song Contest final",
+          "imageUrl": "https://www.rawstory.com/media-library/image.jpg?id=29787423&width=980"
+        },
+        {
+          "id": "https://www.rawstory.com/havana-explosion-search-continues-for-3-hotel-saratoga-workers-trapped-in-the-rubble/",
+          "author": "Miami Herald",
+          "description": "Three employees who were at the Hotel Saratoga in Havana at the time of a strong explosion that destroyed much of the building and killed at least 42 people are still missing, tourism ministry officials said Tuesday. Search teams are trying to find two waitresses and a cook who worked at the five-star hotel and are believed to be trapped in the building’s ruins, officials said at a news conference reported by Prensa Latina. Hotel Saratoga was preparing to reopen to international tourism after two years of being closed due to the COVID-19 pandemic. Twenty-three of the 51 workers believed to hav...",
+          "link": "https://www.rawstory.com/havana-explosion-search-continues-for-3-hotel-saratoga-workers-trapped-in-the-rubble/",
+          "publishedOn": "2022-05-10T22:51:34.000Z",
+          "wordCount": 1639,
+          "title": "Havana explosion: Search continues for 3 Hotel Saratoga workers trapped in the rubble",
+          "imageUrl": "https://www.rawstory.com/media-library/image.jpg?id=29787482&width=980"
+        },
+        {
+          "id": "https://www.rawstory.com/ric-grenell-trump-germany-problems/",
+          "author": "Sarah K. Burris",
+          "description": "In his new tell-all book, former Secretary of Defense Mark Esper criticized Ric Grenell, who became Donald Trump's acting director of national intelligence (DNI) for a few months in 2020. \nActing Director of National Intelligence Joseph Maguire told members of the House Intelligence Committee Russia was already trying to interfere with the 2020 election. Trump swiftly fired Maguire and replaced him with Grenell. \nAccording to Esper, \"there were a number of people in the administration who would willingly do Trump’s bidding, and probably even his more extreme dictates, and it deeply concerned me.\" Grenell, he explained, was one of them. \nTrump would brag about Grenell like it was a grand strategy to force the hand of the Senate Republicans. \nIN OTHER NEWS: Jen Psaki schools Fox News reporte…",
+          "link": "https://www.rawstory.com/ric-grenell-trump-germany-problems/",
+          "publishedOn": "2022-05-10T19:58:07.000Z",
+          "wordCount": 2321,
+          "title": "Trump bragged he installed Ric Grenell in top intel spot to make his nominee look less extreme: new book",
+          "imageUrl": "https://www.rawstory.com/media-library/trump.jpg?id=29784019&width=1200&coordinates=0%2C3%2C0%2C47&height=600"
+        },
+        {
+          "id": "https://www.rawstory.com/sri-lanka-protesters-call-for-new-government-a-day-after-clashes-eight/",
+          "author": "Reuters UK",
+          "description": "By Alasdair Pal and Uditha Jayasinghe COLOMBO (Reuters) -Protesters and a key trade group in Sri Lanka called for a new government to take control of the crisis-hit country on Tuesday while the president asked for calm following clashes that claimed eight lives and prompted his brother to quit as prime minister. Sri Lanka has been suffering its worst economic crisis in history, with a severe shortage of foreign exchange stalling essential imports, including drugs and fuel. For months, its tottering economy has been largely supported by India, which has provided assistance of more than $3.5 bil...",
+          "link": "https://www.rawstory.com/sri-lanka-protesters-call-for-new-government-a-day-after-clashes-eight/",
+          "publishedOn": "2022-05-10T19:53:21.000Z",
+          "wordCount": 1613,
+          "title": "Sri Lanka protesters call for new government a day after clashes kill eight",
+          "imageUrl": "https://www.rawstory.com/media-library/image.jpg?id=29784022&width=980"
+        },
+        {
+          "id": "https://www.rawstory.com/framing-ukraine-battle-as-a-proxy-war-is-wonderful-for-putins-propaganda/",
+          "author": "Amy Goodman, Democracy Now!",
+          "description": "Russian President Vladimir Putin has defended his invasion of Ukraine, saying it was a necessary blow against NATO. His remarks came during Russia’s annual Victory Day celebrations on May 9 marking the defeat of Nazi Germany in World War II. U.S. lawmakers, meanwhile, are increasingly describing the fighting in Ukraine as a proxy war between the U.S. and Russia. We speak with the Quincy Institute’s Anatol Lieven, who says the war can only end through negotiations, and aggressive U.S. rhetoric risks prolonging the fighting. “That is a recipe for this war going on essentially forever, with colossal suffering for Ukraine,” says Lieven.\n\n\nAnotol Lieven: U.S. Lawmakers' Framing of Ukraine as Proxy War Is Wonderful for Putin's Propaganda\n\nwww.youtube.com\n\n\nTranscript\nThis is a rush transcript. C…",
+          "link": "https://www.rawstory.com/framing-ukraine-battle-as-a-proxy-war-is-wonderful-for-putins-propaganda/",
+          "publishedOn": "2022-05-10T19:07:35.000Z",
+          "wordCount": 3628,
+          "title": "Framing Ukraine battle as a proxy war is both 'profoundly stupid' and 'wonderful for Putin's propaganda'",
+          "imageUrl": "https://www.rawstory.com/media-library/russian-president-vladimir-putin-c-yuri-kochetkov-afp.jpg?id=29546190&width=1200&coordinates=0%2C32%2C0%2C33&height=600"
+        },
+        {
+          "id": "https://www.rawstory.com/west-blames-russia-for-satellite-hack-ahead-of-ukraine-invasion/",
+          "author": "Agence France-Presse",
+          "description": "Western powers on Tuesday accused Russian authorities of carrying out a cyberattack against a satellite network an hour before the invasion of Ukraine to pave the way for its assault.\nAccording to the British Foreign Office, UK, US and EU cyber security experts have met to assess new intelligence linking the February attack directly to the Russian state.\n\"This is clear and shocking evidence of a deliberate and malicious attack by Russia against Ukraine which had significant consequences on ordinary people and businesses in Ukraine and across Europe,\" UK foreign minister Liz Truss said.\nUS Secretary of State Antony Blinken, confirming the US intelligence assessment of the attack, said that Russia aimed to disrupt Ukrainian command and control.\n\"The activity disabled very small aperture term…",
+          "link": "https://www.rawstory.com/west-blames-russia-for-satellite-hack-ahead-of-ukraine-invasion/",
+          "publishedOn": "2022-05-10T17:28:41.000Z",
+          "wordCount": 2030,
+          "title": "West blames Russia for satellite hack ahead of Ukraine invasion",
+          "imageUrl": "https://www.rawstory.com/media-library/an-ariane-5-rocket-lifts-off-in-2017-from-french-guiana-with-a-satellite-of-viasat-one-of-whose-networks-was-allegedly-hacked-by-russia-during-the-invasion-of-ukraine-jody-amiet-afp-file.jpg?id=29782376&width=1200&coordinates=0%2C9%2C0%2C9&height=600"
+        },
+        {
+          "id": "https://www.rawstory.com/has-russia-been-beaten-this-military-expert-says-that-moment-is-coming-soon/",
+          "author": "Chauncey Devega, Salon",
+          "description": "When Vladimir Putin ordered the Russian military to invade Ukraine more than two months ago, he no doubt expected an easy victory from a lightning-fast assault intended to crush the smaller opposing force. This spectacular victory was meant to advance the Russian president's vision of a new manifest destiny, bringing his country closer to re-establishing itself as an imperial power on the global stage. But Putin's gambit failed in grand fashion. Instead of celebrating a victory on May 9 — the anniversary of the Soviet victory over Nazi Germany in World War II — the Russian military is trying to reorganize itself after a series of stunning defeats and great losses in both materiel and personnel.\nSpeed was the key element in the Russian plan, but surprisingly strong and effective resistance …",
+          "link": "https://www.rawstory.com/has-russia-been-beaten-this-military-expert-says-that-moment-is-coming-soon/",
+          "publishedOn": "2022-05-10T15:26:17.000Z",
+          "wordCount": 4991,
+          "title": "Has Russia been beaten? This military expert says that moment is coming soon",
+          "imageUrl": "https://www.rawstory.com/media-library/vladimir-putin.jpg?id=29776359&width=1200&coordinates=0%2C24%2C0%2C24&height=600"
+        },
+        {
+          "id": "https://www.rawstory.com/trumps-near-war-with-iran/",
+          "author": "Sarah K. Burris",
+          "description": "In his new tell-all book, former Defense Department Secretary Mark Esper recalled a meeting with top Cabinet officials during the withdrawal from Syria and the \"warhawks\" who had to be reminded that they weren't going to bomb Iran. \nIn an attack on Esper in a letter to CBS News, Trump said that Esper was so weak that he personally had to run the military to defeat ISIS. But the book describes the defense team being forced to create a chart to explain to Trump how an attack on Iran would work. \nTrump met with congressional leaders on the afternoon of June 20, telling them he was about to bomb Iran after they shot down a U.S. surveillance drone. But by the end of the day, \"with ships readying missiles and airplanes already in the skies, told the Pentagon to call off the airstrikes with only …",
+          "link": "https://www.rawstory.com/trumps-near-war-with-iran/",
+          "publishedOn": "2022-05-10T15:17:43.000Z",
+          "wordCount": 2200,
+          "title": "Pence and Pompeo described as 'Warhawks' -- and had to be reminded Trump wasn't going to war with Iran: new book",
+          "imageUrl": "https://www.rawstory.com/media-library/world-leaders-urged-to-stand-up-for-democracy-and-refuse-to-meet-with-mike-pompeo-after-he-denies-election-outcome.jpg?id=24499273&width=1200&coordinates=0%2C69%2C0%2C69&height=600"
+        },
+        {
+          "id": "https://www.rawstory.com/prince-charles-delivers-queen-s-speech-for-the-first-time/",
+          "author": "Reuters UK",
+          "description": "By Kate Holton and Paul Sandle LONDON (Reuters) -Britain's heir-to-the-throne Prince Charles and Prince William took centre stage amid the pomp and pageantry of the opening of parliament on Tuesday, replacing the 96-year-old Queen Elizabeth who missed the grand set-piece event with health issues. With the queen forced to withdraw for the first time in almost 60 years, Charles stepped in to read out the government's legislative agenda at the Palace of Westminster, the first time he has taken on such a major constitutional duty. The queen, the world's oldest and longest-reigning monarch, has bee...",
+          "link": "https://www.rawstory.com/prince-charles-delivers-queen-s-speech-for-the-first-time/",
+          "publishedOn": "2022-05-10T13:36:22.000Z",
+          "wordCount": 1603,
+          "title": "Prince Charles delivers Queen's Speech for the first time",
+          "imageUrl": "https://www.rawstory.com/media-library/image.jpg?id=29781349&width=980"
+        },
+        {
+          "id": "https://www.rawstory.com/sweden-s-gotland-at-crossroads-of-history-as-nato-decision-looms/",
+          "author": "Reuters",
+          "description": "By Philip O'Connor and Ilze Filks\nVISBY, Sweden (Reuters) - The crack of gunshots splits the silence in a sleepy forest as Camilla Selander, a deli-counter worker, squeezes off shots from her Glock 9 millimetre pistol during target practice with Sweden's Home Guard on the island of Gotland.\nThe 34-year-old is one of the volunteers practising at a military firing range on the island, likely to be on the front line of any future confrontation between Russia and Sweden.\nThe island lies just 300 km (186 miles) from the home of Russia's Baltic Fleet in the Russian exclave of Kaliningrad, sandwiched between Lithuania and Poland.\n\"People are a bit worried, but we're trying to keep everybody calm, so that we talk about what is happening but nevertheless tell each other that it's going to be fine,\"…",
+          "link": "https://www.rawstory.com/sweden-s-gotland-at-crossroads-of-history-as-nato-decision-looms/",
+          "publishedOn": "2022-05-10T11:12:58.000Z",
+          "wordCount": 2230,
+          "title": "Sweden's Gotland at crossroads of history as NATO decision looms",
+          "imageUrl": "https://www.rawstory.com/media-library/image.jpg?id=29780645&width=980"
+        },
+        {
+          "id": "https://www.rawstory.com/egypt-s-ancient-zar-ritual-puts-exorcism-on-stage/",
+          "author": "Agence France-Presse",
+          "description": "A stage, lights, a mesmerized audience: it looks like an Egyptian folkloric concert but Umm Sameh is singing to heal the sick by driving out the demons that possess them.\nThe music and dance ritual known as \"zar\", with centuries-old roots in Ethiopia and Sudan, is traditionally performed to ward off or exorcise jinn or evil spirits.\n\"We're not quacks or witches,\" said Umm Sameh, aged in her 70s, with kohl-lined eyes, large hoops swaying in her ears and gold bracelets tinkling on her arms.\n\"The singing is spiritual and brings out negative energies,\" said the lead singer of the Mazaher ensemble, adding that they also perform prayers from Islam's mystic Sufi practices.\nTraditionally, the zar ritual would last several days and include animal sacrifices. But no blood is spilled at Cairo's Makan…",
+          "link": "https://www.rawstory.com/egypt-s-ancient-zar-ritual-puts-exorcism-on-stage/",
+          "publishedOn": "2022-05-10T10:55:06.000Z",
+          "wordCount": 1945,
+          "title": "Egypt's ancient 'zar' ritual puts exorcism on stage",
+          "imageUrl": "https://www.rawstory.com/media-library/traditionally-the-zar-ritual-found-in-variations-across-parts-of-north-africa-and-the-middle-east-would-last-several-days-and-include-animal-sacrifices-khaled-desouki-afp.jpg?id=29780429&width=1200&coordinates=0%2C0%2C0%2C83&height=600"
+        }
+      ]
+    },
+    {
+      "title": "International Affairs",
+      "feedUrl": "https://www.brookings.edu/topic/international-affairs/feed/",
+      "siteUrl": "https://www.brookings.edu",
+      "articles": [
+        {
+          "id": "https://www.brookings.edu/?post_type=research&p=1603890",
+          "author": null,
+          "description": "On July 1, 2021, the Congressional Study Group on Foreign Relations and National Security convened over Zoom to discuss separation of powers issues surrounding treaty withdrawal and re-entry. The Trump administration’s withdrawals from the INF Treaty, the Open Skies Treaty, and the WHO Constitution, among other international agreements, and threats to withdraw from NAFTA and…",
+          "link": "https://www.brookings.edu/research/congresss-control-over-treaties/",
+          "publishedOn": "2022-05-11T18:33:08.000Z",
+          "wordCount": 1496,
+          "title": "Congress’s Control Over Treaties",
+          "enclosure": {
+            "url": "https://www.brookings.edu/wp-content/uploads/2019/06/trump_jinping_handshake001-e1651527973506.jpg?w=270",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.brookings.edu/wp-content/uploads/2019/06/trump_jinping_handshake001-e1651527973506.jpg?w=270"
+        },
+        {
+          "id": "https://www.brookings.edu/?post_type=research&p=1603854",
+          "author": null,
+          "description": "On Nov. 20, 2020, the Congressional Study Group on Foreign Relations and National Security convened online to discuss the past, present, and future of sovereign immunity. Recent debates in Congress over the possibility of holding China civilly liable over the coronavirus, allowing people to sue state sponsors of cybercrime, and potential civil liability for acts…",
+          "link": "https://www.brookings.edu/research/sovereign-immunity-past-present-and-future/",
+          "publishedOn": "2022-05-11T18:25:40.000Z",
+          "wordCount": 1506,
+          "title": "Sovereign Immunity: Past, Present, and Future",
+          "enclosure": {
+            "url": "https://www.brookings.edu/wp-content/uploads/2021/05/2021-05-11T000000Z_644120449_MT1KYODO0008GE4TJ_RTRMADP_3_U-N-HEADQUARTERS.jpg?w=271",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.brookings.edu/wp-content/uploads/2021/05/2021-05-11T000000Z_644120449_MT1KYODO0008GE4TJ_RTRMADP_3_U-N-HEADQUARTERS.jpg?w=271"
+        },
+        {
+          "id": "https://www.brookings.edu/?p=1604636",
+          "author": "Célia Belin, Agneska Bloch",
+          "description": "On April 24, Emmanuel Macron was reelected as president of France, beating far-right challenger Marine Le Pen in a runoff for the second time. After what briefly appeared to be a tight race in early April — with one poll putting Le Pen within two points of the incumbent president — Macron’s victory came as…",
+          "link": "https://www.brookings.edu/blog/order-from-chaos/2022/05/06/macron-survives-but-how-long-can-the-center-hold-in-france/",
+          "publishedOn": "2022-05-06T20:57:12.000Z",
+          "wordCount": 1842,
+          "title": "Macron survives, but how long can the center hold in France?",
+          "enclosure": {
+            "url": "https://www.brookings.edu/wp-content/uploads/2022/05/MacronLePenPosters_001.jpg?w=320",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.brookings.edu/wp-content/uploads/2022/05/MacronLePenPosters_001.jpg?w=320"
+        },
+        {
+          "id": "https://www.brookings.edu/?p=1604497",
+          "author": "Patricia M. Kim",
+          "description": "The recent announcement of a new security agreement between China and the Solomon Islands has rattled leaders in Washington, Canberra, and other Indo-Pacific capitals who fear it opens the door to a Chinese military presence in the southern Pacific. Much of the attention has been on the deal’s potential to lead to a Chinese military…",
+          "link": "https://www.brookings.edu/blog/order-from-chaos/2022/05/06/does-the-china-solomon-islands-security-pact-portend-a-more-interventionist-beijing/",
+          "publishedOn": "2022-05-06T13:53:24.000Z",
+          "wordCount": 1861,
+          "title": "Does the China-Solomon Islands security pact portend a more interventionist Beijing?",
+          "enclosure": {
+            "url": "https://www.brookings.edu/wp-content/uploads/2022/05/ChinaSolomons_001.jpg?w=277",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.brookings.edu/wp-content/uploads/2022/05/ChinaSolomons_001.jpg?w=277"
+        },
+        {
+          "id": "https://www.brookings.edu/?post_type=event&p=1604220",
+          "author": null,
+          "description": "South Korean President-elect Yoon Suk-yeol and U.S. President Joseph Biden will hold their first summit meeting in Seoul on May 21. The incoming Yoon administration is expected to take a more active role in the Indo-Pacific region, working together with Washington and other like-minded U.S. allies and partners in the region. What are the prospects…",
+          "link": "https://www.brookings.edu/events/south-koreas-role-in-the-indo-pacific-opportunities-and-challenges-under-the-yoon-administration/",
+          "publishedOn": "2022-05-05T20:15:45.000Z",
+          "wordCount": 674,
+          "title": "South Korea’s role in the Indo-Pacific: Opportunities and challenges under the Yoon administration",
+          "enclosure": {
+            "url": "https://www.brookings.edu/wp-content/uploads/2022/05/Seoul001.jpg?w=270",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.brookings.edu/wp-content/uploads/2022/05/Seoul001.jpg?w=270"
+        },
+        {
+          "id": "https://www.brookings.edu/?post_type=event&p=1604237",
+          "author": null,
+          "description": "A compounding set of global challenges has raised concerns for some observers about Taiwan’s security and its economic situation. These challenges include the continuing spread of COVID-19 and its associated disruptions to global supply chains, rising energy and food prices, inflationary pressures around the world, and the ripple effects of war in Ukraine and elsewhere.…",
+          "link": "https://www.brookings.edu/events/taiwans-economy-during-a-time-of-global-uncertainty/",
+          "publishedOn": "2022-05-05T19:29:17.000Z",
+          "wordCount": 805,
+          "title": "Taiwan’s economy during a time of global uncertainty",
+          "enclosure": {
+            "url": "https://www.brookings.edu/wp-content/uploads/2022/05/2022-04-19T113906Z_1298643028_RC27QT9N5ZLZ_RTRMADP_3_HEALTH-CORONAVIRUS-TAIWAN.jpg?w=270",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.brookings.edu/wp-content/uploads/2022/05/2022-04-19T113906Z_1298643028_RC27QT9N5ZLZ_RTRMADP_3_HEALTH-CORONAVIRUS-TAIWAN.jpg?w=270"
+        },
+        {
+          "id": "https://www.brookings.edu/?p=1603656",
+          "author": "Colin I. Bradford",
+          "description": "At this tense moment, it seems that the confrontational narratives driving the U.S.-China bilateral relationship now contain specifically conflicting perspectives on the future of the global order. China seems to highlight the degree to which the West is seen to have imposed its presumptively universal values on the global system in the post-war period, which…",
+          "link": "https://www.brookings.edu/blog/up-front/2022/05/04/perspectives-on-the-future-of-the-global-order/",
+          "publishedOn": "2022-05-04T19:03:40.000Z",
+          "wordCount": 1726,
+          "title": "Perspectives on the future of the global order",
+          "enclosure": {
+            "url": "https://www.brookings.edu/wp-content/uploads/2022/04/shutterstock_1377696476.jpg?w=320",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.brookings.edu/wp-content/uploads/2022/04/shutterstock_1377696476.jpg?w=320"
+        },
+        {
+          "id": "https://www.brookings.edu/?post_type=media-mention&p=1604044",
+          "author": "Nicki Sullivan",
+          "description": "Visit the post for more.",
+          "link": "https://www.brookings.edu/media-mentions/20220430-new-york-times-madiha-afzal/",
+          "publishedOn": "2022-04-30T13:01:59.000Z",
+          "wordCount": 240,
+          "title": "20220430 New York Times Madiha Afzal",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "id": "https://www.brookings.edu/?p=1602470",
+          "author": "Constanze Stelzenmüller",
+          "description": "A merciless war is being waged in the middle of Europe — on Germany’s ruling Social Democratic Party (SPD). That, at least, is what a casual observer of German politics might conclude. Rolf Mützenich, the head of the SPD’s parliamentary faction, has denounced demands by his Green and Free Democratic coalition partners for heavy weapons…",
+          "link": "https://www.brookings.edu/blog/order-from-chaos/2022/04/26/germany-has-a-special-responsibility-to-stop-putins-evil/",
+          "publishedOn": "2022-04-26T15:20:36.000Z",
+          "wordCount": 1267,
+          "title": "Germany has a special responsibility to stop Putin’s evil",
+          "enclosure": {
+            "url": "https://www.brookings.edu/wp-content/uploads/2022/04/2022-04-25T151204Z_186991290_RC2EUT9JHD8U_RTRMADP_3_GERMANY-POLITICS.jpg?w=283",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.brookings.edu/wp-content/uploads/2022/04/2022-04-25T151204Z_186991290_RC2EUT9JHD8U_RTRMADP_3_GERMANY-POLITICS.jpg?w=283"
+        },
+        {
+          "id": "https://www.brookings.edu/?post_type=opinion&p=1603621",
+          "author": "Sharan Grewal, Mohamed Dhia Hammami",
+          "description": "Surveys suggest Tunisians approved of Kais Saied’s power grab. But they’re not actually answering his calls to action.",
+          "link": "https://www.brookings.edu/opinions/how-much-popular-support-does-tunisias-president-really-have/",
+          "publishedOn": "2022-04-26T13:21:04.000Z",
+          "wordCount": 1225,
+          "title": "How much popular support does Tunisia’s president really have?",
+          "enclosure": {
+            "url": "https://www.brookings.edu/wp-content/uploads/2022/04/2022-04-10T020603Z_1212598309_RC22KT9XVLPV_RTRMADP_3_TUNISIA-POLITICS-PIX.jpg?w=292",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.brookings.edu/wp-content/uploads/2022/04/2022-04-10T020603Z_1212598309_RC22KT9XVLPV_RTRMADP_3_TUNISIA-POLITICS-PIX.jpg?w=292"
+        }
+      ]
+    },
+    {
+      "title": "The Washington Times stories: World",
+      "feedUrl": "http://www.washingtontimes.com/rss/headlines/news/world",
+      "siteUrl": "https://www.washingtontimes.com/news/world/?utm_medium=RSS",
+      "articles": [
+        {
+          "id": "https://www.washingtontimes.com/news/2022/may/12/palestinians-reject-probe-with-israel-of-reporters/?utm_source=RSS_Feed&utm_medium=RSS",
+          "author": null,
+          "description": "The Palestinian Authority on Thursday rejected an Israeli request to hold a joint investigation into the killing of Al Jazeera journalist Shireen Abu Akleh, saying it would not hand over the bullet that killed her for ballistic analysis.",
+          "link": "https://www.washingtontimes.com/news/2022/may/12/palestinians-reject-probe-with-israel-of-reporters/?utm_source=RSS_Feed&utm_medium=RSS",
+          "publishedOn": "2022-05-12T08:12:56.000Z",
+          "wordCount": 1085,
+          "title": "Palestinians reject probe with Israel of reporter's killing",
+          "enclosure": {
+            "url": "https://twt-thumbs.washtimes.com/media/image/2022/05/11/aptopix_israel_palestinians_journalist_killed_54843_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+            "length": "1404577",
+            "type": "image/jpeg/"
+          },
+          "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2022/05/11/aptopix_israel_palestinians_journalist_killed_54843_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+        },
+        {
+          "id": "https://www.washingtontimes.com/news/2022/may/12/arrested-hong-kong-cardinal-a-fiery-critic-of-beij/?utm_source=RSS_Feed&utm_medium=RSS",
+          "author": null,
+          "description": "Cardinal Joseph Zen, the 90-year-old Catholic cleric arrested by Hong Kong police on national security charges, has long been a fiery critic of Beijing's control of religion and political monopoly, along with efforts by the Vatican to reach a working arrangement with the ruling Communist Party.",
+          "link": "https://www.washingtontimes.com/news/2022/may/12/arrested-hong-kong-cardinal-a-fiery-critic-of-beij/?utm_source=RSS_Feed&utm_medium=RSS",
+          "publishedOn": "2022-05-12T07:26:41.000Z",
+          "wordCount": 1632,
+          "title": "Arrested Hong Kong cardinal a fiery critic of Beijing",
+          "enclosure": {
+            "url": "https://twt-thumbs.washtimes.com/media/image/2022/05/12/hong_kong_69481_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+            "length": "1665911",
+            "type": "image/jpeg/"
+          },
+          "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2022/05/12/hong_kong_69481_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+        },
+        {
+          "id": "https://www.washingtontimes.com/news/2022/may/12/russia-hits-ukraines-east-as-finland-moves-toward-/?utm_source=RSS_Feed&utm_medium=RSS",
+          "author": "Oleksandr Stashevskyi",
+          "description": "Russian forces unleashed airstrikes on the last pocket of Ukrainian resistance in the besieged city of Mariupol and pressed their advance  on towns across the country's east, Ukraine's military said Thursday.",
+          "link": "https://www.washingtontimes.com/news/2022/may/12/russia-hits-ukraines-east-as-finland-moves-toward-/?utm_source=RSS_Feed&utm_medium=RSS",
+          "publishedOn": "2022-05-12T07:12:55.000Z",
+          "wordCount": 1882,
+          "title": "Russia hits Ukraine's east as Finland moves toward NATO bid",
+          "enclosure": {
+            "url": "https://twt-thumbs.washtimes.com/media/image/2022/05/12/finland_britain_30221_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+            "length": "1192552",
+            "type": "image/jpeg/"
+          },
+          "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2022/05/12/finland_britain_30221_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+        },
+        {
+          "id": "https://www.washingtontimes.com/news/2022/may/11/us-clashes-with-china-and-russia-over-north-korea-/?utm_source=RSS_Feed&utm_medium=RSS",
+          "author": "Edith M. Lederer",
+          "description": "The United States clashed with China and Russia on Wednesday over their strong opposition to the U.S. push for new U.N. sanctions on North Korea over its missile and nuclear programs.",
+          "link": "https://www.washingtontimes.com/news/2022/may/11/us-clashes-with-china-and-russia-over-north-korea-/?utm_source=RSS_Feed&utm_medium=RSS",
+          "publishedOn": "2022-05-12T03:55:52.000Z",
+          "wordCount": 1382,
+          "title": "U.S. clashes with China and Russia over North Korea sanctions",
+          "enclosure": {
+            "url": "https://twt-thumbs.washtimes.com/media/image/2022/05/11/North_Korea_Koreas_Tensions_83139.jpg-4b321_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+            "length": "1509135",
+            "type": "image/jpeg/"
+          },
+          "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2022/05/11/North_Korea_Koreas_Tensions_83139.jpg-4b321_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+        },
+        {
+          "id": "https://www.washingtontimes.com/news/2022/may/11/lawmakers-put-40-billion-ukraine-aid-bill-fast-tra/?utm_source=RSS_Feed&utm_medium=RSS",
+          "author": "Alan Fram",
+          "description": "Final congressional approval of a $40 billion Ukraine aid bill seems certain within days as top Senate Republicans said Wednesday that they expect strong Republican backing for the House-passed measure, signaling a bipartisan, heightened U.S. commitment to helping thwart the bloody Russian invasion.",
+          "link": "https://www.washingtontimes.com/news/2022/may/11/lawmakers-put-40-billion-ukraine-aid-bill-fast-tra/?utm_source=RSS_Feed&utm_medium=RSS",
+          "publishedOn": "2022-05-12T01:38:53.000Z",
+          "wordCount": 1810,
+          "title": "Lawmakers put $40 billion Ukraine aid bill on fast track for approval",
+          "enclosure": {
+            "url": "https://twt-thumbs.washtimes.com/media/image/2022/05/10/Supreme_Court_Abortion_Congress_28262.jpg-08c57_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+            "length": "4087928",
+            "type": "image/jpeg/"
+          },
+          "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2022/05/10/Supreme_Court_Abortion_Congress_28262.jpg-08c57_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+        },
+        {
+          "id": "https://www.washingtontimes.com/news/2022/may/11/north-korea-raises-alarm-after-confirming-1st-covi/?utm_source=RSS_Feed&utm_medium=RSS",
+          "author": null,
+          "description": "North Korea announced its first coronavirus infection more than two years into the pandemic Thursday as leader Kim Jong Un called for raising COVID-19 preventive measures to maximum levels.",
+          "link": "https://www.washingtontimes.com/news/2022/may/11/north-korea-raises-alarm-after-confirming-1st-covi/?utm_source=RSS_Feed&utm_medium=RSS",
+          "publishedOn": "2022-05-12T00:23:26.000Z",
+          "wordCount": 958,
+          "title": "North Korea raises alarm after confirming 1st COVID-19 case",
+          "enclosure": {
+            "url": "https://twt-thumbs.washtimes.com/media/image/2022/05/11/north_korea_koreas_tensions_83139_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+            "length": "268135",
+            "type": "image/jpeg/"
+          },
+          "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2022/05/11/north_korea_koreas_tensions_83139_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+        },
+        {
+          "id": "https://www.washingtontimes.com/news/2022/may/11/xi-jinping-step-down-rumors-suggest-amid-harsh-chi/?utm_source=RSS_Feed&utm_medium=RSS",
+          "author": "Bill Gertz",
+          "description": "Rumors circulating in China and among overseas Chinese social media are claiming Chinese President Xi Jinping, under fire for draconian COVID-19 lockdowns in Shanghai and elsewhere, will step down from power.",
+          "link": "https://www.washingtontimes.com/news/2022/may/11/xi-jinping-step-down-rumors-suggest-amid-harsh-chi/?utm_source=RSS_Feed&utm_medium=RSS",
+          "publishedOn": "2022-05-11T21:54:30.000Z",
+          "wordCount": 1647,
+          "title": "Rumors swirl that China's Xi Jinping will step down amid harsh COVID lockdowns",
+          "enclosure": {
+            "url": "https://twt-thumbs.washtimes.com/media/image/2022/05/10/China_Politics_13163.jpg-41ed5_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+            "length": "7213203",
+            "type": "image/jpeg/"
+          },
+          "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2022/05/10/China_Politics_13163.jpg-41ed5_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+        },
+        {
+          "id": "https://www.washingtontimes.com/news/2022/may/11/commerce-secretary-defends-china-solar-tariff-prob/?utm_source=RSS_Feed&utm_medium=RSS",
+          "author": "Ramsey Touchberry",
+          "description": "Department of Commerce Secretary Gina Raimondo pushed back Wednesday against bipartisan criticism that the agency has cast a shadow over the solar industry.",
+          "link": "https://www.washingtontimes.com/news/2022/may/11/commerce-secretary-defends-china-solar-tariff-prob/?utm_source=RSS_Feed&utm_medium=RSS",
+          "publishedOn": "2022-05-11T20:53:39.000Z",
+          "wordCount": 1197,
+          "title": "Commerce secretary defends China solar tariff probe despite freeze on clean energy projects",
+          "enclosure": {
+            "url": "https://twt-thumbs.washtimes.com/media/dupe--iden_solar_tariffs_44286.jpg_2022.04.14-04.08.34.930693.jpg_2022.05.11-08.52.38.260440_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+            "length": "945668",
+            "type": "image/jpeg/"
+          },
+          "imageUrl": "https://twt-thumbs.washtimes.com/media/dupe--iden_solar_tariffs_44286.jpg_2022.04.14-04.08.34.930693.jpg_2022.05.11-08.52.38.260440_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+        },
+        {
+          "id": "https://www.washingtontimes.com/news/2022/may/11/cardinal-joseph-zen-other-pro-democracy-activists-/?utm_source=RSS_Feed&utm_medium=RSS",
+          "author": "Mark A. Kellner",
+          "description": "Cardinal Joseph Zen, a 90-year-old retired Roman Catholic bishop and critic of China's communist regime, was among several pro-democracy advocates arrested by Hong Kong police Wednesday and released on bail late at night.",
+          "link": "https://www.washingtontimes.com/news/2022/may/11/cardinal-joseph-zen-other-pro-democracy-activists-/?utm_source=RSS_Feed&utm_medium=RSS",
+          "publishedOn": "2022-05-11T20:49:47.000Z",
+          "wordCount": 1428,
+          "title": "Retired Roman Catholic Cardinal, other pro-democracy activists released after arrest in Hong Kong",
+          "enclosure": {
+            "url": "https://twt-thumbs.washtimes.com/media/image/2022/05/11/hong_kong_05824_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+            "length": "1780324",
+            "type": "image/jpeg/"
+          },
+          "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2022/05/11/hong_kong_05824_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+        },
+        {
+          "id": "https://www.washingtontimes.com/news/2022/may/11/china-bristles-bidens-asean-summit-wary-power-stru/?utm_source=RSS_Feed&utm_medium=RSS",
+          "author": "Guy Taylor",
+          "description": "President Biden's summit with Southeast Asian leaders begins Thursday, and China is warning participating nations that American attempts to exert influence over the region could stoke confrontation.",
+          "link": "https://www.washingtontimes.com/news/2022/may/11/china-bristles-bidens-asean-summit-wary-power-stru/?utm_source=RSS_Feed&utm_medium=RSS",
+          "publishedOn": "2022-05-11T20:31:00.000Z",
+          "wordCount": 2243,
+          "title": "China bristles at Biden's ASEAN summit, wary of power struggle with U.S.",
+          "enclosure": {
+            "url": "https://twt-thumbs.washtimes.com/media/image/2022/05/11/Biden_16727.jpg-57461_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+            "length": "6134154",
+            "type": "image/jpeg/"
+          },
+          "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2022/05/11/Biden_16727.jpg-57461_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+        },
+        {
+          "id": "https://www.washingtontimes.com/news/2022/may/11/dia-intel-suggests-covid-virus-was-lab-engineered/?utm_source=RSS_Feed&utm_medium=RSS",
+          "author": "Bill Gertz",
+          "description": "Army Lt. Gen. Scott Berrier, director of the Defense Intelligence Agency, revealed in prepared Senate testimony this week that some U.S. intelligence agencies -- not identified by name -- believe the virus behind the COVID-19 pandemic may have been genetically modified in a laboratory and not transmitted naturally from an animal host in China, where it was first identified.",
+          "link": "https://www.washingtontimes.com/news/2022/may/11/dia-intel-suggests-covid-virus-was-lab-engineered/?utm_source=RSS_Feed&utm_medium=RSS",
+          "publishedOn": "2022-05-11T19:24:02.000Z",
+          "wordCount": 2030,
+          "title": "DIA: Intel suggests coronavirus was lab-engineered",
+          "enclosure": {
+            "url": "https://twt-thumbs.washtimes.com/media/image/2022/03/17/virus_outbreak_china_25454_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+            "length": "4235708",
+            "type": "image/jpeg/"
+          },
+          "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2022/03/17/virus_outbreak_china_25454_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+        },
+        {
+          "id": "https://www.washingtontimes.com/news/2022/may/11/hong-kong-police-arrest-retired-catholic-cardinal-/?utm_source=RSS_Feed&utm_medium=RSS",
+          "author": "Mark A. Kellner",
+          "description": "Hong Kong police on Wednesday arrested a retired Roman Catholic cardinal who had served as the city's bishop and at least three others on charges of \"colluding with foreign forces to endanger China's national security,\" according to media reports.",
+          "link": "https://www.washingtontimes.com/news/2022/may/11/hong-kong-police-arrest-retired-catholic-cardinal-/?utm_source=RSS_Feed&utm_medium=RSS",
+          "publishedOn": "2022-05-11T17:26:57.000Z",
+          "wordCount": 1342,
+          "title": "Hong Kong police arrest retired Catholic cardinal on national security charges, release him on bail",
+          "enclosure": {
+            "url": "https://twt-thumbs.washtimes.com/media/image/2022/05/11/hong_kong_83599_s1440x970.jpg?476a53cec4f10376e386c4f3957a54cef59b6748",
+            "length": "518436",
+            "type": "image/jpeg/"
+          },
+          "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2022/05/11/hong_kong_83599_s1440x970.jpg?476a53cec4f10376e386c4f3957a54cef59b6748"
+        },
+        {
+          "id": "https://www.washingtontimes.com/news/2022/may/11/slain-al-jazeera-journalist-was-icon-of-palestinia/?utm_source=RSS_Feed&utm_medium=RSS",
+          "author": "Aya Batrawy",
+          "description": "An Al Jazeera correspondent who was shot dead on Wednesday during an Israeli raid in the West Bank was a highly respected journalist in the Middle East whose unflinching coverage was known to millions of viewers.",
+          "link": "https://www.washingtontimes.com/news/2022/may/11/slain-al-jazeera-journalist-was-icon-of-palestinia/?utm_source=RSS_Feed&utm_medium=RSS",
+          "publishedOn": "2022-05-11T17:23:03.000Z",
+          "wordCount": 1550,
+          "title": "Slain Al Jazeera journalist was icon of Palestinian coverage",
+          "enclosure": {
+            "url": "https://twt-thumbs.washtimes.com/media/image/2022/05/11/israel_palestinians_journalist_killed_49954_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+            "length": "230657",
+            "type": "image/jpeg/"
+          },
+          "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2022/05/11/israel_palestinians_journalist_killed_49954_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+        },
+        {
+          "id": "https://www.washingtontimes.com/news/2022/may/11/rubio-feinstein-bill-create-space-national-guard/?utm_source=RSS_Feed&utm_medium=RSS",
+          "author": "Mike Glenn",
+          "description": "Sens. Marco Rubio and Dianne Feinstein might not agree on much, but they've joined together in calling for a part-time adjunct to America's newest military force.",
+          "link": "https://www.washingtontimes.com/news/2022/may/11/rubio-feinstein-bill-create-space-national-guard/?utm_source=RSS_Feed&utm_medium=RSS",
+          "publishedOn": "2022-05-11T16:36:29.000Z",
+          "wordCount": 864,
+          "title": "Sens. Rubio, Feinstein introduce bill to create Space National Guard",
+          "enclosure": {
+            "url": "https://twt-thumbs.washtimes.com/media/image/2022/05/03/Senate_Defense_38509.jpg-cc97c_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+            "length": "18869638",
+            "type": "image/jpeg/"
+          },
+          "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2022/05/03/Senate_Defense_38509.jpg-cc97c_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+        },
+        {
+          "id": "https://www.washingtontimes.com/news/2022/may/11/svitolina-russian-belorussian-players-must-speak-a/?utm_source=RSS_Feed&utm_medium=RSS",
+          "author": "Jerome Pugmire",
+          "description": "Ukrainian tennis player Elina Svitolina wants Russian and Belarusian players to say whether they oppose the war in her nation.",
+          "link": "https://www.washingtontimes.com/news/2022/may/11/svitolina-russian-belorussian-players-must-speak-a/?utm_source=RSS_Feed&utm_medium=RSS",
+          "publishedOn": "2022-05-11T14:40:36.000Z",
+          "wordCount": 1540,
+          "title": "Svitolina: Russian, Belorussian players must speak about war",
+          "enclosure": {
+            "url": "https://twt-thumbs.washtimes.com/media/image/2022/05/11/france_tennis_svitolina_87371_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+            "length": "4149313",
+            "type": "image/jpeg/"
+          },
+          "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2022/05/11/france_tennis_svitolina_87371_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+        },
+        {
+          "id": "https://www.washingtontimes.com/news/2022/may/11/retired-ap-photographer-ut-gives-pope-napalm-girl-/?utm_source=RSS_Feed&utm_medium=RSS",
+          "author": "Nicole Winfield",
+          "description": "Retired Associated Press photographer Nick Ut met Wednesday with Pope Francis and gave him a copy of his Pulitzer Prize-winning photograph of a young Vietnamese girl running naked down the road after a napalm attack.",
+          "link": "https://www.washingtontimes.com/news/2022/may/11/retired-ap-photographer-ut-gives-pope-napalm-girl-/?utm_source=RSS_Feed&utm_medium=RSS",
+          "publishedOn": "2022-05-11T14:35:38.000Z",
+          "wordCount": 1113,
+          "title": "Retired AP photographer Ut gives pope 'Napalm Girl' photo",
+          "enclosure": {
+            "url": "https://twt-thumbs.washtimes.com/media/image/2022/05/11/vatican_pope_45948_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+            "length": "791194",
+            "type": "image/jpeg/"
+          },
+          "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2022/05/11/vatican_pope_45948_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+        },
+        {
+          "id": "https://www.washingtontimes.com/news/2022/may/11/solar-industry-faces-gloomy-summer-projects-hold-o/?utm_source=RSS_Feed&utm_medium=RSS",
+          "author": "Ramsey Touchberry",
+          "description": "The solar industry has sounded the alarm that a Commerce Department investigation into whether China is skirting U.S. tariffs on components used to produce solar panels by funneling the parts through other countries could seriously jeopardize clean energy projects across the nation.",
+          "link": "https://www.washingtontimes.com/news/2022/may/11/solar-industry-faces-gloomy-summer-projects-hold-o/?utm_source=RSS_Feed&utm_medium=RSS",
+          "publishedOn": "2022-05-11T14:27:54.000Z",
+          "wordCount": 941,
+          "title": "Solar faces gloomy summer with projects on hold over allegations China violating trade rules",
+          "enclosure": {
+            "url": "https://twt-thumbs.washtimes.com/media/image/2022/03/28/biden_solar_tariffs_23820_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+            "length": "1447586",
+            "type": "image/jpeg/"
+          },
+          "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2022/03/28/biden_solar_tariffs_23820_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
+        },
+        {
+          "id": "https://www.washingtontimes.com/news/2022/may/11/lithuania-labels-russia-terrorist-state-calls-war-/?utm_source=RSS_Feed&utm_medium=RSS",
+          "author": "Joseph Clark",
+          "description": "Lithuania has labeled Russia a terrorist state and formally accused the Kremlin of genocide in its invasion of Ukraine.",
+          "link": "https://www.washingtontimes.com/news/2022/may/11/lithuania-labels-russia-terrorist-state-calls-war-/?utm_source=RSS_Feed&utm_medium=RSS",
+          "publishedOn": "2022-05-11T13:25:42.000Z",
+          "wordCount": 1158,
+          "title": "Lithuania labels Russia as terrorist state, calls war in Ukraine genocide",
+          "enclosure": {
+            "url": "https://twt-thumbs.washtimes.com/media/image/2022/05/09/Russia_Ukraine_War_Lithuania_95017.jpg-c2fd0_s1440x935.jpg?0e1056211f998e755d46365beb1753d921d129fe",
+            "length": "3143286",
+            "type": "image/jpeg/"
+          },
+          "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2022/05/09/Russia_Ukraine_War_Lithuania_95017.jpg-c2fd0_s1440x935.jpg?0e1056211f998e755d46365beb1753d921d129fe"
+        },
+        {
+          "id": "https://www.washingtontimes.com/news/2022/may/11/wives-of-mariupol-defenders-to-pope-you-are-our-la/?utm_source=RSS_Feed&utm_medium=RSS",
+          "author": "Nicole Winfield",
+          "description": "The wives of two Ukrainian soldiers defending the Mariupol steel mill met with Pope Francis on Wednesday and begged him to intervene to arrange for a third-party evacuation of the troops before Russian soldiers capture or kill them.",
+          "link": "https://www.washingtontimes.com/news/2022/may/11/wives-of-mariupol-defenders-to-pope-you-are-our-la/?utm_source=RSS_Feed&utm_medium=RSS",
+          "publishedOn": "2022-05-11T13:16:53.000Z",
+          "wordCount": 1251,
+          "title": "Wives of Mariupol defenders to pope: 'You are our last hope'",
+          "enclosure": {
+            "url": "https://twt-thumbs.washtimes.com/media/image/2022/05/11/vatican_pope_ukraine_15095_s653x929.jpg?28f37afb3385c80e9bf291cfb3ee02649c1646a0",
+            "length": "2014950",
+            "type": "image/jpeg/"
+          },
+          "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2022/05/11/vatican_pope_ukraine_15095_s653x929.jpg?28f37afb3385c80e9bf291cfb3ee02649c1646a0"
+        },
+        {
+          "id": "https://www.washingtontimes.com/news/2022/may/11/britain-pledges-to-defend-sweden-if-its-attacked/?utm_source=RSS_Feed&utm_medium=RSS",
+          "author": "Jan M. Olsen",
+          "description": "Britain pledged to defend Sweden if the country came under attack, with Prime Ministers Boris Johnson and Magdalena Andersson signing a security assurance deal outside Stockholm on Wednesday.",
+          "link": "https://www.washingtontimes.com/news/2022/may/11/britain-pledges-to-defend-sweden-if-its-attacked/?utm_source=RSS_Feed&utm_medium=RSS",
+          "publishedOn": "2022-05-11T12:54:04.000Z",
+          "wordCount": 1234,
+          "title": "Britain pledges to defend Sweden if it's attacked",
+          "enclosure": {
+            "url": "https://twt-thumbs.washtimes.com/media/image/2022/05/11/sweden_britain_99769_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c",
+            "length": "2696031",
+            "type": "image/jpeg/"
+          },
+          "imageUrl": "https://twt-thumbs.washtimes.com/media/image/2022/05/11/sweden_britain_99769_s1440x960.jpg?f72536d07237fdd262042ae8f5e6e6de3b865f3c"
         }
       ]
     }

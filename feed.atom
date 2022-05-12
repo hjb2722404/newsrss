@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hjb2722404.github.io/newsrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-12T10:23:39.973Z</updated>
+    <updated>2022-05-12T10:27:43.960Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://hjb2722404.github.io/newsrss/index.html"/>
     <link rel="self" href="https://hjb2722404.github.io/newsrss/feed.atom"/>
@@ -64,6 +64,84 @@
         <summary type="html"><![CDATA[The video, uploaded by the Cape Hatteras National Seashore's official Twitter account, currently has over 10 million views.]]></summary>
         <author>
             <name>News24 World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASEAN leaders head to White House for key summit]]></title>
+        <id>https://www.aljazeera.com/?t=1652323941</id>
+        <link href="https://www.aljazeera.com/news/2022/5/12/us-asean-summit-explainer"/>
+        <updated>2022-05-12T10:24:58.000Z</updated>
+        <summary type="html"><![CDATA[US rolls out the red carpet for Southeast Asian leaders amid increasing rivalry in the Asia Pacific.]]></summary>
+        <author>
+            <name>Al Jazeera – Breaking News, World News and Video from Al Jazeera</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kosovo wants to join European human rights organization]]></title>
+        <id>https://abcnews.go.com/International/wireStory/kosovo-join-european-human-rights-organization-84665140</id>
+        <link href="https://abcnews.go.com/International/wireStory/kosovo-join-european-human-rights-organization-84665140"/>
+        <updated>2022-05-12T10:24:16.000Z</updated>
+        <summary type="html"><![CDATA[The government of Kosovo has decided to apply for membership in the Council of Europe, the continent’s top human rights organization]]></summary>
+        <author>
+            <name>ABC News: International</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EXPLAINER: Why Finland, Sweden joining NATO will be big deal]]></title>
+        <id>https://abcnews.go.com/International/wireStory/explainer-finland-sweden-joining-nato-big-deal-84665113</id>
+        <link href="https://abcnews.go.com/International/wireStory/explainer-finland-sweden-joining-nato-big-deal-84665113"/>
+        <updated>2022-05-12T10:23:45.000Z</updated>
+        <summary type="html"><![CDATA[Finland appears on the cusp of joining NATO]]></summary>
+        <author>
+            <name>ABC News: International</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US marks 1 million COVID-19 deaths, early epicenter New York seeks to move on]]></title>
+        <id>https://www.channelnewsasia.com/world/us-marks-1-million-covid-19-deaths-early-epicenter-new-york-seeks-move-2680996</id>
+        <link href="https://www.channelnewsasia.com/world/us-marks-1-million-covid-19-deaths-early-epicenter-new-york-seeks-move-2680996"/>
+        <updated>2022-05-12T10:21:24.000Z</updated>
+        <summary type="html"><![CDATA[NEW YORK: The United States has crossed the threshold of one million deaths from COVID-19, the White House said on Thursday (May 12), as cities like New York try to turn the page on the pandemic despite threats of another surge.
+
+"Today, we mark a tragic milestone: one million American lives lost to COVID-1]]></summary>
+        <author>
+            <name>Latest News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How TIME Chose Its 2022 List of Next Generation Leaders]]></title>
+        <id>https://time.com/?p=6175735</id>
+        <link href="https://time.com/6175735/next-generation-leaders-2022/"/>
+        <updated>2022-05-12T10:21:22.000Z</updated>
+        <summary type="html"><![CDATA[At TIME, our eyes are on the rising stars poised to shape the future. We first joined forces with Rolex in 2014 to launch Next Generation Leaders, our series elevating young people from across fields and around the globe who are working to build a better world. This edition includes, for example, beauty entrepreneur Deepica…]]></summary>
+        <author>
+            <name>Edward Felsenthal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More 'blowback' for Putin as Finland applies for NATO membership]]></title>
+        <id>https://www.rawstory.com/finland-nato/</id>
+        <link href="https://www.rawstory.com/finland-nato/"/>
+        <updated>2022-05-12T10:18:16.000Z</updated>
+        <summary type="html"><![CDATA[In yet another major blow for Russian President Vladimir Putin, Finland's president and prime minister have now said that their country intends to apply for NATO membership.
+In a joint statement released Thursday, Finnish President Sauli Niinistö and Finnish Prime Minister Sanna Marin said that they believe NATO membership is essential to ensuring their nation's security in the wake of Russia's invasion of Ukraine.
+"As a member of NATO, Finland would strengthen the entire defense alliance," they wrote. "Finland must apply for NATO membership without delay. We hope that the national steps still needed to make this decision will be taken rapidly within the next few days."
+Finland, which shares an 830-mile land border with Russia, has traditionally stayed away from NATO membership in the interest of maintaining a diplomatic balance between Russia and other Western European nations.
+READ MORE: Cheers as Trump DC hotel sign taken down: 'Good riddance to a sinkhole of corruption'
+Financial Times Moscow bureau chief Max Seddon comments that the decision by Finland to apply for NATO membership now can only be seen as "yet more blowback from Moscow’s war in Ukraine," which has also resulted in an unprecedented number of crippling sanctions that internal Kremlin forecasts show could led to a 12 percent contraction of gross domestic product this year alone.
+Now that Finland is applying for NATO membership, the next question will be whether Sweden, which has also traditionally tried to remain militarily neutral between Russia and Western Europe, will follow suit.]]></summary>
+        <author>
+            <name>Brad Reed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex Sri Lanka PM Banned From Leaving Country As Crisis Worsens: 5 Facts]]></title>
+        <id>2969207</id>
+        <link href="https://www.ndtv.com/world-news/ex-sri-lanka-pm-banned-from-leaving-country-as-economic-crisis-worsens-10-facts-2969207"/>
+        <updated>2022-05-12T10:17:32.000Z</updated>
+        <summary type="html"><![CDATA[Sri Lanka's President Gotabaya Rajapaksa is set to name a new Prime Minister to replace his brother as the country battles an economic crisis. Former PM Mahinda Rajapaksa was banned from leaving the...]]></summary>
+        <author>
+            <name>NDTV News - World-news</name>
         </author>
     </entry>
     <entry>
@@ -577,6 +655,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Finland’s president blames Putin for the country’s historic decision]]></summary>
         <author>
             <name>Arpan Rai,Tom Ambrose and Maryam Zakir-Hussain</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Women in Spain to be given menstrual leave for severe pain]]></title>
+        <id>https://news.sky.com/story/spain-offers-menstrual-leave-to-women-who-suffer-severe-period-pain-with-up-to-three-days-off-a-month-12611181</id>
+        <link href="https://news.sky.com/story/spain-offers-menstrual-leave-to-women-who-suffer-severe-period-pain-with-up-to-three-days-off-a-month-12611181"/>
+        <updated>2022-05-12T09:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Women who suffer from severe period pain could be allowed to take up to three days off work each month under a reform plan due to be approved by Spain's government next week.]]></summary>
+        <author>
+            <name>World News - Breaking international news and headlines | Sky News</name>
         </author>
     </entry>
     <entry>
@@ -1380,6 +1468,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Palestinians reject probe with Israel of reporter's killing]]></title>
+        <id>https://www.washingtontimes.com/news/2022/may/12/palestinians-reject-probe-with-israel-of-reporters/?utm_source=RSS_Feed&amp;utm_medium=RSS</id>
+        <link href="https://www.washingtontimes.com/news/2022/may/12/palestinians-reject-probe-with-israel-of-reporters/?utm_source=RSS_Feed&amp;utm_medium=RSS"/>
+        <updated>2022-05-12T08:12:56.000Z</updated>
+        <summary type="html"><![CDATA[The Palestinian Authority on Thursday rejected an Israeli request to hold a joint investigation into the killing of Al Jazeera journalist Shireen Abu Akleh, saying it would not hand over the bullet that killed her for ballistic analysis.]]></summary>
+        <author>
+            <name>The Washington Times stories: World</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Businessinsider.co.za | People are losing their minds over Goop's disposable nappies made from 'virgin alpaca wool']]></title>
         <id>https://www.businessinsider.co.za/outrage-over-goops-120-set-of-disposable-alpaca-wool-diaprs-2022-5</id>
         <link href="https://www.businessinsider.co.za/outrage-over-goops-120-set-of-disposable-alpaca-wool-diaprs-2022-5"/>
@@ -1603,6 +1701,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Arrested Hong Kong cardinal a fiery critic of Beijing]]></title>
+        <id>https://www.washingtontimes.com/news/2022/may/12/arrested-hong-kong-cardinal-a-fiery-critic-of-beij/?utm_source=RSS_Feed&amp;utm_medium=RSS</id>
+        <link href="https://www.washingtontimes.com/news/2022/may/12/arrested-hong-kong-cardinal-a-fiery-critic-of-beij/?utm_source=RSS_Feed&amp;utm_medium=RSS"/>
+        <updated>2022-05-12T07:26:41.000Z</updated>
+        <summary type="html"><![CDATA[Cardinal Joseph Zen, the 90-year-old Catholic cleric arrested by Hong Kong police on national security charges, has long been a fiery critic of Beijing's control of religion and political monopoly, along with efforts by the Vatican to reach a working arrangement with the ruling Communist Party.]]></summary>
+        <author>
+            <name>The Washington Times stories: World</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Palestinians mourn Abu Akleh at state service in Ramallah]]></title>
         <id>https://www.aljazeera.com/?t=1652338101</id>
         <link href="https://www.aljazeera.com/news/2022/5/12/funeral-service-shireen-abu-akleh-set-start-ramallah"/>
@@ -1692,6 +1800,16 @@ Read Full Article at RT.com]]></summary>
 Russia "is today the most direct threat to the world order with the barbaric war against Ukraine, and its worrying pact with Ch]]></summary>
         <author>
             <name>Latest News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia hits Ukraine's east as Finland moves toward NATO bid]]></title>
+        <id>https://www.washingtontimes.com/news/2022/may/12/russia-hits-ukraines-east-as-finland-moves-toward-/?utm_source=RSS_Feed&amp;utm_medium=RSS</id>
+        <link href="https://www.washingtontimes.com/news/2022/may/12/russia-hits-ukraines-east-as-finland-moves-toward-/?utm_source=RSS_Feed&amp;utm_medium=RSS"/>
+        <updated>2022-05-12T07:12:55.000Z</updated>
+        <summary type="html"><![CDATA[Russian forces unleashed airstrikes on the last pocket of Ukrainian resistance in the besieged city of Mariupol and pressed their advance  on towns across the country's east, Ukraine's military said Thursday.]]></summary>
+        <author>
+            <name>Oleksandr Stashevskyi</name>
         </author>
     </entry>
     <entry>
@@ -2233,6 +2351,16 @@ The con]]></summary>
         <link href="https://www.ndtv.com/world-news/a-big-day-for-sri-lanka-after-president-warns-of-anarchy-2968369"/>
         <updated>2022-05-12T05:51:02.000Z</updated>
         <summary type="html"><![CDATA[Days of violent reprisals against government figures aligned to the powerful Rajapaksa clan followed. In total, 9 people were killed and more than 300 injured during the clashes, police said.]]></summary>
+        <author>
+            <name>NDTV News - World-news</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Probe Ordered Whether Sri Lankan Prison Inmates Hired To Attack Protesters]]></title>
+        <id>2968350</id>
+        <link href="https://www.ndtv.com/world-news/probe-ordered-whether-sri-lankan-prison-inmates-hired-to-attack-protesters-2968350"/>
+        <updated>2022-05-12T05:45:22.000Z</updated>
+        <summary type="html"><![CDATA[Violence erupted in Sri Lanka on Monday after supporters of former PM Mahinda Rajapaksa attacked peaceful anti-government protesters. Probe has been ordered on allegations whether prison inmates were...]]></summary>
         <author>
             <name>NDTV News - World-news</name>
         </author>
@@ -2809,6 +2937,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[U.S. clashes with China and Russia over North Korea sanctions]]></title>
+        <id>https://www.washingtontimes.com/news/2022/may/11/us-clashes-with-china-and-russia-over-north-korea-/?utm_source=RSS_Feed&amp;utm_medium=RSS</id>
+        <link href="https://www.washingtontimes.com/news/2022/may/11/us-clashes-with-china-and-russia-over-north-korea-/?utm_source=RSS_Feed&amp;utm_medium=RSS"/>
+        <updated>2022-05-12T03:55:52.000Z</updated>
+        <summary type="html"><![CDATA[The United States clashed with China and Russia on Wednesday over their strong opposition to the U.S. push for new U.N. sanctions on North Korea over its missile and nuclear programs.]]></summary>
+        <author>
+            <name>Edith M. Lederer</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Johnny Depp trial - live: Pirates actor will return to stand as Amber Heard’s sister and Ellen Barkin testify]]></title>
         <id>b2077124</id>
         <link href="https://www.independent.co.uk/news/world/americas/johnny-depp-amber-heard-trial-court-verdict-testimony-b2077124.html"/>
@@ -3112,6 +3250,16 @@ The 1 million mark is a stark reminder of the staggering grief and lo]]></summar
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Lawmakers put $40 billion Ukraine aid bill on fast track for approval]]></title>
+        <id>https://www.washingtontimes.com/news/2022/may/11/lawmakers-put-40-billion-ukraine-aid-bill-fast-tra/?utm_source=RSS_Feed&amp;utm_medium=RSS</id>
+        <link href="https://www.washingtontimes.com/news/2022/may/11/lawmakers-put-40-billion-ukraine-aid-bill-fast-tra/?utm_source=RSS_Feed&amp;utm_medium=RSS"/>
+        <updated>2022-05-12T01:38:53.000Z</updated>
+        <summary type="html"><![CDATA[Final congressional approval of a $40 billion Ukraine aid bill seems certain within days as top Senate Republicans said Wednesday that they expect strong Republican backing for the House-passed measure, signaling a bipartisan, heightened U.S. commitment to helping thwart the bloody Russian invasion.]]></summary>
+        <author>
+            <name>Alan Fram</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Coronavirus: Kim-Jong-un orders national lockdown after North Korea reports first Covid-19 case]]></title>
         <id>https://www.scmp.com/news/asia/east-asia/article/3177397/coronavirus-kim-jong-un-orders-all-cities-be-put-lockdown-after?utm_source=rss_feed</id>
         <link href="https://www.scmp.com/news/asia/east-asia/article/3177397/coronavirus-kim-jong-un-orders-all-cities-be-put-lockdown-after?utm_source=rss_feed"/>
@@ -3332,6 +3480,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Survivors and families of people who died in last year's collapse of a beachfront condo building near Miami have reached a settlement of at least $997 million, a lawyer for the plaintiffs said Wednesday.]]></summary>
         <author>
             <name>NEWS WIRES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Korea raises alarm after confirming 1st COVID-19 case]]></title>
+        <id>https://www.washingtontimes.com/news/2022/may/11/north-korea-raises-alarm-after-confirming-1st-covi/?utm_source=RSS_Feed&amp;utm_medium=RSS</id>
+        <link href="https://www.washingtontimes.com/news/2022/may/11/north-korea-raises-alarm-after-confirming-1st-covi/?utm_source=RSS_Feed&amp;utm_medium=RSS"/>
+        <updated>2022-05-12T00:23:26.000Z</updated>
+        <summary type="html"><![CDATA[North Korea announced its first coronavirus infection more than two years into the pandemic Thursday as leader Kim Jong Un called for raising COVID-19 preventive measures to maximum levels.]]></summary>
+        <author>
+            <name>The Washington Times stories: World</name>
         </author>
     </entry>
     <entry>
@@ -3659,6 +3817,66 @@ A two-day summit with the 10-nation Association of Southeast Asian Nations (ASEA
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Salvatore Ferragamo’s New Creative Director Is Designing a More Inclusive Fashion Industry]]></title>
+        <id>https://time.com/?p=6174901</id>
+        <link href="https://time.com/6174901/maximilian-davis/"/>
+        <updated>2022-05-11T22:33:04.000Z</updated>
+        <summary type="html"><![CDATA[For Maximilian Davis, fashion isn’t just a career choice—it’s part of his family legacy. Growing up in Manchester, England, in a close-knit Trinidadian-Jamaican family, his sister and mother modeled, and his father studied fashion design. When he was 6, his grandmother taught him to sew on her industrial machine, which he used to design unique…]]></summary>
+        <author>
+            <name>Cady Lang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Youngest Member of Mongolia’s Government Is Making Space for Women in Tech]]></title>
+        <id>https://time.com/?p=6174935</id>
+        <link href="https://time.com/6174935/bolor-erdene-battsengel/"/>
+        <updated>2022-05-11T22:33:04.000Z</updated>
+        <summary type="html"><![CDATA[In 2020, when Bolor-Erdene Battsengel would walk into work in Ulan Bator’s national parliament building, security guards would stop her to ask if she was a personal assistant or a janitor. She was neither—she was the youngest member of the Mongolian government’s Cabinet, appointed to help lead the nation’s digital transformation. The experience underscored just…]]></summary>
+        <author>
+            <name>Sanya Mansoor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Olga Rudenko and the Kyiv Independent Gave the World a Window Into a Devastating War]]></title>
+        <id>https://time.com/?p=6174883</id>
+        <link href="https://time.com/6174883/olga-rudenko/"/>
+        <updated>2022-05-11T22:33:03.000Z</updated>
+        <summary type="html"><![CDATA[The Kyiv Independent has quickly become the world’s primary source for reliable, English-language journalism on the war in Ukraine]]></summary>
+        <author>
+            <name>Lisa Abend</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bridgerton’s Jonathan Bailey Is Redefining the Hollywood Heartthrob]]></title>
+        <id>https://time.com/?p=6174899</id>
+        <link href="https://time.com/6174899/jonathan-bailey/"/>
+        <updated>2022-05-11T22:33:03.000Z</updated>
+        <summary type="html"><![CDATA[After starring in the second season of Bridgerton—the lush period drama that has become Netflix’s most watched English-language series ever—the actor Jonathan Bailey could have done anything. He chose something that he knew would be a challenge. “Cock!” Bailey says brightly, over lunch on a sunny London afternoon. A woman at a nearby table looks…]]></summary>
+        <author>
+            <name>Sam Lansky</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bilal Baig Wants You to Understand That Transition Is a Universal Experience]]></title>
+        <id>https://time.com/?p=6174939</id>
+        <link href="https://time.com/6174939/bilal-baig/"/>
+        <updated>2022-05-11T22:33:03.000Z</updated>
+        <summary type="html"><![CDATA[Bilal Baig wants to take a pause. In April, they won top honors at the Canadian Screen Awards for Sort Of, a CBC/HBO Max dramedy they co-created and star in about a nonbinary Torontonian of Pakistani descent struggling to fuse the fragments of their compartmentalized life. The next day, they’re back to work on Season…]]></summary>
+        <author>
+            <name>Judy Berman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Encounter With a Snow Leopard Became a Wake-Up Call for a Nepali Conservationist]]></title>
+        <id>https://time.com/?p=6174941</id>
+        <link href="https://time.com/6174941/rinzin-phunjok-lama/"/>
+        <updated>2022-05-11T22:33:03.000Z</updated>
+        <summary type="html"><![CDATA[Rinzin Phunjok Lama was 16 when he first saw a Himalayan snow leopard prowling the mountains near his home in northeastern Nepal—an encounter that changed his life. In the folklore of Lama’s Buddhist community, the snow leopard is a manifestation of the god of Nepal’s high mountain pastures, who appears on earth only when humans…]]></summary>
+        <author>
+            <name>Eloise Barry</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Passersby in Florida rush to stop moving car with ill driver]]></title>
         <id>https://www.bbc.co.uk/news/world-us-canada-61415679</id>
         <link href="https://www.bbc.co.uk/news/world-us-canada-61415679?at_medium=RSS&amp;at_campaign=KARANGA"/>
@@ -3888,6 +4106,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Hearsay objections have been raised frequently during testimony]]></summary>
         <author>
             <name>Clémence Michallon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rumors swirl that China's Xi Jinping will step down amid harsh COVID lockdowns]]></title>
+        <id>https://www.washingtontimes.com/news/2022/may/11/xi-jinping-step-down-rumors-suggest-amid-harsh-chi/?utm_source=RSS_Feed&amp;utm_medium=RSS</id>
+        <link href="https://www.washingtontimes.com/news/2022/may/11/xi-jinping-step-down-rumors-suggest-amid-harsh-chi/?utm_source=RSS_Feed&amp;utm_medium=RSS"/>
+        <updated>2022-05-11T21:54:30.000Z</updated>
+        <summary type="html"><![CDATA[Rumors circulating in China and among overseas Chinese social media are claiming Chinese President Xi Jinping, under fire for draconian COVID-19 lockdowns in Shanghai and elsewhere, will step down from power.]]></summary>
+        <author>
+            <name>Bill Gertz</name>
         </author>
     </entry>
     <entry>
@@ -4233,6 +4461,26 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Commerce secretary defends China solar tariff probe despite freeze on clean energy projects]]></title>
+        <id>https://www.washingtontimes.com/news/2022/may/11/commerce-secretary-defends-china-solar-tariff-prob/?utm_source=RSS_Feed&amp;utm_medium=RSS</id>
+        <link href="https://www.washingtontimes.com/news/2022/may/11/commerce-secretary-defends-china-solar-tariff-prob/?utm_source=RSS_Feed&amp;utm_medium=RSS"/>
+        <updated>2022-05-11T20:53:39.000Z</updated>
+        <summary type="html"><![CDATA[Department of Commerce Secretary Gina Raimondo pushed back Wednesday against bipartisan criticism that the agency has cast a shadow over the solar industry.]]></summary>
+        <author>
+            <name>Ramsey Touchberry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Retired Roman Catholic Cardinal, other pro-democracy activists released after arrest in Hong Kong]]></title>
+        <id>https://www.washingtontimes.com/news/2022/may/11/cardinal-joseph-zen-other-pro-democracy-activists-/?utm_source=RSS_Feed&amp;utm_medium=RSS</id>
+        <link href="https://www.washingtontimes.com/news/2022/may/11/cardinal-joseph-zen-other-pro-democracy-activists-/?utm_source=RSS_Feed&amp;utm_medium=RSS"/>
+        <updated>2022-05-11T20:49:47.000Z</updated>
+        <summary type="html"><![CDATA[Cardinal Joseph Zen, a 90-year-old retired Roman Catholic bishop and critic of China's communist regime, was among several pro-democracy advocates arrested by Hong Kong police Wednesday and released on bail late at night.]]></summary>
+        <author>
+            <name>Mark A. Kellner</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[In Washington for summit, Asean leaders to meet with top US government, business officials]]></title>
         <id>https://www.scmp.com/news/china/article/3177388/washington-summit-asean-leaders-meet-top-us-government-business?utm_source=rss_feed</id>
         <link href="https://www.scmp.com/news/china/article/3177388/washington-summit-asean-leaders-meet-top-us-government-business?utm_source=rss_feed"/>
@@ -4329,6 +4577,16 @@ In a statement, Al Jazeera, the Qatar-based Arab news network, accused Israeli f
         <summary type="html"><![CDATA[Interior Department’s stunning report identifies more than 50 burial sites and details forced assimilation agenda that lasted through 1960s]]></summary>
         <author>
             <name>Alex Woodward</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China bristles at Biden's ASEAN summit, wary of power struggle with U.S.]]></title>
+        <id>https://www.washingtontimes.com/news/2022/may/11/china-bristles-bidens-asean-summit-wary-power-stru/?utm_source=RSS_Feed&amp;utm_medium=RSS</id>
+        <link href="https://www.washingtontimes.com/news/2022/may/11/china-bristles-bidens-asean-summit-wary-power-stru/?utm_source=RSS_Feed&amp;utm_medium=RSS"/>
+        <updated>2022-05-11T20:31:00.000Z</updated>
+        <summary type="html"><![CDATA[President Biden's summit with Southeast Asian leaders begins Thursday, and China is warning participating nations that American attempts to exert influence over the region could stoke confrontation.]]></summary>
+        <author>
+            <name>Guy Taylor</name>
         </author>
     </entry>
     <entry>
@@ -4544,6 +4802,19 @@ In a statement, Al Jazeera, the Qatar-based Arab news network, accused Israeli f
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Retreating Russian soldiers leave behind Putin’s true plans for Ukraine: report]]></title>
+        <id>https://www.rawstory.com/putin-notes-left-soldiers-flee/</id>
+        <link href="https://www.rawstory.com/putin-notes-left-soldiers-flee/"/>
+        <updated>2022-05-11T19:32:03.000Z</updated>
+        <summary type="html"><![CDATA[Russia hosted a huge celebration for Victory Day, the day that they celebrate the Soviet success over the Nazis in World War II. But behind the scenes, things haven't been going well. Even loyalists of Vladimir Putin are admitting that the Russian military isn't as strong as the president thought. 
+It was reported Wednesday that some Russian soldiers in Ukraine are in retreat. While it isn't expected to last long, those soldiers who backed away left behind information that gives a guide for Putin's ultimate goal. 
+The Daily Beast reported that amid the rubble of the Ukrainian town of Trostyanets in Sumy Oblast, forces found documents showing the details about why Russia is focusing so much on attacks of the Donbas region in eastern Ukraine. 
+Putin made it clear in his speech ahead of the i…]]></summary>
+        <author>
+            <name>Sarah K. Burris</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Attempted murder, fatal stabbing and an ex’s mystery ‘suicide’: Casey White’s long history with the law before jail breakout with prison guard lover]]></title>
         <id>b2076877</id>
         <link href="https://www.independent.co.uk/news/world/americas/crime/casey-white-prison-crime-vicky-b2076877.html"/>
@@ -4573,6 +4844,16 @@ In a statement, Al Jazeera, the Qatar-based Arab news network, accused Israeli f
 "I am deeply concerned by the rapidly deteriorating security situat]]></summary>
         <author>
             <name>Latest News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DIA: Intel suggests coronavirus was lab-engineered]]></title>
+        <id>https://www.washingtontimes.com/news/2022/may/11/dia-intel-suggests-covid-virus-was-lab-engineered/?utm_source=RSS_Feed&amp;utm_medium=RSS</id>
+        <link href="https://www.washingtontimes.com/news/2022/may/11/dia-intel-suggests-covid-virus-was-lab-engineered/?utm_source=RSS_Feed&amp;utm_medium=RSS"/>
+        <updated>2022-05-11T19:24:02.000Z</updated>
+        <summary type="html"><![CDATA[Army Lt. Gen. Scott Berrier, director of the Defense Intelligence Agency, revealed in prepared Senate testimony this week that some U.S. intelligence agencies -- not identified by name -- believe the virus behind the COVID-19 pandemic may have been genetically modified in a laboratory and not transmitted naturally from an animal host in China, where it was first identified.]]></summary>
+        <author>
+            <name>Bill Gertz</name>
         </author>
     </entry>
     <entry>
@@ -4820,6 +5101,16 @@ Colonel Mamady Doumbouya, the head of the junta that took power in a coup last S
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Congress’s Control Over Treaties]]></title>
+        <id>https://www.brookings.edu/?post_type=research&amp;p=1603890</id>
+        <link href="https://www.brookings.edu/research/congresss-control-over-treaties/"/>
+        <updated>2022-05-11T18:33:08.000Z</updated>
+        <summary type="html"><![CDATA[On July 1, 2021, the Congressional Study Group on Foreign Relations and National Security convened over Zoom to discuss separation of powers issues surrounding treaty withdrawal and re-entry. The Trump administration’s withdrawals from the INF Treaty, the Open Skies Treaty, and the WHO Constitution, among other international agreements, and threats to withdraw from NAFTA and…]]></summary>
+        <author>
+            <name>International Affairs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[US Senate Democrats push abortion-rights vote, expected to fail]]></title>
         <id>https://www.channelnewsasia.com/world/us-senate-democrats-push-abortion-rights-vote-expected-fail-2678736</id>
         <link href="https://www.channelnewsasia.com/world/us-senate-democrats-push-abortion-rights-vote-expected-fail-2678736"/>
@@ -4859,6 +5150,16 @@ Most Senate Rep]]></summary>
         <summary type="html"><![CDATA[The Rock, the biggest white diamond ever auctioned, sold for a hammer price of 18.6 million Swiss francs on Wednesday, far short of the record for such a jewel.]]></summary>
         <author>
             <name>News24 World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sovereign Immunity: Past, Present, and Future]]></title>
+        <id>https://www.brookings.edu/?post_type=research&amp;p=1603854</id>
+        <link href="https://www.brookings.edu/research/sovereign-immunity-past-present-and-future/"/>
+        <updated>2022-05-11T18:25:40.000Z</updated>
+        <summary type="html"><![CDATA[On Nov. 20, 2020, the Congressional Study Group on Foreign Relations and National Security convened online to discuss the past, present, and future of sovereign immunity. Recent debates in Congress over the possibility of holding China civilly liable over the coronavirus, allowing people to sue state sponsors of cybercrime, and potential civil liability for acts…]]></summary>
+        <author>
+            <name>International Affairs</name>
         </author>
     </entry>
     <entry>
@@ -5043,6 +5344,19 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Britain signs security deal vowing to defend Sweden in case of attack]]></title>
+        <id>https://www.rawstory.com/britain-signs-security-deal-vowing-to-defend-sweden-in-case-of/</id>
+        <link href="https://www.rawstory.com/britain-signs-security-deal-vowing-to-defend-sweden-in-case-of/"/>
+        <updated>2022-05-11T17:31:21.000Z</updated>
+        <summary type="html"><![CDATA[Britain pledged to defend Sweden if the country came under attack, with Prime Ministers Boris Johnson and Magdalena Andersson signing a security assurance deal outside Stockholm on Wednesday.
+Sweden and Finland are pondering whether to join NATO following Russia's invasion of Ukraine on Feb. 24. Johnson is later expected to make a similar defense commitment to Finland, where he will meet with President Sauli Niinisto.
+The agreement will “fortify northern Europe’s defenses, in the face of renewed threats,” Johnson said in a statement, adding it “is a symbol of the everlasting assurance between our nations."
+“These are not a short-term stop-gap, but a long-term commitment to bolster military ties and global stability, and fortify Europe’s defenses for generations to come,” Johnson said in th…]]></summary>
+        <author>
+            <name>Agence France-Presse</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[News24.com | European Investment Bank head backs multi-trillion-euro plan to rebuild Ukraine]]></title>
         <id>https://www.news24.com/news24/World/News/european-investment-bank-head-backs-multi-trillion-euro-plan-to-rebuild-ukraine-20220511</id>
         <link href="https://www.news24.com/news24/World/News/european-investment-bank-head-backs-multi-trillion-euro-plan-to-rebuild-ukraine-20220511"/>
@@ -5073,6 +5387,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hong Kong police arrest retired Catholic cardinal on national security charges, release him on bail]]></title>
+        <id>https://www.washingtontimes.com/news/2022/may/11/hong-kong-police-arrest-retired-catholic-cardinal-/?utm_source=RSS_Feed&amp;utm_medium=RSS</id>
+        <link href="https://www.washingtontimes.com/news/2022/may/11/hong-kong-police-arrest-retired-catholic-cardinal-/?utm_source=RSS_Feed&amp;utm_medium=RSS"/>
+        <updated>2022-05-11T17:26:57.000Z</updated>
+        <summary type="html"><![CDATA[Hong Kong police on Wednesday arrested a retired Roman Catholic cardinal who had served as the city's bishop and at least three others on charges of "colluding with foreign forces to endanger China's national security," according to media reports.]]></summary>
+        <author>
+            <name>Mark A. Kellner</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ukraine says it will block Russian gas supply to Europe]]></title>
         <id>b2076300</id>
         <link href="https://www.independent.co.uk/news/world/europe/ukraine-russia-block-gas-supply-b2076300.html"/>
@@ -5100,6 +5424,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Masks will no longer have to be worn on EU flights and in airports from next Monday, new guidance says.]]></summary>
         <author>
             <name>BBC News - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slain Al Jazeera journalist was icon of Palestinian coverage]]></title>
+        <id>https://www.washingtontimes.com/news/2022/may/11/slain-al-jazeera-journalist-was-icon-of-palestinia/?utm_source=RSS_Feed&amp;utm_medium=RSS</id>
+        <link href="https://www.washingtontimes.com/news/2022/may/11/slain-al-jazeera-journalist-was-icon-of-palestinia/?utm_source=RSS_Feed&amp;utm_medium=RSS"/>
+        <updated>2022-05-11T17:23:03.000Z</updated>
+        <summary type="html"><![CDATA[An Al Jazeera correspondent who was shot dead on Wednesday during an Israeli raid in the West Bank was a highly respected journalist in the Middle East whose unflinching coverage was known to millions of viewers.]]></summary>
+        <author>
+            <name>Aya Batrawy</name>
         </author>
     </entry>
     <entry>
@@ -5305,6 +5639,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sens. Rubio, Feinstein introduce bill to create Space National Guard]]></title>
+        <id>https://www.washingtontimes.com/news/2022/may/11/rubio-feinstein-bill-create-space-national-guard/?utm_source=RSS_Feed&amp;utm_medium=RSS</id>
+        <link href="https://www.washingtontimes.com/news/2022/may/11/rubio-feinstein-bill-create-space-national-guard/?utm_source=RSS_Feed&amp;utm_medium=RSS"/>
+        <updated>2022-05-11T16:36:29.000Z</updated>
+        <summary type="html"><![CDATA[Sens. Marco Rubio and Dianne Feinstein might not agree on much, but they've joined together in calling for a part-time adjunct to America's newest military force.]]></summary>
+        <author>
+            <name>Mike Glenn</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hope for thousands of inmates as India's top court halts sedition law]]></title>
         <id>02eb292d-34e5-4378-85e5-58d5d52513aa</id>
         <link href="https://www.cbsnews.com/news/sedition-law-india-supreme-court-order-halts-colonial-era-law/"/>
@@ -5357,6 +5701,19 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Russia is 'losing and they know it' after Ukraine's 'stunning counterattack': Retired general]]></title>
+        <id>https://www.rawstory.com/russia-invasion-of-ukraine-2657302405/</id>
+        <link href="https://www.rawstory.com/russia-invasion-of-ukraine-2657302405/"/>
+        <updated>2022-05-11T15:54:34.000Z</updated>
+        <summary type="html"><![CDATA[Amid reports of fresh setbacks for Russian forces in Ukraine, Ret. Brig. Gen. Steve Anderson suggested that the Russian military knows that it has bitten off more than it can chew.
+During a panel discussion on CNN, host Kate Bolduan asked Anderson what he made of reports that Russia is moving more troops toward the city of Kharkiv, where the Ukrainians have had success in pushing back Russian forces who previously believed they'd had the city secured.
+"It suggests that to me, Kate, they're losing and they know it," he said. "They're having to reposition their forces. They've been trying for six weeks now to cross the rivers and to get down to Kramatorsk. They've been trying to get down there but unable to do it."
+Anderson then credited the Ukrainians with executing what he described as "a …]]></summary>
+        <author>
+            <name>Brad Reed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Women Leading Humanitarian Efforts in Ukraine, Now Include them in Leadership, say UN Women and CARE]]></title>
         <id>https://www.globalissues.org/news/2022/05/11/30819</id>
         <link href="https://www.globalissues.org/news/2022/05/11/30819"/>
@@ -5384,6 +5741,19 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[<p><img src="https://static.globalissues.org/ips/2022/05/mothers-629x419.jpg" width="640" alt="" /></p><p>May 11 (IPS)  - The past 20 years have seen a significant decline in maternal mortality rates <a href="https://data.unicef.org/topic/maternal-health/maternal-mortality/#:%7E:text=From%202000%20to%202017%2C%20the,reduction%20of%202.9%20per%20cent">from 342 deaths to 211 per 100,000 globally </a>. But every day, more than <a href="https://data.unicef.org/topic/maternal-health/maternal-mortality/">800 women</a> around the world die from complications of pregnancy and childbirth, up to 42 days after delivery. Most of these deaths are preventable.</p><p><a href="https://www.globalissues.org/news/2022/05/11/30818">Read the full story, “Most Maternal Deaths Are Preventable: How To Improve Outcomes in South Africa”, on globalissues.org</a> →</p>]]></summary>
         <author>
             <name>Global Issues News Headlines</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analysis exposes Big Oil's plot to unleash climate-killing 'carbon bombs' worldwide]]></title>
+        <id>https://www.rawstory.com/analysis-exposes-big-oil-s-plot-to-unleash-climate-carbon-bombs-worldwide/</id>
+        <link href="https://www.rawstory.com/analysis-exposes-big-oil-s-plot-to-unleash-climate-carbon-bombs-worldwide/"/>
+        <updated>2022-05-11T15:41:53.000Z</updated>
+        <summary type="html"><![CDATA[A new investigation published Wednesday reveals that some of the largest fossil fuel corporations in the world—from Exxon in the U.S. to Gazprom in Russia to Aramco in Saudi Arabia—are planning or currently operating nearly 200 "carbon bombs," massive oil and gas projects that could unleash 646 billion tonnes of CO2 emissions and doom efforts to rein in planetary warming.
+"They are destroying your future. They are doing it deliberately. They have been doing that for decades."
+Research shared exclusively with The Guardian ahead of its formal publication identifies at least 195 "carbon bombs" that are either in the process of being built or already in place across the globe as scientists warn that fossil fuel use must be quickly phased out to prevent catastrophic climate outcomes.
+Led by Kje…]]></summary>
+        <author>
+            <name>Jake Johnson, Common Dreams</name>
         </author>
     </entry>
     <entry>
@@ -5489,6 +5859,26 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Svitolina: Russian, Belorussian players must speak about war]]></title>
+        <id>https://www.washingtontimes.com/news/2022/may/11/svitolina-russian-belorussian-players-must-speak-a/?utm_source=RSS_Feed&amp;utm_medium=RSS</id>
+        <link href="https://www.washingtontimes.com/news/2022/may/11/svitolina-russian-belorussian-players-must-speak-a/?utm_source=RSS_Feed&amp;utm_medium=RSS"/>
+        <updated>2022-05-11T14:40:36.000Z</updated>
+        <summary type="html"><![CDATA[Ukrainian tennis player Elina Svitolina wants Russian and Belarusian players to say whether they oppose the war in her nation.]]></summary>
+        <author>
+            <name>Jerome Pugmire</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Retired AP photographer Ut gives pope 'Napalm Girl' photo]]></title>
+        <id>https://www.washingtontimes.com/news/2022/may/11/retired-ap-photographer-ut-gives-pope-napalm-girl-/?utm_source=RSS_Feed&amp;utm_medium=RSS</id>
+        <link href="https://www.washingtontimes.com/news/2022/may/11/retired-ap-photographer-ut-gives-pope-napalm-girl-/?utm_source=RSS_Feed&amp;utm_medium=RSS"/>
+        <updated>2022-05-11T14:35:38.000Z</updated>
+        <summary type="html"><![CDATA[Retired Associated Press photographer Nick Ut met Wednesday with Pope Francis and gave him a copy of his Pulitzer Prize-winning photograph of a young Vietnamese girl running naked down the road after a napalm attack.]]></summary>
+        <author>
+            <name>Nicole Winfield</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Covid-19: Masking requirements to be lifted on French transport, European flights]]></title>
         <id>7718ad3c-d135-11ec-82b5-005056bf762b</id>
         <link href="https://www.france24.com/en/europe/20220511-covid-19-france-to-end-mask-requirement-on-transport"/>
@@ -5499,6 +5889,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Solar faces gloomy summer with projects on hold over allegations China violating trade rules]]></title>
+        <id>https://www.washingtontimes.com/news/2022/may/11/solar-industry-faces-gloomy-summer-projects-hold-o/?utm_source=RSS_Feed&amp;utm_medium=RSS</id>
+        <link href="https://www.washingtontimes.com/news/2022/may/11/solar-industry-faces-gloomy-summer-projects-hold-o/?utm_source=RSS_Feed&amp;utm_medium=RSS"/>
+        <updated>2022-05-11T14:27:54.000Z</updated>
+        <summary type="html"><![CDATA[The solar industry has sounded the alarm that a Commerce Department investigation into whether China is skirting U.S. tariffs on components used to produce solar panels by funneling the parts through other countries could seriously jeopardize clean energy projects across the nation.]]></summary>
+        <author>
+            <name>Ramsey Touchberry</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Israeli troops accused of ‘assassinating’ US Al Jazeera journalist in West Bank raid but Israel blames Palestine gunfire]]></title>
         <id>Post 18534021 at The Sun</id>
         <link href="https://www.thesun.co.uk/news/18534021/israeli-troops-accused-assassinating-al-jazeera-journalist/"/>
@@ -5506,6 +5906,20 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[ISRAEL has been accused of “assassinating” a US Al Jazeera journalist shot dead while reporting from the West Bank. Shireen Abu Aqleh, 51, was covering unrest in the Jenin refugee camp when she was killed and Israel has claimed it was “likely” it was Palestinian gunfire that killed her. But the Qatar-based TV channel said […]]]></summary>
         <author>
             <name>Tariq Tahir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Australia's election battle gets personal]]></title>
+        <id>https://www.rawstory.com/australia-s-election-battle-gets-personal/</id>
+        <link href="https://www.rawstory.com/australia-s-election-battle-gets-personal/"/>
+        <updated>2022-05-11T14:18:37.000Z</updated>
+        <summary type="html"><![CDATA[Australian Prime Minister Scott Morrison derided his Labor Party opponent Wednesday as an unreliable "loose unit" on the economy as he fought to catch up in the opinion polls 10 days from the federal election on May 21.
+In their third televised election debate, characterized as the "final showdown" before 17 million Australians cast their compulsory votes, Morrison and Labor's Anthony Albanese got personal.
+At the outset of the campaign last month, Albanese forgot both the unemployment rate and the main lending rate. More recently, he apparently had difficulty explaining his party's disability policy.
+"He's a loose unit when it comes to the economy. He makes things up as he goes along," said Morrison using a slang term for someone who is unreliable.
+Albanese hit back, accusing Morrison of …]]></summary>
+        <author>
+            <name>Agence France-Presse</name>
         </author>
     </entry>
     <entry>
@@ -5619,6 +6033,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Google, Meta must find and remove online child pornography under EU draft rules]]></title>
+        <id>https://www.rawstory.com/google-meta-must-find-and-remove-online-child-pornography-under-eu-draft-rules/</id>
+        <link href="https://www.rawstory.com/google-meta-must-find-and-remove-online-child-pornography-under-eu-draft-rules/"/>
+        <updated>2022-05-11T13:41:14.000Z</updated>
+        <summary type="html"><![CDATA[By Foo Yun Chee, Charlotte, Van and Campenhout BRUSSELS (Reuters) -Google, Meta and other online service providers will be required to find and remove online child pornography under proposed European Commission rules, a move some privacy groups say could put people's communications at risk. Companies that fail to comply with the rules face fines up to 6% of their annual income or global turnover, which will be set by EU countries. The EU executive said its proposal announced on Wednesday aimed to replace the current system of voluntary detection and reporting by companies which has proven to b...]]></summary>
+        <author>
+            <name>Reuters UK</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The maker of Marlboro cigarettes is betting big on nicotine pouches placed under your upper lip]]></title>
         <id>107059245</id>
         <link href="https://www.cnbc.com/2022/05/11/philip-morris-international-bids-16-billion-for-swedish-match-.html"/>
@@ -5626,6 +6050,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Marlboro-maker Philip Morris International confirmed Wednesday a $16 billion bid to buy rival Swedish Match as part of its accelerated push into smoke-free tobacco alternatives.]]></summary>
         <author>
             <name>International: Top News And Analysis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lithuania labels Russia as terrorist state, calls war in Ukraine genocide]]></title>
+        <id>https://www.washingtontimes.com/news/2022/may/11/lithuania-labels-russia-terrorist-state-calls-war-/?utm_source=RSS_Feed&amp;utm_medium=RSS</id>
+        <link href="https://www.washingtontimes.com/news/2022/may/11/lithuania-labels-russia-terrorist-state-calls-war-/?utm_source=RSS_Feed&amp;utm_medium=RSS"/>
+        <updated>2022-05-11T13:25:42.000Z</updated>
+        <summary type="html"><![CDATA[Lithuania has labeled Russia a terrorist state and formally accused the Kremlin of genocide in its invasion of Ukraine.]]></summary>
+        <author>
+            <name>Joseph Clark</name>
         </author>
     </entry>
     <entry>
@@ -5646,6 +6080,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[The wives of two Ukrainian soldiers defending the Mariupol steel mill have met with Pope Francis.]]></summary>
         <author>
             <name>NICOLE WINFIELD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wives of Mariupol defenders to pope: 'You are our last hope']]></title>
+        <id>https://www.washingtontimes.com/news/2022/may/11/wives-of-mariupol-defenders-to-pope-you-are-our-la/?utm_source=RSS_Feed&amp;utm_medium=RSS</id>
+        <link href="https://www.washingtontimes.com/news/2022/may/11/wives-of-mariupol-defenders-to-pope-you-are-our-la/?utm_source=RSS_Feed&amp;utm_medium=RSS"/>
+        <updated>2022-05-11T13:16:53.000Z</updated>
+        <summary type="html"><![CDATA[The wives of two Ukrainian soldiers defending the Mariupol steel mill met with Pope Francis on Wednesday and begged him to intervene to arrange for a third-party evacuation of the troops before Russian soldiers capture or kill them.]]></summary>
+        <author>
+            <name>Nicole Winfield</name>
         </author>
     </entry>
     <entry>
@@ -5676,6 +6120,38 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[TREASURE hunters digging for Nazi gold worth £200million claim they have discovered a four ton haul under a secret SS brothel. The gold is said to be buried in a metal canister 10ft below the surface at an 18th century palace close to Wroclaw in southern Poland. The dig began in May last year at […]]]></summary>
         <author>
             <name>Liam Coleman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Britain pledges to defend Sweden if it's attacked]]></title>
+        <id>https://www.washingtontimes.com/news/2022/may/11/britain-pledges-to-defend-sweden-if-its-attacked/?utm_source=RSS_Feed&amp;utm_medium=RSS</id>
+        <link href="https://www.washingtontimes.com/news/2022/may/11/britain-pledges-to-defend-sweden-if-its-attacked/?utm_source=RSS_Feed&amp;utm_medium=RSS"/>
+        <updated>2022-05-11T12:54:04.000Z</updated>
+        <summary type="html"><![CDATA[Britain pledged to defend Sweden if the country came under attack, with Prime Ministers Boris Johnson and Magdalena Andersson signing a security assurance deal outside Stockholm on Wednesday.]]></summary>
+        <author>
+            <name>Jan M. Olsen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Billionaire CEO: Companies should hire Ukrainian engineers because Americans lack 'work ethic']]></title>
+        <id>https://www.rawstory.com/bill-ackman/</id>
+        <link href="https://www.rawstory.com/bill-ackman/"/>
+        <updated>2022-05-11T12:49:04.000Z</updated>
+        <summary type="html"><![CDATA[On Wednesday, Newsweek reported that billionaire investor Bill Ackman is urging U.S. companies to hire Ukrainians to engineering jobs, because Americans lack the same level of "work ethic".
+"In a Tuesday tweet, the founder and CEO of Pershing Square Capital Management said he had dinner with a number of startup CEOs who had complained about the work ethic of young American engineers," reported Khaleda Rahman. "He suggested that employers should instead look to hiring people from Ukraine as Russia's invasion of the country continues."
+But — Ackman was careful to note — companies shouldn't go through all the trouble of bringing Ukrainians out of their war-torn country to come to the U.S. to take those jobs, but simply have them work remotely.
+
+To be clear, I recommend hiring Ukrainian engineers virtually, not recruiting them to the US, which takes time and will drain talent from @Ukraine. We should find Ukrainians work and dignity now so they can provide for their families and country.https://twitter.com/BillAckman/status/1523852028241457152\u00a0\u2026
+ — Bill Ackman (@Bill Ackman)
+        1652150298
+
+
+The Russian invasion of Ukraine has devastated huge sections of the country and created a massive refugee crisis, as Russian forces commit horrifying war crimes in occupied territory.
+RELATED: Leaked Kremlin forecasts show Russia facing economic collapse from sanctions: report
+The Biden administration has committed to admitting in 100,000 Ukrainian refugees, with 6,000 already approved for entry into the U.S.
+Ackman's comments also come as U.S. businesses are facing a sharp uptick in workers resigning to pursue other job opportunities, a trend known as the "Great Resignation" as a labor shortage causes workers to start questioning the value of working lower-pay, less-secure jobs.]]></summary>
+        <author>
+            <name>Matthew Chapman</name>
         </author>
     </entry>
     <entry>
@@ -5822,6 +6298,29 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Leaked Kremlin forecasts show Russia facing economic collapse from sanctions: report]]></title>
+        <id>https://www.rawstory.com/russia-sanctions-2657300041/</id>
+        <link href="https://www.rawstory.com/russia-sanctions-2657300041/"/>
+        <updated>2022-05-11T11:26:20.000Z</updated>
+        <summary type="html"><![CDATA[The unprecedented economic sanctions leveled against Russia haven't stopped the country from continuing its war in Ukraine -- but they have succeeded in crushing its economy.
+Bloomberg reports that leaked economic forecasts from Russia's Finance Ministry project that the Russian economy will shrink by as much as 12 percent this year as crippling economic sanctions wipe out roughly an entire decade's worth of economic growth.
+This would also mark the worst economic crisis for Russia since the 1990s when the collapse of the Soviet Union sent the country's economy spiraling downward.
+Natalia Lavrova, chief economist at BCS Financial Group in Moscow, tells Bloomberg that there is no easy fix for Russia going forward.
+IN OTHER NEWS: Legal experts slam Josh Hawley's 'blatantly unconstitutional' anti-Disney bill
+“The main negatives are the oil embargo, the EU giving up Russian gas, along with more departures among foreign companies,” she explained. “All that will probably expand gradually, with a lot of negative carrying over in to 2023.”
+Major Western nations launched sanctions against Russia earlier this year after the country launched an unprovoked war against neighboring Ukraine.
+Although many intelligence experts believed Russia would be able to quickly overrun Ukraine militarily, Russia has failed to achieve its objective of taking over the capital of Kyiv and has also faced significant setbacks in its efforts to take over the eastern region of the country.
+NOW WATCH: Georgia’s Record Setting Early Voting Process Experiences Challenges
+
+
+Georgia’s Record Setting Early Voting Process Experiences Challenges
+
+www.youtube.com]]></summary>
+        <author>
+            <name>Brad Reed</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[EU has ‘no solution’ to fix damage from Russian oil ban – Hungary]]></title>
         <id>https://www.rt.com/news/555297-hungary-eu-no-solution/</id>
         <link href="https://www.rt.com/news/555297-hungary-eu-no-solution/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
@@ -5843,6 +6342,21 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Al-Jazeera journalist killed while covering Israeli raid in West Bank]]></title>
+        <id>https://www.rawstory.com/al-jazeera-journalist-killed-while-covering-israeli-raid-in-west-bank/</id>
+        <link href="https://www.rawstory.com/al-jazeera-journalist-killed-while-covering-israeli-raid-in-west-bank/"/>
+        <updated>2022-05-11T11:15:20.000Z</updated>
+        <summary type="html"><![CDATA[Veteran Al Jazeera journalist Shireen Abu Akleh, a Palestinian-American who was among the network's most prominent figures, was shot dead Wednesday as she covered an Israeli army raid in the occupied West Bank.
+The Qatar-based TV channel said Israeli forces shot Abu Akleh, 51, deliberately and "in cold blood" while she was covering unrest in the Jenin refugee camp. 
+Israeli Prime Minister Naftali Bennett however said it was "likely" that Palestinian gunfire killed her. 
+Another Al Jazeera journalist, producer Ali al-Samudi, was wounded in the incident, the broadcaster added.
+An AFP photographer said Abu Akleh was wearing a press flak jacket when she was shot. The photographer reported that Israeli forces were firing in the area and then saw Abu Akleh's body lying on the ground. 
+There were…]]></summary>
+        <author>
+            <name>Agence France-Presse</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to watch the "super flower blood moon" total lunar eclipse]]></title>
         <id>d29cb571-2d79-4876-aa3b-89737e2a7498</id>
         <link href="https://www.cbsnews.com/news/total-lunar-eclipse-may-15-how-to-watch-rare-super-flower-blood-moon/"/>
@@ -5860,6 +6374,28 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[The European Union’s executive arm has proposed requiring online platforms to detect and report the sharing of child sex abuse images on the internet.]]></summary>
         <author>
             <name>SAMUEL PETREQUIN</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tokyo to recognize same-sex partnerships from November]]></title>
+        <id>https://www.rawstory.com/tokyo-to-recognize-same-partnerships-from-november/</id>
+        <link href="https://www.rawstory.com/tokyo-to-recognize-same-partnerships-from-november/"/>
+        <updated>2022-05-11T11:01:17.000Z</updated>
+        <summary type="html"><![CDATA[Tokyo will begin recognizing same-sex partnerships from November after revising current rules, officials said Wednesday, becoming the largest city in Japan to do so.
+Japan is the only nation of the Group of Seven countries that does not recognize same-sex unions, and its constitution stipulates that "marriage shall be only with the mutual consent of both sexes".
+
+But in recent years, local authorities across the country have made moves to recognize same-sex partnerships, although such recognition does not carry the same rights as marriage under the law.
+"We collected opinions from the public for the past two months and we heard opinions (from same-sex couples) who said they want to be recognized as partners," a Tokyo government spokesman told AFP.
+The metropolitan government plans to ask legislators to approve revising a local ordinance next month, and will then begin accepting applications for the certificates in October and issuing them in November.
+The city is considering offering various services currently only available to married couples to those with the partnership certificate, including applying for city-administered apartments, the spokesman said.
+Tokyo's Shibuya district in 2015 became the first place in Japan to begin issuing symbolic "partnership" certificates to same-sex couples.
+Many areas have followed suit, with activists saying more than 200 municipalities now recognize same-sex partnerships, granting couples rights including the ability to visit a partner in hospital and rent property together.
+In a landmark ruling last year, a court in northern Sapporo said Japan's failure to recognize same-sex marriage is unconstitutional, a verdict hailed by campaigners as a major victory.
+But Japan's Prime Minister Fumio Kishida has been cautious on the possibility of any legislative changes at the national level to recognize same-sex unions.
+Taiwan is currently the only place in Asia with marriage equality, having taken the unprecedented step of legalizing same-sex unions in 2019.
+© 2022 AFP]]></summary>
+        <author>
+            <name>Agence France-Presse</name>
         </author>
     </entry>
     <entry>
@@ -5900,6 +6436,35 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Sri Lanka has ordered troops to "shoot on sight" following violence that left several dead, as chaos unfolds on the streets of the crisis-hit nation.]]></summary>
         <author>
             <name>CNN.com - RSS Channel - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paraguay anti-drug prosecutor shot dead on honeymoon in Colombia]]></title>
+        <id>https://www.rawstory.com/paraguay-anti-prosecutor-shot-on-honeymoon-in-colombia/</id>
+        <link href="https://www.rawstory.com/paraguay-anti-prosecutor-shot-on-honeymoon-in-colombia/"/>
+        <updated>2022-05-11T10:50:23.000Z</updated>
+        <summary type="html"><![CDATA[Paraguayan anti-drug prosecutor Marcelo Pecci was shot dead execution-style Tuesday while honeymooning on a Colombian Caribbean island by attackers who fled by sea, police and his widow said.
+Paraguay's president denounced the crime as a "cowardly murder" and a fellow prosecutor said the modus operandi was reminiscent of "the mafia."
+Pecci, 45, was felled by two shots while relaxing on a beach on the idyllic tourist island of Baru, according to his wife, Paraguayan journalist Claudia Aguilera.
+The couple got married on April 30 in the nearby city of Cartagena.
+"Two men attacked Marcelo. They came (by sea) in a small boat, or on a jet ski, the truth is I did not see well," Aguilera told the El Tiempo newspaper.
+One of the assailants got out and "without a word he shot Marcelo twice, one (bu…]]></summary>
+        <author>
+            <name>Agence France-Presse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hong Kong Tiananmen vigil organizers labeled 'foreign agents']]></title>
+        <id>https://www.rawstory.com/hong-kong-tiananmen-vigil-organizers-labelled-foreign-agents/</id>
+        <link href="https://www.rawstory.com/hong-kong-tiananmen-vigil-organizers-labelled-foreign-agents/"/>
+        <updated>2022-05-11T10:46:25.000Z</updated>
+        <summary type="html"><![CDATA[A Hong Kong court ruled on Wednesday that prosecutors could label organizers of the city's annual Tiananmen vigil "foreign agents" without having to reveal who the group is accused of working for.
+The decision was made on national security grounds but those being prosecuted argue that the precedent-setting ruling makes it harder to prepare their defense ahead of trial.
+For three decades, the now-disbanded Hong Kong Alliance held vigils commemorating victims of China's deadly 1989 crackdown on democracy protesters in Beijing's Tiananmen Square.
+Those commemorations have been driven underground since Beijing imposed a sweeping national security law on Hong Kong following democracy protests three years ago.
+Authorities charged the alliance with "incitement to subversion", a national security …]]></summary>
+        <author>
+            <name>Agence France-Presse</name>
         </author>
     </entry>
     <entry>
@@ -6186,6 +6751,19 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sri Lanka president warns of racial tensions amid economic crisis]]></title>
+        <id>https://www.rawstory.com/sri-lanka-president-warns-of-racial-tensions-amid-economic-crisis/</id>
+        <link href="https://www.rawstory.com/sri-lanka-president-warns-of-racial-tensions-amid-economic-crisis/"/>
+        <updated>2022-05-11T04:53:05.000Z</updated>
+        <summary type="html"><![CDATA[By Uditha Jayasinghe and Alasdair Pal
+COLOMBO (Reuters) - Sri Lanka's president urged people on Wednesday to reject what he called attempts to foment racial and religious disharmony, as clashes broke out in many parts of the country over the government's handling of a devastating economic crisis.
+Violent street protests killed eight people this week and even the resignation of President Gotabaya Rajapaksa's elder brother as prime minister and a curfew have failed to douse public anger. The government has ordered troops to shoot at anyone damaging public property or threatening lives.
+Sri Lankans have blamed the Rajapaksa dynasty for the economic meltdown that has left the country with only about $50 million in reserves, stalling most imports and leading to massive shortages of fuel, cookin…]]></summary>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[US House approves $40bn in Ukraine aid]]></title>
         <id>https://www.rt.com/news/555280-us-house-ukraine-military-aid/</id>
         <link href="https://www.rt.com/news/555280-us-house-ukraine-military-aid/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
@@ -6214,6 +6792,20 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[UN chief Antonio Guterres said Wednesday he was "deeply concerned" about the prospect of global food shortages stemming from the war in Ukraine, calling the current food security situation "dramatic". Ukraine said its forces were gradually pushing Russian troops away from the city of Kharkiv, the country's second-largest, signalling a possible shift in the war's momentum. Thank you for joining us during this live coverage of Russia’s invasion of Ukraine.]]></summary>
         <author>
             <name>FRANCE 24</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US takes first step to approve $40 bn in Ukraine aid]]></title>
+        <id>https://www.rawstory.com/us-takes-first-step-to-approve-40-bn-in-ukraine-aid/</id>
+        <link href="https://www.rawstory.com/us-takes-first-step-to-approve-40-bn-in-ukraine-aid/"/>
+        <updated>2022-05-11T03:44:55.000Z</updated>
+        <summary type="html"><![CDATA[US President Joe Biden signed the Ukraine Democracy Defense Lend-Lease Act of 2022 into law earlier this week
+Washington (AFP) - US lawmakers voted Tuesday to send a $40 billion aid package to Ukraine, as Washington warned that Russia was likely girding for a long conflict with its neighbor.
+The defense, humanitarian and economic funding passed the House of Representatives by 368 votes to 57, with the two parties' leaders having already reached an agreement on the details. It will likely pass the Senate by the end of the week or next week.
+All the dissenting votes came from the Republican ranks.
+"With this aid package, America sends a resounding message to the world of our unwavering determination to stand with the courageous people of Ukraine until victory is won," House Speaker Nancy Pel…]]></summary>
+        <author>
+            <name>AFP</name>
         </author>
     </entry>
     <entry>
@@ -6275,6 +6867,19 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[FORMER Mr Universe Calum von Moger has been left fighting for his life after jumping through a window, it has been reported. The Australian actor and bodybuilder, 31, is said to have plunged from a second storey window last week, just days after sharing an emotional message with his fans. In a heartfelt post on […]]]></summary>
         <author>
             <name>Imogen Braddick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China says warned U.S. warship as it transited Taiwan Strait]]></title>
+        <id>https://www.rawstory.com/china-taiwan-straight/</id>
+        <link href="https://www.rawstory.com/china-taiwan-straight/"/>
+        <updated>2022-05-11T01:49:48.000Z</updated>
+        <summary type="html"><![CDATA[China's military said on Wednesday that it had monitored and warned a U.S. warship that had sailed through the sensitive Taiwan Strait, a mission that happened shortly after China carried out drills near the island.
+	
+	
+		The U.S. Navy's 7th Fleet said the guided-missile cruiser USS Port Royal co...]]></summary>
+        <author>
+            <name>Reuters</name>
         </author>
     </entry>
     <entry>
@@ -6340,6 +6945,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Philippines election winner Marcos tells world to judge him by actions, not family's past]]></title>
+        <id>https://www.rawstory.com/philippines-election-winner-marcos-tells-world-to-judge-him-by-actions-not-family-s-past/</id>
+        <link href="https://www.rawstory.com/philippines-election-winner-marcos-tells-world-to-judge-him-by-actions-not-family-s-past/"/>
+        <updated>2022-05-11T00:24:29.000Z</updated>
+        <summary type="html"><![CDATA[By Karen Lema and Enrico Dela Cruz MANILA (Reuters) - The son of the disgraced late Philippines dictator Ferdinand Marcos vowed on Tuesday to work for all people after his stunning election victory, and told the world to judge him by his presidency, not his family's past. Ferdinand Marcos Jr, better known as "Bongbong", become the first candidate in recent history to win an outright majority in a Philippines presidential election, paving the way for a once unimaginable return to rule for the country's most notorious political dynasty. "Judge me not by my ancestors, but by my actions," Marcos t...]]></summary>
+        <author>
+            <name>Reuters UK</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pictures reveal grim extent of suffering inside steel works under relentless bombardment]]></title>
         <id>https://news.sky.com/story/ukraine-war-the-pounding-of-azovstal-pictures-that-tell-a-thousand-words-12610290</id>
         <link href="https://news.sky.com/story/ukraine-war-the-pounding-of-azovstal-pictures-that-tell-a-thousand-words-12610290"/>
@@ -6347,6 +6962,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[As Russian troops continue their pounding of the Azovstal steel works in Mariupol, a photo-journalist has revealed the grim extent of the suffering inside.]]></summary>
         <author>
             <name>World News - Breaking international news and headlines | Sky News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haitian gang leader ‘Yonyon’ indicted in DC for role in kidnapping of 16 Americans]]></title>
+        <id>https://www.rawstory.com/haitian-gang-leader-yonyon-indicted-in-dc-for-role-in-kidnapping-of-16-americans/</id>
+        <link href="https://www.rawstory.com/haitian-gang-leader-yonyon-indicted-in-dc-for-role-in-kidnapping-of-16-americans/"/>
+        <updated>2022-05-10T23:51:30.000Z</updated>
+        <summary type="html"><![CDATA[The leader of a Haitian gang that kidnapped 17 American and Canadian missionaries on the eastern outskirts of Port-au-Prince last October was indicted Tuesday by a federal grand jury in the District of Columbia. Germine Joly, 29, who is better known as “Yonyon,” was charged with conspiracy to commit hostage taking for his role in the armed kidnapping of 16 U.S. citizens in Haiti. The victims, including five children, were Christian missionaries serving in Haiti. Most of them were held captive for 61 days by the gang 400 Mawozo. The gang’s No. 2 demanded $1 million in ransom per victim and thre...]]></summary>
+        <author>
+            <name>Miami Herald</name>
         </author>
     </entry>
     <entry>
@@ -6401,6 +7026,34 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[UK to reform spy laws to tackle threats from cyber and state influence]]></title>
+        <id>https://www.rawstory.com/uk-to-reform-spy-laws-to-tackle-threats-from-cyber-and-state-influence/</id>
+        <link href="https://www.rawstory.com/uk-to-reform-spy-laws-to-tackle-threats-from-cyber-and-state-influence/"/>
+        <updated>2022-05-10T23:11:07.000Z</updated>
+        <summary type="html"><![CDATA[LONDON (Reuters) - Britain will overhaul its espionage laws in the face of threats to national security ranging from cyber-attacks to pernicious lobbying that could undermine its economy, the country's interior minister said on Wednesday. Home Secretary Priti Patel said the reforms would include the creation of a new Foreign Influence Registration Scheme, similar to ones in the United States and Australia, to reduce the risk of foreign governments damaging Britain's interests. Patel said the new laws, coupled with more powerful tools for Britain's police and intelligence agencies, "will be cri...]]></summary>
+        <author>
+            <name>Reuters UK</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukrainian entry makes it into Eurovision Song Contest final]]></title>
+        <id>https://www.rawstory.com/ukrainian-entry-makes-it-into-eurovision-song-contest-final/</id>
+        <link href="https://www.rawstory.com/ukrainian-entry-makes-it-into-eurovision-song-contest-final/"/>
+        <updated>2022-05-10T23:09:01.000Z</updated>
+        <summary type="html"><![CDATA[Kalush Orchestra from Ukraine performs with the title "Stefania" at the first semi-final of the Eurovision Song Contest (ESC). Jens Büttner/dpa
+Kalush Orchestra, the Ukrainian entry for this year's Eurovision Song Contest, has made it into Saturday's grand final in Turin.
+Kalush Orchestra advanced in the first semi-final late Tuesday along with nine other countries.
+The musicians from western Ukraine and their song "Stefania" are the favourites for overall victory at this year's Grand Prix in the northern Italian city.
+Artists from a total of 17 countries took part in the first semi- final on Tuesday.
+The band has been vocal in expressing its support for Ukrainian resistance to the Russian invasion on social media since the armed conflict began.
+Russia has been excluded from this year's Eurovision, as has its neighbour and close ally Belarus.
+Kalush Orchestra from Ukraine performs with the title "Stefania" at the first semi-final of the Eurovision Song Contest (ESC). Jens Büttner/dpa
+Kalush Orchestra from Ukraine performs with the title "Stefania" at the first semi-final of the Eurovision Song Contest (ESC). Jens Büttner/dpa]]></summary>
+        <author>
+            <name>DPA</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[‘If I die no-one will know’: Covid and Hong Kong’s 'cage men']]></title>
         <id>https://www.bbc.co.uk/news/world-asia-china-61385264</id>
         <link href="https://www.bbc.co.uk/news/world-asia-china-61385264?at_medium=RSS&amp;at_campaign=KARANGA"/>
@@ -6438,6 +7091,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Joly Germine, who already faces weapons trafficking charges​, now faces a charge of conspiracy to commit kidnapping.]]></summary>
         <author>
             <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Havana explosion: Search continues for 3 Hotel Saratoga workers trapped in the rubble]]></title>
+        <id>https://www.rawstory.com/havana-explosion-search-continues-for-3-hotel-saratoga-workers-trapped-in-the-rubble/</id>
+        <link href="https://www.rawstory.com/havana-explosion-search-continues-for-3-hotel-saratoga-workers-trapped-in-the-rubble/"/>
+        <updated>2022-05-10T22:51:34.000Z</updated>
+        <summary type="html"><![CDATA[Three employees who were at the Hotel Saratoga in Havana at the time of a strong explosion that destroyed much of the building and killed at least 42 people are still missing, tourism ministry officials said Tuesday. Search teams are trying to find two waitresses and a cook who worked at the five-star hotel and are believed to be trapped in the building’s ruins, officials said at a news conference reported by Prensa Latina. Hotel Saratoga was preparing to reopen to international tourism after two years of being closed due to the COVID-19 pandemic. Twenty-three of the 51 workers believed to hav...]]></summary>
+        <author>
+            <name>Miami Herald</name>
         </author>
     </entry>
     <entry>
@@ -6543,6 +7206,20 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Trump bragged he installed Ric Grenell in top intel spot to make his nominee look less extreme: new book]]></title>
+        <id>https://www.rawstory.com/ric-grenell-trump-germany-problems/</id>
+        <link href="https://www.rawstory.com/ric-grenell-trump-germany-problems/"/>
+        <updated>2022-05-10T19:58:07.000Z</updated>
+        <summary type="html"><![CDATA[In his new tell-all book, former Secretary of Defense Mark Esper criticized Ric Grenell, who became Donald Trump's acting director of national intelligence (DNI) for a few months in 2020. 
+Acting Director of National Intelligence Joseph Maguire told members of the House Intelligence Committee Russia was already trying to interfere with the 2020 election. Trump swiftly fired Maguire and replaced him with Grenell. 
+According to Esper, "there were a number of people in the administration who would willingly do Trump’s bidding, and probably even his more extreme dictates, and it deeply concerned me." Grenell, he explained, was one of them. 
+Trump would brag about Grenell like it was a grand strategy to force the hand of the Senate Republicans. 
+IN OTHER NEWS: Jen Psaki schools Fox News reporte…]]></summary>
+        <author>
+            <name>Sarah K. Burris</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Elon Musk says he will allow Trump back on Twitter]]></title>
         <id>https://www.rt.com/news/555271-musk-allows-trump-return-twitter/</id>
         <link href="https://www.rt.com/news/555271-musk-allows-trump-return-twitter/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
@@ -6554,6 +7231,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sri Lanka protesters call for new government a day after clashes kill eight]]></title>
+        <id>https://www.rawstory.com/sri-lanka-protesters-call-for-new-government-a-day-after-clashes-eight/</id>
+        <link href="https://www.rawstory.com/sri-lanka-protesters-call-for-new-government-a-day-after-clashes-eight/"/>
+        <updated>2022-05-10T19:53:21.000Z</updated>
+        <summary type="html"><![CDATA[By Alasdair Pal and Uditha Jayasinghe COLOMBO (Reuters) -Protesters and a key trade group in Sri Lanka called for a new government to take control of the crisis-hit country on Tuesday while the president asked for calm following clashes that claimed eight lives and prompted his brother to quit as prime minister. Sri Lanka has been suffering its worst economic crisis in history, with a severe shortage of foreign exchange stalling essential imports, including drugs and fuel. For months, its tottering economy has been largely supported by India, which has provided assistance of more than $3.5 bil...]]></summary>
+        <author>
+            <name>Reuters UK</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Facebook moderator sues company over ‘human trafficking’]]></title>
         <id>https://www.rt.com/news/555270-facebook-african-content-moderators-lawsuit/</id>
         <link href="https://www.rt.com/news/555270-facebook-african-content-moderators-lawsuit/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
@@ -6562,6 +7249,25 @@ Read Full Article at RT.com]]></summary>
 Read Full Article at RT.com]]></summary>
         <author>
             <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Framing Ukraine battle as a proxy war is both 'profoundly stupid' and 'wonderful for Putin's propaganda']]></title>
+        <id>https://www.rawstory.com/framing-ukraine-battle-as-a-proxy-war-is-wonderful-for-putins-propaganda/</id>
+        <link href="https://www.rawstory.com/framing-ukraine-battle-as-a-proxy-war-is-wonderful-for-putins-propaganda/"/>
+        <updated>2022-05-10T19:07:35.000Z</updated>
+        <summary type="html"><![CDATA[Russian President Vladimir Putin has defended his invasion of Ukraine, saying it was a necessary blow against NATO. His remarks came during Russia’s annual Victory Day celebrations on May 9 marking the defeat of Nazi Germany in World War II. U.S. lawmakers, meanwhile, are increasingly describing the fighting in Ukraine as a proxy war between the U.S. and Russia. We speak with the Quincy Institute’s Anatol Lieven, who says the war can only end through negotiations, and aggressive U.S. rhetoric risks prolonging the fighting. “That is a recipe for this war going on essentially forever, with colossal suffering for Ukraine,” says Lieven.
+
+
+Anotol Lieven: U.S. Lawmakers' Framing of Ukraine as Proxy War Is Wonderful for Putin's Propaganda
+
+www.youtube.com
+
+
+Transcript
+This is a rush transcript. C…]]></summary>
+        <author>
+            <name>Amy Goodman, Democracy Now!</name>
         </author>
     </entry>
     <entry>
@@ -6643,6 +7349,20 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[A WOMAN has shared a picture of her horrifically burnt brother to warn other families after an appliance sparked a devastating house fire. Little Elijah, two, is fighting for his life after a tumble dryer sparked a devastating blaze at his family home in Mildura, Melbourne. The toddler was sleeping in his bed on May […]]]></summary>
         <author>
             <name>Olivia Burke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[West blames Russia for satellite hack ahead of Ukraine invasion]]></title>
+        <id>https://www.rawstory.com/west-blames-russia-for-satellite-hack-ahead-of-ukraine-invasion/</id>
+        <link href="https://www.rawstory.com/west-blames-russia-for-satellite-hack-ahead-of-ukraine-invasion/"/>
+        <updated>2022-05-10T17:28:41.000Z</updated>
+        <summary type="html"><![CDATA[Western powers on Tuesday accused Russian authorities of carrying out a cyberattack against a satellite network an hour before the invasion of Ukraine to pave the way for its assault.
+According to the British Foreign Office, UK, US and EU cyber security experts have met to assess new intelligence linking the February attack directly to the Russian state.
+"This is clear and shocking evidence of a deliberate and malicious attack by Russia against Ukraine which had significant consequences on ordinary people and businesses in Ukraine and across Europe," UK foreign minister Liz Truss said.
+US Secretary of State Antony Blinken, confirming the US intelligence assessment of the attack, said that Russia aimed to disrupt Ukrainian command and control.
+"The activity disabled very small aperture term…]]></summary>
+        <author>
+            <name>Agence France-Presse</name>
         </author>
     </entry>
     <entry>
@@ -6775,6 +7495,17 @@ US intelligence says there are “indications” that Russia wants to build a la
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Has Russia been beaten? This military expert says that moment is coming soon]]></title>
+        <id>https://www.rawstory.com/has-russia-been-beaten-this-military-expert-says-that-moment-is-coming-soon/</id>
+        <link href="https://www.rawstory.com/has-russia-been-beaten-this-military-expert-says-that-moment-is-coming-soon/"/>
+        <updated>2022-05-10T15:26:17.000Z</updated>
+        <summary type="html"><![CDATA[When Vladimir Putin ordered the Russian military to invade Ukraine more than two months ago, he no doubt expected an easy victory from a lightning-fast assault intended to crush the smaller opposing force. This spectacular victory was meant to advance the Russian president's vision of a new manifest destiny, bringing his country closer to re-establishing itself as an imperial power on the global stage. But Putin's gambit failed in grand fashion. Instead of celebrating a victory on May 9 — the anniversary of the Soviet victory over Nazi Germany in World War II — the Russian military is trying to reorganize itself after a series of stunning defeats and great losses in both materiel and personnel.
+Speed was the key element in the Russian plan, but surprisingly strong and effective resistance …]]></summary>
+        <author>
+            <name>Chauncey Devega, Salon</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Millions of UK homes face no heat this winter, power chief warns]]></title>
         <id>https://www.rt.com/news/555258-uk-energy-heating-cost/</id>
         <link href="https://www.rt.com/news/555258-uk-energy-heating-cost/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS"/>
@@ -6794,6 +7525,18 @@ Read Full Article at RT.com]]></summary>
 Read Full Article at RT.com]]></summary>
         <author>
             <name>RT</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pence and Pompeo described as 'Warhawks' -- and had to be reminded Trump wasn't going to war with Iran: new book]]></title>
+        <id>https://www.rawstory.com/trumps-near-war-with-iran/</id>
+        <link href="https://www.rawstory.com/trumps-near-war-with-iran/"/>
+        <updated>2022-05-10T15:17:43.000Z</updated>
+        <summary type="html"><![CDATA[In his new tell-all book, former Defense Department Secretary Mark Esper recalled a meeting with top Cabinet officials during the withdrawal from Syria and the "warhawks" who had to be reminded that they weren't going to bomb Iran. 
+In an attack on Esper in a letter to CBS News, Trump said that Esper was so weak that he personally had to run the military to defeat ISIS. But the book describes the defense team being forced to create a chart to explain to Trump how an attack on Iran would work. 
+Trump met with congressional leaders on the afternoon of June 20, telling them he was about to bomb Iran after they shot down a U.S. surveillance drone. But by the end of the day, "with ships readying missiles and airplanes already in the skies, told the Pentagon to call off the airstrikes with only …]]></summary>
+        <author>
+            <name>Sarah K. Burris</name>
         </author>
     </entry>
     <entry>
@@ -6875,6 +7618,16 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[A new study found that global warming is making it more challenging to predict ocean conditions, manage ecosystems and prepare for marine hazards.]]></summary>
         <author>
             <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prince Charles delivers Queen's Speech for the first time]]></title>
+        <id>https://www.rawstory.com/prince-charles-delivers-queen-s-speech-for-the-first-time/</id>
+        <link href="https://www.rawstory.com/prince-charles-delivers-queen-s-speech-for-the-first-time/"/>
+        <updated>2022-05-10T13:36:22.000Z</updated>
+        <summary type="html"><![CDATA[By Kate Holton and Paul Sandle LONDON (Reuters) -Britain's heir-to-the-throne Prince Charles and Prince William took centre stage amid the pomp and pageantry of the opening of parliament on Tuesday, replacing the 96-year-old Queen Elizabeth who missed the grand set-piece event with health issues. With the queen forced to withdraw for the first time in almost 60 years, Charles stepped in to read out the government's legislative agenda at the Palace of Westminster, the first time he has taken on such a major constitutional duty. The queen, the world's oldest and longest-reigning monarch, has bee...]]></summary>
+        <author>
+            <name>Reuters UK</name>
         </author>
     </entry>
     <entry>
@@ -7006,6 +7759,34 @@ Read Full Article at RT.com]]></summary>
         <summary type="html"><![CDATA[Despite widespread speculation, Putin did not declare victory in Ukraine or hint at any stronger push on the battlefield there.]]></summary>
         <author>
             <name>World - CBSNews.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sweden's Gotland at crossroads of history as NATO decision looms]]></title>
+        <id>https://www.rawstory.com/sweden-s-gotland-at-crossroads-of-history-as-nato-decision-looms/</id>
+        <link href="https://www.rawstory.com/sweden-s-gotland-at-crossroads-of-history-as-nato-decision-looms/"/>
+        <updated>2022-05-10T11:12:58.000Z</updated>
+        <summary type="html"><![CDATA[By Philip O'Connor and Ilze Filks
+VISBY, Sweden (Reuters) - The crack of gunshots splits the silence in a sleepy forest as Camilla Selander, a deli-counter worker, squeezes off shots from her Glock 9 millimetre pistol during target practice with Sweden's Home Guard on the island of Gotland.
+The 34-year-old is one of the volunteers practising at a military firing range on the island, likely to be on the front line of any future confrontation between Russia and Sweden.
+The island lies just 300 km (186 miles) from the home of Russia's Baltic Fleet in the Russian exclave of Kaliningrad, sandwiched between Lithuania and Poland.
+"People are a bit worried, but we're trying to keep everybody calm, so that we talk about what is happening but nevertheless tell each other that it's going to be fine,"…]]></summary>
+        <author>
+            <name>Reuters</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Egypt's ancient 'zar' ritual puts exorcism on stage]]></title>
+        <id>https://www.rawstory.com/egypt-s-ancient-zar-ritual-puts-exorcism-on-stage/</id>
+        <link href="https://www.rawstory.com/egypt-s-ancient-zar-ritual-puts-exorcism-on-stage/"/>
+        <updated>2022-05-10T10:55:06.000Z</updated>
+        <summary type="html"><![CDATA[A stage, lights, a mesmerized audience: it looks like an Egyptian folkloric concert but Umm Sameh is singing to heal the sick by driving out the demons that possess them.
+The music and dance ritual known as "zar", with centuries-old roots in Ethiopia and Sudan, is traditionally performed to ward off or exorcise jinn or evil spirits.
+"We're not quacks or witches," said Umm Sameh, aged in her 70s, with kohl-lined eyes, large hoops swaying in her ears and gold bracelets tinkling on her arms.
+"The singing is spiritual and brings out negative energies," said the lead singer of the Mazaher ensemble, adding that they also perform prayers from Islam's mystic Sufi practices.
+Traditionally, the zar ritual would last several days and include animal sacrifices. But no blood is spilled at Cairo's Makan…]]></summary>
+        <author>
+            <name>Agence France-Presse</name>
         </author>
     </entry>
     <entry>
@@ -8338,6 +9119,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Macron survives, but how long can the center hold in France?]]></title>
+        <id>https://www.brookings.edu/?p=1604636</id>
+        <link href="https://www.brookings.edu/blog/order-from-chaos/2022/05/06/macron-survives-but-how-long-can-the-center-hold-in-france/"/>
+        <updated>2022-05-06T20:57:12.000Z</updated>
+        <summary type="html"><![CDATA[On April 24, Emmanuel Macron was reelected as president of France, beating far-right challenger Marine Le Pen in a runoff for the second time. After what briefly appeared to be a tight race in early April — with one poll putting Le Pen within two points of the incumbent president — Macron’s victory came as…]]></summary>
+        <author>
+            <name>Célia Belin, Agneska Bloch</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[I was in tears when Sasha’s mother told me how she identified his body just by looking at his hands]]></title>
         <id>Post 18487025 at The Sun</id>
         <link href="https://www.thesun.co.uk/news/18487025/sasha-zdanovych-mother-identified-body/"/>
@@ -8509,6 +9300,16 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Does the China-Solomon Islands security pact portend a more interventionist Beijing?]]></title>
+        <id>https://www.brookings.edu/?p=1604497</id>
+        <link href="https://www.brookings.edu/blog/order-from-chaos/2022/05/06/does-the-china-solomon-islands-security-pact-portend-a-more-interventionist-beijing/"/>
+        <updated>2022-05-06T13:53:24.000Z</updated>
+        <summary type="html"><![CDATA[The recent announcement of a new security agreement between China and the Solomon Islands has rattled leaders in Washington, Canberra, and other Indo-Pacific capitals who fear it opens the door to a Chinese military presence in the southern Pacific. Much of the attention has been on the deal’s potential to lead to a Chinese military…]]></summary>
+        <author>
+            <name>Patricia M. Kim</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Two dead and two injured including child in shooting rampage at Dutch day care for disabled kids]]></title>
         <id>Post 18483840 at The Sun</id>
         <link href="https://www.thesun.co.uk/news/18483840/two-dead-two-injured-shooting-rampage-dutch-day-care/"/>
@@ -8655,6 +9456,26 @@ Read Full Article at RT.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[South Korea’s role in the Indo-Pacific: Opportunities and challenges under the Yoon administration]]></title>
+        <id>https://www.brookings.edu/?post_type=event&amp;p=1604220</id>
+        <link href="https://www.brookings.edu/events/south-koreas-role-in-the-indo-pacific-opportunities-and-challenges-under-the-yoon-administration/"/>
+        <updated>2022-05-05T20:15:45.000Z</updated>
+        <summary type="html"><![CDATA[South Korean President-elect Yoon Suk-yeol and U.S. President Joseph Biden will hold their first summit meeting in Seoul on May 21. The incoming Yoon administration is expected to take a more active role in the Indo-Pacific region, working together with Washington and other like-minded U.S. allies and partners in the region. What are the prospects…]]></summary>
+        <author>
+            <name>International Affairs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taiwan’s economy during a time of global uncertainty]]></title>
+        <id>https://www.brookings.edu/?post_type=event&amp;p=1604237</id>
+        <link href="https://www.brookings.edu/events/taiwans-economy-during-a-time-of-global-uncertainty/"/>
+        <updated>2022-05-05T19:29:17.000Z</updated>
+        <summary type="html"><![CDATA[A compounding set of global challenges has raised concerns for some observers about Taiwan’s security and its economic situation. These challenges include the continuing spread of COVID-19 and its associated disruptions to global supply chains, rising energy and food prices, inflationary pressures around the world, and the ripple effects of war in Ukraine and elsewhere.…]]></summary>
+        <author>
+            <name>International Affairs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How many people have died from the Covid-19 crisis?]]></title>
         <id>https://www.vox.com/23058380/covid-19-who-excess-death-total-toll-vaccine-variant</id>
         <link href="https://www.vox.com/23058380/covid-19-who-excess-death-total-toll-vaccine-variant"/>
@@ -8690,6 +9511,16 @@ The post Kim Jong-un Doubles Down on Nuclear Threat appeared first on The Cipher
         <summary type="html"><![CDATA[Massive Native American drawings -- which remained unseen in an Alabama cave for more than 1,000 years -- have been unveiled by a team of scientists. It's the largest known cave art ever discovered in North America.]]></summary>
         <author>
             <name>CNN.com - RSS Channel - World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perspectives on the future of the global order]]></title>
+        <id>https://www.brookings.edu/?p=1603656</id>
+        <link href="https://www.brookings.edu/blog/up-front/2022/05/04/perspectives-on-the-future-of-the-global-order/"/>
+        <updated>2022-05-04T19:03:40.000Z</updated>
+        <summary type="html"><![CDATA[At this tense moment, it seems that the confrontational narratives driving the U.S.-China bilateral relationship now contain specifically conflicting perspectives on the future of the global order. China seems to highlight the degree to which the West is seen to have imposed its presumptively universal values on the global system in the post-war period, which…]]></summary>
+        <author>
+            <name>Colin I. Bradford</name>
         </author>
     </entry>
     <entry>
@@ -8771,6 +9602,16 @@ A mountain of foreign debt has led the country to default on loans for the first
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[20220430 New York Times Madiha Afzal]]></title>
+        <id>https://www.brookings.edu/?post_type=media-mention&amp;p=1604044</id>
+        <link href="https://www.brookings.edu/media-mentions/20220430-new-york-times-madiha-afzal/"/>
+        <updated>2022-04-30T13:01:59.000Z</updated>
+        <summary type="html"><![CDATA[Visit the post for more.]]></summary>
+        <author>
+            <name>Nicki Sullivan</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A Former Marine Was Freed From “Wrongful Detention” In Russia, But Concerns Remain For Brittney Griner And Others]]></title>
         <id>https://www.buzzfeednews.com/article/davidmack/brittney-griner-trevor-reed-paul-whelan-russia</id>
         <link href="https://www.buzzfeednews.com/article/davidmack/brittney-griner-trevor-reed-paul-whelan-russia"/>
@@ -8794,6 +9635,26 @@ View Entire Post ›]]></summary>
 View Entire Post ›]]></summary>
         <author>
             <name>Richard Nieva</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Germany has a special responsibility to stop Putin’s evil]]></title>
+        <id>https://www.brookings.edu/?p=1602470</id>
+        <link href="https://www.brookings.edu/blog/order-from-chaos/2022/04/26/germany-has-a-special-responsibility-to-stop-putins-evil/"/>
+        <updated>2022-04-26T15:20:36.000Z</updated>
+        <summary type="html"><![CDATA[A merciless war is being waged in the middle of Europe — on Germany’s ruling Social Democratic Party (SPD). That, at least, is what a casual observer of German politics might conclude. Rolf Mützenich, the head of the SPD’s parliamentary faction, has denounced demands by his Green and Free Democratic coalition partners for heavy weapons…]]></summary>
+        <author>
+            <name>Constanze Stelzenmüller</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How much popular support does Tunisia’s president really have?]]></title>
+        <id>https://www.brookings.edu/?post_type=opinion&amp;p=1603621</id>
+        <link href="https://www.brookings.edu/opinions/how-much-popular-support-does-tunisias-president-really-have/"/>
+        <updated>2022-04-26T13:21:04.000Z</updated>
+        <summary type="html"><![CDATA[Surveys suggest Tunisians approved of Kais Saied’s power grab. But they’re not actually answering his calls to action.]]></summary>
+        <author>
+            <name>Sharan Grewal, Mohamed Dhia Hammami</name>
         </author>
     </entry>
     <entry>
