@@ -17661,6 +17661,26 @@
       "siteUrl": "https://internewscast.com",
       "articles": [
         {
+          "id": "https://internewscast.com/news/au/nostalgic-look-back-at-australias-beaches-and-beachgoers/",
+          "author": "Internewscast",
+          "description": "Nostalgic look back at Australia's beaches and beachgoers\nOld photos of beaches offer a nostalgic look back at the nation's…\nNostalgic look back at Australia's beaches and beachgoers",
+          "link": "https://internewscast.com/news/au/nostalgic-look-back-at-australias-beaches-and-beachgoers/",
+          "publishedOn": "2022-05-13T01:12:08.000Z",
+          "wordCount": 517,
+          "title": "Nostalgic look back at Australia's beaches and beachgoers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://internewscast.com/news/us/northwestern-wildcats-softball-team-beats-wisconsin-advances-to-big-ten-semifinals/",
+          "author": "Internewscast",
+          "description": "Northwestern Wildcats softball team beats Wisconsin, advances to Big Ten semifinals\nEAST LANSING, Mich. (CBS) — The Northwestern women’s softball team will advance…\nNorthwestern Wildcats softball team beats Wisconsin, advances to Big Ten semifinals",
+          "link": "https://internewscast.com/news/us/northwestern-wildcats-softball-team-beats-wisconsin-advances-to-big-ten-semifinals/",
+          "publishedOn": "2022-05-13T01:11:05.000Z",
+          "wordCount": 756,
+          "title": "Northwestern Wildcats softball team beats Wisconsin, advances to Big Ten semifinals",
+          "imageUrl": null
+        },
+        {
           "id": "https://internewscast.com/business/crypto-associated-stocks-hammered-as-coin-and-hood-drop-to-record-lows/",
           "author": "Internewscast",
           "description": "Crypto-associated stocks hammered as COIN and HOOD drop to record lows\nBad news continues to dominate crypto media headlines and May 12’s juiciest…\nCrypto-associated stocks hammered as COIN and HOOD drop to record lows",
@@ -18775,6 +18795,16 @@
       "siteUrl": "https://insidexpress.com",
       "articles": [
         {
+          "id": "https://insidexpress.com/news/florida-nursing-home-man-chokes-woman-to-death-for-lying-on-his-bed/",
+          "author": "The Insidexpress",
+          "description": "Cliff Mody has been charged with second-degree murder over the death of a 77-year-old woman at the same nursing home he resided in (Pictures: Flagler County Sheriffs Office/FOX 35) A…\nFrom The Insidexpress, Florida: Nursing home man chokes woman to death for lying on his bed by The Insidexpress.",
+          "link": "https://insidexpress.com/news/florida-nursing-home-man-chokes-woman-to-death-for-lying-on-his-bed/",
+          "publishedOn": "2022-05-13T00:50:22.000Z",
+          "wordCount": 1135,
+          "title": "Florida: Nursing home man chokes woman to death for lying on his bed",
+          "imageUrl": "https://insidexpress.com/media/The-Insidexpress-Cover.png"
+        },
+        {
           "id": "https://insidexpress.com/lifestyle/nothing-special-premiere-on-netflix/",
           "author": "The Insidexpress",
           "description": "NORM MacDonald was a comedian and actor from Quebec City, Canada. Prior to his death in September 2021, Norm MacDonald filmed a standup special for Netflix. Norm Macdonald attends the…\nFrom The Insidexpress, Nothing Special premiere on Netflix? by The Insidexpress.",
@@ -19358,6 +19388,741 @@
           "wordCount": 895,
           "title": "Netflix Cancels Meghan Markle Series Pearl",
           "imageUrl": "https://articleify.com/media/2022/05/Netflix-Cancels-Meghan-Markle-Series-Pearl.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Radarr Africa",
+      "feedUrl": "https://radarr.africa/feed/",
+      "siteUrl": "https://radarr.africa",
+      "articles": [
+        {
+          "id": "https://radarr.africa/?p=20437",
+          "author": "Radarr Africa",
+          "description": "The Federal Inland Revenue Service (FIRS) has called for improved collaboration among countries with the…\nFIRS seeks collaboration within African countries to effectively tax digital businesses appeared first on Radarr Africa.",
+          "link": "https://radarr.africa/firs-seeks-collaboration-within-african-countries-to-effectively-tax-digital-businesses/?utm_source=rss&utm_medium=rss&utm_campaign=firs-seeks-collaboration-within-african-countries-to-effectively-tax-digital-businesses",
+          "publishedOn": "2022-05-12T12:38:37.000Z",
+          "wordCount": 1335,
+          "title": "FIRS seeks collaboration within African countries to effectively tax digital businesses",
+          "imageUrl": "https://radarr.africa/wp-content/uploads/2021/04/radarr-africa-logo-300x112-1.png"
+        },
+        {
+          "id": "https://radarr.africa/?p=20436",
+          "author": "Radarr Africa",
+          "description": "An Akwa Ibom State High Court has ordered Polaris Bank to pay a customer N500,000…\nPolaris Bank to pay customer N500,000 over failed N61,000 POS transaction, Court orders appeared first on Radarr Africa.",
+          "link": "https://radarr.africa/polaris-bank-to-pay-customer-n500000-over-failed-n61000-pos-transaction-court-orders/?utm_source=rss&utm_medium=rss&utm_campaign=polaris-bank-to-pay-customer-n500000-over-failed-n61000-pos-transaction-court-orders",
+          "publishedOn": "2022-05-12T12:01:46.000Z",
+          "wordCount": 1315,
+          "title": "Polaris Bank to pay customer N500,000 over failed N61,000 POS transaction, Court orders",
+          "imageUrl": "https://radarr.africa/wp-content/uploads/2021/04/radarr-africa-logo-300x112-1.png"
+        },
+        {
+          "id": "https://radarr.africa/?p=20433",
+          "author": "Radarr Africa",
+          "description": "On Thursday, Arc Minerals said that Anglo American will take majority control of its…\nAnglo American returns to Zambia with Arc Minerals copper deal appeared first on Radarr Africa.",
+          "link": "https://radarr.africa/anglo-american-returns-to-zambia-with-arc-minerals-copper-deal/?utm_source=rss&utm_medium=rss&utm_campaign=anglo-american-returns-to-zambia-with-arc-minerals-copper-deal",
+          "publishedOn": "2022-05-12T11:13:30.000Z",
+          "wordCount": 1008,
+          "title": "Anglo American returns to Zambia with Arc Minerals copper deal",
+          "imageUrl": "https://radarr.africa/wp-content/uploads/2021/04/radarr-africa-logo-300x112-1.png"
+        },
+        {
+          "id": "https://radarr.africa/?p=20434",
+          "author": "Radarr Africa",
+          "description": "On Wednesday, The Rock; The biggest white diamond ever auctioned was sold for a…\nThe Rock; Biggest white diamond ever extracted from South Africa auctioned and sold for $18.8 million appeared first on Radarr Africa.",
+          "link": "https://radarr.africa/the-rock-biggest-white-diamond-ever-extracted-from-south-africa-auctioned-and-sold-for-18-8-million/?utm_source=rss&utm_medium=rss&utm_campaign=the-rock-biggest-white-diamond-ever-extracted-from-south-africa-auctioned-and-sold-for-18-8-million",
+          "publishedOn": "2022-05-12T10:35:45.000Z",
+          "wordCount": 1219,
+          "title": "The Rock; Biggest white diamond ever extracted from South Africa auctioned and sold for $18.8 million",
+          "imageUrl": "https://radarr.africa/wp-content/uploads/2021/04/radarr-africa-logo-300x112-1.png"
+        },
+        {
+          "id": "https://radarr.africa/?p=20428",
+          "author": "Radarr Africa",
+          "description": "President Muhammadu Buhari has directed that any cabinet minister seeking to run for 2023…\nNigeria’s President Buhari tells cabinet ministers with plans to run for election to resign appeared first on Radarr Africa.",
+          "link": "https://radarr.africa/nigerias-president-buhari-tells-cabinet-ministers-planning-election-runs-to-resign/?utm_source=rss&utm_medium=rss&utm_campaign=nigerias-president-buhari-tells-cabinet-ministers-planning-election-runs-to-resign",
+          "publishedOn": "2022-05-11T13:52:08.000Z",
+          "wordCount": 887,
+          "title": "Nigeria’s President Buhari tells cabinet ministers with plans to run for election to resign",
+          "imageUrl": "https://radarr.africa/wp-content/uploads/2021/04/radarr-africa-logo-300x112-1.png"
+        },
+        {
+          "id": "https://radarr.africa/?p=20401",
+          "author": "Radarr Africa",
+          "description": "CEO Fenty beauty, Robyn Rihanna Fenty has announced that her Fenty Beauty and Fenty…\nFenty beauty products set to launch in Africa appeared first on Radarr Africa.",
+          "link": "https://radarr.africa/fenty-beauty-products-sets-to-launch-in-africa/?utm_source=rss&utm_medium=rss&utm_campaign=fenty-beauty-products-sets-to-launch-in-africa",
+          "publishedOn": "2022-05-11T12:58:25.000Z",
+          "wordCount": 873,
+          "title": "Fenty beauty products set to launch in Africa",
+          "imageUrl": "https://radarr.africa/wp-content/uploads/2021/04/radarr-africa-logo-300x112-1.png"
+        },
+        {
+          "id": "https://radarr.africa/?p=20421",
+          "author": "Radarr Africa",
+          "description": "FIFA, the world football body has rejected Algeria’s appeal against the World Cup qualifying…\nAlgeria’s appeal against Cameroon rejected: FIFA appeared first on Radarr Africa.",
+          "link": "https://radarr.africa/algerias-appeal-against-cameroon-rejected-fifa/?utm_source=rss&utm_medium=rss&utm_campaign=algerias-appeal-against-cameroon-rejected-fifa",
+          "publishedOn": "2022-05-11T12:38:51.000Z",
+          "wordCount": 854,
+          "title": "Algeria’s appeal against Cameroon rejected: FIFA",
+          "imageUrl": "https://radarr.africa/wp-content/uploads/2021/04/radarr-africa-logo-300x112-1.png"
+        },
+        {
+          "id": "https://radarr.africa/?p=20416",
+          "author": "Radarr Africa",
+          "description": "The head of Russian diplomacy, Sergei Lavrov, visits Algeria on Tuesday, a key ally…\nRussian diplomatic chief to visit Algeria appeared first on Radarr Africa.",
+          "link": "https://radarr.africa/russian-diplomatic-chief-to-visit-algeria/?utm_source=rss&utm_medium=rss&utm_campaign=russian-diplomatic-chief-to-visit-algeria",
+          "publishedOn": "2022-05-11T11:58:21.000Z",
+          "wordCount": 885,
+          "title": "Russian diplomatic chief to visit Algeria",
+          "imageUrl": "https://radarr.africa/wp-content/uploads/2021/04/radarr-africa-logo-300x112-1.png"
+        },
+        {
+          "id": "https://radarr.africa/?p=20408",
+          "author": "Radarr Africa",
+          "description": "A facial recognition app designed by software engineer Charlette N’Guessan, a woman with unique…\nCharlette N’Guessan invents a facial recognition software. appeared first on Radarr Africa.",
+          "link": "https://radarr.africa/charlette-nguessan-invents-a-facial-recognition-software/?utm_source=rss&utm_medium=rss&utm_campaign=charlette-nguessan-invents-a-facial-recognition-software",
+          "publishedOn": "2022-05-11T11:38:55.000Z",
+          "wordCount": 870,
+          "title": "Charlette N’Guessan invents a facial recognition software.",
+          "imageUrl": "https://radarr.africa/wp-content/uploads/2021/04/radarr-africa-logo-300x112-1.png"
+        },
+        {
+          "id": "https://radarr.africa/?p=20403",
+          "author": "Radarr Africa",
+          "description": "Gunmen have killed 34 people in northwest Nigeria’s Kaduna State, including two soldiers, in the latest attack blamed on heavily-armed criminal…\nSeven Nigerian soldiers killed by Gunmen in an ambush on army patrol appeared first on Radarr Africa.",
+          "link": "https://radarr.africa/seven-nigerian-soldiers-killed-by-gunmen-in-an-ambush-on-army-patrol/?utm_source=rss&utm_medium=rss&utm_campaign=seven-nigerian-soldiers-killed-by-gunmen-in-an-ambush-on-army-patrol",
+          "publishedOn": "2022-05-11T10:44:47.000Z",
+          "wordCount": 1148,
+          "title": "Seven Nigerian soldiers killed by Gunmen in an ambush on army patrol",
+          "imageUrl": "https://radarr.africa/wp-content/uploads/2021/04/radarr-africa-logo-300x112-1.png"
+        }
+      ]
+    },
+    {
+      "title": "Blog Posts",
+      "feedUrl": "https://smallwarsjournal.com/rss/blogs",
+      "siteUrl": "https://smallwarsjournal.com/",
+      "articles": [
+        {
+          "id": "140767 at https://smallwarsjournal.com",
+          "author": "Dave Maxwell",
+          "description": "5/12/22 National Security and Korean News and Commentary\n\n            \nAccess National Security News HERE.\nAccess Korean News HERE.\nNational Security News Content:\n1. Russian Offensive Campaign Assessment, May 11 (PUTIN'S WAR)\nKorean News Content:\n1. N. Korea fires unspecified ballistic missile toward East Sea: S. Korean military\nDave Maxwell\nThu, 05/12/2022 - 9:40am\n\nRead more about 5/12/22 National Security and Korean News and Commentary\nLog in or register to post comments",
+          "link": "https://smallwarsjournal.com/blog/51222-national-security-and-korean-news-and-commentary",
+          "publishedOn": "2022-05-12T13:40:48.000Z",
+          "wordCount": 1410,
+          "title": "5/12/22 National Security and Korean News and Commentary",
+          "imageUrl": null
+        },
+        {
+          "id": "140762 at https://smallwarsjournal.com",
+          "author": "Dave Maxwell",
+          "description": "5/11/22 National Security and Korean News and Commentary\n\n            \nAccess National Security News HERE.\nAccess Korean News HERE.\nNational Security News Content:\n1. RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT, MAY 10 (PUTIN'S WAR)\nKorean News Content:\n1. New defense minister orders 'stern, immediate' response if N. Korea provokes\nDave Maxwell\nWed, 05/11/2022 - 9:41am\n\nRead more about 5/11/22 National Security and Korean News and Commentary\nLog in or register to post comments",
+          "link": "https://smallwarsjournal.com/blog/51122-national-security-and-korean-news-and-commentary",
+          "publishedOn": "2022-05-11T13:41:20.000Z",
+          "wordCount": 1341,
+          "title": "5/11/22 National Security and Korean News and Commentary",
+          "imageUrl": null
+        },
+        {
+          "id": "140761 at https://smallwarsjournal.com",
+          "author": "Dave Maxwell",
+          "description": "Ukraine: WAR BULLETIN  May 10, 6.00 pm EST\n\n            \n Permanent Mission of Ukraine to the United Nations\n \nWAR BULLETIN\nMay 10, 6.00 pm EST\n \nWAR ROOM\n \nGeneral Staff of the Armed Forces of Ukraine\nThe total combat losses of the enemy from 24.02 to 10.05 were approximate:\npersonnel - about 26000 (+350),\ntanks ‒ 1170 (+25),\nAPV ‒ 2808 (+44),\nartillery systems – 519 (+6),\nMLRS - 185 (+0),\nAnti-aircraft warfare systems - 87 (+0),\naircraft – 199 (+0),\nhelicopters – 158 (+0),\nUAV operational-tactical level - 380 (+3),\ncruise missiles - 94 (+0),\nwarships / boats - 12 (+0) од,\nvehicles and fuel tanks - 1980 (+10),\nspecial equipment - 41 (+0).\nThe seventy-sixth day of the heroic resistance of the Ukrainian people to a Russian military invasion continues. The enemy continues to conduct full-sca…",
+          "link": "https://smallwarsjournal.com/blog/ukraine-war-bulletin-may-10-600-pm-est",
+          "publishedOn": "2022-05-11T10:32:46.000Z",
+          "wordCount": 5578,
+          "title": "Ukraine: WAR BULLETIN  May 10, 6.00 pm EST",
+          "imageUrl": null
+        },
+        {
+          "id": "140760 at https://smallwarsjournal.com",
+          "author": "Dave Maxwell",
+          "description": "It's time for a new U.S.-Korea alliance for a free, unified peninsula\n\n            \nIt's time for a new U.S.-Korea alliance for a free, unified peninsula\nBy David Maxwell & Chung Kyung-young\nhttps://www.upi.com/Voices/2022/05/10/Korean-US-alliance-north-korea-peace/2101652190076/\nupi.com\n1/4\n\nA photo released April 17 by the official North Korean Central News Agency (KCNA) shows the test-fire of a new type of tactical guided weapon from an undisclosed location. Photo by KCNA/ EPA-EFE\n \n\n\nMay 10 (UPI) -- A small group of civil society stakeholders from the Republic of Korea (South Korea), North Korea, the United States, Japan and China recently convened in the mountains of Virginia to address the security situation on the Korean Peninsula and examine what it will take to bring peace, prospe…",
+          "link": "https://smallwarsjournal.com/blog/its-time-new-us-korea-alliance-free-unified-peninsula",
+          "publishedOn": "2022-05-10T15:17:04.000Z",
+          "wordCount": 1278,
+          "title": "It's time for a new U.S.-Korea alliance for a free, unified peninsula",
+          "imageUrl": null
+        },
+        {
+          "id": "140759 at https://smallwarsjournal.com",
+          "author": "Dave Maxwell",
+          "description": "5/10/22 National Security and Korean News and Commentary\n\n            \nAccess National Security News HERE.\nAccess Korean News HERE.\nNational Security News Content:\n1. Russian Offensive Campaign Assessment, May 9 (PUTIN's WAR)\nKorean News Content:\n1. Full text of President Yoon's inaugural address\nDave Maxwell\nTue, 05/10/2022 - 9:25am\n\nRead more about 5/10/22 National Security and Korean News and Commentary\n2 comments\n\nLog in or register to post comments",
+          "link": "https://smallwarsjournal.com/blog/51022-national-security-and-korean-news-and-commentary",
+          "publishedOn": "2022-05-10T13:25:02.000Z",
+          "wordCount": 1405,
+          "title": "5/10/22 National Security and Korean News and Commentary",
+          "imageUrl": null
+        },
+        {
+          "id": "140758 at https://smallwarsjournal.com",
+          "author": "Dave Maxwell",
+          "description": "Ukraine: WAR BULLETIN  May 9, 6.00 pm EST - The seventy-fifth day of the heroic resistance of the Ukrainian people to Russian military invasion continues.\n\n            \nEmbassy of Ukraine in the USA\n \nWAR BULLETIN\nMay 9, 6.00 pm EST\n \nWAR ROOM\n \nGeneral Staff of the Armed Forces of Ukraine\nThe total combat losses of the enemy from 24.02 to 09.05 were approximately:\npersonnel - близько/ about 25650 (+150), \ntanks ‒ 1145 (+15), \nAPV ‒ 2764 (+23), \nartillery systems – 513 (+4), \nMLRS - 185 (+6), \nAnti-aircraft warfare systems - 87 (+1),\naircraft – 199 (+0), \nhelicopters – 158 (+2), UAV operational-tactical level - 377 (+17),\ncruise missiles - 94 (+2),\nboats / cutters - 12 (+0),\nvehicles and fuel tanks - 1970 (+9),\nspecial equipment - 41 (+2).\nThe seventy-fifth day of the heroic resistance of …",
+          "link": "https://smallwarsjournal.com/blog/ukraine-war-bulletin-may-9-600-pm-est-seventy-fifth-day-heroic-resistance-ukrainian-people",
+          "publishedOn": "2022-05-10T11:49:44.000Z",
+          "wordCount": 4926,
+          "title": "Ukraine: WAR BULLETIN  May 9, 6.00 pm EST - The seventy-fifth day of the heroic resistance of the Ukrainian people to Russian military invasion continues.",
+          "imageUrl": null
+        },
+        {
+          "id": "140752 at https://smallwarsjournal.com",
+          "author": "Dave Maxwell",
+          "description": "5/9/22 National Security and Korean News and Commentary\n\n            \nAccess National Security News HERE.\nAccess Korean News HERE.\nNational Security News Content:\n1. Address by the President of Ukraine on the Day of Remembrance and Reconciliation\nKorean News Content:\n1. N.Korea Fires Missile from Submarine\nDave Maxwell\nMon, 05/09/2022 - 9:13am\n\nRead more about 5/9/22 National Security and Korean News and Commentary\nLog in or register to post comments",
+          "link": "https://smallwarsjournal.com/blog/5922-national-security-and-korean-news-and-commentary",
+          "publishedOn": "2022-05-09T13:13:20.000Z",
+          "wordCount": 1344,
+          "title": "5/9/22 National Security and Korean News and Commentary",
+          "imageUrl": null
+        },
+        {
+          "id": "140751 at https://smallwarsjournal.com",
+          "author": "Dave Maxwell",
+          "description": "5/8/22 National Security and Korean News and Commentary\n\n            \nAccess National Security News HERE.\nAccess Korean News HERE.\nNational Security News Content:\n1. RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT, MAY 7 (PUTIN'S WAR)\nKorean News Content:\n1. ROK says DPRK fires short-range ballistic missile off east coast\nDave Maxwell\nSun, 05/08/2022 - 10:59am\n\nRead more about 5/8/22 National Security and Korean News and Commentary\nLog in or register to post comments",
+          "link": "https://smallwarsjournal.com/blog/5822-national-security-and-korean-news-and-commentary",
+          "publishedOn": "2022-05-08T14:59:35.000Z",
+          "wordCount": 1253,
+          "title": "5/8/22 National Security and Korean News and Commentary",
+          "imageUrl": null
+        },
+        {
+          "id": "140747 at https://smallwarsjournal.com",
+          "author": "Dave Maxwell",
+          "description": "5/7/22 National Security and Korean News and Commentary\n\n            \nAccess National Security News HERE.\nAccess Korean News HERE.\nNational Security News Content:\n1. RUSSIAN OFFENSIVE CAMPAIGN ASSESSMENT, MAY 6 (PUTIN'S WAR)\nKorean News Content:\n1.  North Korea fires suspected missile into sea\nDave Maxwell\nSat, 05/07/2022 - 10:42am\n\nRead more about 5/7/22 National Security and Korean News and Commentary\nLog in or register to post comments",
+          "link": "https://smallwarsjournal.com/blog/5722-national-security-and-korean-news-and-commentary",
+          "publishedOn": "2022-05-07T14:42:10.000Z",
+          "wordCount": 1277,
+          "title": "5/7/22 National Security and Korean News and Commentary",
+          "imageUrl": null
+        },
+        {
+          "id": "140744 at https://smallwarsjournal.com",
+          "author": "Dave Maxwell",
+          "description": "5/6/22 National Security and Korean News and Commentary\n\n            \nAccess National Security News HERE.\nAccess Korean News HERE.\nNational Security News Content:\n1.  RUSSIAN CAMPAIGN ASSESSMENT, MAY 5 (PUTIN'S WAR)\nKorean News Content:\n1. US assesses that North Korea may be ready to conduct underground nuclear test this month\nDave Maxwell\nFri, 05/06/2022 - 7:00am\n\nRead more about 5/6/22 National Security and Korean News and Commentary\nLog in or register to post comments",
+          "link": "https://smallwarsjournal.com/blog/5622-national-security-and-korean-news-and-commentary",
+          "publishedOn": "2022-05-06T11:00:33.000Z",
+          "wordCount": 1329,
+          "title": "5/6/22 National Security and Korean News and Commentary",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "The Local",
+      "feedUrl": "https://feeds.thelocal.com/rss/es",
+      "siteUrl": "https://feeds.thelocal.com/",
+      "articles": [
+        {
+          "id": "594734",
+          "author": null,
+          "description": "Spain currently has the most Blue Flag beaches in the world, but where are they and which region has the most? The Local has listed and categorised all 621 of them, so you can find the closest pristine 'playas' in your area.",
+          "link": "https://www.thelocal.es/20200617/map-where-are-spains-blue-flag-beaches",
+          "publishedOn": "2022-05-12T14:11:54.000Z",
+          "wordCount": null,
+          "title": "MAP: Where are Spain's Blue Flag beaches?",
+          "enclosure": {
+            "url": "https://apiwp.thelocal.com/wp-content/uploads/2020/06/eduardo-kenji-amorim-1H-w6pfEgbY-unsplash.jpg",
+            "length": "74459",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://apiwp.thelocal.com/wp-content/uploads/2020/06/eduardo-kenji-amorim-1H-w6pfEgbY-unsplash.jpg"
+        },
+        {
+          "id": "689168",
+          "author": null,
+          "description": "When you move into a new property in Spain you will need to change the account or contract holder over, so that any future water, electricity or gas bills will be in your name. It's not as easy as you may think; here's how you go about it.",
+          "link": "https://www.thelocal.es/20220512/how-to-change-the-title-holder-of-utility-bills-in-spain",
+          "publishedOn": "2022-05-12T12:37:28.000Z",
+          "wordCount": null,
+          "title": "How to change the title holder of utility bills in Spain",
+          "enclosure": {
+            "url": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/000_328Z8CL.jpg",
+            "length": "114906",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/000_328Z8CL.jpg"
+        },
+        {
+          "id": "689289",
+          "author": null,
+          "description": "Spain’s Health Minister has said passengers on flights to and from Spain will have to continue wearing face masks inside planes, despite the EU’s recommendation that the rule be lifted on May 16th.",
+          "link": "https://www.thelocal.es/20220512/spain-rules-out-eus-proposed-end-of-mask-rules-for-flights",
+          "publishedOn": "2022-05-12T09:19:56.000Z",
+          "wordCount": null,
+          "title": "Spain rules out EU's proposed end of mask rules for flights",
+          "enclosure": {
+            "url": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/000_9AH297-1.jpg",
+            "length": "128582",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/000_9AH297-1.jpg"
+        },
+        {
+          "id": "686383",
+          "author": null,
+          "description": "Do you still need to wear a mask on airplanes, trains and buses in Spain? And what about at airports, stations or on ferries? Here's what you need to know about when and where you need to wear a mask when it comes to travelling.",
+          "link": "https://www.thelocal.es/20220421/what-are-spains-new-mask-rules-for-travel",
+          "publishedOn": "2022-05-12T08:54:33.000Z",
+          "wordCount": null,
+          "title": "REMINDER: What are Spain's mask rules for travel?",
+          "enclosure": {
+            "url": "https://apiwp.thelocal.com/wp-content/uploads/2022/04/000_1QL0A8.jpg",
+            "length": "34876",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://apiwp.thelocal.com/wp-content/uploads/2022/04/000_1QL0A8.jpg"
+        },
+        {
+          "id": "689235",
+          "author": null,
+          "description": "Spanish police said Wednesday they had arrested one of Britain's most wanted fugitives, sought for his suspected role in the murder of a teenager.",
+          "link": "https://www.thelocal.es/20220512/spanish-police-arrest-one-of-britains-most-wanted-fugitives",
+          "publishedOn": "2022-05-12T07:07:13.000Z",
+          "wordCount": null,
+          "title": "Spanish police arrest one of Britain's most wanted fugitives",
+          "enclosure": {
+            "url": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/david-ungi.jpg",
+            "length": "40026",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/david-ungi.jpg"
+        },
+        {
+          "id": "689230",
+          "author": null,
+          "description": "Rabat and Madrid have agreed to reopen Morocco's land borders with two Spanish enclaves, Spain's foreign minister said Wednesday.",
+          "link": "https://www.thelocal.es/20220512/spain-and-morocco-agree-to-re-open-enclave-land-borders",
+          "publishedOn": "2022-05-12T07:02:57.000Z",
+          "wordCount": null,
+          "title": "Spain and Morocco agree to reopen enclave land borders",
+          "enclosure": {
+            "url": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/000_329V9EH.jpg",
+            "length": "85464",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/000_329V9EH.jpg"
+        },
+        {
+          "id": "689125",
+          "author": null,
+          "description": "If you’re from a non-EU country you will need a visa in order to stay in Spain for longer than 90 days, but knowing which type of permit is best for you can be tricky. Here's how to find the right one for you based on your circumstances.",
+          "link": "https://www.thelocal.es/20220512/worker-retiree-investor-what-type-of-spanish-visa-do-i-need",
+          "publishedOn": "2022-05-12T06:32:09.000Z",
+          "wordCount": null,
+          "title": "Worker, retiree or investor: What type of Spanish visa do I need?",
+          "enclosure": {
+            "url": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/pexels-mikhail-nilov-8430374.jpg",
+            "length": "70168",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/pexels-mikhail-nilov-8430374.jpg"
+        },
+        {
+          "id": "689165",
+          "author": null,
+          "description": "The mandatory EU-wide mask requirement for air travel is set to be dropped from Monday, May 16th, but airlines may still require passengers to wear masks on some or all flights",
+          "link": "https://www.thelocal.es/20220511/face-mask-rule-on-flights-in-europe-set-to-be-eased",
+          "publishedOn": "2022-05-11T14:17:33.000Z",
+          "wordCount": null,
+          "title": "Covid face mask rule on flights in Europe set to be eased",
+          "enclosure": {
+            "url": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/000_9FH7CB.jpg",
+            "length": "93219",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/000_9FH7CB.jpg"
+        },
+        {
+          "id": "688628",
+          "author": null,
+          "description": "Many foreigners in Spain complain that the streets are full of dog faeces, but is that actually true and what, if anything, is being done to address it?",
+          "link": "https://www.thelocal.es/20220511/does-spain-have-a-dog-poo-problem",
+          "publishedOn": "2022-05-11T13:21:56.000Z",
+          "wordCount": null,
+          "title": "Does Spain have a dog poo problem?",
+          "enclosure": {
+            "url": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/dog-poo-gf8254be9f_640.jpg",
+            "length": "61004",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/dog-poo-gf8254be9f_640.jpg"
+        },
+        {
+          "id": "689096",
+          "author": null,
+          "description": "Borders within Europe's Schengen area are meant to be open but several countries have checks in place but are they legal and will they be forced to scrap them? Claudia Delpero explains the history and what's at stake.",
+          "link": "https://www.thelocal.es/20220511/explained-which-schengen-area-countries-have-border-controls-in-place-and-why",
+          "publishedOn": "2022-05-11T09:30:07.000Z",
+          "wordCount": null,
+          "title": "EXPLAINED: Which Schengen area countries have border controls in place and why?",
+          "enclosure": {
+            "url": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/000_690HL.jpg",
+            "length": "123844",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/000_690HL.jpg"
+        },
+        {
+          "id": "689073",
+          "author": null,
+          "description": "The phenomenon sweeping across the US, where millions have quit their jobs during the pandemic, has now arrived in Spain, despite an unemployment rate of 13.5 percent and 109,000 job vacancies.",
+          "link": "https://www.thelocal.es/20220511/the-big-quit-has-hit-spain-despite-high-unemployment-and-huge-job-vacancies",
+          "publishedOn": "2022-05-11T08:05:17.000Z",
+          "wordCount": null,
+          "title": "The 'Big Quit' hits Spain despite high unemployment and huge job vacancies",
+          "enclosure": {
+            "url": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/000_8VQ2MP-1-scaled.jpg",
+            "length": "357103",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/000_8VQ2MP-1-scaled.jpg"
+        },
+        {
+          "id": "689062",
+          "author": null,
+          "description": "Since Russia invaded Ukraine, Madrid has revived calls to build a huge gas pipeline between Spain and France dubbed MidCat that would boost Europe's energy independence from Russia.",
+          "link": "https://www.thelocal.es/20220511/how-war-in-ukraine-is-reviving-france-spain-midcat-gas-pipeline-project",
+          "publishedOn": "2022-05-11T07:33:50.000Z",
+          "wordCount": null,
+          "title": "How war in Ukraine is reviving France-Spain MidCat gas pipeline project",
+          "enclosure": {
+            "url": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/000_329H9YM.jpg",
+            "length": "144616",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/000_329H9YM.jpg"
+        },
+        {
+          "id": "689048",
+          "author": null,
+          "description": "Well-known faces of Cuba's protest have in recent years gone into exile in Madrid, which is rivalling Miami as a haven\r\nfor Latin American political opponents.",
+          "link": "https://www.thelocal.es/20220511/why-madrid-has-become-a-haven-for-latin-american-dissidents",
+          "publishedOn": "2022-05-11T07:04:27.000Z",
+          "wordCount": null,
+          "title": "Why Madrid has become a haven for Latin American dissidents",
+          "enclosure": {
+            "url": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/000_327P8U3.jpg",
+            "length": "106007",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/000_327P8U3.jpg"
+        },
+        {
+          "id": "689004",
+          "author": null,
+          "description": "Soon those non-EU nationals requested to have a Schengen visa to travel to European countries will no longer need to go to a consulate to submit the application and get a passport sticker, but will be able to apply online.",
+          "link": "https://www.thelocal.es/20220510/revealed-eu-plans-digital-only-schengen-visa-application-process",
+          "publishedOn": "2022-05-10T13:30:36.000Z",
+          "wordCount": null,
+          "title": "REVEALED: EU plans digital-only Schengen visa application process",
+          "enclosure": {
+            "url": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/000_9NN6Z6.jpg",
+            "length": "160559",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/000_9NN6Z6.jpg"
+        },
+        {
+          "id": "688982",
+          "author": null,
+          "description": "Commercial properties in Spain can be a lot cheaper than residential ones, but it’s not as straightforward as buying a former restaurant, office or shop and moving in. Here are the steps to follow and what you need to be aware of.",
+          "link": "https://www.thelocal.es/20220510/how-to-turn-a-a-bar-office-or-shop-into-a-residential-property-in-spain",
+          "publishedOn": "2022-05-10T11:48:20.000Z",
+          "wordCount": null,
+          "title": "How to turn a bar, office or shop into a residential property in Spain",
+          "enclosure": {
+            "url": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/000_1WG4YH.jpg",
+            "length": "167128",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/000_1WG4YH.jpg"
+        },
+        {
+          "id": "688953",
+          "author": null,
+          "description": "Spain's government on Tuesday sacked the country's intelligence agency director in the wake of the hacking of the mobile phones of Prime Minister Pedro Sánchez and Catalan separatist leaders.",
+          "link": "https://www.thelocal.es/20220510/spain-sacks-spy-chief-over-phone-hacking-scandal",
+          "publishedOn": "2022-05-10T10:08:11.000Z",
+          "wordCount": null,
+          "title": "Spain sacks spy chief over phone hacking scandal",
+          "enclosure": {
+            "url": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/pazesteban-1.jpeg",
+            "length": "196896",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/pazesteban-1.jpeg"
+        },
+        {
+          "id": "688930",
+          "author": null,
+          "description": "Spain has launched a 24-hour phoneline for people with suicidal thoughts and their families as part of a €100-million plan to improve mental health provision in the country, where an average of 11 people take their own lives every day.",
+          "link": "https://www.thelocal.es/20220510/024-what-you-need-to-know-about-spains-new-suicide-prevention-hotline",
+          "publishedOn": "2022-05-10T08:58:46.000Z",
+          "wordCount": null,
+          "title": "024: What you need to know about Spain's new suicide prevention hotline",
+          "enclosure": {
+            "url": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/gadiel-lazcano-ulPAVuxITEw-unsplash.jpg",
+            "length": "18669",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/gadiel-lazcano-ulPAVuxITEw-unsplash.jpg"
+        },
+        {
+          "id": "630217",
+          "author": null,
+          "description": "Understanding what your driving instructor is saying to you in Spanish will be crucial if you want to pass your practical test.",
+          "link": "https://www.thelocal.es/20210308/spanish-driving-licence-the-essential-language-to-pass-your-practical-test",
+          "publishedOn": "2022-05-10T08:26:40.000Z",
+          "wordCount": null,
+          "title": "Spanish driving licence: the essential language to pass your practical test",
+          "enclosure": {
+            "url": "https://apiwp.thelocal.com/wp-content/uploads/2021/03/000_1WQ8HZ.jpg",
+            "length": "76968",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://apiwp.thelocal.com/wp-content/uploads/2021/03/000_1WQ8HZ.jpg"
+        },
+        {
+          "id": "543839",
+          "author": null,
+          "description": "Despite its reputation for being the land of sun, siesta and sangría, Spain is a multifaceted country with much more to it than that. These 20 maps help to shed some light on what \"España\" is really all about.",
+          "link": "https://www.thelocal.es/20191128/20-maps-that-help-to-better-understand-spain",
+          "publishedOn": "2022-05-10T08:14:57.000Z",
+          "wordCount": null,
+          "title": "The 20 maps that will help you understand Spain",
+          "enclosure": {
+            "url": "https://apiwp.thelocal.com/wp-content/uploads/2019/11/b0cf494eab4cc8c638d50101c8dbeb4c743e59ae92bfbd0c5c9a1caa31668fea.jpg",
+            "length": "203644",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://apiwp.thelocal.com/wp-content/uploads/2019/11/b0cf494eab4cc8c638d50101c8dbeb4c743e59ae92bfbd0c5c9a1caa31668fea.jpg"
+        },
+        {
+          "id": "688900",
+          "author": null,
+          "description": "Anne Hernández of Brexpats in Spain has been in conversation with UK authorities about the €100-a-day rule and other requirements that British visitors and tourists entering Spain can in theory be asked for by border officials.",
+          "link": "https://www.thelocal.es/20220510/what-britons-could-be-asked-to-prove-when-visiting-spain",
+          "publishedOn": "2022-05-10T07:12:35.000Z",
+          "wordCount": null,
+          "title": "What Britons could be asked to prove when visiting Spain",
+          "enclosure": {
+            "url": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/000_RH222.jpg",
+            "length": "138896",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/000_RH222.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Watchdog Uganda",
+      "feedUrl": "https://www.watchdoguganda.com/feed",
+      "siteUrl": "https://www.watchdoguganda.com",
+      "articles": [
+        {
+          "id": "https://www.watchdoguganda.com/?p=136053",
+          "author": "Catherine Apolot",
+          "description": "The Minister of Health, Dr Jane Ruth Aceng, has until Wednesday, 18 May 2022 to explain to the House why the contracts of health workers under the COVID-19 emergency services were terminated despite a presidential directive to absorb them into government health facilities. Chairing the Thursday, 12 May 2022 plenary, Deputy Speaker Thomas Tayebwa recalled […]\nThe post Come and explain! Health minister Aceng summoned over sacked COVID-19 health workers appeared first on Watchdog Uganda.",
+          "link": "https://www.watchdoguganda.com/news/20220512/136053/come-and-explain-health-minister-aceng-summoned-over-sacked-covid-19-health-workers.html",
+          "publishedOn": "2022-05-12T16:18:01.000Z",
+          "wordCount": 748,
+          "title": "Come and explain! Health minister Aceng summoned over sacked COVID-19 health workers",
+          "imageUrl": "https://www.watchdoguganda.com/wp-content/uploads/2021/11/Aceng.jpeg"
+        },
+        {
+          "id": "https://www.watchdoguganda.com/?p=136051",
+          "author": "Watchdog Uganda",
+          "description": "I think Ugandan women need to think about this. Long long ago, our great grand parents only needed to have a big piece of land and that was enough to get them any number of women or wives who would cultivate the land and provide food for the family. The women did the production while […]\nThe post HENRY MUTEBE: Why being a man in Uganda is becoming more difficult  appeared first on Watchdog Uganda.",
+          "link": "https://www.watchdoguganda.com/op-ed/20220512/136051/henry-mutebe-why-being-a-man-in-uganda-is-becoming-more-difficult.html",
+          "publishedOn": "2022-05-12T16:06:02.000Z",
+          "wordCount": 1748,
+          "title": "HENRY MUTEBE: Why being a man in Uganda is becoming more difficult",
+          "imageUrl": "https://www.watchdoguganda.com/wp-content/uploads/2021/11/mutebe.jpg"
+        },
+        {
+          "id": "https://www.watchdoguganda.com/?p=136021",
+          "author": "Watchdog Uganda",
+          "description": "In January and March 2022, Uganda Revenue Authority- URA enforcement teams reported more than 17 Metric Tons ( MT) of smuggled rice with brands such as; Sana long grain, Aisha, Baraf, Mahomood, Hilal, Salama, basmati, Pakistan and super varieties. These results were borne out of enforcement interceptions by teams in Arua, Mutukula, Busitema, Busia, Kampala, […]\nThe post ANNET NANTONGO: Why there’s continuous smuggling of rice into Uganda appeared first on Watchdog Uganda.",
+          "link": "https://www.watchdoguganda.com/op-ed/20220512/136021/annet-nantongo-why-theres-continuous-smuggling-of-rice-into-uganda.html",
+          "publishedOn": "2022-05-12T15:03:17.000Z",
+          "wordCount": 1075,
+          "title": "ANNET NANTONGO: Why there’s continuous smuggling of rice into Uganda",
+          "imageUrl": "https://www.watchdoguganda.com/wp-content/uploads/2022/05/rice.jpg"
+        },
+        {
+          "id": "https://www.watchdoguganda.com/?p=136040",
+          "author": "Mourice Muhoozi",
+          "description": "The Prime Minister of Uganda, Rt.Hon. Robinah Nabbanja has implored all stakeholders involved in labor externalization, to exercise ironclad commitment in order to revamp the sector. Hon. Nabbanja made the humble plea while addressing a one-day High level Diaspora and Labor Externalization symposium at the Office of the Prime Minister on Wednesday. The symposium, first […]\nThe post ‘We should strengthen the labor externalization sector’ – PM Nabbanja pleads to stakeholders  appeared first on Watchdog Uganda.",
+          "link": "https://www.watchdoguganda.com/news/20220512/136040/we-should-strengthen-the-labor-externalization-sector-pm-nabbanja-pleads-to-stakeholders.html",
+          "publishedOn": "2022-05-12T14:22:29.000Z",
+          "wordCount": 1942,
+          "title": "‘We should strengthen the labor externalization sector’ – PM Nabbanja pleads to stakeholders",
+          "imageUrl": "https://www.watchdoguganda.com/wp-content/uploads/2022/05/Nabbanja-1.jpg"
+        },
+        {
+          "id": "https://www.watchdoguganda.com/?p=136036",
+          "author": "Mubiru Ivan",
+          "description": "Construction firms are fast losing interest in contracts with the Uganda National Roads Authority (UNRA), the Executive Director, Allen Kagina, has revealed. In a meeting with MPs on the Committee on Physical Infrastructure, on Wednesday, 11 May 2022, Kagina said the local contractors had been hit hardest by budget cuts to the sector which has […]\nThe post Here is why construction firms nolonger want to work with UNRA  appeared first on Watchdog Uganda.",
+          "link": "https://www.watchdoguganda.com/news/national/20220512/136036/here-is-why-construction-firms-nolonger-want-to-work-with-unra.html",
+          "publishedOn": "2022-05-12T11:31:03.000Z",
+          "wordCount": 1366,
+          "title": "Here is why construction firms nolonger want to work with UNRA",
+          "imageUrl": "https://www.watchdoguganda.com/wp-content/uploads/2021/10/Kagina.jpeg"
+        },
+        {
+          "id": "https://www.watchdoguganda.com/?p=136031",
+          "author": "Stephen Kalema",
+          "description": "On May 12, 2013, Kabaka Ronald Muwenda Mutebi II appointed Mr Charles Peter Mayiga as Katikkiro of Buganda Kingdom and today is exactly nine years since his designation. While on May 29, the same year, Kabaka Mutebi handed over the mace (Ddamula) that symbolizes the office of a Katikkiro to Owek. Mayiga at a memorable […]\nThe post Nine years down the road: Achievements of Owek. Peter Mayiga as Buganda Kingdom Katikkiro appeared first on Watchdog Uganda.",
+          "link": "https://www.watchdoguganda.com/news/20220512/136031/nine-years-down-the-road-achievements-of-owek-peter-mayiga-as-buganda-kingdom-katikkiro.html",
+          "publishedOn": "2022-05-12T10:55:18.000Z",
+          "wordCount": 1323,
+          "title": "Nine years down the road: Achievements of Owek. Peter Mayiga as Buganda Kingdom Katikkiro",
+          "imageUrl": "https://www.watchdoguganda.com/wp-content/uploads/2021/04/Charles-Peter-Mayiga-in-office.jpg"
+        },
+        {
+          "id": "https://www.watchdoguganda.com/?p=136024",
+          "author": "Mubiru Ivan",
+          "description": "The Aswa Regional Police have said they are investigating the alleged Kidnap of Owani Dick Denis, the Forum for Democratic Change (FDC) candidate in the forthcoming Omoro County Parliamentary by-election. On Thursday morning, the leadership of FDC revealed that Mr Owani had been kidnapped by unknown gunmen ahead of his nomination today. “His whereabouts are […]\nThe post He is out of danger! Police speaks out on alleged kidnap of FDC candidate in Omoro Parliamentary by-election appeared first on Watchdog Uganda.",
+          "link": "https://www.watchdoguganda.com/news/20220512/136024/he-is-out-of-danger-police-speaks-out-on-alleged-kidnap-of-fdc-candidate-in-omoro-parliamentary-by-election.html",
+          "publishedOn": "2022-05-12T10:13:27.000Z",
+          "wordCount": 681,
+          "title": "He is out of danger! Police speaks out on alleged kidnap of FDC candidate in Omoro Parliamentary by-election",
+          "imageUrl": "https://www.watchdoguganda.com/wp-content/uploads/2022/05/owani.jpg"
+        },
+        {
+          "id": "https://www.watchdoguganda.com/?p=136016",
+          "author": "Mubiru Ivan",
+          "description": "Former Forum for Democratic Change (FDC) president Col Dr Kizza Besigye has been arrested as he tried to leave his home to protest against the current skyrocketing commodity prices in the country. The four time presidential candidate was on Thursday morning intercepted by security operatives and returned to his home in Kasangati, Wakiso District as […]\nThe post Besigye arrested on his way to protest against skyrocketing commodity prices  appeared first on Watchdog Uganda.",
+          "link": "https://www.watchdoguganda.com/news/20220512/136016/besigye-arrested-on-his-way-to-protest-against-skyrocketing-commodity-prices.html",
+          "publishedOn": "2022-05-12T09:31:56.000Z",
+          "wordCount": 832,
+          "title": "Besigye arrested on his way to protest against skyrocketing commodity prices",
+          "imageUrl": "https://www.watchdoguganda.com/wp-content/uploads/2022/05/besigye.jpg"
+        },
+        {
+          "id": "https://www.watchdoguganda.com/?p=136014",
+          "author": "Watchdog Uganda",
+          "description": "Over the weekend, I entered a furniture shop in Kampala and I was blown away! I had come in with my cousin to look for a gift for somebody. What we wanted was something small but they say curiosity killed a cat! After not getting what originally we wanted, we started moving around hoping something […]\nThe post DENIS JJUUKO: The pitfalls of a culture of pretending to work and pretending to pay appeared first on Watchdog Uganda.",
+          "link": "https://www.watchdoguganda.com/op-ed/20220512/136014/denis-jjuuko-the-pitfalls-of-a-culture-of-pretending-to-work-and-pretending-to-pay.html",
+          "publishedOn": "2022-05-12T09:13:39.000Z",
+          "wordCount": 1266,
+          "title": "DENIS JJUUKO: The pitfalls of a culture of pretending to work and pretending to pay",
+          "imageUrl": "https://www.watchdoguganda.com/wp-content/uploads/2020/05/Jjuuko.jpg"
+        },
+        {
+          "id": "https://www.watchdoguganda.com/?p=136009",
+          "author": "Watchdog Uganda",
+          "description": "There is growing frustration among millions of Ugandans due to massive delays in passport processing at the Directorate of Immigration Control, under Ministry of Internal Affairs. Both the applicants and those intending to apply remain hopeless as the Ministry maintains that the delay will soon be sorted, as of when, there is no answer. Simon […]\nThe post Why acquiring a passport in Uganda is now becoming a nightmare appeared first on Watchdog Uganda.",
+          "link": "https://www.watchdoguganda.com/news/20220512/136009/why-acquiring-a-passport-in-uganda-is-now-becoming-a-nightmare.html",
+          "publishedOn": "2022-05-12T09:01:03.000Z",
+          "wordCount": 1145,
+          "title": "Why acquiring a passport in Uganda is now becoming a nightmare",
+          "imageUrl": "https://www.watchdoguganda.com/wp-content/uploads/2021/05/passport.jpeg"
+        }
+      ]
+    },
+    {
+      "title": "QuintDaily",
+      "feedUrl": "https://quintdaily.com/feed/",
+      "siteUrl": "https://quintdaily.com",
+      "articles": [
+        {
+          "id": "https://quintdaily.com/?p=20347",
+          "author": "Selena Gomez",
+          "description": "In the United States, car accidents are one of the major causes of mortality. On the other hand, they’re ranked fourth on the list. Even with all of the efforts made to reduce the likelihood of car accidents, from the engineering and design of automobiles to the enforcement of traffic laws and regulations, the prospect […]\nThe post Which Factors Are The Most Often Involved In Automobile Mishaps? appeared first on QuintDaily.",
+          "link": "https://quintdaily.com/2022/05/which-factors-are-the-most-often-involved-in-automobile-mishaps/",
+          "publishedOn": "2022-05-09T04:00:13.000Z",
+          "wordCount": 876,
+          "title": "Which Factors Are The Most Often Involved In Automobile Mishaps?",
+          "imageUrl": "https://quintdaily.com/wp-content/uploads/2022/05/Automobile-Mishaps.jpg"
+        },
+        {
+          "id": "https://quintdaily.com/?p=20299",
+          "author": "Selena Gomez",
+          "description": "Risk mitigation is an art you need to learn as an investor, especially with cryptocurrencies like Bitcoin and ETH. There are certain tips and tricks involved for successful Bitcoin Trading. Successful Bitcoin trading refers to purchasing it at its lowest value while selling it with a relatively higher value. The volatility of Bitcoin makes it […]\nThe post Tips and Tricks for a Successful Bitcoin Trading appeared first on QuintDaily.",
+          "link": "https://quintdaily.com/2022/05/tips-and-tricks-for-a-successful-bitcoin-trading/",
+          "publishedOn": "2022-05-04T18:04:10.000Z",
+          "wordCount": 1049,
+          "title": "Tips and Tricks for a Successful Bitcoin Trading",
+          "imageUrl": "https://quintdaily.com/wp-content/uploads/2022/05/Bitcoin-Trading.jpeg"
+        },
+        {
+          "id": "https://quintdaily.com/?p=20296",
+          "author": "Selena Gomez",
+          "description": "The convenience of receiving and transmitting information is the main reason why wireless technologies have become widespread. However, they are also associated with some negative consequences. Thanks to the special WiFi signal jammer, it is easier to get full control over the connection. Purposes to Use a WiFi Jammer A network jammer is a device […]\nThe post Why Do You Need a WiFi Signal Jammer? appeared first on QuintDaily.",
+          "link": "https://quintdaily.com/2022/05/why-do-you-need-a-wifi-signal-jammer/",
+          "publishedOn": "2022-05-04T11:26:40.000Z",
+          "wordCount": 568,
+          "title": "Why Do You Need a WiFi Signal Jammer?",
+          "imageUrl": "https://quintdaily.com/wp-content/uploads/2022/05/Signal-Jammer.jpg"
+        },
+        {
+          "id": "https://quintdaily.com/?p=20292",
+          "author": "Selena Gomez",
+          "description": "Forex.com is an international brokerage company that’s been around since 2001. The broker is well-known for its diverse array of available instruments and quite attractive conditions for traders. However, many users of Forex.com have reported on various issues with the company recently, including terminal freezes and serious withdrawal delays. In this article, we’re going to […]\nThe post Is Forex.com Legit? Should You Trust It? appeared first on QuintDaily.",
+          "link": "https://quintdaily.com/2022/05/is-forex-com-legit-should-you-trust-it/",
+          "publishedOn": "2022-05-04T02:43:29.000Z",
+          "wordCount": 655,
+          "title": "Is Forex.com Legit? Should You Trust It?",
+          "imageUrl": "https://quintdaily.com/wp-content/uploads/2022/05/Is-Forex.com-Legit.jpeg"
+        },
+        {
+          "id": "https://quintdaily.com/?p=20283",
+          "author": "Selena Gomez",
+          "description": "It’s hard to believe that we’re already halfway through the decade, but here we are. UI/UX will have changed dramatically in just a few short years. So what will the world of UI/UX look like in the coming years? UI/UX: Redefined The lines between UI and UX have always been blurred, but they are becoming […]\nThe post UI/UX in 2022: A Fresh Perspective appeared first on QuintDaily.",
+          "link": "https://quintdaily.com/2022/04/ui-ux-in-2022-a-fresh-perspective/",
+          "publishedOn": "2022-04-30T01:22:31.000Z",
+          "wordCount": 1847,
+          "title": "UI/UX in 2022: A Fresh Perspective",
+          "imageUrl": "https://quintdaily.com/wp-content/uploads/2022/04/UI-UX-in-2022.jpeg"
+        },
+        {
+          "id": "https://quintdaily.com/?p=20280",
+          "author": "Selena Gomez",
+          "description": "An allowance is a monetary benefit provided by the employer to the employee in addition to his or her regular income. These benefits are offered to pay expenses that may be required to aid the completion of service, such as travel expenses, and epf form 10c Conveyance Allowance is given to cover the costs of […]\nThe post Everything you need to know about allowances appeared first on QuintDaily.",
+          "link": "https://quintdaily.com/2022/04/everything-you-need-to-know-about-allowances/",
+          "publishedOn": "2022-04-29T09:33:00.000Z",
+          "wordCount": 749,
+          "title": "Everything you need to know about allowances",
+          "imageUrl": "https://quintdaily.com/wp-content/uploads/2022/04/Allowances.jpg"
+        },
+        {
+          "id": "https://quintdaily.com/?p=20277",
+          "author": "Selena Gomez",
+          "description": "An electric car is a car that is powered by one or more electric motors or known as an electric vehicle or EV. These motors are powered by energy (electricity) stored inside onboard batteries. Compared to gas-powered or internal combustion engines, electric vehicles are much simpler. Electric vehicles make up for the shortcomings of the […]\nThe post Advantages and Disadvantages of Electric Cars appeared first on QuintDaily.",
+          "link": "https://quintdaily.com/2022/04/advantages-and-disadvantages-of-electric-cars/",
+          "publishedOn": "2022-04-29T02:40:23.000Z",
+          "wordCount": 930,
+          "title": "Advantages and Disadvantages of Electric Cars",
+          "imageUrl": "https://quintdaily.com/wp-content/uploads/2022/04/Electric-Cars.jpeg"
+        },
+        {
+          "id": "https://quintdaily.com/?p=20274",
+          "author": "Selena Gomez",
+          "description": "If you are looking for the perfect surprise for all your family, then buying a wooden jigsaw puzzle will be the right choice. These puzzles are loved both by children and adults for their stimulation and for challenging their minds. Some people decide to buy wooden puzzle toy to distract from the stress of everyday […]\nThe post Buy Wooden Jigsaw Puzzle Online appeared first on QuintDaily.",
+          "link": "https://quintdaily.com/2022/04/wooden-jigsaw-puzzle/",
+          "publishedOn": "2022-04-28T16:58:45.000Z",
+          "wordCount": 552,
+          "title": "Buy Wooden Jigsaw Puzzle Online",
+          "imageUrl": "https://quintdaily.com/wp-content/uploads/2022/04/Wooden-Jigsaw-Puzzle.jpg"
+        },
+        {
+          "id": "https://quintdaily.com/?p=20254",
+          "author": "Selena Gomez",
+          "description": "What Are the Causes of Breakup Between Partners? As everyone knows, relationships take a lot of work, but what happens when it seems like the work is no longer worth it? Breakups happen for various reasons. Some feel good about breaking up, while others regret it. If you’re from the latter, here is how to […]\nThe post What Are the Causes of Breakup and How To Get Him Back? appeared first on QuintDaily.",
+          "link": "https://quintdaily.com/2022/04/what-are-the-causes-of-breakup-and-how-to-get-him-back/",
+          "publishedOn": "2022-04-28T10:54:30.000Z",
+          "wordCount": 1335,
+          "title": "What Are the Causes of Breakup and How To Get Him Back?",
+          "imageUrl": "https://quintdaily.com/wp-content/uploads/2022/04/Causes-of-the-Breakup.jpg"
+        },
+        {
+          "id": "https://quintdaily.com/?p=20271",
+          "author": "Selena Gomez",
+          "description": "Have you seen passenger cars like sedans and hatchbacks, which were available in markets in the early days, but later began to emerge in different models and features? The sedan and hatchbacks have brought about a drastic change in customers compared to other vehicles. It was better in terms of higher ratings and models than […]\nThe post Difference Between Hatchback vs Sedan appeared first on QuintDaily.",
+          "link": "https://quintdaily.com/2022/04/hatchback-vs-sedan/",
+          "publishedOn": "2022-04-27T15:13:33.000Z",
+          "wordCount": 806,
+          "title": "Difference Between Hatchback vs Sedan",
+          "imageUrl": "https://quintdaily.com/wp-content/uploads/2022/04/Hatchback-vs-Sedan.jpg"
         }
       ]
     }
