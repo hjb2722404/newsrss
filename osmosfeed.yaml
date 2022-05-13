@@ -76,3 +76,5 @@ sources:
   - href: http://feeds.feedburner.com/WarNewsUpdates
   - href: https://newslanes.com/feed/
   - href: https://hgsmediaplus.com/feed/
+siteTitle: "world news en"
+cacheMaxDays: 3
