@@ -9670,6 +9670,36 @@
       "siteUrl": "https://www.scmp.com/rss/91/feed",
       "articles": [
         {
+          "id": "https://www.scmp.com/news/china/politics/article/3177547/beijing-covid-transport-curbs-are-making-it-hard-get-hospital?utm_source=rss_feed",
+          "author": "Phoebe Zhang",
+          "description": "Taxi and ride-hailing services have been suspended in some districts.",
+          "link": "https://www.scmp.com/news/china/politics/article/3177547/beijing-covid-transport-curbs-are-making-it-hard-get-hospital?utm_source=rss_feed",
+          "publishedOn": "2022-05-13T01:00:22.000Z",
+          "wordCount": 139,
+          "title": "In Beijing, Covid transport curbs are making it hard to get to hospital",
+          "enclosure": {
+            "url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2022/05/12/e0e4cdfe-a28d-45dc-806d-9d7201175f3c_8c7f4287.jpg?itok=vwdP8K6e",
+            "type": "image/jpeg",
+            "length": "1280"
+          },
+          "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2022/05/12/e0e4cdfe-a28d-45dc-806d-9d7201175f3c_8c7f4287.jpg?itok=vwdP8K6e"
+        },
+        {
+          "id": "https://www.scmp.com/news/people-culture/article/3177469/exam-uncle-55-year-old-man-plans-take-chinas-gaokao-university?utm_source=rss_feed",
+          "author": "Yingjie Wang",
+          "description": "A 55-year-old man in southwest China is preparing to take the gaokao exam for the 26th time to get into his dream school Sichuan University.",
+          "link": "https://www.scmp.com/news/people-culture/article/3177469/exam-uncle-55-year-old-man-plans-take-chinas-gaokao-university?utm_source=rss_feed",
+          "publishedOn": "2022-05-13T01:00:19.000Z",
+          "wordCount": 170,
+          "title": "Exam uncle: 55-year-old man plans to take China’s gaokao university entrance test for the 26th time in hopes of getting into his dream school",
+          "enclosure": {
+            "url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2022/05/12/f454ee89-5471-492f-9ff3-1fdff646b073_b3e5407a.jpg?itok=tLa-X-o3",
+            "type": "image/jpeg",
+            "length": "1280"
+          },
+          "imageUrl": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2022/05/12/f454ee89-5471-492f-9ff3-1fdff646b073_b3e5407a.jpg?itok=tLa-X-o3"
+        },
+        {
           "id": "https://www.scmp.com/news/hong-kong/health-environment/article/3177561/hong-kong-classes-cancelled-city-hit-heavy-rain?utm_source=rss_feed",
           "author": "Olga Wong",
           "description": "Classes in Hong Kong schools were suspended on Friday as the city was hit by downpours in the early morning.",
@@ -18554,6 +18584,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.easternherald.com/2022/05/12/teleradiology-solutions-wins-contract-to-provide-remote-radiology-services-for-stop-tb-partnership-through-unops/",
+          "author": "PR Newswire",
+          "description": "Through this partnership TRS will provide high quality and affordable radiology services to Americas and South East Asia where the patients are diagnosed with TB and scale up innovative approaches to TB BANGALORE, India, May 12, 2022 /PRNewswire/ — Teleradiology Solutions LLP. (TRS), a global provider of remote radiology services, announced that it has been awarded [...]\nVisit The Eastern Herald for more info.",
+          "link": "https://www.easternherald.com/2022/05/12/teleradiology-solutions-wins-contract-to-provide-remote-radiology-services-for-stop-tb-partnership-through-unops/",
+          "publishedOn": "2022-05-12T07:46:00.000Z",
+          "wordCount": 2067,
+          "title": "Teleradiology Solutions wins contract to provide remote radiology services for STOP TB Partnership through UNOPS",
+          "imageUrl": "https://rt.prnewswire.com/rt.gif?NewsItemId=EN55536&Transmission_Id=202205120346PR_NEWS_EURO_ND__EN55536&DateId=20220512"
+        },
+        {
           "id": "https://www.easternherald.com/2022/05/12/sial-paris-2022-join-us-at-paris-nord-villepinte-from-october-15-to-19-2022-for-an-edition-focusing-on-innovation/",
           "author": "Business Wire India",
           "description": "PARIS, France:\r   This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20220510005833/en/ \r  \r \r (Photo: Business Wire) \r \r A NOT-TO-BE-MISSED EVENT \r  \r \r SIAL Paris opens the debates of this edition with the theme Own the Change, an ongoing focus since 2020, to provide all the keys [...]\nVisit The Eastern Herald for more info.",
@@ -20123,6 +20163,741 @@
           "wordCount": 806,
           "title": "Difference Between Hatchback vs Sedan",
           "imageUrl": "https://quintdaily.com/wp-content/uploads/2022/04/Hatchback-vs-Sedan.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Headlines of Today",
+      "feedUrl": "https://www.headlinesoftoday.com/feed",
+      "siteUrl": "https://www.headlinesoftoday.com",
+      "articles": [
+        {
+          "id": "https://www.headlinesoftoday.com/topic/press-releases/bridgeline-announces-financial-results-for-the-second.html",
+          "author": "GlobeNewswire",
+          "description": "Second Quarter Total Revenue Increases 43% Versus Prior Year Total Subscription and Licenses Revenue Increases 66% Versus Prior Year WOBURN, Mass., May 12, 2022 (GLOBE NEWSWIRE) — Bridgeline Digital, Inc. (NASDAQ: BLIN), a provider of cloud-based Marketing Technology software, today announced financial results for its fiscal second quarter ended March 31, 2022. “Bridgeline had a strong […]",
+          "link": "https://www.headlinesoftoday.com/topic/press-releases/bridgeline-announces-financial-results-for-the-second.html",
+          "publishedOn": "2022-05-13T00:58:18.000Z",
+          "wordCount": 4058,
+          "title": "Bridgeline Announces Financial Results for the Second",
+          "imageUrl": "https://ml.globenewswire.com/media/Njg3ZjMwNzUtY2UzMi00ZWE2LWJmNDctMDgwZTA3OGI3NGRjLTEwMzg1MzY=/tiny/Bridgeline-Digital-Inc-.png"
+        },
+        {
+          "id": "https://www.headlinesoftoday.com/topic/press-releases/canbridge-to-present-can106-phase-1-data-at-the-european-hematology-association-2022-congress.html",
+          "author": "Business Wire",
+          "description": "BEIJING & CAMBRIDGE, Mass.–(BUSINESS WIRE)–CANbridge Pharmaceuticals, Inc. (HKEX:1228), a China-based global biopharmaceutical company committed to the research, development and commercialization of transformative rare disease and rare oncology therapies, announced that data from its CAN106 Phase 1 trial will be presented at the 2022 European Hematology Association Congress, in Vienna, Austria, on June 10th. Poster Details: […]",
+          "link": "https://www.headlinesoftoday.com/topic/press-releases/canbridge-to-present-can106-phase-1-data-at-the-european-hematology-association-2022-congress.html",
+          "publishedOn": "2022-05-13T00:30:45.000Z",
+          "wordCount": 931,
+          "title": "CANbridge to Present CAN106 Phase 1 Data at the European Hematology Association 2022 Congress",
+          "imageUrl": "https://i0.wp.com/www.headlinesoftoday.com/wp-content/uploads/2022/05/01_CANbridge_Logo_1.18.jpg"
+        },
+        {
+          "id": "https://www.headlinesoftoday.com/topic/press-releases/the-linux-foundation-and-open-source-software-security-foundation-openssf-gather-industry-and-government-leaders-for-open-source-software-security-summit-ii.html",
+          "author": "PR Newswire",
+          "description": "10-Point Open Source and Software Supply Chain Security Mobilization Plan Released with Initial Pledges Surpassing $30M WASHINGTON , May 12, 2022 /PRNewswire/ — The Linux Foundation and the Open Source Software Security Foundation (OpenSSF) brought together over 90 executives from 37 companies and government leaders from the NSC, ONCD, CISA, NIST, DOE, and OMB to to […]",
+          "link": "https://www.headlinesoftoday.com/topic/press-releases/the-linux-foundation-and-open-source-software-security-foundation-openssf-gather-industry-and-government-leaders-for-open-source-software-security-summit-ii.html",
+          "publishedOn": "2022-05-13T00:30:00.000Z",
+          "wordCount": 3160,
+          "title": "The Linux Foundation and Open Source Software Security Foundation (OpenSSF) Gather Industry and Government Leaders for Open Source Software Security Summit II",
+          "imageUrl": "https://mma.prnewswire.com/media/455385/The_Linux_Foundation_Logo.jpg"
+        },
+        {
+          "id": "https://www.headlinesoftoday.com/topic/press-releases/chromatography-resins-market-upcoming-opportunities-end-user-type-top-vendor-and-outlook-2027.html",
+          "author": "EIN Presswire",
+          "description": "Emergen Research Logo Surging demand for chromatography resins in the drug development process is one of the significant factors influencing market growth. Chromatography Resins Market Size – USD 1,854.1 Million in 2019, Market Growth – CAGR of 7.3%, Market Trends –Growing demand for green chromatography” — Emergen Research VANCOUVER, BC, CANADA, May 12, 2022 /EINPresswire.com/ […]",
+          "link": "https://www.headlinesoftoday.com/topic/press-releases/chromatography-resins-market-upcoming-opportunities-end-user-type-top-vendor-and-outlook-2027.html",
+          "publishedOn": "2022-05-13T00:27:20.000Z",
+          "wordCount": 1755,
+          "title": "Chromatography Resins Market Upcoming Opportunities, End-User Type, Top Vendor and Outlook 2027",
+          "imageUrl": "https://i0.wp.com/www.headlinesoftoday.com/wp-content/uploads/2022/04/1651058991_emergen-research-logo.png"
+        },
+        {
+          "id": "https://www.headlinesoftoday.com/topic/press-releases/zaha-hadid-architects-designed-infinitus-plaza-takes-home-two-award-categories-at-the-world-architecture-community-awards.html",
+          "author": "PR Newswire",
+          "description": "GUANGZHOU, China, May 13, 2022 /PRNewswire/ — After opening its doors in November 2021, Infinitus’ Guangzhou Infinitus Plaza has scooped up two awards at the prestigious 2022 World Architecture Community Network Awards (WA Awards). Designed by Zaha Hadid Architects, Infinitus Plaza was named the jury winner and the People’s Choice thanks to its innovative approach […]",
+          "link": "https://www.headlinesoftoday.com/topic/press-releases/zaha-hadid-architects-designed-infinitus-plaza-takes-home-two-award-categories-at-the-world-architecture-community-awards.html",
+          "publishedOn": "2022-05-13T00:00:00.000Z",
+          "wordCount": 1121,
+          "title": "Zaha Hadid Architects-designed Infinitus Plaza Takes Home Two Award Categories at the World Architecture Community Awards",
+          "imageUrl": "https://i0.wp.com/www.headlinesoftoday.com/wp-content/uploads/2022/05/Zaha_Hadid_Architects_designed_Infinitus_Plaza_wins_WA_Awards.jpg"
+        },
+        {
+          "id": "https://www.headlinesoftoday.com/topic/press-releases/teradyne-declares-quarterly-cash-dividend-3.html",
+          "author": "GlobeNewswire",
+          "description": "NORTH READING, Mass., May 12, 2022 (GLOBE NEWSWIRE) — Teradyne, Inc. (NASDAQ: TER) today announced a quarterly cash dividend of $0.11 per share, payable on June 17, 2022, to shareholders of record as of the close of business on May 25, 2022. About TeradyneTeradyne (NASDAQ:TER) brings high-quality innovations such as smart devices, life-saving medical equipment and data […]",
+          "link": "https://www.headlinesoftoday.com/topic/press-releases/teradyne-declares-quarterly-cash-dividend-3.html",
+          "publishedOn": "2022-05-12T23:56:44.000Z",
+          "wordCount": 714,
+          "title": "Teradyne Declares Quarterly Cash Dividend",
+          "imageUrl": "https://ml.globenewswire.com/media/NWZhMTNmYzYtZDkxNy00YWQ4LTg2ZDMtNmFhNDI4MGM4ZTYyLTEwMTcxNTU=/tiny/Teradyne-Inc-.png"
+        }
+      ]
+    },
+    {
+      "title": "The World – New Europe",
+      "feedUrl": "https://www.neweurope.eu/category/world/feed/",
+      "siteUrl": "https://www.neweurope.eu",
+      "articles": [
+        {
+          "id": "https://www.neweurope.eu/?post_type=post&p=574661",
+          "author": "Alec Mally",
+          "description": "US President Joe Biden’s nominee as next Ambassador to Greece George Tsunis arrived in Athens May 7, a day after his career diplomat predecessor Geoffrey… Read More »",
+          "link": "https://www.neweurope.eu/article/bidens-choice-takes-the-reins-at-the-american-embassy-in-athens/",
+          "publishedOn": "2022-05-10T13:17:08.000Z",
+          "wordCount": 2767,
+          "title": "Biden’s choice takes the reins at the American Embassy in Athens",
+          "enclosure": {
+            "url": "https://www.neweurope.eu/wp-content/uploads/2022/05/FSZMWoIXEAEK4ED.jpg",
+            "length": "225318",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.neweurope.eu/wp-content/uploads/2022/05/FSZMWoIXEAEK4ED.jpg"
+        },
+        {
+          "id": "https://www.neweurope.eu/?post_type=post&p=574641",
+          "author": "Alec Mally",
+          "description": "With most of its foreign currency reserves held abroad frozen by Western sanctions and inaccessible, Moscow was forced to tap its precious domestically held foreign… Read More »",
+          "link": "https://www.neweurope.eu/article/moscow-drains-dwindling-reserves-to-avert-default/",
+          "publishedOn": "2022-05-07T08:33:34.000Z",
+          "wordCount": 2224,
+          "title": "Moscow drains dwindling reserves to avert default",
+          "enclosure": {
+            "url": "https://www.neweurope.eu/wp-content/uploads/2022/05/Moscow_Kremlin_8281675670.jpg",
+            "length": "6088006",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.neweurope.eu/wp-content/uploads/2022/05/Moscow_Kremlin_8281675670.jpg"
+        },
+        {
+          "id": "https://www.neweurope.eu/?post_type=post&p=574669",
+          "author": "kostisg",
+          "description": "Kazakhstan’s President Kassym-Jomart Tokayev announced on May 5 a state-wide referendum on June 5 on the adoption of amendments to the Constitution. In his televised… Read More »",
+          "link": "https://www.neweurope.eu/article/national-referendum-on-amending-kazakhstans-constitution-to-take-place-on-june-5/",
+          "publishedOn": "2022-05-06T17:35:19.000Z",
+          "wordCount": 1799,
+          "title": "National referendum on amending Kazakhstan’s Constitution to take place on June 5",
+          "enclosure": {
+            "url": "https://www.neweurope.eu/wp-content/uploads/2022/05/Akorda.jpg",
+            "length": "638934",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.neweurope.eu/wp-content/uploads/2022/05/Akorda.jpg"
+        },
+        {
+          "id": "https://www.neweurope.eu/?post_type=post&p=574646",
+          "author": "Alec Mally",
+          "description": "“I can assure you that the President of the United States Joe Biden, the Secretary of the United States Tony Blinken and I all have… Read More »",
+          "link": "https://www.neweurope.eu/article/interventionist-us-ambassador-in-tirana-under-pressure/",
+          "publishedOn": "2022-05-06T15:33:52.000Z",
+          "wordCount": 1852,
+          "title": "Interventionist US Ambassador in Tirana under pressure",
+          "enclosure": {
+            "url": "https://www.neweurope.eu/wp-content/uploads/2022/05/FRcx_YJWUAAaoCM.jpg",
+            "length": "410265",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.neweurope.eu/wp-content/uploads/2022/05/FRcx_YJWUAAaoCM.jpg"
+        },
+        {
+          "id": "https://www.neweurope.eu/?post_type=post&p=574639",
+          "author": "Alec Mally",
+          "description": "With the war in Ukraine and the noise surrounding the French presidential elections, the subject of EU Enlargement into the Western Balkans had almost completely… Read More »",
+          "link": "https://www.neweurope.eu/article/after-macron-victory-enlargement-diplomacy-back-on-the-radar/",
+          "publishedOn": "2022-05-06T13:51:45.000Z",
+          "wordCount": 2341,
+          "title": "After Macron victory, Enlargement diplomacy back on the radar",
+          "enclosure": {
+            "url": "https://www.neweurope.eu/wp-content/uploads/2022/05/Varhelyi.jpg",
+            "length": "90865",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.neweurope.eu/wp-content/uploads/2022/05/Varhelyi.jpg"
+        },
+        {
+          "id": "https://www.neweurope.eu/?post_type=post&p=574651",
+          "author": "kostisg",
+          "description": "TASHKENT, Uzbekistan – Kazakhstan’s government has set an ambitious goal of reaching net-zero emission by 2060, planning to gradually reduce its reliance on coal, which… Read More »",
+          "link": "https://www.neweurope.eu/article/kazakhstans-green-energy-transition-needs-new-maneuvering-generation-capacity/",
+          "publishedOn": "2022-05-05T16:55:31.000Z",
+          "wordCount": 2820,
+          "title": "Kazakhstan’s green energy transition needs new maneuvering generation capacity",
+          "enclosure": {
+            "url": "https://www.neweurope.eu/wp-content/uploads/2022/05/IMG_3559-copy.jpg",
+            "length": "911704",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.neweurope.eu/wp-content/uploads/2022/05/IMG_3559-copy.jpg"
+        },
+        {
+          "id": "https://www.neweurope.eu/?post_type=post&p=574627",
+          "author": "kostisg",
+          "description": "Kazakhstan’s President Kassym-Jomart Tokayev proposed on April 29 holding a referendum in the Central Asian country on the draft amendments to the Constitution and discussed… Read More »",
+          "link": "https://www.neweurope.eu/article/kazakhstans-president-proposes-constitutional-reforms-referendum/",
+          "publishedOn": "2022-04-30T10:30:49.000Z",
+          "wordCount": 2221,
+          "title": "Kazakhstan’s president proposes Constitutional reforms referendum",
+          "enclosure": {
+            "url": "https://www.neweurope.eu/wp-content/uploads/2022/04/kz1-3886-2.jpeg",
+            "length": "424582",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.neweurope.eu/wp-content/uploads/2022/04/kz1-3886-2.jpeg"
+        },
+        {
+          "id": "https://www.neweurope.eu/?post_type=post&p=574630",
+          "author": "kostisg",
+          "description": "Russian gas monopoly Gazprom said on April 27 Gazprom Export has fully halted gas supplies to Bulgaria’s Bulgargaz and Poland’s PGNiG until the payments are… Read More »",
+          "link": "https://www.neweurope.eu/article/breaking-contract-russia-turns-off-gas-for-bulgaria-poland/",
+          "publishedOn": "2022-04-29T10:01:39.000Z",
+          "wordCount": 2423,
+          "title": "Breaking contract, Russia turns off gas for Bulgaria, Poland",
+          "enclosure": {
+            "url": "https://www.neweurope.eu/wp-content/uploads/2022/04/Gazprom-2.jpeg",
+            "length": "485953",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.neweurope.eu/wp-content/uploads/2022/04/Gazprom-2.jpeg"
+        },
+        {
+          "id": "https://www.neweurope.eu/?post_type=post&p=574599",
+          "author": "Nicholas Waller",
+          "description": "Nearly two months after Russia’s invasion, Ukraine’s armed forces won the Battle of Kyiv and are in the process of carrying out counter-offensive and cleanup… Read More »",
+          "link": "https://www.neweurope.eu/article/ukraines-greatest-generation/",
+          "publishedOn": "2022-04-20T09:49:43.000Z",
+          "wordCount": 2860,
+          "title": "Ukraine’s “Greatest Generation”",
+          "enclosure": {
+            "url": "https://www.neweurope.eu/wp-content/uploads/2022/04/unnamed-2022-04-20T100628.618-e1650442076586.jpg",
+            "length": "44312",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.neweurope.eu/wp-content/uploads/2022/04/unnamed-2022-04-20T100628.618-e1650442076586.jpg"
+        },
+        {
+          "id": "https://www.neweurope.eu/?post_type=post&p=574600",
+          "author": "kostisg",
+          "description": "Uzbekistan’s Development of Information Technologies Minister Shermatov Sherzod, in an exclusive interview with New Europe during the first Tashkent International Investment Forum, presented different initiatives… Read More »",
+          "link": "https://www.neweurope.eu/article/interview-information-technologies-to-drive-uzbekistans-development-attract-foreign-investors/",
+          "publishedOn": "2022-04-19T21:42:22.000Z",
+          "wordCount": 2518,
+          "title": "Interview: Information Technologies to drive Uzbekistan’s development, attract foreign investors",
+          "enclosure": {
+            "url": "https://www.neweurope.eu/wp-content/uploads/2022/04/Sherzod-Shermatov.jpg",
+            "length": "4278067",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.neweurope.eu/wp-content/uploads/2022/04/Sherzod-Shermatov.jpg"
+        },
+        {
+          "id": "https://www.neweurope.eu/?post_type=post&p=574607",
+          "author": "Nicholas Waller",
+          "description": "As the international community continues to coordinate a response to the recent Russian invasion of Ukraine, longstanding debates surrounding sanction efficacy and compliance have been… Read More »",
+          "link": "https://www.neweurope.eu/article/the-pandora-papers-exposing-irans-clandestine-financial-system/",
+          "publishedOn": "2022-04-18T09:52:03.000Z",
+          "wordCount": 2297,
+          "title": "The Pandora Papers: Exposing Iran’s clandestine financial system",
+          "enclosure": {
+            "url": "https://www.neweurope.eu/wp-content/uploads/2022/04/unnamed-2022-04-20T121611.670.jpg",
+            "length": "184609",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.neweurope.eu/wp-content/uploads/2022/04/unnamed-2022-04-20T121611.670.jpg"
+        },
+        {
+          "id": "https://www.neweurope.eu/?post_type=post&p=574593",
+          "author": "kostisg",
+          "description": "The Energy Ministers of Israel, Greece and Cyprus discussed in a tripartite meeting in Jerusalem on April 11 the effects of Russia’s invasion in Ukraine… Read More »",
+          "link": "https://www.neweurope.eu/article/turning-off-russian-gas-greece-cyprus-israel-think-electric-too/",
+          "publishedOn": "2022-04-15T15:08:51.000Z",
+          "wordCount": 2270,
+          "title": "Turning off Russian gas, Greece-Cyprus-Israel think electric too",
+          "enclosure": {
+            "url": "https://www.neweurope.eu/wp-content/uploads/2022/04/Κ.-Σκρέκας-Ιερουσαλήμ_3-1.jpeg",
+            "length": "210017",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.neweurope.eu/wp-content/uploads/2022/04/Κ.-Σκρέκας-Ιερουσαλήμ_3-1.jpeg"
+        },
+        {
+          "id": "https://www.neweurope.eu/?post_type=post&p=574612",
+          "author": "Nicholas Waller",
+          "description": "Media reports from around the world have indicated that more than 1,000 mercenaries from Russia’s infamous private military company Wagner have been transferred from Africa… Read More »",
+          "link": "https://www.neweurope.eu/article/moscow-is-moving-wagner-mercenaries-from-syria-and-africa-to-ukraine/",
+          "publishedOn": "2022-04-15T10:36:41.000Z",
+          "wordCount": 2090,
+          "title": "Moscow is moving Wagner mercenaries from Syria and Africa to Ukraine",
+          "enclosure": {
+            "url": "https://www.neweurope.eu/wp-content/uploads/2022/04/unnamed-2022-04-20T133851.240.jpg",
+            "length": "730853",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.neweurope.eu/wp-content/uploads/2022/04/unnamed-2022-04-20T133851.240.jpg"
+        },
+        {
+          "id": "https://www.neweurope.eu/?post_type=post&p=574589",
+          "author": "kostisg",
+          "description": "New Europe in an exclusive interview during the first Tashkent International Investment Forum, spoke to Laziz Kudratov, Uzbek first deputy minister for investment and trade,… Read More »",
+          "link": "https://www.neweurope.eu/article/interview-uzbekistan-an-active-player-in-the-global-trade-system/",
+          "publishedOn": "2022-04-13T19:35:46.000Z",
+          "wordCount": 2710,
+          "title": "Interview: Uzbekistan an active player in the global trade system",
+          "enclosure": {
+            "url": "https://www.neweurope.eu/wp-content/uploads/2022/04/trade.jpg",
+            "length": "561422",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://www.neweurope.eu/wp-content/uploads/2022/04/trade.jpg"
+        }
+      ]
+    },
+    {
+      "title": "WorldNewsEra",
+      "feedUrl": "https://worldnewsera.com/feed/",
+      "siteUrl": "https://worldnewsera.com",
+      "articles": [
+        {
+          "id": "https://worldnewsera.com/news/entertainment/celebrity-news/matt-smith-praises-the-decision-to-choose-ncuti-gatwa-as-the-next-dr-who/",
+          "author": "Ashleigh Durden",
+          "description": "Former Time Lord Matt Smith has been impressed by the Sex Education star and feels that the long-running show is set for an exciting future Former Dr Who Matt Smith believes Ncuti Gatwa is an inspired choice to become the 14th Time Lord. Ncuti Gatwa has been called an inspired choice to become the 14th …\nThe post Matt Smith praises the decision to choose Ncuti Gatwa as the next Dr Who appeared first on WorldNewsEra.",
+          "link": "https://worldnewsera.com/news/entertainment/celebrity-news/matt-smith-praises-the-decision-to-choose-ncuti-gatwa-as-the-next-dr-who/",
+          "publishedOn": "2022-05-13T01:15:41.000Z",
+          "wordCount": 1809,
+          "title": "Matt Smith praises the decision to choose Ncuti Gatwa as the next Dr Who",
+          "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article26951910.ece/ALTERNATES/s1200/0_Smith.jpg"
+        },
+        {
+          "id": "https://worldnewsera.com/news/entertainment/tv-news/xscape-swv-real-girlfriends-in-paris-more-bravo-series-orders/",
+          "author": "Ashleigh Durden",
+          "description": "Three new reality shows are coming to Bravo. The network has given series orders to Real Girlfriends in Paris, Southern Charm: Leva Land (a Southern Charm spinoff), and XSCAPE/SWV. The latter two are working titles. Real Girlfriends in Paris and Southern Charm: Leva Land will premiere in Fall 2022, with XSCAPE /SWV set to debut …\nThe post ‘XSCAPE/SWV,’ ‘Real Girlfriends in Paris’ & More Bravo Series Orders appeared first on WorldNewsEra.",
+          "link": "https://worldnewsera.com/news/entertainment/tv-news/xscape-swv-real-girlfriends-in-paris-more-bravo-series-orders/",
+          "publishedOn": "2022-05-13T01:14:54.000Z",
+          "wordCount": 1669,
+          "title": "‘XSCAPE/SWV,’ ‘Real Girlfriends in Paris’ & More Bravo Series Orders",
+          "imageUrl": "https://www.tvinsider.com/wp-content/uploads/2022/05/xscape-1014x570.jpeg"
+        },
+        {
+          "id": "https://worldnewsera.com/news/entertainment/music-news/more-than-almost-famous-rock-star-journalist-ben-fong-torres-tells-all/",
+          "author": "Ashleigh Durden",
+          "description": "When Rolling Stone was a rickety operation run out of a rent-free San Francisco loft, and the music business was still so low-key you could score an interview with the Doors’ Jim Morrison by bumping into him in a friend’s apartment, Ben Fong-Torres was there. Fong-Torres, one of Rolling Stone‘s first star writers, finally gets …\nThe post More Than Almost Famous: Rock Star Journalist Ben Fong-Torres Tells All appeared first on WorldNewsEra.",
+          "link": "https://worldnewsera.com/news/entertainment/music-news/more-than-almost-famous-rock-star-journalist-ben-fong-torres-tells-all/",
+          "publishedOn": "2022-05-13T01:13:42.000Z",
+          "wordCount": 1832,
+          "title": "More Than Almost Famous: Rock Star Journalist Ben Fong-Torres Tells All",
+          "imageUrl": "https://www.rollingstone.com/wp-content/uploads/2022/05/Like-a-rolling-stone_3840x2160.jpg"
+        },
+        {
+          "id": "https://worldnewsera.com/news/entrepreneurs/u-s-to-boost-baby-formula-imports-to-ease-nationwide-shortage-after-abbott-nutrition-recall/",
+          "author": "Laurie Foti",
+          "description": "Baby formula is offered for sale at a big box store on January 13, 2022 in Chicago, Illinois. Scott Olson | Getty Images The U.S. will increase baby formula imports as part of an effort to ease a nationwide shortage, senior Biden administration officials said on Thursday. The scarcity of formula was triggered in part …\nThe post U.S. to boost baby formula imports to ease nationwide shortage after Abbott Nutrition recall appeared first on WorldNewsEra.",
+          "link": "https://worldnewsera.com/news/entrepreneurs/u-s-to-boost-baby-formula-imports-to-ease-nationwide-shortage-after-abbott-nutrition-recall/",
+          "publishedOn": "2022-05-13T01:12:44.000Z",
+          "wordCount": 1749,
+          "title": "U.S. to boost baby formula imports to ease nationwide shortage after Abbott Nutrition recall",
+          "imageUrl": "https://image.cnbcfm.com/api/v1/image/107001144-1642116160298-gettyimages-1364495671-dsc06168_2022011341841523.jpeg"
+        },
+        {
+          "id": "https://worldnewsera.com/news/entrepreneurs/how-to-start-a-travel-blog/",
+          "author": "Laurie Foti",
+          "description": "A travel blog is a great way to document your travels, share your experiences, and show the amazing destinations you’re visiting. Becoming a successful travel blogger is all about creating great content for users on a consistent basis. Once you establish a travel blog and a following, you can find ways to monetize it and …\nThe post How to Start a Travel Blog appeared first on WorldNewsEra.",
+          "link": "https://worldnewsera.com/news/entrepreneurs/how-to-start-a-travel-blog/",
+          "publishedOn": "2022-05-13T01:11:53.000Z",
+          "wordCount": 2889,
+          "title": "How to Start a Travel Blog",
+          "imageUrl": "https://media.smallbiztrends.com/2022/05/how-to-start-a-travel-blog.png"
+        },
+        {
+          "id": "https://worldnewsera.com/news/editorial/ed-asks-high-court-to-re-freeze-xiaomi-indias-accounts-report/",
+          "author": "Poultney Carducci",
+          "description": "Enforcement Directorate (ED) has requested the Karnataka High Court to re-instate a freeze on Xiaomi’s bank accounts with Rs 5,550 crore. The move comes days after the Karnataka High Court, in a ruling in favour of Xiaomi India, said that the company’s account should be de-freezed. There were certain conditions attached to the order. Also …\nThe post ED asks High Court to re-freeze Xiaomi India’s accounts: Report appeared first on WorldNewsEra.",
+          "link": "https://worldnewsera.com/news/editorial/ed-asks-high-court-to-re-freeze-xiaomi-indias-accounts-report/",
+          "publishedOn": "2022-05-13T01:10:39.000Z",
+          "wordCount": 1731,
+          "title": "ED asks High Court to re-freeze Xiaomi India’s accounts: Report",
+          "imageUrl": "https://st1.bgr.in/wp-content/uploads/2022/01/xiaomi-logo.jpg"
+        },
+        {
+          "id": "https://worldnewsera.com/news/finance/rationalisation-of-tax-rates-to-aid-in-revenue-buoyancy-cbic-chairman/",
+          "author": "Madeleine Bruder",
+          "description": "Ahead of the Goods and Services Tax (GST) Council meeting in a month or so, Central Board of Indirect Taxes and Customs (CBIC) chairman Vivek Johri on Thursday said that reforms in the rate structures and rationalisation of tax rates are crucial for improving revenue efficiency and buoyancy. GST collections have been consistently higher than …\nThe post Rationalisation of tax rates to aid in revenue buoyancy: CBIC chairman appeared first on WorldNewsEra.",
+          "link": "https://worldnewsera.com/news/finance/rationalisation-of-tax-rates-to-aid-in-revenue-buoyancy-cbic-chairman/",
+          "publishedOn": "2022-05-13T01:08:36.000Z",
+          "wordCount": 1693,
+          "title": "Rationalisation of tax rates to aid in revenue buoyancy: CBIC chairman",
+          "imageUrl": "https://www.financialexpress.com/wp-content/uploads/2022/05/GST-1200.jpg"
+        },
+        {
+          "id": "https://worldnewsera.com/news/canada/closing-arguments-begin-in-former-north-okanagan-mounties-civil-case-against-the-rcmp-globalnews-ca/",
+          "author": "Evelyn Blackwell",
+          "description": "Closing arguments got underway Thursday in Kamloops at a civil trial launched by a former North Okanagan RCMP officer. Milan Ilic alleges the RCMP mishandled an internal investigation against him, leaving him with serious damage to his mental health and no way to clear his name. He was medically discharged from the force in 2019. …\nThe post Closing arguments begin in former North Okanagan Mountie’s civil case against the RCMP  | Globalnews.ca appeared first on WorldNewsEra.",
+          "link": "https://worldnewsera.com/news/canada/closing-arguments-begin-in-former-north-okanagan-mounties-civil-case-against-the-rcmp-globalnews-ca/",
+          "publishedOn": "2022-05-13T01:05:38.000Z",
+          "wordCount": 1714,
+          "title": "Closing arguments begin in former North Okanagan Mountie’s civil case against the RCMP  | Globalnews.ca",
+          "imageUrl": "https://globalnews.ca/wp-content/uploads/2022/04/Milan-Ilic-Trial.jpg"
+        },
+        {
+          "id": "https://worldnewsera.com/automobile/mercedes-benz-300-slr-could-be-the-worlds-most-expensive-car-at-142m/",
+          "author": "Evelyn Blackwell",
+          "description": "$142 million. It’s enough money to buy a dozen Lamborghini Aventador Ultimaes, and still have plenty left over to get the next Ferrari 250 GTO that comes up for auction. But if recent rumors are true, it’s enough to buy just one extremely special car: the 1956 Mercedes 300 SLR Uhlenhaut coupe. To be clear, …\nThe post Mercedes-Benz 300 SLR Could Be The World’s Most Expensive Car At $142M appeared first on WorldNewsEra.",
+          "link": "https://worldnewsera.com/automobile/mercedes-benz-300-slr-could-be-the-worlds-most-expensive-car-at-142m/",
+          "publishedOn": "2022-05-13T01:04:44.000Z",
+          "wordCount": 1632,
+          "title": "Mercedes-Benz 300 SLR Could Be The World’s Most Expensive Car At $142M",
+          "imageUrl": "https://cdn.motor1.com/images/mgl/qxMBy/s1/1955-mercedes-300-slr-uhlenhaut-coupe.jpg"
+        },
+        {
+          "id": "https://worldnewsera.com/news/tech/twitter-ceo-pushes-out-top-execs-freezes-hiring/",
+          "author": "Evelyn Blackwell",
+          "description": "Twitter is shaking up its top leadership. The first move came as consumer product leader Kayvon Beykpour announced on Twitter that current CEO Parag Agrawal “asked me to leave after letting me know that he wants to take the team in a different direction.” Bruce Falck, the general manager of revenue and head of product …\nThe post Twitter CEO pushes out top execs, freezes hiring appeared first on WorldNewsEra.",
+          "link": "https://worldnewsera.com/news/tech/twitter-ceo-pushes-out-top-execs-freezes-hiring/",
+          "publishedOn": "2022-05-13T01:03:41.000Z",
+          "wordCount": 1979,
+          "title": "Twitter CEO pushes out top execs, freezes hiring",
+          "imageUrl": "https://cdn.vox-cdn.com/thumbor/BnG9WCJSDvN5drVI3i6JTS-R1vM=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10125279/acastro_180130_1777_0008.jpg"
+        }
+      ]
+    },
+    {
+      "title": "NewsBlaze News",
+      "feedUrl": "https://newsblaze.com/feed/",
+      "siteUrl": "https://newsblaze.com",
+      "articles": [
+        {
+          "id": "https://newsblaze.com/?p=183879",
+          "author": "Nurit Greenger",
+          "description": "Woke and dystopia go together and it appears that the FBI (Federal Bureau of Investigation) has joined these ranks. The FBI that was seen as the premier federal crime-investigating body is now the Bureau of Woke. Wikipedia explains ‘Woke’ as an English adjective originated in African-American vernacular English, meaning “alert to racial prejudice and discrimination.” […]",
+          "link": "https://newsblaze.com/uncategorized/fbi-a-bureau-of-woke_183879/",
+          "publishedOn": "2022-05-09T23:13:05.000Z",
+          "wordCount": 2237,
+          "title": "FBI, a Bureau of Woke",
+          "imageUrl": "https://newsblaze.com/wp-content/uploads/2022/04/13usaonutL._CLa_2140200.jpg"
+        },
+        {
+          "id": "https://newsblaze.com/?p=183960",
+          "author": "Nurit Greenger",
+          "description": "The Jewish Nation’s Manifesto In life one has to overcome everything to live with the wholeness of destiny. The people of Israel are an example of this. Able to withstand suffering and not give up; having the stubbornness to endure despite the fact that they are the minority; having the belief that they would still […]",
+          "link": "https://newsblaze.com/world/israel/putting-the-arabs-on-notice-israel-is-not-your-frivolous-killing-field_183960/",
+          "publishedOn": "2022-05-08T14:19:31.000Z",
+          "wordCount": 1761,
+          "title": "Putting the Arabs on Notice: Israel is Not Your Frivolous Killing Field",
+          "imageUrl": "https://newsblaze.com/wp-content/uploads/2022/05/funeral-after-axe-killings.jpg"
+        },
+        {
+          "id": "https://newsblaze.com/?p=183973",
+          "author": "Ernest Dempsey",
+          "description": "This month, an experienced educator and passionate writer officially debuted as a children’s book author with her first book A Mouse Tail on Mackinac Island published by the Modern History Press of Michigan. Meet Summer Porter, an elementary school teacher of over 25 years, who grew up in Southern Michigan, but her favorite moments were […]",
+          "link": "https://newsblaze.com/entertainment/books/summer-porter-debuts-as-author-with-a-mouse-tail-on-mackinac-island_183973/",
+          "publishedOn": "2022-05-07T20:31:16.000Z",
+          "wordCount": 843,
+          "title": "Summer Porter Debuts as Author with ‘A Mouse Tail on Mackinac Island’",
+          "imageUrl": "https://newsblaze.com/wp-content/uploads/2022/05/A-Mouse-Tail-on-Mackinac-Island.jpg"
+        },
+        {
+          "id": "https://newsblaze.com/?p=183949",
+          "author": "Dr. Mordechai Kedar",
+          "description": "For years I have been yelling from my op-ed pages that Israel is aiding and abetting a homegrown Arab Fifth Column. Sadly, my yelling fell on deaf ears and now my warning is in play. Israel is now a democracy on a suicide path. What is there to do about the young Arabs who feel […]",
+          "link": "https://newsblaze.com/world/israel/arabs-israel-on-a-suicide-path_183949/",
+          "publishedOn": "2022-05-07T10:37:23.000Z",
+          "wordCount": 2881,
+          "title": "Democracy on a Suicide Path; Israeli-Arabs As New Homeowners In Israel",
+          "imageUrl": "https://newsblaze.com/wp-content/uploads/2022/05/prime-minister-bennett.jpg"
+        },
+        {
+          "id": "https://newsblaze.com/?p=183886",
+          "author": "Nurit Greenger",
+          "description": "The baseball home plate is a 5-sided rubber slab at one corner of a baseball diamond at which a batter stands when batting and which must be touched by a base runner in order to score. The baseball home plate is the place where you stand to hit the ball and the last place the […]",
+          "link": "https://newsblaze.com/thoughts/opinions/the-state-of-the-union-baseball-home-plate_183886/",
+          "publishedOn": "2022-05-04T23:54:27.000Z",
+          "wordCount": 1368,
+          "title": "The State of the Union Baseball Home Plate",
+          "imageUrl": "https://newsblaze.com/wp-content/uploads/2022/05/rangers-baseball-park.jpg"
+        },
+        {
+          "id": "https://newsblaze.com/?p=183942",
+          "author": "Adam Torkildson",
+          "description": "Stagflation has arrived, just in time for National Small Business Week. The Commerce Department said on Thursday that the economy fell by 1.4 percent in the first quarter, considerably below economists’ expectations. The Commerce Department said on Friday that the Personal Consumption Expenditures price index, the Federal Reserve’s favored inflation barometer, climbed at its quickest […]",
+          "link": "https://newsblaze.com/business/latest-business/for-national-small-business-week-the-specter-of-stagflation-has-arrived_183942/",
+          "publishedOn": "2022-05-03T21:16:27.000Z",
+          "wordCount": 1027,
+          "title": "For National Small Business Week, the Specter of Stagflation has Arrived",
+          "imageUrl": "https://newsblaze.com/wp-content/uploads/2022/05/stagflation.jpg"
+        },
+        {
+          "id": "https://newsblaze.com/?p=183901",
+          "author": "Nurit Greenger",
+          "description": "To meet Bernard-Henri Lévy, in person, is one hell of a thing. To hear his mind through the lens of the camera is just a bonus. The other day I attended, in Los Angeles, the first showing of Lévy’s newly released documentary, “The Will To See” (Une Autre Idée Du Monde). The screening was put […]",
+          "link": "https://newsblaze.com/entertainment/movie-reviews/the-will-to-see_183901/",
+          "publishedOn": "2022-05-03T14:02:02.000Z",
+          "wordCount": 1816,
+          "title": "“The Will To See” What We Don’t Want to See",
+          "imageUrl": "https://newsblaze.com/wp-content/uploads/2022/05/Bernard-Henri-Levy-and-film-poster-wider.jpg"
+        },
+        {
+          "id": "https://newsblaze.com/?p=183891",
+          "author": "Paul Driessen",
+          "description": "References to climate change almost guarantee funding, even for research topics of little interest beyond academia and eco-activists. Polls reveal that most people worry most about energy and food prices, crime, living standards, Putin’s war on Ukraine, and increasing efforts to control their lives. Threats to biodiversity are important too. A recent study by Rutgers […]",
+          "link": "https://newsblaze.com/issues/environment/threats-to-biodiversity_183891/",
+          "publishedOn": "2022-05-02T14:45:09.000Z",
+          "wordCount": 1667,
+          "title": "Real Threats to Biodiversity and Humanity",
+          "imageUrl": "https://newsblaze.com/wp-content/uploads/2022/05/threats-to-biodiversity.jpg"
+        },
+        {
+          "id": "https://newsblaze.com/?p=183801",
+          "author": "Khurram Aziz",
+          "description": "In the last few years, consumer privacy has become a very important part of the tech landscape. Investigative reporting has shown the extent to which Big Tech tracks our online activity. Apple has been a leader among tech firms, creating solutions to increase privacy protections. Recently, according to 9 to 5 Mac, the company has […]",
+          "link": "https://newsblaze.com/business/technology/apple-stakes-its-claim-as-a-privacy-leader_183801/",
+          "publishedOn": "2022-04-30T00:34:22.000Z",
+          "wordCount": 831,
+          "title": "Apple Stakes Its Claim as a Privacy Leader",
+          "imageUrl": "https://newsblaze.com/wp-content/uploads/2022/04/tim-cook-apple-privacy-summit.jpg"
+        },
+        {
+          "id": "https://newsblaze.com/?p=183858",
+          "author": "Nurit Greenger",
+          "description": "How harmonious coexistence spreads across borders. In this case, Israel and Azerbaijan and Israel and Ukraine, through Soroka Medical Center. First after the COVID restrictions era, on March 27, 2022, organized by American Friends of Soroka Medical Center Team (AFSMC), headed by Rachel Heisler Sheinfeld, Executive Director, Mikey and Iris Dardashti who, over the years […]",
+          "link": "https://newsblaze.com/world/eurasia/soroka-medical-center-an-international-soiree-of-medical-minds_183858/",
+          "publishedOn": "2022-04-29T02:29:43.000Z",
+          "wordCount": 1454,
+          "title": "Soroka Medical Center, an International Soirée of Medical Minds",
+          "imageUrl": "https://newsblaze.com/wp-content/uploads/2022/04/1-AZPHOTO-2022-03-31-11-55-55.jpg"
+        },
+        {
+          "id": "https://newsblaze.com/?p=183853",
+          "author": "Ernest Dempsey",
+          "description": "Many treasures are non-material-like a loving family or wonderful friends, like health and peace of mind, or like beautiful memories of special places and moments. Jon C. Stott relives the latter in his new book Summers at the Lake (Modern History Press, 2022). In these autobiographical personal essays, Stott puts in words many golden memories […]",
+          "link": "https://newsblaze.com/entertainment/books/summers-at-the-lake-jon-stott-shares-cherished-u-p-memories_183853/",
+          "publishedOn": "2022-04-26T04:05:36.000Z",
+          "wordCount": 797,
+          "title": "Summers at the Lake: Jon Stott Shares Cherished U.P. Memories",
+          "imageUrl": "https://newsblaze.com/wp-content/uploads/2022/04/Summers-at-the-Lake.jpg"
+        },
+        {
+          "id": "https://newsblaze.com/?p=183846",
+          "author": "Miv Evans",
+          "description": "The Duke is a biography; a family drama; a coming-of-age story and an art heist. All four threads are stitched together by a commentary on 60s working class Britain. Despite a few hitches, it works like a charm. THE STORY This film is a true story about Kempton Bunton (Jim Broadbent), who lives with his […]",
+          "link": "https://newsblaze.com/usnews/media/the-duke-the-cost-of-art_183846/",
+          "publishedOn": "2022-04-23T17:57:45.000Z",
+          "wordCount": 866,
+          "title": "THE DUKE – the Cost of Art",
+          "imageUrl": "https://newsblaze.com/wp-content/uploads/2022/04/the-duke-feature.jpg"
+        },
+        {
+          "id": "https://newsblaze.com/?p=183807",
+          "author": "Nurit Greenger",
+          "description": "The ongoing rampage by the Left is nothing but further proof of them being pure evil and full of malice. However, this is not new and it is a worldwide phenomenon. History teaches us that where the Left dominates, it is the suppression of freedom and the elimination of the human spirit. The left operates […]",
+          "link": "https://newsblaze.com/thoughts/opinions/state-of-division-not-free_183807/",
+          "publishedOn": "2022-04-17T11:59:52.000Z",
+          "wordCount": 1692,
+          "title": "US, the State of Division, the Land of Not Free",
+          "imageUrl": "https://newsblaze.com/wp-content/uploads/2022/04/1muslimhate110.jpg"
+        }
+      ]
+    },
+    {
+      "title": "The Union Journal",
+      "feedUrl": "https://www.theunionjournal.com/feed/",
+      "siteUrl": "https://www.theunionjournal.com",
+      "articles": [
+        {
+          "id": "https://www.theunionjournal.com/?p=554241",
+          "author": "Union Journal Staff",
+          "description": "The only process of producing new Bitcoin into circulation is called mining. It helps add records of transactions into the public ledger of bitcoin, the digital coin market technology named blockchain. You can visit the bitcoin profit to learn all about the mechanism of bitcoin trading. All transactions are secured in it under any circumstances. […]",
+          "link": "https://www.theunionjournal.com/an-ultimate-guide-to-mining-bitcoin/",
+          "publishedOn": "2022-05-12T09:39:18.000Z",
+          "wordCount": 1019,
+          "title": "An ultimate guide to mining Bitcoin",
+          "imageUrl": "https://www.theunionjournal.com/wp-content/uploads/2022/03/Bitcoin.jpg"
+        },
+        {
+          "id": "https://www.theunionjournal.com/?p=554239",
+          "author": "Union Journal Staff",
+          "description": "Cryptocurrency experts and enthusiasts are familiar with the terms hard forks and airdrops, but only a few know the difference between these two. You can visit Quantum Ai to learn all about the mechanism of bitcoin trading. Cryptocurrency hard forks and airdrops significantly impact the spot value of a coin. Every cryptocurrency user might have […]",
+          "link": "https://www.theunionjournal.com/what-is-the-difference-between-hard-forks-and-airdrops-in-cryptocurrency/",
+          "publishedOn": "2022-05-12T09:38:21.000Z",
+          "wordCount": 1000,
+          "title": "What is the difference between hard forks and airdrops in cryptocurrency?",
+          "imageUrl": "https://www.theunionjournal.com/wp-content/uploads/2022/03/Institutional-crypto-funds.png"
+        },
+        {
+          "id": "https://www.theunionjournal.com/?p=554237",
+          "author": "Union Journal Staff",
+          "description": "With the proliferation of the world, many new techniques are developed which make a complex task into the simplest one. . You can visit thequantumai to learn all about the mechanism of bitcoin trading. Making money is such a difficult task for youngsters, but nowadays, the world of cryptocurrency makes it one of the most […]",
+          "link": "https://www.theunionjournal.com/things-to-consider-before-investing-in-cryptocurrency/",
+          "publishedOn": "2022-05-12T09:37:14.000Z",
+          "wordCount": 992,
+          "title": "Things to consider before investing in cryptocurrency",
+          "imageUrl": "https://www.theunionjournal.com/wp-content/uploads/2022/03/Institutional-crypto-funds.png"
+        },
+        {
+          "id": "https://www.theunionjournal.com/?p=554068",
+          "author": "Joe Killer",
+          "description": "VOLATILITY ANALYSIS: Volatility remained at 12.35% over last week and shows 8.10% volatility in last month. VOLATILITY is also measured by ATR an exponential moving average (14-days) of the True Ranges. ATR value stands at 1.35. GoodRx Holdings, (GDRX) exchanged 13681044 shares on hands in most recent trading session and observed an average volume with […]",
+          "link": "https://www.theunionjournal.com/hot-stock-on-radar-goodrx-holdings-gdrx/",
+          "publishedOn": "2022-05-11T19:02:00.000Z",
+          "wordCount": 821,
+          "title": "Hot Stock on Radar: GoodRx Holdings,  (GDRX)",
+          "imageUrl": "https://www.theunionjournal.com/wp-content/uploads/2021/05/Breaking-News-Vector-Illustration-by-indostudio.jpg"
+        },
+        {
+          "id": "https://www.theunionjournal.com/?p=554067",
+          "author": "Joe Killer",
+          "description": "TECHNICAL INTERPRETATION: Novavax, (NVAX) exchanged 13801531 shares on hands in most recent trading session and observed an average volume with 4467.38K shares. The stock acknowledged active focus on shares in the current trading session. NVAX disclosed a change of 1.13% and its listed share value at $53.86 in the recent trade transaction. This company belong […]",
+          "link": "https://www.theunionjournal.com/hot-aspects-to-watch-out-novavax-nvax/",
+          "publishedOn": "2022-05-11T18:57:00.000Z",
+          "wordCount": 834,
+          "title": "Hot Aspects to Watch Out: Novavax,  (NVAX)",
+          "imageUrl": "https://www.theunionjournal.com/wp-content/uploads/2021/05/Breaking-News-Vector-Illustration-by-indostudio.jpg"
+        },
+        {
+          "id": "https://www.theunionjournal.com/?p=554066",
+          "author": "Joe Killer",
+          "description": "Uranium Energy Corp. (UEC) exchanged 13860171 shares on hands in most recent trading session and observed an average volume with 15305.21K shares. The stock acknowledged active focus on shares in the current trading session. UEC disclosed a change of -2.87% and its listed share value at $3.38 in the recent trade transaction. This company belong […]",
+          "link": "https://www.theunionjournal.com/is-this-stock-is-attractive-uranium-energy-corp-uec/",
+          "publishedOn": "2022-05-11T18:53:00.000Z",
+          "wordCount": 840,
+          "title": "Is this stock is Attractive? Uranium Energy Corp. (UEC)",
+          "imageUrl": "https://www.theunionjournal.com/wp-content/uploads/2021/05/Breaking-News-Vector-Illustration-by-indostudio.jpg"
+        },
+        {
+          "id": "https://www.theunionjournal.com/?p=554065",
+          "author": "Joe Killer",
+          "description": "Netflix, (NFLX) acknowledged active focus on shares in the last trading session.The stock disclosed a change of 2.63% and its listed share value at $177.66 in the recent trade transaction. This company belong to USA Country and part of Communication Services sector. NFLX exchanged 13883905 shares on hands in most recent trading session and observed […]",
+          "link": "https://www.theunionjournal.com/are-you-looking-for-hot-stock-netflix-nflx/",
+          "publishedOn": "2022-05-11T18:50:00.000Z",
+          "wordCount": 875,
+          "title": "Are You looking For Hot Stock? Netflix,  (NFLX)",
+          "imageUrl": "https://www.theunionjournal.com/wp-content/uploads/2021/05/Breaking-News-Vector-Illustration-by-indostudio.jpg"
+        },
+        {
+          "id": "https://www.theunionjournal.com/?p=554064",
+          "author": "Joe Killer",
+          "description": "Pinterest, (PINS) observed an average volume with 12414.63K shares and exchanged 13901294 shares on hands in most recent trading session. The stock acknowledged active focus on shares in the current trading session. PINS disclosed a change of -4.08% and its listed share value at $20.22 in the recent trade transaction. This company belong to USA […]",
+          "link": "https://www.theunionjournal.com/investors-spotlight-pinterest-pins/",
+          "publishedOn": "2022-05-11T18:45:00.000Z",
+          "wordCount": 811,
+          "title": "Investors Spotlight: Pinterest,  (PINS)",
+          "imageUrl": "https://www.theunionjournal.com/wp-content/uploads/2021/05/Breaking-News-Vector-Illustration-by-indostudio.jpg"
+        },
+        {
+          "id": "https://www.theunionjournal.com/?p=554063",
+          "author": "Joe Killer",
+          "description": "Delta Air Lines, (DAL) traded 13950026 shares on hands in most recent trading session and observed an average volume with 16596.5K shares. The stock acknowledged active focus on shares in the current trading session. DAL disclosed a change of 1.12% and its listed share value at $38.68 in the recent trade transaction. This company belong […]",
+          "link": "https://www.theunionjournal.com/active-condition-now-delta-air-lines-dal/",
+          "publishedOn": "2022-05-11T18:41:00.000Z",
+          "wordCount": 877,
+          "title": "Active Condition Now? Delta Air Lines,  (DAL)",
+          "imageUrl": "https://www.theunionjournal.com/wp-content/uploads/2021/05/Breaking-News-Vector-Illustration-by-indostudio.jpg"
+        },
+        {
+          "id": "https://www.theunionjournal.com/?p=554062",
+          "author": "Joe Killer",
+          "description": "Starbucks Corporation (SBUX) disclosed a change of -2.22% and its listed share value at $71.86 in the recent trade transaction. This company belong to USA Country and part of Consumer Cyclical sector. SBUX exchanged 14085855 shares on hands in most recent trading session and observed an average volume with 10584.7K shares. The stock acknowledged active […]",
+          "link": "https://www.theunionjournal.com/hot-condition-now-starbucks-corporation-sbux/",
+          "publishedOn": "2022-05-11T18:38:00.000Z",
+          "wordCount": 841,
+          "title": "Hot Condition Now? Starbucks Corporation (SBUX)",
+          "imageUrl": "https://www.theunionjournal.com/wp-content/uploads/2021/05/Breaking-News-Vector-Illustration-by-indostudio.jpg"
+        },
+        {
+          "id": "https://www.theunionjournal.com/?p=554061",
+          "author": "Joe Killer",
+          "description": "United Airlines Holdings, (UAL) exchanged 14104721 shares on hands in most recent trading session and observed an average volume with 16083.64K shares. The stock acknowledged active focus on shares in the current trading session. UAL disclosed a change of 1.87% and its listed share value at $44.12 in the recent trade transaction. This company belong […]",
+          "link": "https://www.theunionjournal.com/investors-watch-list-united-airlines-holdings-ual/",
+          "publishedOn": "2022-05-11T18:33:00.000Z",
+          "wordCount": 874,
+          "title": "Investors Watch-list: United Airlines Holdings,  (UAL)",
+          "imageUrl": "https://www.theunionjournal.com/wp-content/uploads/2021/05/Breaking-News-Vector-Illustration-by-indostudio.jpg"
+        },
+        {
+          "id": "https://www.theunionjournal.com/?p=554168",
+          "author": "Jane Stock",
+          "description": "TECHNICAL INTERPRETATION: Sirius XM Holdings (SIRI) exchanged 30331122 shares on hands in most recent trading session and observed an average volume with 20778.32K shares. The stock acknowledged active focus on shares in the current trading session. SIRI disclosed a change of 0.33% and its listed share value at $6.07 in the recent trade transaction. This […]",
+          "link": "https://www.theunionjournal.com/hot-stock-on-radar-sirius-xm-holdings-siri/",
+          "publishedOn": "2022-05-11T18:31:00.000Z",
+          "wordCount": 900,
+          "title": "Hot Stock on Radar: Sirius XM Holdings  (SIRI)",
+          "imageUrl": "https://www.theunionjournal.com/wp-content/uploads/2021/05/Breaking-News-Vector-Illustration-by-indostudio.jpg"
+        },
+        {
+          "id": "https://www.theunionjournal.com/?p=554060",
+          "author": "Joe Killer",
+          "description": "Nu Holdings Ltd. (NU) exchanged 14221979 shares on hands in most recent trading session and observed an average volume with 12379.7K shares. The stock acknowledged active focus on shares in the current trading session. NU disclosed a change of -0.23% and its listed share value at $4.37 in the recent trade transaction. This company belong […]",
+          "link": "https://www.theunionjournal.com/you-need-to-know-this-stock-nu-holdings-ltd-nu/",
+          "publishedOn": "2022-05-11T18:29:00.000Z",
+          "wordCount": 833,
+          "title": "You Need to Know this stock? Nu Holdings Ltd. (NU)",
+          "imageUrl": "https://www.theunionjournal.com/wp-content/uploads/2021/05/Breaking-News-Vector-Illustration-by-indostudio.jpg"
+        },
+        {
+          "id": "https://www.theunionjournal.com/?p=554167",
+          "author": "Jane Stock",
+          "description": "Plug Power (PLUG) exchanged 30519432 shares on hands in most recent trading session and observed an average volume with 20807.46K shares. The stock acknowledged active focus on shares in the current trading session. PLUG disclosed a change of -5.53% and its listed share value at $15.71 in the recent trade transaction. This company belong to […]",
+          "link": "https://www.theunionjournal.com/hot-aspects-to-watch-out-plug-power-plug/",
+          "publishedOn": "2022-05-11T18:27:00.000Z",
+          "wordCount": 884,
+          "title": "Hot Aspects to Watch Out: Plug Power  (PLUG)",
+          "imageUrl": "https://www.theunionjournal.com/wp-content/uploads/2021/05/Breaking-News-Vector-Illustration-by-indostudio.jpg"
+        },
+        {
+          "id": "https://www.theunionjournal.com/?p=554059",
+          "author": "Joe Killer",
+          "description": "VOLATILITY ANALYSIS: Volatility remained at 9.61% over last week and shows 6.39% volatility in last month. Market risk that established with market trade and it is measured by beta factor. Beta indicator lies at 3.19. Risk is measured on the beta factor, if beta is higher than 1 then risk is higher and if beta […]",
+          "link": "https://www.theunionjournal.com/investors-alert-ovintiv-ovv/",
+          "publishedOn": "2022-05-11T18:26:00.000Z",
+          "wordCount": 857,
+          "title": "Investors Alert: Ovintiv  (OVV)",
+          "imageUrl": "https://www.theunionjournal.com/wp-content/uploads/2021/05/Breaking-News-Vector-Illustration-by-indostudio.jpg"
+        },
+        {
+          "id": "https://www.theunionjournal.com/?p=554166",
+          "author": "Jane Stock",
+          "description": "Occidental Petroleum Corporation (OXY) acknowledged active focus on shares in the last trading session.The stock disclosed a change of 2.71% and its listed share value at $59.41 in the recent trade transaction. This company belong to USA Country and part of Energy sector. OXY exchanged 30590160 shares on hands in most recent trading session and […]",
+          "link": "https://www.theunionjournal.com/is-this-stock-is-attractive-occidental-petroleum-corporation-oxy/",
+          "publishedOn": "2022-05-11T18:24:00.000Z",
+          "wordCount": 873,
+          "title": "Is this stock is Attractive? Occidental Petroleum Corporation (OXY)",
+          "imageUrl": "https://www.theunionjournal.com/wp-content/uploads/2021/05/Breaking-News-Vector-Illustration-by-indostudio.jpg"
+        },
+        {
+          "id": "https://www.theunionjournal.com/?p=554058",
+          "author": "Joe Killer",
+          "description": "TECHNICAL INTERPRETATION: New York Community Bancorp, (NYCB) exchanged 14430656 shares on hands in most recent trading session and observed an average volume with 8053.15K shares. The stock acknowledged active focus on shares in the current trading session. NYCB disclosed a change of -1.43% and its listed share value at $8.97 in the recent trade transaction. […]",
+          "link": "https://www.theunionjournal.com/stock-technical-indicators-new-york-community-bancorp-nycb/",
+          "publishedOn": "2022-05-11T18:21:00.000Z",
+          "wordCount": 869,
+          "title": "Stock Technical indicators: New York Community Bancorp,  (NYCB)",
+          "imageUrl": "https://www.theunionjournal.com/wp-content/uploads/2021/05/Breaking-News-Vector-Illustration-by-indostudio.jpg"
+        },
+        {
+          "id": "https://www.theunionjournal.com/?p=554165",
+          "author": "Jane Stock",
+          "description": "PG&E Corporation (PCG) observed an average volume with 20332.99K shares and exchanged 30875552 shares on hands in most recent trading session. The stock acknowledged active focus on shares in the current trading session. PCG disclosed a change of -2.65% and its listed share value at $11.77 in the recent trade transaction. This company belong to […]",
+          "link": "https://www.theunionjournal.com/are-you-looking-for-hot-stock-pge-corporation-pcg/",
+          "publishedOn": "2022-05-11T18:19:00.000Z",
+          "wordCount": 870,
+          "title": "Are You looking For Hot Stock? PG&E Corporation (PCG)",
+          "imageUrl": "https://www.theunionjournal.com/wp-content/uploads/2021/05/Breaking-News-Vector-Illustration-by-indostudio.jpg"
+        },
+        {
+          "id": "https://www.theunionjournal.com/?p=554057",
+          "author": "Joe Killer",
+          "description": "HP (HPQ) exchanged 14516002 shares on hands in most recent trading session and observed an average volume with 15908.16K shares. The stock acknowledged active focus on shares in the current trading session. HPQ disclosed a change of 1.43% and its listed share value at $37.54 in the recent trade transaction. This company belong to USA […]",
+          "link": "https://www.theunionjournal.com/hot-stock-on-spotlight-hp-hpq/",
+          "publishedOn": "2022-05-11T18:17:00.000Z",
+          "wordCount": 884,
+          "title": "Hot Stock on Spotlight: HP  (HPQ)",
+          "imageUrl": "https://www.theunionjournal.com/wp-content/uploads/2021/05/Breaking-News-Vector-Illustration-by-indostudio.jpg"
+        },
+        {
+          "id": "https://www.theunionjournal.com/?p=554164",
+          "author": "Jane Stock",
+          "description": "Vinco Ventures, (BBIG) traded 30952834 shares on hands in most recent trading session and observed an average volume with 23745K shares. The stock acknowledged active focus on shares in the current trading session. BBIG disclosed a change of -5.17% and its listed share value at $2.75 in the recent trade transaction. This company belong to […]",
+          "link": "https://www.theunionjournal.com/investors-spotlight-vinco-ventures-bbig/",
+          "publishedOn": "2022-05-11T18:15:00.000Z",
+          "wordCount": 793,
+          "title": "Investors Spotlight: Vinco Ventures,  (BBIG)",
+          "imageUrl": "https://www.theunionjournal.com/wp-content/uploads/2021/05/Breaking-News-Vector-Illustration-by-indostudio.jpg"
         }
       ]
     }
