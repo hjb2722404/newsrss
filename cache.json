@@ -12,6 +12,16 @@
       "siteUrl": "https://www.bbc.co.uk/news/",
       "articles": [
         {
+          "id": "https://www.bbc.co.uk/news/world-asia-61432084",
+          "author": null,
+          "description": "A day after confirming its first cases, state media reports thousands are suffering fever symptoms.",
+          "link": "https://www.bbc.co.uk/news/world-asia-61432084?at_medium=RSS&at_campaign=KARANGA",
+          "publishedOn": "2022-05-13T01:48:54.000Z",
+          "wordCount": 1253,
+          "title": "North Korea announces first death from Covid-19",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/1800/production/_124644160_gettyimages-1240618433.jpg"
+        },
+        {
           "id": "https://www.bbc.co.uk/news/world-asia-india-61424869",
           "author": null,
           "description": "The Indian parents say they used up their savings raising their son and paying for his wedding.",
@@ -90,6 +100,16 @@
           "wordCount": 628,
           "title": "Eurovision 2022: The anthem for Ukraine born in a war zone",
           "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/4683/production/_124715081_mediaitem124715555.jpg"
+        },
+        {
+          "id": "https://www.bbc.co.uk/news/entertainment-arts-61428830",
+          "author": null,
+          "description": "Ireland go home after Thursday's semi-final, despite a warm reception for Derry girl Brooke Scullion.",
+          "link": "https://www.bbc.co.uk/news/entertainment-arts-61428830?at_medium=RSS&at_campaign=KARANGA",
+          "publishedOn": "2022-05-12T21:48:37.000Z",
+          "wordCount": 1857,
+          "title": "Eurovision 2022: Ireland's Brooke fails to qualify for the final",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/16C4D/production/_124716239_brookeandresputtingclose.jpg"
         },
         {
           "id": "https://www.bbc.co.uk/news/uk-61428970",
@@ -2514,6 +2534,16 @@
           "imageUrl": "https://image.cnbcfm.com/api/v1/image/106974094-1636635752135-AP21314587448111.jpg?v=1636635835&w=1920&h=1080"
         },
         {
+          "id": "107060532",
+          "author": null,
+          "description": "The S&P 500 is more than 18% from its all-time high, putting it within striking distance of an official bear market.",
+          "link": "https://www.cnbc.com/2022/05/12/stock-futures-open-to-close-bear-market.html",
+          "publishedOn": "2022-05-12T23:05:26.000Z",
+          "wordCount": 680,
+          "title": "Stock futures are flat with S&P 500 teetering on edge of a bear market",
+          "imageUrl": "https://image.cnbcfm.com/api/v1/image/107060221-16523675622022-05-12t145755z_908531388_rc2q5u9bh51k_rtrmadp_0_usa-stocks.jpeg?v=1652367605&w=1920&h=1080"
+        },
+        {
           "id": "106964301",
           "author": null,
           "description": "Space tourism companies such as Blue Origin, Virgin Galactic and SpaceX rely on rockets. Others plan to use balloons to take travelers into the stratosphere.",
@@ -3833,6 +3863,16 @@
           "imageUrl": "https://c.ndtvimg.com/2022-05/n9jpkq3c_joe-biden-reuters_625x300_03_May_22.jpg"
         },
         {
+          "id": "2971379",
+          "author": null,
+          "description": "North Korea on Friday announced its first Covid-19 death, saying that 187,000 people were being \"isolated and treated\" for fever as it confirmed the virus had spread nationwide.",
+          "link": "https://www.ndtv.com/world-news/north-korea-confirms-1st-covid-19-death-as-outbreak-spreads-2971379",
+          "publishedOn": "2022-05-12T23:33:27.000Z",
+          "wordCount": 629,
+          "title": "North Korea Confirms 1st COVID-19 Death As Outbreak Spreads",
+          "imageUrl": "https://c.ndtvimg.com/2022-05/qk4qiqe_north-korea-covid_625x300_13_May_22.jpg"
+        },
+        {
           "id": "2971373",
           "author": null,
           "description": "The United States continues to be in close touch with India about its efforts to rally the world to stand up against Russian aggression, the White House said on Thursday.",
@@ -5054,6 +5094,16 @@
       "siteUrl": "https://www.cbsnews.com/",
       "articles": [
         {
+          "id": "d932660b-b197-4884-b7f7-61500f59e813",
+          "author": null,
+          "description": "His objection to immediate passage of the bill will delay it until next week.",
+          "link": "https://www.cbsnews.com/news/rand-paul-stalls-40-billion-ukraine-aid/",
+          "publishedOn": "2022-05-13T01:46:37.000Z",
+          "wordCount": 1321,
+          "title": "Rand Paul stalls Senate passage of $40 billion in Ukraine aid",
+          "imageUrl": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/05/23/68688c7d-9259-47d8-9e35-2aa0b9aa1d09/thumbnail/1200x630/3bee2cdcb4254ba6adb70f84c19e2582/gettyimages-1232823528-1.jpg"
+        },
+        {
           "id": "4ab2d026-079a-4603-9796-67e3d243eed2",
           "author": null,
           "description": "Finland announced it is applying to join NATO and Sweden is expected to quickly follow.",
@@ -5442,46 +5492,6 @@
           "wordCount": 1011,
           "title": "New South Korea leader takes oath, hints at bid to lure Kim back to talks",
           "imageUrl": "https://cbsnews1.cbsistatic.com/hub/i/r/2022/05/10/0820238f-1c4e-407a-8ef9-71eb442e1aa5/thumbnail/1200x630/15305c566180ccec61726d4839a0459d/yoon-suk-yeol-south-korea.jpg"
-        },
-        {
-          "id": "5af4efc3-836c-460a-b1d8-386331df2194",
-          "author": null,
-          "description": "Three decades after the family was driven from their country and convicted of robbing it of billions of dollars, the Marcos clan is about to take the reins again in the Philippines.",
-          "link": "https://www.cbsnews.com/news/philippines-election-dictator-ferdinand-marcos-son-bongbong-landslide-win/",
-          "publishedOn": "2022-05-10T14:04:58.000Z",
-          "wordCount": 1275,
-          "title": "Notorious Filipino dictator's son poised for landslide election victory",
-          "imageUrl": "https://cbsnews1.cbsistatic.com/hub/i/r/2022/05/10/d4010cbc-3184-4a7d-8232-01e1373427a1/thumbnail/1200x630/e76af2dbb8e9e9718bd52815316625fc/philippines-bongbong-marcos-1240563758.jpg"
-        },
-        {
-          "id": "6797b17a-b41a-40d1-8111-43d5c3f78bcd",
-          "author": null,
-          "description": "The drugs have an estimated street value of $20 million AUD, according to officials.",
-          "link": "https://www.cbsnews.com/news/australian-police-110-pounds-cocaine-diver/",
-          "publishedOn": "2022-05-10T13:46:05.000Z",
-          "wordCount": 628,
-          "title": "Police discover more than 110 pounds of cocaine near diver's body",
-          "imageUrl": "https://cbsnews1.cbsistatic.com/hub/i/r/2022/05/10/a5143e2d-9047-4bdb-9a08-2e1fc4219222/thumbnail/1200x630/9f83a32c89c9748fc2d318349b9487c3/australianpolice.jpg"
-        },
-        {
-          "id": "4299e5ce-0899-42d3-9016-4acc67b48781",
-          "author": null,
-          "description": "A new study found that global warming is making it more challenging to predict ocean conditions, manage ecosystems and prepare for marine hazards.",
-          "link": "https://www.cbsnews.com/news/ocean-memory-loss-climate-change-study/",
-          "publishedOn": "2022-05-10T13:45:41.000Z",
-          "wordCount": 855,
-          "title": "Humans are causing the ocean to lose its memory, study shows",
-          "imageUrl": "https://cbsnews2.cbsistatic.com/hub/i/r/2022/05/10/bbc75b93-c8c8-48af-947e-11ddb3f019e4/thumbnail/1200x630/9c9088934f4a4cffcb0ed5c12016011f/gettyimages-1346022120.jpg"
-        },
-        {
-          "id": "163ee98f-229b-4777-9da5-60b6b9d49272",
-          "author": null,
-          "description": "Russia has stepped-up missile strikes on the vital port city of Odesa. CBS News correspondent Debora Patta reports.",
-          "link": "https://www.cbsnews.com/video/russia-targets-port-city-of-odesa/",
-          "publishedOn": "2022-05-10T13:33:17.000Z",
-          "wordCount": 243,
-          "title": "Russia targets port city of Odesa",
-          "imageUrl": "https://cbsnews1.cbsistatic.com/hub/i/r/2022/05/10/6288196d-8cc3-44e3-a6f8-93f4f3276538/thumbnail/1200x630/32bc7cca0ec4f39ad1018ff9fad82b3d/0510-ctm-ukrainelatest-patta-1001385-640x360.jpg"
         }
       ]
     },
@@ -5934,6 +5944,16 @@
       "feedUrl": "http://www.independent.co.uk/news/world/rss",
       "siteUrl": "https://www.independent.co.uk//news/world",
       "articles": [
+        {
+          "id": "b2078050",
+          "author": "Via AP news wire",
+          "description": "California's minimum wage will increase to $15.50 per hour next year",
+          "link": "https://www.independent.co.uk/news/world/americas/us-politics/gavin-newsom-ap-california-inflation-democrats-b2078050.html",
+          "publishedOn": "2022-05-13T01:33:23.000Z",
+          "wordCount": 1741,
+          "title": "Inflation triggers California minimum wage increase in 2023",
+          "imageUrl": "https://static.independent.co.uk/2022/05/13/02/California-Minimum_Wage_03790.jpg?quality=75&width=1200&auto=webp"
+        },
         {
           "id": "b2078038",
           "author": "Graeme Massie",
@@ -11658,6 +11678,26 @@
       "siteUrl": "https://www.smh.com.au/rss/world.xml",
       "articles": [
         {
+          "id": "4a37f6e9-93aa-410d-81eb-aaeb0d9f28cd",
+          "author": null,
+          "description": "She has ruled for 70 years, but her increasing frailty has many royal watchers speculating if the Queen may even abdicate after the big celebrations in June.",
+          "link": "https://www.smh.com.au/world/europe/on-the-eve-of-her-jubilee-an-anxious-nation-frets-over-the-queen-s-health-20220513-p5akzc.html?ref=rss&utm_medium=rss&utm_source=rss_world",
+          "publishedOn": "2022-05-13T01:55:32.000Z",
+          "wordCount": 1388,
+          "title": "On the eve of her Jubilee, an anxious nation frets over the Queen’s health",
+          "imageUrl": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_766%2C$y_293/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/e9ff9f5109ee75e1d760171adb08cd7f50b3848b"
+        },
+        {
+          "id": "cae4513f-0e59-4208-8ee7-efd1cb78f6e1",
+          "author": "Jahnavi Nidumolu",
+          "description": "Ministers were given one month to come up with plans to cut the size of the civil service by 91,000 of the current total.",
+          "link": "https://www.smh.com.au/world/europe/boris-johnson-orders-one-in-five-public-service-jobs-cut-as-post-brexit-economy-stalls-report-20220513-p5al2i.html?ref=rss&utm_medium=rss&utm_source=rss_world",
+          "publishedOn": "2022-05-13T01:40:19.000Z",
+          "wordCount": 606,
+          "title": "Boris Johnson orders one-in-five public service jobs cut as post-Brexit economy stalls: report",
+          "imageUrl": "https://static.ffx.io/images/$zoom_0.3057%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_216%2C$y_59/t_crop_custom/q_86%2Cf_auto/t_smh_no_label_no_age_social_wm/c2d59798942f939fba2754fc6560b359b04f2c86"
+        },
+        {
           "id": "6aebfe11-f51d-4505-8668-e94f68d7a71d",
           "author": null,
           "description": "A Ukrainian boy recounts his incredible survival story after Russian soldiers shot his father dead while attempting to kill him.",
@@ -12986,6 +13026,16 @@
       "siteUrl": "https://www.thestar.com/content/thestar/feed.RSSManagerServlet.articles.news.world.rss",
       "articles": [
         {
+          "id": "ddb8fc98eccc4f4307de731823f1fb05",
+          "author": "The Associated Press",
+          "description": "DALLAS (AP) — Two men were arrested in connection with a shooting that killed one person and injured 16 others at an outdoor concert in Dallas last mo...",
+          "link": "https://www.thestar.com/news/world/us/2022/05/12/2-arrested-after-1-killed-16-hurt-at-outdoor-dallas-concert.html",
+          "publishedOn": "2022-05-13T01:37:46.000Z",
+          "wordCount": 522,
+          "title": "2 arrested after 1 killed, 16 hurt at outdoor Dallas concert",
+          "imageUrl": "https://www.thestar.com/assets/img/thestar-ribbon.png"
+        },
+        {
           "id": "458c8ecbba9f518e891810ffb1e25d55",
           "author": "The Associated Press",
           "description": "ANCHORAGE, Alaska (AP) — Officials with the Iditarod announced Thursday they have reversed the penalties levied against two mushers who were demoted i...",
@@ -13861,16 +13911,6 @@
           "wordCount": 2200,
           "title": "Pence and Pompeo described as 'Warhawks' -- and had to be reminded Trump wasn't going to war with Iran: new book",
           "imageUrl": "https://www.rawstory.com/media-library/world-leaders-urged-to-stand-up-for-democracy-and-refuse-to-meet-with-mike-pompeo-after-he-denies-election-outcome.jpg?id=24499273&width=1200&coordinates=0%2C69%2C0%2C69&height=600"
-        },
-        {
-          "id": "https://www.rawstory.com/prince-charles-delivers-queen-s-speech-for-the-first-time/",
-          "author": "Reuters UK",
-          "description": "By Kate Holton and Paul Sandle LONDON (Reuters) -Britain's heir-to-the-throne Prince Charles and Prince William took centre stage amid the pomp and pageantry of the opening of parliament on Tuesday, replacing the 96-year-old Queen Elizabeth who missed the grand set-piece event with health issues. With the queen forced to withdraw for the first time in almost 60 years, Charles stepped in to read out the government's legislative agenda at the Palace of Westminster, the first time he has taken on such a major constitutional duty. The queen, the world's oldest and longest-reigning monarch, has bee...",
-          "link": "https://www.rawstory.com/prince-charles-delivers-queen-s-speech-for-the-first-time/",
-          "publishedOn": "2022-05-10T13:36:22.000Z",
-          "wordCount": 1603,
-          "title": "Prince Charles delivers Queen's Speech for the first time",
-          "imageUrl": "https://www.rawstory.com/media-library/image.jpg?id=29781349&width=980"
         }
       ]
     },
@@ -15192,6 +15232,106 @@
       "siteUrl": "https://internewscast.com",
       "articles": [
         {
+          "id": "https://internewscast.com/news/alison-boshoff-why-simon-cowells-brother-wont-be-invited-to-his-wedding/",
+          "author": "Internewscast",
+          "description": "ALISON BOSHOFF: Why Simon Cowell’s brother won’t be invited to his wedding\nSimon Cowell is personally taking charge of arrangements for his wedding to…\nALISON BOSHOFF: Why Simon Cowell’s brother won’t be invited to his wedding",
+          "link": "https://internewscast.com/news/alison-boshoff-why-simon-cowells-brother-wont-be-invited-to-his-wedding/",
+          "publishedOn": "2022-05-13T02:08:54.000Z",
+          "wordCount": 2911,
+          "title": "ALISON BOSHOFF: Why Simon Cowell’s brother won’t be invited to his wedding",
+          "imageUrl": "https://i.dailymail.co.uk/1s/2022/05/13/00/57752091-10811611-image-a-81_1652396809725.jpg"
+        },
+        {
+          "id": "https://internewscast.com/tech/broadway-theater-installs-ir-camera-system-to-catch-audience-members-trying-to-record-nude-scenes/",
+          "author": "Internewscast",
+          "description": "Broadway theater installs IR camera system to catch audience members trying to record nude scenes\nEarlier this week, someone posted cell phone videos of Tony-nominated actor Jesse…\nBroadway theater installs IR camera system to catch audience members trying to record nude scenes",
+          "link": "https://internewscast.com/tech/broadway-theater-installs-ir-camera-system-to-catch-audience-members-trying-to-record-nude-scenes/",
+          "publishedOn": "2022-05-13T02:05:08.000Z",
+          "wordCount": 758,
+          "title": "Broadway theater installs IR camera system to catch audience members trying to record nude scenes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://internewscast.com/celeb-zone/yelawolf-net-worth-celebrity-net-worth/",
+          "author": "Internewscast",
+          "description": "Yelawolf Net Worth | Celebrity Net Worth\nWhat is Yelawolf’s Net Worth? Yelawolf is an American rapper who has…\nYelawolf Net Worth | Celebrity Net Worth",
+          "link": "https://internewscast.com/celeb-zone/yelawolf-net-worth-celebrity-net-worth/",
+          "publishedOn": "2022-05-13T02:04:07.000Z",
+          "wordCount": 1331,
+          "title": "Yelawolf Net Worth | Celebrity Net Worth",
+          "imageUrl": "https://vz.cnwimg.com/wp-content/uploads/2010/12/Yelawolf.jpg"
+        },
+        {
+          "id": "https://internewscast.com/crime/wisconsin-moms-ex-boyfriend-charged-with-killing-her-and-hiding-her-body-crime-online/",
+          "author": "Internewscast",
+          "description": "Wisconsin Mom’s Ex-Boyfriend Charged With Killing Her and Hiding Her Body – Crime Online\nEmily Rogers’s ex-boyfriend has been charged with her death last month —…\nWisconsin Mom’s Ex-Boyfriend Charged With Killing Her and Hiding Her Body – Crime Online",
+          "link": "https://internewscast.com/crime/wisconsin-moms-ex-boyfriend-charged-with-killing-her-and-hiding-her-body-crime-online/",
+          "publishedOn": "2022-05-13T02:01:07.000Z",
+          "wordCount": 846,
+          "title": "Wisconsin Mom’s Ex-Boyfriend Charged With Killing Her and Hiding Her Body – Crime Online",
+          "imageUrl": null
+        },
+        {
+          "id": "https://internewscast.com/business/afghan-restaurateurs-provide-hope-to-refugees-fleeing-the-taliban/",
+          "author": "Internewscast",
+          "description": "Afghan Restaurateurs Provide Hope to Refugees Fleeing the Taliban\nHamasa Ebadi, 27, and her parents, Hamida, 58, and Atiq, 60, opened…\nAfghan Restaurateurs Provide Hope to Refugees Fleeing the Taliban",
+          "link": "https://internewscast.com/business/afghan-restaurateurs-provide-hope-to-refugees-fleeing-the-taliban/",
+          "publishedOn": "2022-05-13T02:00:06.000Z",
+          "wordCount": 811,
+          "title": "Afghan Restaurateurs Provide Hope to Refugees Fleeing the Taliban",
+          "imageUrl": null
+        },
+        {
+          "id": "https://internewscast.com/news/us/route-53-snagged-for-hours-in-palatine-after-dump-truck-crash-takes-down-live-power-line/",
+          "author": "Internewscast",
+          "description": "Route 53 snagged for hours in Palatine after dump truck crash takes down live power line\n\r PALATINE, Ill. (CBS) — One person was injured, and Route 53…\nRoute 53 snagged for hours in Palatine after dump truck crash takes down live power line",
+          "link": "https://internewscast.com/news/us/route-53-snagged-for-hours-in-palatine-after-dump-truck-crash-takes-down-live-power-line/",
+          "publishedOn": "2022-05-13T01:59:05.000Z",
+          "wordCount": 647,
+          "title": "Route 53 snagged for hours in Palatine after dump truck crash takes down live power line",
+          "imageUrl": null
+        },
+        {
+          "id": "https://internewscast.com/business/should-you-take-a-midlife-mot-course/",
+          "author": "Internewscast",
+          "description": "Should you take a ‘midlife MOT’ course?\nFree online money course: Is it good value? A free ‘midlife MOT’…\nShould you take a ‘midlife MOT’ course?",
+          "link": "https://internewscast.com/business/should-you-take-a-midlife-mot-course/",
+          "publishedOn": "2022-05-13T01:57:06.000Z",
+          "wordCount": 2289,
+          "title": "Should you take a ‘midlife MOT’ course?",
+          "imageUrl": "https://i.dailymail.co.uk/1s/2022/02/10/17/54011979-10499473-image-a-21_1644515640228.jpg"
+        },
+        {
+          "id": "https://internewscast.com/trending/station-19-season-5-episode-17-recap-the-road-you-didnt-take/",
+          "author": "Internewscast",
+          "description": "‘Station 19’ Season 5 Episode 17 Recap, ‘The Road You Didn’t Take’\nABC’s Station 19 Season 5 Episode 17 recap of “The Road You Didn’t Take”…\n‘Station 19’ Season 5 Episode 17 Recap, ‘The Road You Didn’t Take’",
+          "link": "https://internewscast.com/trending/station-19-season-5-episode-17-recap-the-road-you-didnt-take/",
+          "publishedOn": "2022-05-13T01:55:02.000Z",
+          "wordCount": 1701,
+          "title": "‘Station 19’ Season 5 Episode 17 Recap, ‘The Road You Didn’t Take’",
+          "imageUrl": "https://www.cheatsheet.com/wp-content/uploads/2022/05/Station-19-Season-5-Episode-17-recap-1200x800.jpg?x61254"
+        },
+        {
+          "id": "https://internewscast.com/news/republican-heavy-hitters-line-up-to-back-lou-barletta-in-pennsylvania/",
+          "author": "Internewscast",
+          "description": "Republican Heavy Hitters Line Up to Back Lou Barletta in Pennsylvania\nA number of Republican heavy hitters are lining up to support former…\nRepublican Heavy Hitters Line Up to Back Lou Barletta in Pennsylvania",
+          "link": "https://internewscast.com/news/republican-heavy-hitters-line-up-to-back-lou-barletta-in-pennsylvania/",
+          "publishedOn": "2022-05-13T01:52:55.000Z",
+          "wordCount": 1029,
+          "title": "Republican Heavy Hitters Line Up to Back Lou Barletta in Pennsylvania",
+          "imageUrl": "https://media.breitbart.com/media/2022/05/GettyImages-1396875477.jpg"
+        },
+        {
+          "id": "https://internewscast.com/entertainment/jason-momoa-was-tired-of-getting-followed-by-paparazzi-in-italy-so-he-got-the-hells-angels-to-hang-with-him/",
+          "author": "Internewscast",
+          "description": "Jason Momoa Was Tired Of Getting Followed By Paparazzi In Italy… So He Got The Hells Angels To Hang With Him\nBeing famous has its benefits, but there are also downsides. For instance,…\nJason Momoa Was Tired Of Getting Followed By Paparazzi In Italy… So He Got The Hells Angels To Hang With Him",
+          "link": "https://internewscast.com/entertainment/jason-momoa-was-tired-of-getting-followed-by-paparazzi-in-italy-so-he-got-the-hells-angels-to-hang-with-him/",
+          "publishedOn": "2022-05-13T01:46:04.000Z",
+          "wordCount": 1117,
+          "title": "Jason Momoa Was Tired Of Getting Followed By Paparazzi In Italy… So He Got The Hells Angels To Hang With Him",
+          "imageUrl": "https://cdn.mos.cms.futurecdn.net/vEFJaM27KfS9mwZJYXznMC.jpg"
+        },
+        {
           "id": "https://internewscast.com/crime/woke-lawyers-who-torched-nypd-van-during-blm-riots-now-face-just-two-years-jail/",
           "author": "Internewscast",
           "description": "Woke lawyers who torched NYPD van during BLM riots now face just TWO YEARS jail\nA top police union boss has blasted the decision to dramatically-shorten the…\nWoke lawyers who torched NYPD van during BLM riots now face just TWO YEARS jail",
@@ -15538,6 +15678,26 @@
       "siteUrl": "https://www.easternherald.com",
       "articles": [
         {
+          "id": "https://www.easternherald.com/2022/05/13/sany-india-completes-20-successful-years/",
+          "author": "NewsVoir",
+          "description": "Sany India, one of the leading manufacturers and suppliers of Construction Machinery announced completion of 20 years of operations in India. Starting off with just 4 motor graders in 2002, the company has captured majority market share in multiple product verticals like Excavators, Cranes, Piling Rigs, Mining Equipment, Road and Port Machinery. Having invested [...]\nVisit The Eastern Herald for more info.",
+          "link": "https://www.easternherald.com/2022/05/13/sany-india-completes-20-successful-years/",
+          "publishedOn": "2022-05-13T01:56:04.000Z",
+          "wordCount": 1950,
+          "title": "Sany India Completes 20 Successful years",
+          "imageUrl": "https://www.newsvoir.com/images/article/image1/20359_sany%2012.JPG"
+        },
+        {
+          "id": "https://www.easternherald.com/2022/05/13/akshaya-io-worlds-first-phygital-platform-to-develop-vr-ar-assets-for-vummidi-bangaru-jewellers/",
+          "author": "NewsVoir",
+          "description": "Vummidi Bangaru Jewellers, a legendary brand known for its elegance and finesse, has partnered with Akshaya.io, World’s first ‘Phygital’ platform to develop virtual and augmented reality (VR/AR) assets for its designs. Akshaya.io will also be developing a Metaverse store for VBJ to showcase and trade in its exquisite and exclusive pieces of jewellery, and [...]\nVisit The Eastern Herald for more info.",
+          "link": "https://www.easternherald.com/2022/05/13/akshaya-io-worlds-first-phygital-platform-to-develop-vr-ar-assets-for-vummidi-bangaru-jewellers/",
+          "publishedOn": "2022-05-13T01:39:11.000Z",
+          "wordCount": 1980,
+          "title": "Akshaya.io, World’s First “Phygital” Platform to Develop VR/AR Assets for Vummidi Bangaru Jewellers",
+          "imageUrl": "https://www.newsvoir.com/images/article/image1/20363_VBJ.jpg"
+        },
+        {
           "id": "https://www.easternherald.com/2022/05/13/ednovate-ed-tech-startup-raises-fund-for-growth-plans-to-operate-pan-india-and-globally/",
           "author": "NewsVoir",
           "description": "Ednovate, an edtech company whose idea is to innovate education for Commerce students has received an undisclosed Series A funding from Dr. Vinay Jain, Chairman Witty Group of Institutions, Mr. Ajay Sarupria, well renowned angel investor and Mr. Kaushik Mehta to finance its rapid expansion plan for scaling its operations PAN India and globally.\r [...]\nVisit The Eastern Herald for more info.",
@@ -15708,6 +15868,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.easternherald.com/2022/05/12/dbs-banks-grant-programme-to-help-smes-kickstart-sustainability-journey/",
+          "author": "PR Newswire",
+          "description": "Grant up to SGD 10,000 to SME awardees with innovative sustainable solutions in reducing energy consumption, reducing waste, sustainable supply chains  Also continues to deepen support for social enterprises, with its popular flagship Social Enterprise Grant Programme back for its eighth year  SE awardees will receive grants up to SGD 250,000 for ideas on social [...]\nVisit The Eastern Herald for more info.",
+          "link": "https://www.easternherald.com/2022/05/12/dbs-banks-grant-programme-to-help-smes-kickstart-sustainability-journey/",
+          "publishedOn": "2022-05-12T09:08:00.000Z",
+          "wordCount": 2537,
+          "title": "DBS Bank's Grant Programme to help SMEs kickstart sustainability journey",
+          "imageUrl": "https://mma.prnewswire.com/media/1815544/DBS_Logo.jpg"
+        },
+        {
           "id": "https://www.easternherald.com/2022/05/12/fresenius-medical-care-celebrates-diversity-and-unity-of-a-global-nurse-workforce/",
           "author": "Business Wire India",
           "description": "Hong Kong:\r   Fresenius Medical Care, the world’s leading provider of products and services for individuals with renal diseases, today announced its global ‘United in Care’ campaign that celebrates the diversity, unity and positive impact of its nurses and clinical teams across Asia Pacific, Europe, the Middle East and Africa, North [...]\nVisit The Eastern Herald for more info.",
@@ -15839,6 +16009,16 @@
       "siteUrl": "https://insidexpress.com",
       "articles": [
         {
+          "id": "https://insidexpress.com/lifestyle/inside-roloff-family-farms-incredible-16-acre-property-with-historic-homes-biking-trails-as-its-up-for-sale-for-4m/",
+          "author": "The Insidexpress",
+          "description": "A LITTLE part of the Roloff family’s big world is now up for sale. On Thursday, Little People Big World patriarch Matt Roloff announced that part of the family’s famous…\nFrom The Insidexpress, Inside Roloff Family Farm’s incredible 16-acre property with historic homes & biking trails as it’s up for sale for $4M by The Insidexpress.",
+          "link": "https://insidexpress.com/lifestyle/inside-roloff-family-farms-incredible-16-acre-property-with-historic-homes-biking-trails-as-its-up-for-sale-for-4m/",
+          "publishedOn": "2022-05-13T01:17:37.000Z",
+          "wordCount": 1477,
+          "title": "Inside Roloff Family Farm’s incredible 16-acre property with historic homes & biking trails as it’s up for sale for $4M",
+          "imageUrl": "https://www.the-sun.com/wp-content/uploads/sites/6/2022/05/NINTCHDBPICT000591826609.jpg"
+        },
+        {
           "id": "https://insidexpress.com/entertainment/watch-joy-cover-soulja-boys-kiss-me-thru-the-phone-for-like-a-version/",
           "author": "The Insidexpress",
           "description": "Brisbane artist JOY. is the latest musical guest to take on triple j’s Like a Version segment, covering Soulja Boy‘s iconic 2008 hit ‘Kiss Me Thru The Phone’. JOY.’s rendition…\nFrom The Insidexpress, Watch JOY. cover Soulja Boy’s ‘Kiss Me Thru The Phone’ for Like a Version by The Insidexpress.",
@@ -15887,6 +16067,16 @@
           "wordCount": 1485,
           "title": "UN: Ukraine war is `child rights crisis’ with school attacks",
           "imageUrl": "https://insidexpress.com/media/The-Insidexpress-Cover.png"
+        },
+        {
+          "id": "https://insidexpress.com/news/jaw-dropping-video-game-style-footage-shows-ukrainian-tanks-and-troops-blitzing-russian-invaders/",
+          "author": "The Insidexpress",
+          "description": "HARROWING video game-like footage captures the moment a Ukrainian tank wipes out a Russian vehicle as it repels Putin’s advance. The gruesome clip, which could be straight out of a…\nFrom The Insidexpress, Jaw-dropping video game-style footage shows Ukrainian tanks and troops blitzing Russian invaders by The Insidexpress.",
+          "link": "https://insidexpress.com/news/jaw-dropping-video-game-style-footage-shows-ukrainian-tanks-and-troops-blitzing-russian-invaders/",
+          "publishedOn": "2022-05-13T00:11:38.000Z",
+          "wordCount": 1801,
+          "title": "Jaw-dropping video game-style footage shows Ukrainian tanks and troops blitzing Russian invaders",
+          "imageUrl": "https://www.thesun.co.uk/wp-content/uploads/2022/05/NINTCHDBPICT000732396380.jpg"
         },
         {
           "id": "https://insidexpress.com/entertainment/blac-chyna-gets-baptized-post-kardashian-trial-born-again/",
@@ -16524,21 +16714,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/000_327P8U3.jpg"
-        },
-        {
-          "id": "689004",
-          "author": null,
-          "description": "Soon those non-EU nationals requested to have a Schengen visa to travel to European countries will no longer need to go to a consulate to submit the application and get a passport sticker, but will be able to apply online.",
-          "link": "https://www.thelocal.es/20220510/revealed-eu-plans-digital-only-schengen-visa-application-process",
-          "publishedOn": "2022-05-10T13:30:36.000Z",
-          "wordCount": null,
-          "title": "REVEALED: EU plans digital-only Schengen visa application process",
-          "enclosure": {
-            "url": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/000_9NN6Z6.jpg",
-            "length": "160559",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://apiwp.thelocal.com/wp-content/uploads/2022/05/000_9NN6Z6.jpg"
         }
       ]
     },
@@ -16661,6 +16836,46 @@
       "siteUrl": "https://www.headlinesoftoday.com",
       "articles": [
         {
+          "id": "https://www.headlinesoftoday.com/topic/press-releases/cea-industries-inc-reports-q1-2022-results.html",
+          "author": "GlobeNewswire",
+          "description": "Supply-chain impacts net revenue of $1.7 million, a 26% decline over Q1 2021; $11.2 million in Backlog near record high Louisville, Colorado, May 12, 2022 (GLOBE NEWSWIRE) — CEA Industries Inc. (NASDAQ: CEAD, CEADW) today announced operating and financial results for the three months ended March 31, 2022. Financial Highlights Q1 2022 revenue of $1.7 […]",
+          "link": "https://www.headlinesoftoday.com/topic/press-releases/cea-industries-inc-reports-q1-2022-results.html",
+          "publishedOn": "2022-05-13T02:00:20.000Z",
+          "wordCount": 2477,
+          "title": "CEA Industries Inc. Reports Q1 2022 Results",
+          "imageUrl": "https://ml.globenewswire.com/media/YzZlMjE0MDYtMmM3NS00OTJhLThjMTYtZWQyNGZkNWJlMmZkLTUwMDA2NTMxOA==/tiny/CEA-Industries-Inc-.png"
+        },
+        {
+          "id": "https://www.headlinesoftoday.com/topic/press-releases/guideme-solutions-welcomes-new-director-of-commercial-strategy-and-alliances.html",
+          "author": "Business Wire",
+          "description": "DALLAS–(BUSINESS WIRE)–GuideMe Solutions, the world leading Digital Adoption and WalkMe focused consultancy, is proud to announce the addition of John Short to their team as Director of Commercial Strategy and Alliances. John will lead GuideMe Solutions’ efforts to provide value for the company’s team members, partners and clients alike—all while ensuring that GuideMe Solutions remains […]",
+          "link": "https://www.headlinesoftoday.com/topic/press-releases/guideme-solutions-welcomes-new-director-of-commercial-strategy-and-alliances.html",
+          "publishedOn": "2022-05-13T01:32:20.000Z",
+          "wordCount": 902,
+          "title": "GuideMe Solutions Welcomes New Director of Commercial Strategy and Alliances",
+          "imageUrl": "https://i0.wp.com/www.headlinesoftoday.com/wp-content/uploads/2022/05/JohnHeadShot_-_Primary_Headshot-removebg-preview.jpg"
+        },
+        {
+          "id": "https://www.headlinesoftoday.com/topic/press-releases/uv-lamp-market-size-to-grow-by-usd-2-16-billion-43-of-market-growth-to-originate-from-apac-technavio.html",
+          "author": "PR Newswire",
+          "description": "NEW YORK, May 12, 2022 /PRNewswire/ — According to the report “UV Lamp Market by Product, Application, and Geography – Forecast and Analysis 2021-2025“, the market witnessed a YOY growth of 17.60% in 2021 at a CAGR of 19.39% during the forecast period. The low cost of ownership of UV LEDs is driving the UV lamp […]",
+          "link": "https://www.headlinesoftoday.com/topic/press-releases/uv-lamp-market-size-to-grow-by-usd-2-16-billion-43-of-market-growth-to-originate-from-apac-technavio.html",
+          "publishedOn": "2022-05-13T01:30:00.000Z",
+          "wordCount": 1727,
+          "title": "UV Lamp Market Size to Grow by USD 2.16 billion | 43% of Market Growth to Originate from APAC | Technavio",
+          "imageUrl": "https://i0.wp.com/www.headlinesoftoday.com/wp-content/uploads/2022/05/Technavio_UV_Lamp_Market.jpg"
+        },
+        {
+          "id": "https://www.headlinesoftoday.com/topic/press-releases/vending-kiosks-are-anticipated-to-be-the-most-lucrative-with-a-market-share-of-42-by-2032-fact-mr-analysis.html",
+          "author": "EIN Presswire",
+          "description": "The Interactive Kiosk Market size is estimated to be valued at US$ 27.4 Bn in 2022 and reach US$ 45.8 Bn by 2032, at a CAGR of 5.3% UNITED STATES, May 13, 2022 /EINPresswire.com/ — As per a recently published report by Fact.MR, the global interactive kiosks market is anticipated to exceed a valuation of […]",
+          "link": "https://www.headlinesoftoday.com/topic/press-releases/vending-kiosks-are-anticipated-to-be-the-most-lucrative-with-a-market-share-of-42-by-2032-fact-mr-analysis.html",
+          "publishedOn": "2022-05-13T01:29:27.000Z",
+          "wordCount": 1520,
+          "title": "Vending Kiosks Are Anticipated To Be the Most Lucrative With a Market Share Of 42% By 2032: Fact.MR Analysis",
+          "imageUrl": "https://www.einpresswire.com/tracking/article.gif"
+        },
+        {
           "id": "https://www.headlinesoftoday.com/topic/press-releases/wolters-kluwer-hong-kong-announces-collaboration-with-bdo-hong-kong-on-practical-content-solution-through-the-hong-kong-master-tax-guide.html",
           "author": "PR Newswire",
           "description": "HONG KONG, May 13, 2022 /PRNewswire/ — Wolters Kluwer Hong Kong is pleased to announce a collaboration with BDO Hong Kong for local specialized content for our flagship product – the Hong Kong Master Tax Guide. Through the collaboration, Wolters Kluwer Hong Kong and BDO Hong Kong bring together a deep integration of expertise in innovative […]",
@@ -16743,6 +16958,106 @@
       "feedUrl": "https://worldnewsera.com/feed/",
       "siteUrl": "https://worldnewsera.com",
       "articles": [
+        {
+          "id": "https://worldnewsera.com/sports/premier-league-darts-gerwyn-price-beats-gary-anderson-joe-cullen-and-michael-van-gerwen-to-claim-victory-in-sheffield-and-keep-playoff-hopes-alive/",
+          "author": "Ashleigh Durden",
+          "description": "Gerwyn Price went on to win at the Utilita Arena in Sheffield; Price’s victory means that he is still in contention for a top-four finish; Michael van Gerwen secured his spot at Playoff Night in Berlin despite losing to the Iceman in the final By Megan Wellens Last Updated: 12/05/22 11:03pm Please use Chrome browser …\nThe post Premier League Darts: Gerwyn Price beats Gary Anderson, Joe Cullen and Michael van Gerwen to claim victory in Sheffield and keep playoff hopes alive appeared first on WorldNewsEra.",
+          "link": "https://worldnewsera.com/sports/premier-league-darts-gerwyn-price-beats-gary-anderson-joe-cullen-and-michael-van-gerwen-to-claim-victory-in-sheffield-and-keep-playoff-hopes-alive/",
+          "publishedOn": "2022-05-13T02:06:52.000Z",
+          "wordCount": 2385,
+          "title": "Premier League Darts: Gerwyn Price beats Gary Anderson, Joe Cullen and Michael van Gerwen to claim victory in Sheffield and keep playoff hopes alive",
+          "imageUrl": "https://e1.365dm.com/22/02/1600x900/skysports-gerwyn-price-premier-league-darts_5677245.jpg"
+        },
+        {
+          "id": "https://worldnewsera.com/sports/nhl-news/revisiting-golden-knights-2021-22-preseason-predictions/",
+          "author": "Ashleigh Durden",
+          "description": "Oh, September of 2021 Me. So wide-eyed, full of hope and naive. Revisiting preseason predictions is a dicey exercise fraught with the potential for embarrassment at the best of times, but when the team you cover begins the season as a viable Stanley Cup threat and ends a bloated, battered and cap-handcuffed mess that misses …\nThe post Revisiting Golden Knights’ 2021-22 Preseason Predictions appeared first on WorldNewsEra.",
+          "link": "https://worldnewsera.com/sports/nhl-news/revisiting-golden-knights-2021-22-preseason-predictions/",
+          "publishedOn": "2022-05-13T02:03:52.000Z",
+          "wordCount": 2969,
+          "title": "Revisiting Golden Knights’ 2021-22 Preseason Predictions",
+          "imageUrl": "https://s3951.pcdn.co/wp-content/uploads/2015/09/Vegas-Golden-Knights-CP.jpg"
+        },
+        {
+          "id": "https://worldnewsera.com/sports/wwe/impact-wrestling-results-5-12-2022-ewrestlingnews-com/",
+          "author": "Ashleigh Durden",
+          "description": "Here are the results for the episode of Impact Wrestling airing May 12th, 2022. Check the link for last week’s results: 5/5/2022 Impact Wrestling Results (5/12/2022) #1. [Ultimate X Qualifier] Kenny King vs. Chris Bey — Winner: Kenny King #2. [Knockouts Tag Team Championship] The Influence, Madison Rayne & Tenille Dashwood (c) vs. Gisele Shaw & …\nThe post Impact Wrestling Results (5/12/2022) – eWrestlingNews.com appeared first on WorldNewsEra.",
+          "link": "https://worldnewsera.com/sports/wwe/impact-wrestling-results-5-12-2022-ewrestlingnews-com/",
+          "publishedOn": "2022-05-13T02:02:10.000Z",
+          "wordCount": 1665,
+          "title": "Impact Wrestling Results (5/12/2022) – eWrestlingNews.com",
+          "imageUrl": "https://www.ewrestlingnews.com/wp-content/uploads/2022/05/ELP-and-Jay-White-vs-Ishii-And-Josh-Alexander-1024x576-1.jpg"
+        },
+        {
+          "id": "https://worldnewsera.com/news/youve-heard-of-k-pop-now-its-time-for-k-drill/",
+          "author": "Evelyn Blackwell",
+          "description": "Written by Oscar Holland, CNNGawon Bae, CNN If the lurking bass and syncopated beat of Silkybois’ recent hit “Bomaye” sound familiar to fans of drill music, the pair’s lyrical content might not. Flitting between English and their native Korean, the Seoul-based rappers inject numerous local references into the genre’s typical allusions to street rivalries, cars …\nThe post You’ve heard of K-pop, now it’s time for K-drill appeared first on WorldNewsEra.",
+          "link": "https://worldnewsera.com/news/youve-heard-of-k-pop-now-its-time-for-k-drill/",
+          "publishedOn": "2022-05-13T01:59:19.000Z",
+          "wordCount": 2575,
+          "title": "You’ve heard of K-pop, now it’s time for K-drill",
+          "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/220505204131-01-korean-drill-blase-super-tease.jpg"
+        },
+        {
+          "id": "https://worldnewsera.com/news/uk/jeers-as-attorney-general-claims-single-mums-now-better-off-on-question-time/",
+          "author": "Evelyn Blackwell",
+          "description": "The Government’s chief legal advisor Suella Braverman was heckled by the Question Time crowd when she claimed that a single mum was now better off despite the deepening cost of living crisis Suella Braverman received laughter from the Question Time audience ( Image: BBC) The Attorney General received howls of laughter from the Question Time …\nThe post Jeers as Attorney General claims single mums now ‘better off’ on Question Time appeared first on WorldNewsEra.",
+          "link": "https://worldnewsera.com/news/uk/jeers-as-attorney-general-claims-single-mums-now-better-off-on-question-time/",
+          "publishedOn": "2022-05-13T01:57:48.000Z",
+          "wordCount": 1981,
+          "title": "Jeers as Attorney General claims single mums now ‘better off’ on Question Time",
+          "imageUrl": "https://i2-prod.mirror.co.uk/incoming/article26951872.ece/ALTERNATES/s1200/0_SDC_MDG_-CHP_38277JPG.jpg"
+        },
+        {
+          "id": "https://worldnewsera.com/news/us-news/a-battle-over-how-to-battle-over-roe-protests-at-justices-homes-fuel-rancor/",
+          "author": "Evelyn Blackwell",
+          "description": "WASHINGTON — For the protesters chanting loudly outside Justice Brett M. Kavanaugh’s home, incivility was the point. They said they wanted to impinge on his privacy with picket signs and chants of “We will not go back!” to condemn the Supreme Court justice’s apparent support for ending the constitutional right to privacy that has guaranteed …\nThe post A Battle Over How to Battle Over Roe: Protests at Justices’ Homes Fuel Rancor appeared first on WorldNewsEra.",
+          "link": "https://worldnewsera.com/news/us-news/a-battle-over-how-to-battle-over-roe-protests-at-justices-homes-fuel-rancor/",
+          "publishedOn": "2022-05-13T01:55:52.000Z",
+          "wordCount": 2815,
+          "title": "A Battle Over How to Battle Over Roe: Protests at Justices’ Homes Fuel Rancor",
+          "imageUrl": "https://static01.nyt.com/images/2022/05/12/us/politics/12dc-protests1/12dc-protests1-facebookJumbo.jpg"
+        },
+        {
+          "id": "https://worldnewsera.com/news/entertainment/lyrics-from-young-thugs-songs-are-being-used-as-evidence-in-his-gang-indictment/",
+          "author": "Ashleigh Durden",
+          "description": "According to the 88-page indictment obtained by CNN, lyrics from the rapper’s popular songs — including “Slime Sh*t,” “Original Slime Sh*t,” and “Anybody” — were used as examples of “overt acts,” some of which constitute racketeering. Prosecutors allege that Young Thug, real name Jeffery Williams, founded the gang Young Slime Life in late 2012 and …\nThe post Lyrics from Young Thug’s songs are being used as evidence in his gang indictment appeared first on WorldNewsEra.",
+          "link": "https://worldnewsera.com/news/entertainment/lyrics-from-young-thugs-songs-are-being-used-as-evidence-in-his-gang-indictment/",
+          "publishedOn": "2022-05-13T01:54:49.000Z",
+          "wordCount": 1802,
+          "title": "Lyrics from Young Thug’s songs are being used as evidence in his gang indictment",
+          "imageUrl": "https://cdn.cnn.com/cnnnext/dam/assets/220511155115-young-thug-file-101221-super-tease.jpg"
+        },
+        {
+          "id": "https://worldnewsera.com/news/entertainment/celebrity-news/kristen-doute-congratulates-ethereal-stassi-schroeder-after-2nd-wedding/",
+          "author": "Ashleigh Durden",
+          "description": "Kristen Doute and Stassi Schroeder. Mediapunch/Shutterstock Spreading the love! Kristen Doute gushed over friend Stassi Schroeder after she and Beau Clark tied the knot for a second time in Rome. “Look at this ethereal beauty!” Doute, 39, wrote via her Instagram Story on Thursday, May 12, sharing a snap of the bride, 33, and groom, …\nThe post Kristen Doute Congratulates ‘Ethereal’ Stassi Schroeder After 2nd Wedding appeared first on WorldNewsEra.",
+          "link": "https://worldnewsera.com/news/entertainment/celebrity-news/kristen-doute-congratulates-ethereal-stassi-schroeder-after-2nd-wedding/",
+          "publishedOn": "2022-05-13T01:52:50.000Z",
+          "wordCount": 1827,
+          "title": "Kristen Doute Congratulates ‘Ethereal’ Stassi Schroeder After 2nd Wedding",
+          "imageUrl": "https://i0.wp.com/www.usmagazine.com/wp-content/uploads/2022/05/Love-You-Kristen-Doute-Congratulates-Stassi-Schroeder-After-2nd-Wedding-001.jpg"
+        },
+        {
+          "id": "https://worldnewsera.com/news/entertainment/tv-news/pbs-newshour-sets-succession-plan-for-judy-woodruff/",
+          "author": "Ashleigh Durden",
+          "description": "“PBS NewsHour” typically dissects the news with a depth its counterparts at ABC, NBC and CBS do not. For tonight, at least, the venerable show is generating headlines of its own. Judy Woodruff, the veteran news anchor who logged time at NBC News and CNN before taking up anchor duties at PBS’ venerable “NewsHour,” is …\nThe post ‘PBS NewsHour’ Sets Succession Plan for Judy Woodruff appeared first on WorldNewsEra.",
+          "link": "https://worldnewsera.com/news/entertainment/tv-news/pbs-newshour-sets-succession-plan-for-judy-woodruff/",
+          "publishedOn": "2022-05-13T01:52:01.000Z",
+          "wordCount": 1919,
+          "title": "‘PBS NewsHour’ Sets Succession Plan for Judy Woodruff",
+          "imageUrl": "https://variety.com/wp-content/uploads/2022/05/judy-woodruff.jpg"
+        },
+        {
+          "id": "https://worldnewsera.com/news/entertainment/music-news/billboard-explains-how-to-dominate-at-the-billboard-music-awards/",
+          "author": "Ashleigh Durden",
+          "description": "We’re just days away from Sunday’s (May 15) Billboard Music Awards, where music’s biggest stars get to celebrate their success on the Billboard charts. Who are some of the biggest artists of all time at the awards show, and who might dominate this year? Explore Explore See latest videos, charts and news See latest videos, …\nThe post Billboard Explains: How to Dominate at the Billboard Music Awards appeared first on WorldNewsEra.",
+          "link": "https://worldnewsera.com/news/entertainment/music-news/billboard-explains-how-to-dominate-at-the-billboard-music-awards/",
+          "publishedOn": "2022-05-13T01:50:52.000Z",
+          "wordCount": 1689,
+          "title": "Billboard Explains: How to Dominate at the Billboard Music Awards",
+          "imageUrl": "https://www.billboard.com/wp-content/uploads/2021/09/Sean-Diddy-Combs-2021-billboard-1548-1631034975.jpg"
+        },
         {
           "id": "https://worldnewsera.com/sports/nba-news/nets-sean-marks-steve-nash-talk-kyrie-irving-ben-simmons-were-going-to-need-availability-from-everybody/",
           "author": "Ashleigh Durden",
@@ -16926,6 +17241,26 @@
       "feedUrl": "https://www.theunionjournal.com/feed/",
       "siteUrl": "https://www.theunionjournal.com",
       "articles": [
+        {
+          "id": "https://www.theunionjournal.com/?p=554243",
+          "author": "Md Shahnawaz",
+          "description": "Sean Marks has stated that Ben Simmons had a follow-up MRI after the back soreness returned before Game 4 and it revealed the herniation had expanded. At that point, the only option was surgery. What Is All The Buzz Around Ben Simmons? How do the Nets help Simmons get on the court not just physically […]",
+          "link": "https://www.theunionjournal.com/major-back-issues-for-ben-simmons/",
+          "publishedOn": "2022-05-13T01:57:39.000Z",
+          "wordCount": 567,
+          "title": "Major Back Issues For Ben Simmons Before Game 4",
+          "imageUrl": "https://www.theunionjournal.com/wp-content/uploads/2021/09/Screenshot_6-2.png"
+        },
+        {
+          "id": "https://www.theunionjournal.com/?p=554245",
+          "author": "Md Shahnawaz",
+          "description": "When Joel Embiid subs out of a game, the question of when he’ll return is almost always front of mind. How many minutes of rest can Sixers head coach Doc Rivers buy? Can the team hold up without its superstar? None of that was on the radar in the fourth quarter Tuesday night at FTX […]",
+          "link": "https://www.theunionjournal.com/joel-embiid-in-a-lose-lose-situation/",
+          "publishedOn": "2022-05-13T01:55:52.000Z",
+          "wordCount": 578,
+          "title": "Joel Embiid In A ‘Lose-Lose Situation’ After Game 5 Loss To Heat",
+          "imageUrl": "https://www.theunionjournal.com/wp-content/uploads/2021/03/BEAUTY-Embiid.jpg"
+        },
         {
           "id": "https://www.theunionjournal.com/?p=554241",
           "author": "Union Journal Staff",
@@ -17438,6 +17773,26 @@
       "siteUrl": "https://warritatafo.com",
       "articles": [
         {
+          "id": "https://warritatafo.com/platinum-jubilee-lemon-and-amaretti-trifle-to-be-official-pudding/",
+          "author": "warritatafo",
+          "description": "Jemma’s trifle was crafted with layers of lemon curd Swiss roll, St Clement’s jelly, lemon custard, a mandarin coulis made with tinned mandarins and amaretti biscuits, whipped fresh cream and…\nThe post Platinum Jubilee: Lemon and amaretti trifle to be official pudding appeared first on Warritatafo | News & Entertainment Guru.",
+          "link": "https://warritatafo.com/platinum-jubilee-lemon-and-amaretti-trifle-to-be-official-pudding/",
+          "publishedOn": "2022-05-13T01:46:57.000Z",
+          "wordCount": 545,
+          "title": "Platinum Jubilee: Lemon and amaretti trifle to be official pudding",
+          "imageUrl": null
+        },
+        {
+          "id": "https://warritatafo.com/let-nigerians-have-heart-attack-im-having-fun-emefiele-says-after-secret-meeting-with-buhari/",
+          "author": "warritatafo",
+          "description": "The Governor of Central Bank of Nigeria (CBN) Godwin Emefiele was on Thursday, spotted at the Presidential Villa Abuja, where he met with President Muhammadu Buhari. Although the meeting held…\nThe post ‘Let Nigerians have heart attack, I’m having fun’ – Emefiele says after secret meeting with Buhari appeared first on Warritatafo | News & Entertainment Guru.",
+          "link": "https://warritatafo.com/let-nigerians-have-heart-attack-im-having-fun-emefiele-says-after-secret-meeting-with-buhari/",
+          "publishedOn": "2022-05-13T01:44:55.000Z",
+          "wordCount": 851,
+          "title": "‘Let Nigerians have heart attack, I’m having fun’ – Emefiele says after secret meeting with Buhari",
+          "imageUrl": null
+        },
+        {
           "id": "https://warritatafo.com/eurovision-2022-the-anthem-for-ukraine-born-in-a-war-zone/",
           "author": "warritatafo",
           "description": "This weekend, Europe’s glitziest celebration of pop music, the Eurovision Song Contest, will celebrate its 66th year in Turin, Italy. But with Ukraine odds-on favourite to win, and both Belarus…\nThe post Eurovision 2022: The anthem for Ukraine born in a war zone appeared first on Warritatafo | News & Entertainment Guru.",
@@ -17571,6 +17926,16 @@
       "feedUrl": "https://worldweeklynews.com/feed/",
       "siteUrl": "https://worldweeklynews.com",
       "articles": [
+        {
+          "id": "https://worldweeklynews.com/?p=36360",
+          "author": "Derrick Santistevan",
+          "description": "KARACHI: The rupee fell to record short for third in a row session on Thursday spurred higher import payments and fuzzy economic policy on building foreign exchange reserves. On the interbank market, the local currency ended at 191.77 k dollar, down 0.91 percent or 1.75 rupees from 190.02 on Wednesday. rupee extended losses in Open […]",
+          "link": "https://worldweeklynews.com/the-rupee-drops-around-1-percent-to-hit-new-lows/",
+          "publishedOn": "2022-05-13T01:35:56.000Z",
+          "wordCount": 1603,
+          "title": "The rupee drops around 1 percent to hit new    lows",
+          "imageUrl": "https://worldweeklynews.com/wp-content/uploads/2020/03/World-Weekly-News-Thumbnail-500.jpg"
+        },
         {
           "id": "https://worldweeklynews.com/whats-new-on-paramount-in-may-2022/",
           "author": "Editorial Team",
@@ -17767,16 +18132,6 @@
           "wordCount": 1293,
           "title": "Tools To Help You Become Financially Independent",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.thenexthint.com/?p=15623",
-          "author": "Ombir Sharma",
-          "description": "‘Netflix Is a Joke’ – the festival triggered several headlines. Yet, it informed us about the release date of The Upshaws (Season 2, Part 1). The series has accumulated a huge fan base and got plenty of favorable reviews for Season 1. When it comes to ABC’s Emmy award-winning comedies, most people conjure images of […]\nThe post The Upshaws Season 2, Part 1- All We Need To Know About It appeared first on The Next Hint.",
-          "link": "https://www.thenexthint.com/the-upshaws-season-2-part-1-all-we-need-to-know-about-it/15623/",
-          "publishedOn": "2022-05-10T13:38:09.000Z",
-          "wordCount": 1268,
-          "title": "The Upshaws Season 2, Part 1- All We Need To Know About It",
-          "imageUrl": "https://www.thenexthint.com/wp-content/uploads/2022/05/Everything-You-Must-Know-About-The-Upshaws-Season-2-Part-1.jpg"
         }
       ]
     },
@@ -17785,6 +18140,26 @@
       "feedUrl": "http://feeds.feedburner.com/WarNewsUpdates",
       "siteUrl": "http://warnewsupdates.blogspot.com/",
       "articles": [
+        {
+          "id": "http://warnewsupdates.blogspot.com/2022/05/protests-break-out-across-iran-over.html",
+          "author": null,
+          "description": "FOX News: Iran protests break out across the country amid skyrocketing food prices \nFood prices across the Middle East have surged \nProtests broke out in Iran Thursday after the government cut subsidies for food, sending prices through the roof as authorities brace for more unrest in the following weeks. \nIn videos shared on social media, protesters can be seen marching through Dezful and Mahshahr in the southwestern province of Khezestan, chanting \"Death to Khamenei! Death to Raisi!\" referring to Iranian President Ebrahim Raisi has promised to create jobs, lift sanctions, and rescue the economy.   \nRead more ....   \nWNU Editor: These protests are over the price of bread and on these four basic food items that have had their subsidies cut .... Iran approves major price hikes for four basic food items (Press TV). \n Protests Break Out Across Iran Over Skyrocketing Food Prices \nIran raises prices of food staples, stirring panic and anger -- AP \nIranian press review: Anxiety over price of flour soars -- Middle East Eye \nProtests in Iran Spread To Several Cities Thursday Evening -- Iran International  \nDespite Repressive Measures, Internet Shutdown, Protests Break Out in Khuzestan Due To Astronomical Rise in Prices, Especially of Bread -- National Council Of Resistance Of Iran   \nIran blocks internet access as cost of living protests surge -- Developing Telecoms  \nAs Bread Costs Skyrocket In Iran, So Does The Risk Of Social Unrest -- RFE  \nThe Farda Briefing: First Signs Of Civil Unrest As Bread Prices Soar In Iran -- RFE",
+          "link": "http://warnewsupdates.blogspot.com/2022/05/protests-break-out-across-iran-over.html",
+          "publishedOn": "2022-05-13T01:57:00.008Z",
+          "wordCount": 1445,
+          "title": "Protests Break Out Across Iran Over Skyrocketing Food Prices",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4Ez3NceeCu-XSzRcGwEQc2VIQG9ueErq-kJFO7O7BFfzvcgYOfXooXssrobd7ig8-LXLdhp_6xRinyreDUP9SsIl82KbSX2ovD2LBdrN3dX9H_3GZg=w1200-h630-n-k-no-nu"
+        },
+        {
+          "id": "http://warnewsupdates.blogspot.com/2022/05/is-us-facing-100-million-covid-cases.html",
+          "author": null,
+          "description": "CNN: New White House Covid projection puzzles experts and catches some Biden officials off guard \n(CNN)It was a stern and startling warning from the White House's new Covid response coordinator: In the fall and winter, the US could potentially see 100 million new Covid-19 infections if Congress doesn't approve federal funding to fight the pandemic. \nThat warning from Dr. Ashish Jha, who said the projection was based on a range of internal and external models, jolted some public health experts and even came a surprise to some top Biden administration officials, with sources telling CNN that the grim forecast -- and details of where exactly that 100 million number had been derived from -- was not discussed with some key officials intimately involved in the administration's work to fight Covid before Jha's TV interview over the weekend.   \nRead more ....   \nUpdate: Are 100 million new COVID-19 cases coming? (Deseret News)   \nWNU Editor: There seems to be some doubts on the projected 100 million Covid cases later this year. But there are no doubts on this number .... U.S. surpasses 1 million COVID-19 deaths: A look at the numbers (CBC).",
+          "link": "http://warnewsupdates.blogspot.com/2022/05/is-us-facing-100-million-covid-cases.html",
+          "publishedOn": "2022-05-13T01:41:00.004Z",
+          "wordCount": 1389,
+          "title": "Is The U.S. Facing 100 Million Covid Cases This Fall?",
+          "imageUrl": "https://lh3.googleusercontent.com/blogger_img_proxy/ABLy4EyVnnzCSwjemlcHatiHIg4ciCzzQJd_kxxGRoOCMTQ5s1rdTqMyA7UubFXMeoldxkAkvnAFnr4BInA8k2lhmslIPY3wT3K6S3rtKyvlgEjE5e-8eg=w1200-h630-n-k-no-nu"
+        },
         {
           "id": "http://warnewsupdates.blogspot.com/2022/05/first-covid-19-outbreak-is-confirmed-in.html",
           "author": null,
@@ -18043,6 +18418,106 @@
       "siteUrl": "https://newslanes.com",
       "articles": [
         {
+          "id": "https://newslanes.com/2022/05/12/swak-in-talks-with-norway-to-form-sovereign-fund-abang-johari/",
+          "author": "Google News",
+          "description": "Sarawak will engage seriously with Norway in an earnest effort towards the successful formation and management of its own sovereign wealth fund, Sarawak Premier Abang Johari Tun Openg said. Given the widely acclaimed success of Norway’s sovereign wealth fund, which had been managed with the highest standard of governance since its inception in 1996, it […]\n S’wak in talks with Norway to form sovereign fund -Abang Johari",
+          "link": "https://newslanes.com/2022/05/12/swak-in-talks-with-norway-to-form-sovereign-fund-abang-johari/",
+          "publishedOn": "2022-05-13T02:07:38.000Z",
+          "wordCount": 253,
+          "title": "S’wak in talks with Norway to form sovereign fund -Abang Johari",
+          "imageUrl": "https://newslanes.com/wp-content/uploads/2022/05/Swak-in-talks-with-Norway-to-form-sovereign-fund-Abang.jpeg"
+        },
+        {
+          "id": "https://newslanes.com/2022/05/12/7-movies-like-365-days/",
+          "author": "Google News",
+          "description": "Have you finished 365 Days and its recently released sequel 365 Days: This Day, and are now looking for more content like it? We’ve got you covered. For those unaware or who need a refresher, 365 Days is a Polish erotic thriller film that hit Netflix in 2020 and immediately made a big splash with critics (who weren’t super into […]\n 7 Movies Like ‘365 Days’",
+          "link": "https://newslanes.com/2022/05/12/7-movies-like-365-days/",
+          "publishedOn": "2022-05-13T02:04:36.000Z",
+          "wordCount": 1082,
+          "title": "7 Movies Like ‘365 Days’",
+          "imageUrl": "https://newslanes.com/wp-content/uploads/2022/05/365-DNI.jpg"
+        },
+        {
+          "id": "https://newslanes.com/2022/05/12/could-have-cost-us-our-jobs-eamonn-holmes-reflects-on-deadly-serious-feud-with-co-star/",
+          "author": "Chloe Govan",
+          "description": "Fiery presenter Eamonn Holmes recalled a feud with Anthea Turner which saw him splashed across the headlines and fearing that both might lose their careers. The former This Morning star revealed all in a recent interview. “I was on the front pages of the papers because of a falling-out I had with Anthea Turner – […]\n ‘Could have cost us our jobs’ Eamonn Holmes reflects on ‘deadly serious’ feud with co-star",
+          "link": "https://newslanes.com/2022/05/12/could-have-cost-us-our-jobs-eamonn-holmes-reflects-on-deadly-serious-feud-with-co-star/",
+          "publishedOn": "2022-05-13T01:58:39.000Z",
+          "wordCount": 583,
+          "title": "‘Could have cost us our jobs’ Eamonn Holmes reflects on ‘deadly serious’ feud with co-star",
+          "imageUrl": "https://newslanes.com/wp-content/uploads/2022/05/Could-have-cost-us-our-jobs-Eamonn-Holmes-reflects-on.jpg"
+        },
+        {
+          "id": "https://newslanes.com/2022/05/12/queens-granddaughter-lady-louise-to-have-special-role-in-platinum-jubilee/",
+          "author": "web.help@express.co.uk (Escher Walcott)",
+          "description": "Lady Louise Windsor will honour her grandmother the Queen for her Platinum Jubilee in the upcoming days it’s been reported. The 18 year old is said to be appearing at the Windsor Horse Show’s Platinum Jubilee celebrations where she will pay tribute to her grandmother and late grandfather, Prince Philip, ahead of nationwide Jubilee celebrations […]\n Queen’s granddaughter Lady Louise to have special role in Platinum Jubilee",
+          "link": "https://newslanes.com/2022/05/12/queens-granddaughter-lady-louise-to-have-special-role-in-platinum-jubilee/",
+          "publishedOn": "2022-05-13T01:57:38.000Z",
+          "wordCount": 661,
+          "title": "Queen’s granddaughter Lady Louise to have special role in Platinum Jubilee",
+          "imageUrl": "https://newslanes.com/wp-content/uploads/2022/05/Queens-granddaughter-Lady-Louise-to-have-special-role-in-Platinum.jpg"
+        },
+        {
+          "id": "https://newslanes.com/2022/05/12/denis-shapovalov-shares-rafael-nadal-french-open-injury-wish-after-beating-spaniard/",
+          "author": "Yasmin Syed",
+          "description": "Shapovalov completed a three-set comeback in two hours and 37 minutes to get his second win over Nadal. The Canadian raised his level following a one-sided first set but the defending champion was struggling in the final set as he could be seen limping and wincing, and the world No 16 admitted he was hoping […]\n Denis Shapovalov shares Rafael Nadal French Open injury wish after beating Spaniard",
+          "link": "https://newslanes.com/2022/05/12/denis-shapovalov-shares-rafael-nadal-french-open-injury-wish-after-beating-spaniard/",
+          "publishedOn": "2022-05-13T01:56:38.000Z",
+          "wordCount": 401,
+          "title": "Denis Shapovalov shares Rafael Nadal French Open injury wish after beating Spaniard",
+          "imageUrl": "https://newslanes.com/wp-content/uploads/2022/05/Denis-Shapovalov-shares-Rafael-Nadal-French-Open-injury-wish-after.jpg"
+        },
+        {
+          "id": "https://newslanes.com/2022/05/12/karim-benzema-becomes-real-madrids-joint-second-highest-scorer-as-la-liga-champions-thrash-levante/",
+          "author": "Newslanes Media",
+          "description": "Vinicius Junior scored a hat-trick and Karim Benzema equalled Raul’s goal-scoring record as La Liga champions Real Madrid thrashed bottom side Levante 6-0. Vinicius did not get involved in the scoring until it was already 3-0 – Ferland Mendy had fired Madrid in front after 13 minutes having been played in by Luka Modric, and […]\n Karim Benzema becomes Real Madrid’s joint-second highest scorer as La Liga champions thrash Levante",
+          "link": "https://newslanes.com/2022/05/12/karim-benzema-becomes-real-madrids-joint-second-highest-scorer-as-la-liga-champions-thrash-levante/",
+          "publishedOn": "2022-05-13T01:55:35.000Z",
+          "wordCount": 539,
+          "title": "Karim Benzema becomes Real Madrid’s joint-second highest scorer as La Liga champions thrash Levante",
+          "imageUrl": "https://newslanes.com/wp-content/uploads/2022/05/Karim-Benzema-becomes-Real-Madrids-joint-second-highest-scorer-as-La.jpg"
+        },
+        {
+          "id": "https://newslanes.com/2022/05/12/salesforce-tells-employees-worried-about-abortion-access-that-it-will-help-them-relocate/",
+          "author": "CNBC",
+          "description": "CEO of Salesforce Marc Benioff attends a meeting with U.S. President Joe Biden and private sector CEOs in the State Dining Room of the White House on January 26, 2022 in Washington, DC. Drew Angerer | Getty Images Salesforce told employees in a Slack message on Thursday that the company will help them relocate if […]\n Salesforce tells employees worried about abortion access that it will help them relocate",
+          "link": "https://newslanes.com/2022/05/12/salesforce-tells-employees-worried-about-abortion-access-that-it-will-help-them-relocate/",
+          "publishedOn": "2022-05-13T01:54:33.000Z",
+          "wordCount": 811,
+          "title": "Salesforce tells employees worried about abortion access that it will help them relocate",
+          "imageUrl": "https://newslanes.com/wp-content/uploads/2022/05/Salesforce-tells-employees-worried-about-abortion-access-that-it-will.jpeg"
+        },
+        {
+          "id": "https://newslanes.com/2022/05/12/hay-fever-vs-a-cold-how-to-tell-the-difference-using-these-four-key-signs/",
+          "author": "Phoebe Cornish",
+          "description": "Your reaction to common triggers Hay fever is a common allergic reaction to pollen, which means it is often more noticeable while spending time outdoors, near trees, grass and plants. Allergies can also occur in the home as a result of airborne pollen, or particles stuck onto bedding, clothing and household surfaces. According to the […]\n Hay fever vs a cold: How to tell the difference using these four key signs",
+          "link": "https://newslanes.com/2022/05/12/hay-fever-vs-a-cold-how-to-tell-the-difference-using-these-four-key-signs/",
+          "publishedOn": "2022-05-13T01:52:35.000Z",
+          "wordCount": 303,
+          "title": "Hay fever vs a cold: How to tell the difference using these four key signs",
+          "imageUrl": "https://newslanes.com/wp-content/uploads/2022/05/Hay-fever-vs-a-cold-How-to-tell-the-difference.jpg"
+        },
+        {
+          "id": "https://newslanes.com/2022/05/12/iron-banner-rift-returns-in-destiny-2s-season-17/",
+          "author": "Newslanes Media",
+          "description": "Previously, Bungie went over Iron Banner changes like rank reputation and the removal of tokens and bounties. The most recent This Week At Bungie post has gone into more detail about Iron Banner’s overhaul in Destiny 2’s Season 17. One of the biggest changes is the return of Crucible’s team-oriented 6v6 mode from Destiny 1 […]\n Iron Banner Rift Returns In Destiny 2’s Season 17",
+          "link": "https://newslanes.com/2022/05/12/iron-banner-rift-returns-in-destiny-2s-season-17/",
+          "publishedOn": "2022-05-13T01:51:32.000Z",
+          "wordCount": 920,
+          "title": "Iron Banner Rift Returns In Destiny 2’s Season 17",
+          "imageUrl": "https://newslanes.com/wp-content/uploads/2022/05/Iron-Banner-Rift-Returns-In-Destiny-2s-Season-17.jpg"
+        },
+        {
+          "id": "https://newslanes.com/2022/05/12/call-of-duty-game-hits-milestone-of-100000-veterans-placed-in-meaningful-jobs-and-blizzard-gives-30-mil-more/",
+          "author": "Google News",
+          "description": "Call of Duty Endowment website In 2003, video gamers began learning about World War II battles from the realistic launch of Call of Duty. Released to universal acclaim, the ongoing series holds the Guinness World Record as the best-selling games of their kind. But the charity work done by the game’s publisher Activision Blizzard is […]\n Call of Duty Game Hits Milestone of 100,000 Veterans Placed in Meaningful Jobs–And Blizzard Gives $30 Mil More",
+          "link": "https://newslanes.com/2022/05/12/call-of-duty-game-hits-milestone-of-100000-veterans-placed-in-meaningful-jobs-and-blizzard-gives-30-mil-more/",
+          "publishedOn": "2022-05-13T01:46:44.000Z",
+          "wordCount": 749,
+          "title": "Call of Duty Game Hits Milestone of 100,000 Veterans Placed in Meaningful Jobs–And Blizzard Gives $30 Mil More",
+          "imageUrl": "https://newslanes.com/wp-content/uploads/2022/05/Call-of-Duty-Game-Hits-Milestone-of-100000-Veterans-Placed.jpg"
+        },
+        {
           "id": "https://newslanes.com/2022/05/12/martin-roberts-details-demand-for-homes-under-the-hammer-return-after-health-scare/",
           "author": "Emmanuella Ngimbi",
           "description": "Martin explained: “The confusing thing about this, it’s a bit of a red herring, is that it gets you in the breathing side of things, so you don’t think it’s something to do with your heart. “There’s a sack around your heart and it was filling with fluid, it’s called pericardial effusion and that in […]\n Martin Roberts details demand for Homes Under the Hammer return after health scare",
@@ -18238,16 +18713,6 @@
           "wordCount": 1040,
           "title": "Angry Mob Set Robber On Fire In Delta",
           "imageUrl": "https://i0.wp.com/hgsmediaplus.com/wp-content/uploads/2022/05/2022-05-10-15.27.40.png"
-        },
-        {
-          "id": "https://hgsmediaplus.com/?p=3622",
-          "author": "Gift Godson | HGS Media Plus",
-          "description": "During their lavish engagement party, Sarah and Kola’s relationship hangs in a balance. Later, Sarah and Kemi get caught in a precarious situation. Blood Sisters Episodes: 1-4 Air Date: May 5, 2022 Language: English Source: Blood Sisters.1080p.NF.WEBRip DOWNLOAD: Blood Sisters  (Season 1) Episode 1 Episode 2 Episode 3 Episode 4\nThe post DOWNLOAD: Blood Sisters (Season 1) appeared first on HGS Media Plus.",
-          "link": "https://hgsmediaplus.com/2022/05/10/download-blood-sisters-season-1/",
-          "publishedOn": "2022-05-10T13:34:57.000Z",
-          "wordCount": 944,
-          "title": "DOWNLOAD: Blood Sisters (Season 1)",
-          "imageUrl": "https://i0.wp.com/hgsmediaplus.com/wp-content/uploads/2022/05/IMG_20220510_115520_098.jpg"
         }
       ]
     }
